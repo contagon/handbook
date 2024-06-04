@@ -11,14 +11,7 @@ TITLE_NUM_REGEX = "(\d{1,2}(\.?\d{0,2}){0,3})"
 
 
 class HandbookConverter(MarkdownConverter):
-    def convert_td(self, el, text, convert_as_inline):
-        colspan = 1
-        if "colspan" in el.attrs:
-            colspan = int(el["colspan"])
-
-        # HACK For some reason, LDS.org repeats the header in each row of a table... remove it
-        return " " + text.strip().split("\n\n")[-1] + " |" * colspan
-        return " " + text.strip().replace("\n", " ") + " |" * colspan
+    pass
 
 
 class HandbookDownloader:
@@ -75,6 +68,11 @@ class HandbookDownloader:
         return final
 
     def convert(self, soup):
+        # Remove header in body of tables
+        for row in soup.find_all("tbody"):
+            for extra in row.find_all("p", {"class": "label"}):
+                extra.decompose()
+
         text = self.converter.convert_soup(soup).strip()
         text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
 

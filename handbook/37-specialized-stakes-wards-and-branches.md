@@ -19,8 +19,8 @@ Minimum Requirements to Create a Language Ward or Branch in a Stake
 
 |  | Ward | Branch |
 | --- | --- | --- |
-| Number of members (active and less active) | Ward  125 | Branch  No minimum |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | Ward  15 | Branch  4 |
+| Number of members (active and less active) | 125 | No minimum |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 | 4 |
 
 Boundaries for language units generally follow the boundaries of geographic wards, branches, and stakes.
 
@@ -58,8 +58,8 @@ Minimum Requirements to Create a Young Single Adult Unit in a Stake
 
 |  | Ward | Branch |
 | --- | --- | --- |
-| Number of *active* members | Ward  125 | Branch  50 |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | Ward  15 | Branch  4 |
+| Number of *active* members | 125 | 50 |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 | 4 |
 
 A young single adult ward usually should not have more than 225 *active* members.
 

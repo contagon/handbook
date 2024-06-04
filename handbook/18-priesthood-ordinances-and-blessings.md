@@ -60,26 +60,26 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of
 
 | Ordinance | Who Holds Keys |
 | --- | --- |
-| Ordinance  Baptism | Who Holds Keys  Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities) Mission president (for converts) |
-| Ordinance  Confirmation and gift of the Holy Ghost | Who Holds Keys  Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities) Mission president (for converts) |
-| Ordinance  Conferral of the Melchizedek Priesthood and ordination to an office (for men) | Who Holds Keys  Stake president |
-| Ordinance  Temple endowment | Who Holds Keys  Bishop and stake president |
-| Ordinance  Temple sealing | Who Holds Keys  Bishop and stake president |
+| Baptism | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities) Mission president (for converts) |
+| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities) Mission president (for converts) |
+| Conferral of the Melchizedek Priesthood and ordination to an office (for men) | Stake president |
+| Temple endowment | Bishop and stake president |
+| Temple sealing | Bishop and stake president |
 
 Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances and Blessings?
 
 | Ordinance or Blessing | Who Holds Keys |
 | --- | --- |
-| Ordinance or Blessing  Naming and blessing children | Who Holds Keys  Bishop |
-| Ordinance or Blessing  The sacrament | Who Holds Keys  Bishop |
-| Ordinance or Blessing  Conferral of the Aaronic Priesthood and ordination to an office (for young men and men) | Who Holds Keys  Bishop |
-| Ordinance or Blessing  Setting apart members to serve in callings | Who Holds Keys  See [30.8](30-callings-in-the-church.md#308-chart-of-callings) |
-| Ordinance or Blessing  Consecrating oil | Who Holds Keys  Approval not needed |
-| Ordinance or Blessing  Administering to the sick | Who Holds Keys  Approval not needed |
-| Ordinance or Blessing  Blessings of comfort and counsel, including father’s blessings | Who Holds Keys  Approval not needed |
-| Ordinance or Blessing  Dedicating homes | Who Holds Keys  Approval not needed |
-| Ordinance or Blessing  Dedicating graves | Who Holds Keys  The priesthood leader who presides over the service |
-| Ordinance or Blessing  Patriarchal blessings | Who Holds Keys  Bishop |
+| Naming and blessing children | Bishop |
+| The sacrament | Bishop |
+| Conferral of the Aaronic Priesthood and ordination to an office (for young men and men) | Bishop |
+| Setting apart members to serve in callings | See [30.8](30-callings-in-the-church.md#308-chart-of-callings) |
+| Consecrating oil | Approval not needed |
+| Administering to the sick | Approval not needed |
+| Blessings of comfort and counsel, including father’s blessings | Approval not needed |
+| Dedicating homes | Approval not needed |
+| Dedicating graves | The priesthood leader who presides over the service |
+| Patriarchal blessings | Bishop |
 
 ## 18.4 Ordinances for Minor Children
 
@@ -665,9 +665,9 @@ For information on the temple endowment and sealing ordinances, see [chapter 27
 
 | Office | Recommended by | Approved by | Sustained by | Interviewed and ordained by |
 | --- | --- | --- | --- | --- |
-| Office  Patriarch | Recommended by  Stake presidency | Approved by  Quorum of the Twelve Apostles | Sustained by  Members in stake conference | Interviewed and ordained by  Stake president after receiving approval from the Quorum of the Twelve Apostles; or a member of the First Presidency or Quorum of the Twelve Apostles |
-| Office  High priest | Recommended by  Bishop and stake presidency | Approved by  Stake presidency and high council | Sustained by  Members in stake conference | Interviewed and ordained by  Interviewed by the bishop and by the stake president or an assigned counselor; ordained under the direction of the stake president |
-| Office  Elder | Recommended by  Bishop | Approved by  Stake presidency and high council | Sustained by  Members in stake conference or district conference | Interviewed and ordained by  Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)) Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
-| Office  Bishop | Recommended by  Stake presidency, using [LCR](http://lcr.churchofjesuschrist.org) | Approved by  First Presidency and Quorum of the Twelve Apostles | Sustained by  Members in sacrament meeting | Interviewed and ordained by  The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
-| Office  Priest | Recommended by  Bishop | Approved by  Bishopric | Sustained by  Members in sacrament meeting | Interviewed and ordained by  Interviewed by the bishop; ordained under the direction of the bishop |
-| Office  Teacher or deacon | Recommended by  Bishop | Approved by  Bishopric | Sustained by  Members in sacrament meeting | Interviewed and ordained by  Interviewed by the bishop or an assigned counselor; ordained under the direction of the bishop |
+| Patriarch | Stake presidency | Quorum of the Twelve Apostles | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve Apostles; or a member of the First Presidency or Quorum of the Twelve Apostles |
+| High priest | Bishop and stake presidency | Stake presidency and high council | Members in stake conference | Interviewed by the bishop and by the stake president or an assigned counselor; ordained under the direction of the stake president |
+| Elder | Bishop | Stake presidency and high council | Members in stake conference or district conference | Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)) Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
+| Bishop | Stake presidency, using [LCR](http://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
+| Priest | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop; ordained under the direction of the bishop |
+| Teacher or deacon | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop or an assigned counselor; ordained under the direction of the bishop |

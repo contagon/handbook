@@ -44,10 +44,10 @@ Minimum Requirements to Create a Ward or Branch in a Stake
 
 |  | Ward | Branch |
 | --- | --- | --- |
-| Number of members (active and less active) | Ward  250 | Branch  20 |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | Ward  20 | Branch  4 |
-| Number of participating adults | Ward  100 | Branch  No minimum |
-| Number of participating youth (recommended, not required) | Ward  20 | Branch  No minimum |
+| Number of members (active and less active) | 250 | 20 |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 20 | 4 |
+| Number of participating adults | 100 | No minimum |
+| Number of participating youth (recommended, not required) | 20 | No minimum |
 
 * For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).”
 

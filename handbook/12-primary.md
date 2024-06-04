@@ -42,15 +42,15 @@ When there are enough children, they are divided into classes based on their age
 
 | Age on December 31 of the Previous Year | Class on January 1 |
 | --- | --- |
-| Age on December 31 of the Previous Year  2 | Class on January 1  Nursery (children join nursery at 18 months) |
-| Age on December 31 of the Previous Year  3 | Class on January 1  Sunbeam |
-| Age on December 31 of the Previous Year  4 | Class on January 1  CTR 4 |
-| Age on December 31 of the Previous Year  5 | Class on January 1  CTR 5 |
-| Age on December 31 of the Previous Year  6 | Class on January 1  CTR 6 |
-| Age on December 31 of the Previous Year  7 | Class on January 1  CTR 7 |
-| Age on December 31 of the Previous Year  8 | Class on January 1  Valiant 8 |
-| Age on December 31 of the Previous Year  9 | Class on January 1  Valiant 9 |
-| Age on December 31 of the Previous Year  10 | Class on January 1  Valiant 10 |
+| 2 | Nursery (children join nursery at 18 months) |
+| 3 | Sunbeam |
+| 4 | CTR 4 |
+| 5 | CTR 5 |
+| 6 | CTR 6 |
+| 7 | CTR 7 |
+| 8 | Valiant 8 |
+| 9 | Valiant 9 |
+| 10 | Valiant 10 |
 
 Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a [certificate of advancement](http://lcr.churchofjesuschrist.org/records/certificates/primary-advancement). These certificates may be generated in Leader and Clerk Resources.
 
@@ -135,10 +135,10 @@ Primary meetings for children ages 3–11 are held every Sunday for 50 minutes 
 
 | Part of Meeting | Length |
 | --- | --- |
-| Part of Meeting  Opening (prayer, scripture or Article of Faith, and talk—all given by children) | Length  5 minutes |
-| Part of Meeting  Singing time | Length  20 minutes |
-| Part of Meeting  Transition to classes | Length  5 minutes |
-| Part of Meeting  Classes and closing prayer | Length  20 minutes |
+| Opening (prayer, scripture or Article of Faith, and talk—all given by children) | 5 minutes |
+| Singing time | 20 minutes |
+| Transition to classes | 5 minutes |
+| Classes and closing prayer | 20 minutes |
 
 ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.
 

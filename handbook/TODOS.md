@@ -1,2 +1,3 @@
 - Fix images
-- 18, 22, 29, 30, 31, 32, 37, 38
+- multiline tables: 22, 31, 32
+- footnotes: 30, 

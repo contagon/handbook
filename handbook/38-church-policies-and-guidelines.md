@@ -536,16 +536,16 @@ Members should counsel with their bishop if they have questions about sealing po
 
 | Need | Section |
 | --- | --- |
-| Need  I was married civilly and want to be sealed to my spouse. | Section  [38.4.1.1](38-church-policies-and-guidelines.md#38411-sealing-of-living-members-after-civil-marriage) |
-| Need  I am divorced from a previous spouse and want to be sealed to my current spouse. | Section  [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce) |
-| Need  My spouse to whom I was sealed died. To whom may I now be sealed? | Section  [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death) |
-| Need  I need to apply for a sealing cancellation or a sealing clearance. | Section  [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance) |
-| Need  I need to have a restriction against temple sealing removed. | Section  [38.4.1.5](38-church-policies-and-guidelines.md#38415-removing-a-restriction-against-temple-sealing) |
-| Need  My spouse and I were married for time only in the temple. Can we be sealed to one another? | Section  [38.4.1.6](38-church-policies-and-guidelines.md#38416-sealing-after-temple-marriage-for-time-only) |
-| Need  To whom may my deceased family members be sealed? | Section  [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons) |
-| Need  How does divorce affect my sealing? | Section  [38.4.1.8](38-church-policies-and-guidelines.md#38418-effects-of-divorce) |
-| Need  What are the effects of canceling a sealing? | Section  [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-sealing-cancellation) |
-| Need  How does resignation or withdrawal of Church membership affect my sealing? | Section  [38.4.1.10](38-church-policies-and-guidelines.md#384110-effects-of-resignation-or-withdrawal-of-church-membership) |
+| I was married civilly and want to be sealed to my spouse. | [38.4.1.1](38-church-policies-and-guidelines.md#38411-sealing-of-living-members-after-civil-marriage) |
+| I am divorced from a previous spouse and want to be sealed to my current spouse. | [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce) |
+| My spouse to whom I was sealed died. To whom may I now be sealed? | [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death) |
+| I need to apply for a sealing cancellation or a sealing clearance. | [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance) |
+| I need to have a restriction against temple sealing removed. | [38.4.1.5](38-church-policies-and-guidelines.md#38415-removing-a-restriction-against-temple-sealing) |
+| My spouse and I were married for time only in the temple. Can we be sealed to one another? | [38.4.1.6](38-church-policies-and-guidelines.md#38416-sealing-after-temple-marriage-for-time-only) |
+| To whom may my deceased family members be sealed? | [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons) |
+| How does divorce affect my sealing? | [38.4.1.8](38-church-policies-and-guidelines.md#38418-effects-of-divorce) |
+| What are the effects of canceling a sealing? | [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-sealing-cancellation) |
+| How does resignation or withdrawal of Church membership affect my sealing? | [38.4.1.10](38-church-policies-and-guidelines.md#384110-effects-of-resignation-or-withdrawal-of-church-membership) |
 
 #### 38.4.1.1 Sealing of Living Members after Civil Marriage
 
