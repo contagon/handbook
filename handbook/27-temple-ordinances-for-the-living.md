@@ -78,7 +78,7 @@ Resources to help answer questions are available at [temples.ChurchofJesusChrist
 
 ## 27.2 The Endowment
 
-The word *endowment* means “a gift.” The temple endowment is literally a gift from God through which He blesses His children. The endowment can be received only in holy temples. Some of the gifts that members receive through the temple endowment include:
+The word _endowment_ means “a gift.” The temple endowment is literally a gift from God through which He blesses His children. The endowment can be received only in holy temples. Some of the gifts that members receive through the temple endowment include:
 
 * Greater knowledge of the Lord’s purposes and teachings.
 * Power to do all that Heavenly Father wants His children to do.
@@ -223,19 +223,19 @@ Members are discouraged from asking General Authorities to perform their temple 
 
 #### 27.3.2.6 Appropriate Clothing for a Temple Marriage or Sealing
 
-*Bride’s Dress.* A bride’s dress worn in the temple should be white, modest in design and fabric, and free of elaborate ornamentation. It also should cover the temple garment. Sheer fabric should be lined.
+_Bride’s Dress._ A bride’s dress worn in the temple should be white, modest in design and fabric, and free of elaborate ornamentation. It also should cover the temple garment. Sheer fabric should be lined.
 
 To be consistent with other dresses worn in the temple, a bride’s dress should have long sleeves or three-quarter sleeves. Dresses should not have a train unless it can be pinned up or removed for the sealing ceremony.
 
 The temple can provide a dress if needed or desired.
 
-*Groom’s Clothing.* The groom wears normal temple clothing during the marriage or sealing ceremony (see [38.5.1](38-church-policies-and-guidelines.md#3851-temple-clothing) and [38.5.2](38-church-policies-and-guidelines.md#3852-obtaining-temple-clothing-and-garments)). He may wear formal clothing outside the temple for photographs after the ceremony.
+_Groom’s Clothing._ The groom wears normal temple clothing during the marriage or sealing ceremony (see [38.5.1](38-church-policies-and-guidelines.md#3851-temple-clothing) and [38.5.2](38-church-policies-and-guidelines.md#3852-obtaining-temple-clothing-and-garments)). He may wear formal clothing outside the temple for photographs after the ceremony.
 
-*Guests’ Clothing.* Those who attend a marriage or sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. Members who come to a sealing directly from an endowment session may wear ceremonial temple clothing.
+_Guests’ Clothing._ Those who attend a marriage or sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. Members who come to a sealing directly from an endowment session may wear ceremonial temple clothing.
 
 The couple should share this information with guests well before the marriage or sealing.
 
-*Flowers.* The couple and their guests should not wear flowers during the marriage or sealing ceremony. Flowers may be worn outside the temple for photographs after the ceremony. The couple should share this information with guests well before the marriage or sealing.
+_Flowers._ The couple and their guests should not wear flowers during the marriage or sealing ceremony. Flowers may be worn outside the temple for photographs after the ceremony. The couple should share this information with guests well before the marriage or sealing.
 
 #### 27.3.2.7 Exchanging Rings after a Temple Marriage or Sealing
 

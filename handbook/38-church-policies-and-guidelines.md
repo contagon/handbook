@@ -251,7 +251,7 @@ Persons who have been convicted of felonies or any crimes involving sexual misco
 
 Full-time missionaries do not teach people who are in prison or jail.
 
-A person who has been convicted of murder or a crime involving sexual misconduct may not be baptized unless the First Presidency gives approval (see [38.2.8.6](38-church-policies-and-guidelines.md#38286-situations-that-require-authorization-from-the-mission-president-or-first-presidency)). The same is true for a person who has confessed to committing murder even if the confession was in private to a priesthood leader. As used here, *murder* does not include abortion or police or military action in the line of duty.
+A person who has been convicted of murder or a crime involving sexual misconduct may not be baptized unless the First Presidency gives approval (see [38.2.8.6](38-church-policies-and-guidelines.md#38286-situations-that-require-authorization-from-the-mission-president-or-first-presidency)). The same is true for a person who has confessed to committing murder even if the confession was in private to a priesthood leader. As used here, _murder_ does not include abortion or police or military action in the line of duty.
 
 If the person is seeking baptism for the first time, the mission president follows the instructions in [38.2.8.6](38-church-policies-and-guidelines.md#38286-situations-that-require-authorization-from-the-mission-president-or-first-presidency). If the person is a former member seeking readmission, the bishop and stake president follow the instructions in the same section (see also [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church)).
 
@@ -558,13 +558,13 @@ When issuing temple recommends for a couple to be sealed, priesthood leaders mak
 
 #### 38.4.1.2 Sealing of Living Members after Divorce
 
-*Women.* A living woman may be sealed to only one husband at a time. If she and a husband were sealed and later divorced, she must receive a cancellation of that sealing before being sealed to another man during her lifetime (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
+_Women._ A living woman may be sealed to only one husband at a time. If she and a husband were sealed and later divorced, she must receive a cancellation of that sealing before being sealed to another man during her lifetime (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 
 A living woman who is not currently married or sealed to another man may be sealed to a deceased husband from whom she was divorced in life. She must first receive signed consent from her former husband’s widow (if there is one).
 
 See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
-*Men.* If a man and woman were sealed and later divorced, the man must receive a sealing clearance before being sealed to another woman (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the previous wife is deceased.
+_Men._ If a man and woman were sealed and later divorced, the man must receive a sealing clearance before being sealed to another woman (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the previous wife is deceased.
 
 A sealing clearance is needed only if a man is divorced from the woman who was most recently sealed to him. For example, if a man received a sealing clearance to be sealed to a second wife after a divorce, and then his second wife dies, he would not need another sealing clearance to be sealed again.
 
@@ -574,7 +574,7 @@ See [chapter 28](28.md) for information about performing ordinances for a decea
 
 #### 38.4.1.3 Sealing of Living Members after a Spouse’s Death
 
-*Women.* If a husband and wife have been sealed and the husband dies, the woman may not be sealed to another man unless she receives a cancellation of the first sealing (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
+_Women._ If a husband and wife have been sealed and the husband dies, the woman may not be sealed to another man unless she receives a cancellation of the first sealing (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 
 A living woman who is not currently married or sealed to another man may be sealed to a deceased husband (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce).
 
@@ -582,7 +582,7 @@ A living woman who is currently married may not be sealed to a deceased husband 
 
 See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
-*Men.* If a husband and wife have been sealed and the wife dies, the man may be sealed to another woman if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce)).
+_Men._ If a husband and wife have been sealed and the wife dies, the man may be sealed to another woman if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce)).
 
 A living man may be sealed to a deceased wife if she is not currently sealed to another man (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
 
@@ -636,17 +636,17 @@ Time-only marriages in the temple are no longer performed (see [27.3.3](27-templ
 
 #### 38.4.1.7 Sealing of Deceased Persons
 
-*Deceased Women.* A deceased woman may be sealed to all men to whom she was legally married during her life. The following table shows when these sealings may take place.
+_Deceased Women._ A deceased woman may be sealed to all men to whom she was legally married during her life. The following table shows when these sealings may take place.
 
 | She was not sealed to a husband in life | She may be sealed to all living or deceased men to whom she was married in life. If the man is living, his wife (if he is married) must give written consent (see [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death)). If the man is deceased, his widow (if any) must give written consent. |
 | --- | --- |
 | She was sealed to a husband in life | All her husbands must be deceased before she is sealed to other men to whom she was married. This includes former husbands from whom she may have been divorced. Each of the men’s widows (if any) must give written consent. |
 
-*Deceased Men.* A deceased man may be sealed to all women to whom he was legally married during his life if (1) they are deceased or (2) they are living, are not currently married, and are not sealed to another man (see [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death)).
+_Deceased Men._ A deceased man may be sealed to all women to whom he was legally married during his life if (1) they are deceased or (2) they are living, are not currently married, and are not sealed to another man (see [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death)).
 
 Before a deceased man may be sealed to a deceased woman to whom he was married in life, the woman’s widower (if there is one) must give written consent.
 
-*Deceased Couples Who Were Divorced.* Deceased couples who were divorced may be sealed by proxy so their children can be sealed to them. See [28.3.5](28.md#2835-persons-whose-church-membership-was-withdrawn-or-who-resigned-membership) if either the husband or wife had Church membership withdrawn or had resigned membership and had not been rebaptized at the time of death.
+_Deceased Couples Who Were Divorced._ Deceased couples who were divorced may be sealed by proxy so their children can be sealed to them. See [28.3.5](28.md#2835-persons-whose-church-membership-was-withdrawn-or-who-resigned-membership) if either the husband or wife had Church membership withdrawn or had resigned membership and had not been rebaptized at the time of death.
 
 First Presidency approval is required before sealing a deceased couple who obtained a cancellation of their sealing in life.
 
@@ -694,16 +694,16 @@ Members who are 21 or older must be endowed before being sealed to their parent
 
 Married members who are younger than 21 do not need to be endowed to be sealed to their parents. However, they must have a current temple recommend (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
 
-*Sealing living children to living parents.* A living child is sealed to only two parents—a husband and wife. If both parents are living, they must be married and sealed to each other.
+_Sealing living children to living parents._ A living child is sealed to only two parents—a husband and wife. If both parents are living, they must be married and sealed to each other.
 
-*Sealing living children to deceased parents.* A living child is sealed to only one set of parents. The following table shows sealing options available to members who have not been sealed to their parents and whose parents are deceased.
+_Sealing living children to deceased parents._ A living child is sealed to only one set of parents. The following table shows sealing options available to members who have not been sealed to their parents and whose parents are deceased.
 
 | Circumstance | Options |
 | --- | --- |
-| Minor child or person who is not accountable due to intellectual disabilities | * Be sealed to legal guardians or adoptive parents who are raising him or her * Wait until he or she is an adult and then be sealed to deceased parents |
-| Adult | * Be sealed to deceased parents * Be sealed to legal guardians or adoptive parents who raised him or her |
+| Minor child or person who is not accountable due to intellectual disabilities | • Be sealed to legal guardians or adoptive parents who are raising him or her<br/>• Wait until he or she is an adult and then be sealed to deceased parents |
+| Adult | • Be sealed to deceased parents<br/>• Be sealed to legal guardians or adoptive parents who raised him or her |
 
-*Sealing deceased children to parents (living or deceased).* A deceased person is usually sealed to his or her birth or adoptive parents. However, a deceased child may also be sealed to:
+_Sealing deceased children to parents (living or deceased)._ A deceased person is usually sealed to his or her birth or adoptive parents. However, a deceased child may also be sealed to:
 
 * A birth mother and stepfather.
 * A birth father and stepmother.
@@ -728,7 +728,7 @@ A deceased foster child is usually sealed to his or her natural parents.
 
 #### 38.4.2.5 Sealing of Living Children to One Natural Parent and a Stepparent
 
-*Minor children and children who are not accountable.* Living minor children and children who are not accountable due to intellectual disabilities may be sealed to one natural parent and a stepparent only if all the following conditions are met:
+_Minor children and children who are not accountable._ Living minor children and children who are not accountable due to intellectual disabilities may be sealed to one natural parent and a stepparent only if all the following conditions are met:
 
 * The child was not born in the covenant or sealed previously.
 * The child has not been adopted by another parent.
@@ -738,7 +738,7 @@ If the other natural parent is deceased or if his or her parental rights have be
 
 If the other natural parent cannot be located after thorough efforts to find him or her, no consent is required. In this case, the bishop and stake president certify in the verification process that thorough efforts to locate the missing parent have failed. If the other natural parent comes forward at a later date, the sealing will be subject to review.
 
-*Adult children.* A living adult member may be sealed to one natural parent and a stepparent if the member was not born in the covenant or previously sealed to parents.
+_Adult children._ A living adult member may be sealed to one natural parent and a stepparent if the member was not born in the covenant or previously sealed to parents.
 
 Members who are 21 or older must be endowed before being sealed to a natural parent and a stepparent.
 
@@ -926,12 +926,12 @@ See also [FamilyServices.ChurchofJesusChrist.org](https://FamilyServices.Churcho
 
 #### 38.6.2.3 Child or Youth Abuse
 
-Abuse of a child or youth is an especially serious sin (see [Luke 17:2](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=eng&id=p2#p2)). As used here, *child or youth abuse* includes the following:
+Abuse of a child or youth is an especially serious sin (see [Luke 17:2](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=eng&id=p2#p2)). As used here, _child or youth abuse_ includes the following:
 
-* *Physical abuse:* Inflicting serious bodily harm by physical violence. Some harm may not be visible.
-* *Sexual abuse or exploitation:* Having any sexual activity with a child or youth or intentionally allowing or helping others to have such activity. As used here, sexual abuse does not include consensual sexual activity between two minors who are close in age.
-* *Emotional abuse:* Using actions and words to seriously damage a child or youth’s sense of self-respect or self-worth. This usually involves repeated and continuing insults, manipulations, and criticisms that humiliate and belittle. It may also include gross neglect.
-* *Child pornography:* See [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography).
+* _Physical abuse:_ Inflicting serious bodily harm by physical violence. Some harm may not be visible.
+* _Sexual abuse or exploitation:_ Having any sexual activity with a child or youth or intentionally allowing or helping others to have such activity. As used here, sexual abuse does not include consensual sexual activity between two minors who are close in age.
+* _Emotional abuse:_ Using actions and words to seriously damage a child or youth’s sense of self-respect or self-worth. This usually involves repeated and continuing insults, manipulations, and criticisms that humiliate and belittle. It may also include gross neglect.
+* _Child pornography:_ See [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography).
 
 If a bishop or stake president learns of or suspects child or youth abuse, he promptly follows the instructions in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line). He also takes action to help protect against further abuse.
 
@@ -949,10 +949,10 @@ If a bishop or stake president learns of abuse of a spouse or another adult, he 
 
 Leaders seek the direction of the Spirit to determine whether personal counseling or a membership council is the most appropriate setting to address abuse. They may also counsel with their direct priesthood leader about the setting. However, any abuse of a spouse or another adult that rises to the levels described below requires holding a membership council.
 
-* *Physical abuse:* Inflicting serious bodily harm by physical violence. Some harm may not be visible.
-* *Sexual abuse:* See the situations specified in [38.6.18.3](38-church-policies-and-guidelines.md#386183-membership-councils).
-* *Emotional abuse:* Using actions and words to seriously damage a person’s sense of self-respect or self-worth. This usually involves repeated and continuing insults, manipulations, and criticisms that humiliate and belittle.
-* *Financial abuse:* Taking advantage of someone financially. This may include the illegal or unauthorized use of a person’s property, money, or other valuables. It may also include fraudulently obtaining financial power over someone. It could include using financial power to coerce behavior. See also [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts).
+* _Physical abuse:_ Inflicting serious bodily harm by physical violence. Some harm may not be visible.
+* _Sexual abuse:_ See the situations specified in [38.6.18.3](38-church-policies-and-guidelines.md#386183-membership-councils).
+* _Emotional abuse:_ Using actions and words to seriously damage a person’s sense of self-respect or self-worth. This usually involves repeated and continuing insults, manipulations, and criticisms that humiliate and belittle.
+* _Financial abuse:_ Taking advantage of someone financially. This may include the illegal or unauthorized use of a person’s property, money, or other valuables. It may also include fraudulently obtaining financial power over someone. It could include using financial power to coerce behavior. See also [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts).
 
 #### 38.6.2.5 Church Callings, Temple Recommends, and Membership Record Annotations
 
@@ -1005,7 +1005,7 @@ A Church membership council may be necessary if a member:
 
 The decision about whether to hold a membership council in these situations depends on many circumstances (see [32.7](32-repentance-and-membership-councils.md#327-circumstances-of-the-person)). For example, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
-See [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) for when a council is *required* for sexual sins.
+See [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) for when a council is _required_ for sexual sins.
 
 In some cases, personal counseling and informal membership restrictions may be sufficient (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)).
 
@@ -1037,14 +1037,14 @@ See also “[Adoption](https://www.churchofjesuschrist.org/study/manual/gospel-t
 
 ### 38.6.10 Incest
 
-The Church condemns any form of incest. As used here, *incest* is sexual relations between:
+The Church condemns any form of incest. As used here, _incest_ is sexual relations between:
 
 * A parent and a child.
 * A grandparent and a grandchild.
 * Siblings.
 * An uncle or aunt and a niece or nephew.
 
-As used here, *child, grandchild, siblings, niece,* and *nephew* include biological, adopted, step, or foster relationships. Incest can occur between two minors, an adult and a minor, or two adults. If a stake president has questions about whether a relationship is incestuous under local laws, he seeks guidance from the Office of the First Presidency.
+As used here, _child, grandchild, siblings, niece,_ and _nephew_ include biological, adopted, step, or foster relationships. Incest can occur between two minors, an adult and a minor, or two adults. If a stake president has questions about whether a relationship is incestuous under local laws, he seeks guidance from the Office of the First Presidency.
 
 When a minor is a victim of incest, the bishop or stake president calls the Church’s abuse help line in countries where it is available (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). In other countries, the stake president should seek guidance from the area legal counsel at the area office. He is also encouraged to counsel with the Family Services staff or the welfare and self-reliance manager at the area office.
 
@@ -1134,7 +1134,7 @@ As part of their responsibility to teach their children, parents should be aware
 
 ### 38.6.18 Sexual Abuse, Rape, and Other Forms of Sexual Assault
 
-The Church condemns sexual abuse. As used here, *sexual abuse* is defined as imposing any unwanted sexual activity on another person. Sexual activity with a person who does not or cannot give legal consent is considered sexual abuse. Sexual abuse can also occur with a spouse or in a dating relationship. For information about sexual abuse of a child or youth, see [38.6.2.3](38-church-policies-and-guidelines.md#38623-child-or-youth-abuse).
+The Church condemns sexual abuse. As used here, _sexual abuse_ is defined as imposing any unwanted sexual activity on another person. Sexual activity with a person who does not or cannot give legal consent is considered sexual abuse. Sexual abuse can also occur with a spouse or in a dating relationship. For information about sexual abuse of a child or youth, see [38.6.2.3](38-church-policies-and-guidelines.md#38623-child-or-youth-abuse).
 
 Sexual abuse covers a broad range of actions, from harassment to rape and other forms of sexual assault. It can occur physically, verbally, and in other ways. For guidance about counseling members who have experienced sexual abuse, rape, or other forms of sexual assault, see [38.6.18.2](38-church-policies-and-guidelines.md#386182-counseling-for-victims-of-sexual-abuse-rape-and-other-forms-of-sexual-assault).
 
@@ -1164,7 +1164,7 @@ In addition to receiving the inspired help of Church leaders, victims and their 
 
 A membership council may be necessary for a person who has sexually assaulted or abused someone. A membership council is required if a member committed rape or is convicted of another form of sexual assault (see [32.6.1.1](32-repentance-and-membership-councils.md#32611-violent-acts-and-abuse)).
 
-A council must also be held for sexual activity with a vulnerable adult. As used here, a *vulnerable adult* is a person who, because of physical or mental limitations, either cannot consent to the activity or cannot understand the nature of it.
+A council must also be held for sexual activity with a vulnerable adult. As used here, a _vulnerable adult_ is a person who, because of physical or mental limitations, either cannot consent to the activity or cannot understand the nature of it.
 
 To address other forms of sexual abuse, leaders seek the Spirit’s guidance about whether personal counseling or a membership council is the most appropriate setting (see [32.6.2.2](32-repentance-and-membership-councils.md#32622-sexual-immorality) and [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)). In severe cases a council is required. Leaders may counsel with their direct priesthood leader about the setting.
 
@@ -1217,7 +1217,7 @@ Children who are born to a surrogate mother are not born in the covenant. Follow
 
 Transgender individuals face complex challenges. Members and nonmembers who identify as transgender—and their family and friends—should be treated with sensitivity, kindness, compassion, and an abundance of Christlike love. All are welcome to attend sacrament meeting, other Sunday meetings, and social events of the Church (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)).
 
-Gender is an essential characteristic of Heavenly Father’s plan of happiness. The intended meaning of *gender* in the [family proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) is *biological sex at birth.* Some people experience feelings of incongruence between their biological sex and their gender identity. As a result, they may identify as transgender. The Church does not take a position on the causes of people identifying as transgender.
+Gender is an essential characteristic of Heavenly Father’s plan of happiness. The intended meaning of _gender_ in the [family proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) is _biological sex at birth._ Some people experience feelings of incongruence between their biological sex and their gender identity. As a result, they may identify as transgender. The Church does not take a position on the causes of people identifying as transgender.
 
 Most Church participation and some priesthood ordinances are gender neutral. Transgender persons may be baptized and confirmed as outlined in [38.2.8.9](38-church-policies-and-guidelines.md#38289-persons-who-identify-as-transgender). They may also partake of the sacrament and receive priesthood blessings. However, priesthood ordination and temple ordinances are received according to biological sex at birth.
 
@@ -1434,13 +1434,13 @@ The Church’s name, wordmark, and symbol are key Church identifiers. They are r
 
 The Church’s key identifiers are to be used only according to the guidelines provided below.
 
-*Written name of the Church.* Local units may use the written name of the Church (not the wordmark or symbol) when all of the following conditions are met:
+_Written name of the Church._ Local units may use the written name of the Church (not the wordmark or symbol) when all of the following conditions are met:
 
 * The activity or function with which the name is associated is officially sponsored by the unit (for example, a sacrament meeting program).
 * The name of the local unit is used as a prelude to the name of the Church (for example, Campo Rosa Branch of The Church of Jesus Christ of Latter-day Saints).
 * The typeface does not imitate or resemble the official Church wordmark.
 
-*Wordmark and symbol.* The Church’s wordmark and symbol (see the illustration above) are to be used only as approved by the First Presidency and Quorum of the Twelve Apostles. They may not be used as decorative elements. Nor may they be used in any personal, commercial, or promotional way.
+_Wordmark and symbol._ The Church’s wordmark and symbol (see the illustration above) are to be used only as approved by the First Presidency and Quorum of the Twelve Apostles. They may not be used as decorative elements. Nor may they be used in any personal, commercial, or promotional way.
 
 Questions should be directed to:
 
@@ -1512,9 +1512,9 @@ Fax: 1-801-240-1187
 
 Email: [cor-intellectualproperty@ChurchofJesusChrist.org](mailto:cor-intellectualproperty@churchofjesuschrist.org)
 
-*Can I copy published Church materials?* Unless otherwise indicated, Church materials may be copied for noncommercial Church, home, and family use. Terms of use that accompany a Church website or app indicate how material on these websites and apps may be used. No commercial use may be made of Church materials without specific written permission from the IPO.
+_Can I copy published Church materials?_ Unless otherwise indicated, Church materials may be copied for noncommercial Church, home, and family use. Terms of use that accompany a Church website or app indicate how material on these websites and apps may be used. No commercial use may be made of Church materials without specific written permission from the IPO.
 
-*Can I copy music?* Special copyright laws apply to music. A person may copy music from the following sources for noncommercial Church, home, and family use unless a restriction is noted on the hymn or song:
+_Can I copy music?_ Special copyright laws apply to music. A person may copy music from the following sources for noncommercial Church, home, and family use unless a restriction is noted on the hymn or song:
 
 * [Hymns](https://www.churchofjesuschrist.org/study/manual/hymns?lang=eng)
 * The [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook?lang=eng)
@@ -1522,13 +1522,13 @@ Email: [cor-intellectualproperty@ChurchofJesusChrist.org](mailto:cor-intellectua
 
 Duplicating printed or recorded music without authorization from the copyright owner is contrary to Church policy.
 
-*Can I copy materials that are not owned by the Church?* Generally not. Copyright laws govern the use of privately owned materials. Usually there are restrictions that give the conditions the public must follow before copying non-Church materials. These restrictions are usually listed near the beginning of a publication. Members should strictly observe all copyright laws.
+_Can I copy materials that are not owned by the Church?_ Generally not. Copyright laws govern the use of privately owned materials. Usually there are restrictions that give the conditions the public must follow before copying non-Church materials. These restrictions are usually listed near the beginning of a publication. Members should strictly observe all copyright laws.
 
-*Can I show commercial audiovisual products at Church functions?* Generally not. Church members should not violate warnings and restrictions that are placed on commercial audiovisual products. This includes movies, other video, and music. Using commercial audiovisual products at Church functions generally requires permission from the copyright owners.
+_Can I show commercial audiovisual products at Church functions?_ Generally not. Church members should not violate warnings and restrictions that are placed on commercial audiovisual products. This includes movies, other video, and music. Using commercial audiovisual products at Church functions generally requires permission from the copyright owners.
 
-*Can I download or duplicate computer software and other programs for Church use?* Generally not. Computer programs and other software may not be duplicated or downloaded unless all licenses have been appropriately purchased.
+_Can I download or duplicate computer software and other programs for Church use?_ Generally not. Computer programs and other software may not be duplicated or downloaded unless all licenses have been appropriately purchased.
 
-*What permission is needed to present musical and theatrical productions?* Productions that are owned by the Church or IRI may be performed in Church settings without permission from Church headquarters. If a copyrighted production is not owned by the Church, members must obtain the copyright owner’s permission to perform all or part of it in a Church setting. Usually the copyright owner requires fees or royalties even if no charge is made for the performances. All presentations should have the approval of local priesthood leaders.
+_What permission is needed to present musical and theatrical productions?_ Productions that are owned by the Church or IRI may be performed in Church settings without permission from Church headquarters. If a copyrighted production is not owned by the Church, members must obtain the copyright owner’s permission to perform all or part of it in a Church setting. Usually the copyright owner requires fees or royalties even if no charge is made for the performances. All presentations should have the approval of local priesthood leaders.
 
 ### 38.8.12 Curriculum Materials
 
@@ -1753,15 +1753,15 @@ Leaders encourage priesthood holders who have disabilities to participate in ord
 
 Members who have disabilities or special needs are encouraged to attend Sunday meetings in their wards unless they live in a care facility or residential treatment program where Church programs are organized (see [37.6](37-specialized-stakes-wards-and-branches.md#376-wards-and-branches-for-members-in-special-circumstances)).
 
-*Units and groups.* Wards or branches may be created for members who have unique needs, such as those who are deaf and use sign language (see [37.1](37-specialized-stakes-wards-and-branches.md#371-language-wards-and-branches)). Approval is given only by the First Presidency.
+_Units and groups._ Wards or branches may be created for members who have unique needs, such as those who are deaf and use sign language (see [37.1](37-specialized-stakes-wards-and-branches.md#371-language-wards-and-branches)). Approval is given only by the First Presidency.
 
 A ward may be asked to host a group for those with disabilities, such as those who use sign language. For information about the membership records of those attending such units or groups, see [33.6.11](33-records-and-reports.md#33611-records-of-members-who-are-deaf-or-hard-of-hearing).
 
 Deaf members who do not live within a reasonable distance from a deaf unit may attend one virtually. They should obtain permission from the leaders of that unit. Local ward leaders ensure that deaf members are cared for and have the opportunity to partake of the sacrament regularly.
 
-*Classes.* Members with disabilities attend Sunday classes with the members of their ward. However, when needed to meet the needs of adult or youth members with similar disabilities, a ward or stake may organize special Sunday School classes (see [13.3.2](13-sunday-school.md#1332-sunday-school-classes-for-specific-groups)).
+_Classes._ Members with disabilities attend Sunday classes with the members of their ward. However, when needed to meet the needs of adult or youth members with similar disabilities, a ward or stake may organize special Sunday School classes (see [13.3.2](13-sunday-school.md#1332-sunday-school-classes-for-specific-groups)).
 
-*Disability activity programs.* When needed to meet the needs of adult members with intellectual disabilities, a ward, group of wards, stake, or group of stakes may organize a disability activity program. This program supplements ministering, Sunday Church services, and activities in the local unit.
+_Disability activity programs._ When needed to meet the needs of adult members with intellectual disabilities, a ward, group of wards, stake, or group of stakes may organize a disability activity program. This program supplements ministering, Sunday Church services, and activities in the local unit.
 
 A disability activity program typically serves individuals ages 18 and older. Every effort should be made to integrate members under 18 into their wards and stakes. In unusual situations, leaders may provide supplemental activities for youth beginning in the year they turn 12.
 
@@ -1769,7 +1769,7 @@ When multiple wards participate in a disability activity program, the stake pres
 
 The agent bishop or agent stake president consults with other participating bishops or stake presidents to determine how these programs will be funded.
 
-*Disability activity leaders.* Adult members may be called as disability activity leaders. These leaders plan and carry out the disability activity program. They consult with ward and stake disability specialists (see [38.8.27.9](38-church-policies-and-guidelines.md#388279-disability-specialist)) to invite members with disabilities to participate. They counsel together about how to meet those members’ needs.
+_Disability activity leaders._ Adult members may be called as disability activity leaders. These leaders plan and carry out the disability activity program. They consult with ward and stake disability specialists (see [38.8.27.9](38-church-policies-and-guidelines.md#388279-disability-specialist)) to invite members with disabilities to participate. They counsel together about how to meet those members’ needs.
 
 Disability activity leaders are called and set apart under the direction of the agent bishop or agent stake president. A stake president may also assign a high councilor to serve as a disability activity leader.
 
@@ -1777,11 +1777,11 @@ Leaders serving those of any age with disabilities complete the training at [Pro
 
 When invited, disability activity leaders may attend stake or ward leadership meetings.
 
-*Guidelines for disability activity programs.* Disability activity programs are organized to help participants develop spiritually, socially, physically, and intellectually (see [Luke 2:52](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng&id=p52#p52)). Leaders determine the frequency of activities. They consider the number of participants, travel distances, and other circumstances.
+_Guidelines for disability activity programs._ Disability activity programs are organized to help participants develop spiritually, socially, physically, and intellectually (see [Luke 2:52](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng&id=p52#p52)). Leaders determine the frequency of activities. They consider the number of participants, travel distances, and other circumstances.
 
 Some people may not be able to participate because of complex medical, physical, intellectual, or behavioral circumstances. Leaders seek other ways to minister to their needs.
 
-*Participation and safety standards.* At least two responsible adults must be present at all activities. The two adults could be two men, two women, or a married couple. Generally, more adults are needed to supervise activities for members with disabilities than are needed for other activities.
+_Participation and safety standards._ At least two responsible adults must be present at all activities. The two adults could be two men, two women, or a married couple. Generally, more adults are needed to supervise activities for members with disabilities than are needed for other activities.
 
 Adults who help with activities complete the training at [ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). They must receive approval from their bishop before participating. For additional safety requirements, see “[Activities for Members with Disabilities](https://www.churchofjesuschrist.org/study/manual/disability-services-leaders/activities-for-members-with-disabilities?lang=eng).”
 
@@ -1948,9 +1948,9 @@ When referring to Church members, the following terms are accurate and preferred
 
 Referring to Church members by other titles, such as “Mormons” or “LDS,” is discouraged.
 
-*Mormon* is correctly used in proper names such as the Book of Mormon. It is also correctly used as an adjective in historical expressions such as “Mormon Trail.”
+_Mormon_ is correctly used in proper names such as the Book of Mormon. It is also correctly used as an adjective in historical expressions such as “Mormon Trail.”
 
-The term *Mormonism* is inaccurate, and its use is discouraged. When describing the combination of doctrine, culture, and lifestyle unique to the Church, the phrase “the restored gospel of Jesus Christ” is accurate and preferred.
+The term _Mormonism_ is inaccurate, and its use is discouraged. When describing the combination of doctrine, culture, and lifestyle unique to the Church, the phrase “the restored gospel of Jesus Christ” is accurate and preferred.
 
 ### 38.8.35 Refugees
 

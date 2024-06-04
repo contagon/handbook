@@ -15,9 +15,9 @@ This chapter provides instructions for leaders who issue temple recommends. A bi
 
 A current temple recommend allows a member to enter all temples. Priesthood leaders ensure that members receive the correct recommend for their circumstances. There are three types of recommends:
 
-1. *Temple recommend for unendowed members.* These recommends are for unendowed members who are being sealed to their parents or performing proxy baptisms and confirmations. They are issued through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). For more information, see [26.4](26-temple-recommends.md#264-issuing-temple-recommends-to-unendowed-members).
-2. *Temple recommend for living ordinances.* These recommends are for members receiving their own endowment or being sealed to a spouse. They are issued from recommend book 2. The recommend for living ordinances is attached to a regular temple recommend for endowed members (described below). The temple retains the living ordinance recommend when the ordinance is performed. The member retains the regular recommend and uses it when returning to the temple.
-3. *Temple recommend for endowed members.* These recommends are for members who have previously been endowed. They are issued through [LCR](https://lcr.churchofjesuschrist.org). They authorize a member to participate in all temple ordinances for the deceased. They are also used when an endowed member is sealed to living or deceased parents or children. For more information, see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends).
+1. _Temple recommend for unendowed members._ These recommends are for unendowed members who are being sealed to their parents or performing proxy baptisms and confirmations. They are issued through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). For more information, see [26.4](26-temple-recommends.md#264-issuing-temple-recommends-to-unendowed-members).
+2. _Temple recommend for living ordinances._ These recommends are for members receiving their own endowment or being sealed to a spouse. They are issued from recommend book 2. The recommend for living ordinances is attached to a regular temple recommend for endowed members (described below). The temple retains the living ordinance recommend when the ordinance is performed. The member retains the regular recommend and uses it when returning to the temple.
+3. _Temple recommend for endowed members._ These recommends are for members who have previously been endowed. They are issued through [LCR](https://lcr.churchofjesuschrist.org). They authorize a member to participate in all temple ordinances for the deceased. They are also used when an endowed member is sealed to living or deceased parents or children. For more information, see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends).
 
 ## 26.2 Safeguarding Temple Recommends
 
@@ -119,11 +119,11 @@ Do you obey the law of chastity?
 
 For new members seeking a recommend to perform proxy baptisms and confirmations: Are you willing to obey the commandment to pay tithing?
 11. Do you understand and obey the Word of Wisdom?
-12. *(This question is omitted when interviewing a child or youth.)* Do you have any financial or other obligations to a former spouse or to children?
+12. _(This question is omitted when interviewing a child or youth.)_ Do you have any financial or other obligations to a former spouse or to children?
 
 If yes, are you current in meeting those obligations?
-13. *(This question is omitted when interviewing a member who is not endowed.)* Do you keep the covenants that you made in the temple?
-14. *(This question is omitted when interviewing a member who is not endowed.)* Do you honor your sacred privilege to wear the garment as instructed in the initiatory ordinances? (Read the “[Wearing the Temple Garment](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number31-p114#title_number31)” statement, included below, to each member.)
+13. _(This question is omitted when interviewing a member who is not endowed.)_ Do you keep the covenants that you made in the temple?
+14. _(This question is omitted when interviewing a member who is not endowed.)_ Do you honor your sacred privilege to wear the garment as instructed in the initiatory ordinances? (Read the “[Wearing the Temple Garment](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number31-p114#title_number31)” statement, included below, to each member.)
 15. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
 16. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
 

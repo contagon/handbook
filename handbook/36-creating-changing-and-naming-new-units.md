@@ -73,7 +73,7 @@ The Area Presidency may give final approval or denial of a mission president’s
 
 The Area Presidency must submit the approved proposal to Church headquarters for processing before the branch can be created or changed in the Church’s systems.
 
-The Area Presidency may endorse *but not give final approval* of a mission president’s proposal to:
+The Area Presidency may endorse _but not give final approval_ of a mission president’s proposal to:
 
 * Transfer a branch to another stake, district, or mission.
 * Change the name of an existing branch in a mission.
@@ -112,15 +112,15 @@ When more than one stake or district is in the same city, the third word is an i
 * Community or neighborhood
 * Geographic feature
 
-Some identifying characteristics that are *not* allowed for stake and district names are shown below:
+Some identifying characteristics that are _not_ allowed for stake and district names are shown below:
 
 * Other directional terms (for example, southwest)
 * Names of people
 
 When the name of a city is the same as the state, province, or country, it is not repeated in the name. For example:
 
-* Idaho Falls Taylor Mountain Stake, *not* Idaho Falls Idaho Taylor Mountain Stake
-* México City Azteca Stake, *not* México City México Azteca Stake
+* Idaho Falls Taylor Mountain Stake, _not_ Idaho Falls Idaho Taylor Mountain Stake
+* México City Azteca Stake, _not_ México City México Azteca Stake
 
 ### 36.4.2 Naming Wards and Branches
 
@@ -133,7 +133,7 @@ A ward or branch is named after an identifying characteristic within its boundar
 * School
 * Geographic feature
 
-Some identifying characteristics that are *not* allowed for ward and branch names are shown below:
+Some identifying characteristics that are _not_ allowed for ward and branch names are shown below:
 
 * Compass directions (for example, east or northwest)
 * Names of people

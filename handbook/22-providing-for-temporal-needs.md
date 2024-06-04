@@ -9,7 +9,7 @@ Church members are also counseled to strengthen their own self-reliance through 
 
 ---
 
-**INDIVIDUAL AND FAMILY EFFORTS**
+__INDIVIDUAL AND FAMILY EFFORTS__
 
 ---
 
@@ -114,7 +114,7 @@ The Church provides humanitarian aid throughout the world. It does this both dir
 
 ---
 
-**LEADER EFFORTS**
+__LEADER EFFORTS__
 
 ---
 
@@ -528,7 +528,7 @@ Council members are encouraged to:
 
 ---
 
-**GOVERNMENT, COMMUNITY, AND CHURCH RESOURCES**
+__GOVERNMENT, COMMUNITY, AND CHURCH RESOURCES__
 
 ---
 
@@ -552,8 +552,8 @@ The following table lists Church resources that can support members’ efforts t
 
 | Category | Resources |
 | --- | --- |
-| Immediate needs | * The Lord’s storehouse (members’ offerings of time, talents, compassion, materials, and financial resources) * Fast offerings * Bishops’ orders for food and other basic goods through a bishops’ storehouse or grocery store.\* * Bishops’ orders for clothing or household items through a Deseret Industries store.\*  \* Bishops’ orders are placed through “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in LCR. |
-| Education and employment | * Self-reliance groups ([Find a Better Job](https://www.churchofjesuschrist.org/study/manual/find-a-better-job-for-self-reliance?lang=eng), [Starting and Growing My Business](https://www.churchofjesuschrist.org/study/manual/starting-and-growing-my-business-for-self-reliance?lang=eng), [Education for Better Work](https://www.churchofjesuschrist.org/study/manual/education-for-better-work-for-self-reliance?lang=eng)) * [Stake Welfare and Self-Reliance Resource Centers](https://assets.ldscdn.org/da/df/dadf5707998611eca190eeeeac1ee215e0a084a1/products_and_services_overview_booklet.pdf) * [Employment centers](http://www.churchofjesuschrist.org/life/life-help-employment) * [BYU–Pathway Worldwide](http://www.byupathway.org) * [EnglishConnect](http://www.englishconnect.org) * [Perpetual Education Fund loans](http://www.churchofjesuschrist.org/self-reliance/pef-perpetual-education-fund) * Training programs through [Deseret Industries](http://www.deseretindustries.org) or [Development Counseling Services](http://providentliving.churchofjesuschrist.org/development-counseling-services) |
-| Emotional health | * Self-reliance group ([Emotional Resilience](https://www.churchofjesuschrist.org/study/manual/emotional-resilience-for-self-reliance?lang=eng)) * [Counseling Resources](https://www.churchofjesuschrist.org/study/manual/counseling-resources?lang=eng) * [Family Services counseling](http://providentliving.churchofjesuschrist.org/lds-family-services/counseling-services). In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals](http://lcr.churchofjesuschrist.org)” in [LCR](http://lcr.churchofjesuschrist.org). * [Addiction recovery groups](http://addictionrecovery.churchofjesuschrist.org) and [spouse and family support groups](http://addictionrecovery.churchofjesuschrist.org/spouses-and-families) * [Strengthening Marriages and Families courses](http://www.churchofjesuschrist.org/topics/family/strengthening-marriages-and-families) * [Family Services consultations for leaders](http://providentliving.churchofjesuschrist.org/lds-family-services/leader-resources) * [Life Help resources](http://www.churchofjesuschrist.org/topics/families-and-individuals/lifes-challenges/hope-and-help) |
-| Temporal preparedness | * Self-reliance group ([Personal Finances](https://www.churchofjesuschrist.org/study/manual/personal-finances-for-self-reliance?lang=eng)) * [Home storage products](http://providentliving.churchofjesuschrist.org/self-reliance/home-storage-centers) * [Temporal Preparedness Resources](http://www.churchofjesuschrist.org/life/temporal-preparedness-resources) * [Stake and Ward Preparedness](https://www.churchofjesuschrist.org/study/manual/stake-and-ward-preparedness?lang=eng) |
-| Community service | * [JustServe.org](http://www.justserve.org) * Other Church-supported projects |
+| Immediate needs | • The Lord’s storehouse (members’ offerings of time, talents, compassion, materials, and financial resources)<br/>• Fast offerings<br/>• Bishops’ orders for food and other basic goods through a bishops’ storehouse or grocery store.\*<br/>• Bishops’ orders for clothing or household items through a Deseret Industries store.\*<br/><br/>\* Bishops’ orders are placed through “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in LCR. |
+| Education and employment | • Self-reliance groups ([Find a Better Job](https://www.churchofjesuschrist.org/study/manual/find-a-better-job-for-self-reliance?lang=eng), [Starting and Growing My Business](https://www.churchofjesuschrist.org/study/manual/starting-and-growing-my-business-for-self-reliance?lang=eng), [Education for Better Work](https://www.churchofjesuschrist.org/study/manual/education-for-better-work-for-self-reliance?lang=eng))<br/>• [Stake Welfare and Self-Reliance Resource Centers](https://assets.ldscdn.org/da/df/dadf5707998611eca190eeeeac1ee215e0a084a1/products_and_services_overview_booklet.pdf)<br/>• [Employment centers](http://www.churchofjesuschrist.org/life/life-help-employment)<br/>• [BYU–Pathway Worldwide](http://www.byupathway.org)<br/>• [EnglishConnect](http://www.englishconnect.org)<br/>• [Perpetual Education Fund loans](http://www.churchofjesuschrist.org/self-reliance/pef-perpetual-education-fund)<br/>• Training programs through [Deseret Industries](http://www.deseretindustries.org) or [Development Counseling Services](http://providentliving.churchofjesuschrist.org/development-counseling-services) |
+| Emotional health | • Self-reliance group ([Emotional Resilience](https://www.churchofjesuschrist.org/study/manual/emotional-resilience-for-self-reliance?lang=eng))<br/>• [Counseling Resources](https://www.churchofjesuschrist.org/study/manual/counseling-resources?lang=eng)<br/>• [Family Services counseling](http://providentliving.churchofjesuschrist.org/lds-family-services/counseling-services). In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals](http://lcr.churchofjesuschrist.org)” in [LCR](http://lcr.churchofjesuschrist.org).<br/>• [Addiction recovery groups](http://addictionrecovery.churchofjesuschrist.org) and [spouse and family support groups](http://addictionrecovery.churchofjesuschrist.org/spouses-and-families)<br/>• [Strengthening Marriages and Families courses](http://www.churchofjesuschrist.org/topics/family/strengthening-marriages-and-families)<br/>• [Family Services consultations for leaders](http://providentliving.churchofjesuschrist.org/lds-family-services/leader-resources)<br/>• [Life Help resources](http://www.churchofjesuschrist.org/topics/families-and-individuals/lifes-challenges/hope-and-help) |
+| Temporal preparedness | • Self-reliance group ([Personal Finances](https://www.churchofjesuschrist.org/study/manual/personal-finances-for-self-reliance?lang=eng))<br/>• [Home storage products](http://providentliving.churchofjesuschrist.org/self-reliance/home-storage-centers)<br/>• [Temporal Preparedness Resources](http://www.churchofjesuschrist.org/life/temporal-preparedness-resources)<br/>• [Stake and Ward Preparedness](https://www.churchofjesuschrist.org/study/manual/stake-and-ward-preparedness?lang=eng) |
+| Community service | • [JustServe.org](http://www.justserve.org)<br/>• Other Church-supported projects |

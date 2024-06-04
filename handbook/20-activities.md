@@ -22,7 +22,7 @@ Some examples of Church activities include:
 * Sports and fitness.
 * Celebrations of special occasions, such as holidays or Church or local historical events.
 
-As used in this handbook, the term *Church activity* refers to an activity sponsored by a Church unit, quorum, or organization.
+As used in this handbook, the term _Church activity_ refers to an activity sponsored by a Church unit, quorum, or organization.
 
 ## 20.2 Planning Activities
 
@@ -216,11 +216,11 @@ As an exception, young single adult wards and single adult wards may hold activi
 
 If a ward or stake plans a New Year’s Eve activity, and if New Year’s Eve falls on Saturday, Sunday, or Monday, leaders should observe the following guidelines.
 
-*Saturday.* The stake president may schedule an alternate Sunday for observing fast day. The activity may extend past midnight. However, it should end soon afterward so participants can attend Sunday meetings.
+_Saturday._ The stake president may schedule an alternate Sunday for observing fast day. The activity may extend past midnight. However, it should end soon afterward so participants can attend Sunday meetings.
 
-*Sunday.* Church activities may be planned for Saturday, December 30. The guidelines in the previous paragraph apply. Families may be encouraged to celebrate New Year’s Eve in their homes. Activities should be appropriate for the Sabbath day.
+_Sunday._ Church activities may be planned for Saturday, December 30. The guidelines in the previous paragraph apply. Families may be encouraged to celebrate New Year’s Eve in their homes. Activities should be appropriate for the Sabbath day.
 
-*Monday.* The stake president or bishop may authorize the use of Church buildings on Monday evening.
+_Monday._ The stake president or bishop may authorize the use of Church buildings on Monday evening.
 
 ### 20.5.5 Overnight Activities
 

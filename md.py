@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 from markdownify import MarkdownConverter
-from markdownify import ATX
+from markdownify import ATX, UNDERSCORE
 import re
 
 # TODO: Fix images
@@ -11,14 +11,25 @@ TITLE_NUM_REGEX = "(\d{1,2}(\.?\d{0,2}){0,3})"
 
 
 class HandbookConverter(MarkdownConverter):
-    pass
+    def convert_td(self, el, text, convert_as_inline):
+        """Handle tables with bullet points in them via html breaks and bullet points characters"""
+        colspan = 1
+        if "colspan" in el.attrs:
+            colspan = int(el["colspan"])
+
+        text = text.strip().replace("\n", "<br/>")
+        text = re.sub(r"(?<!\\)\*", "•", text)
+
+        return " " + text + " |" * colspan
 
 
 class HandbookDownloader:
     def __init__(self, dir=""):
         self.cache = {}  # map section # to header slug
         self.files = {}  # map filename to markdown
-        self.converter = HandbookConverter(heading_style=ATX)
+        self.converter = HandbookConverter(
+            heading_style=ATX, strong_em_symbol=UNDERSCORE
+        )
 
     def cache_headers(self, text, filename):
         # Match of the form "## 1.1.1 Title"

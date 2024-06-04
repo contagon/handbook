@@ -87,16 +87,16 @@ Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChr
 
 For more information, see [YoungWomen.ChurchofJesusChrist.org](http://youngwomen.churchofjesuschrist.org). See also [JustServe.org](http://www.justserve.org) where it is available. These resources provide service and activity ideas.
 
-*Annual Activities.* In addition to regular youth activities, young women may also participate in the following each year:
+_Annual Activities._ In addition to regular youth activities, young women may also participate in the following each year:
 
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young women turning 12 during the year may receive their emblems of belonging during this meeting (see [11.6.3](11-young-women.md#1163-children-and-youth-emblems)). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/17313_000_notice.pdf).
 * A Young Women camp (see [Young Women Camp Guide](https://www.churchofjesuschrist.org/study/manual/young-women-camp-guide?lang=eng)). Young women may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 * ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
-*Age Requirements.* With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
 
-*Paying for Activities.* Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
+_Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
 As an exception, if the ward budget does not have enough money to pay for multiday activities, such as camps, leaders may ask participants to help pay for them. However, a young woman should not be prevented from participating if she cannot help pay. If more money is still needed, the bishop may authorize one fundraising activity each year (see [20.6.5](20-activities.md#2065-fundraising-events)).
 

@@ -93,7 +93,7 @@ Members are encouraged to make their contributions online where possible (see [d
 
 ### 34.3.1 Tithing
 
-Tithing is the donation of one-tenth of one’s income to God’s Church (see [Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3); *interest* is understood to mean income). All members who have income should pay tithing.
+Tithing is the donation of one-tenth of one’s income to God’s Church (see [Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3); _interest_ is understood to mean income). All members who have income should pay tithing.
 
 The Lord’s covenant people have lived the law of tithing since ancient times (see [Genesis 14:18–20](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=eng&id=p18-p20#p18); [Leviticus 27:30–32](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=eng&id=p30-p32#p30)). The Lord has said, “The tithing of my people … shall be a standing law unto them forever” ([Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3)).
 

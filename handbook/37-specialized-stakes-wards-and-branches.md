@@ -58,10 +58,10 @@ Minimum Requirements to Create a Young Single Adult Unit in a Stake
 
 |  | Ward | Branch |
 | --- | --- | --- |
-| Number of *active* members | 125 | 50 |
+| Number of _active_ members | 125 | 50 |
 | Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 | 4 |
 
-A young single adult ward usually should not have more than 225 *active* members.
+A young single adult ward usually should not have more than 225 _active_ members.
 
 See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
 
@@ -87,10 +87,10 @@ Where large numbers of young single adults live in one area, usually near univer
 
 Minimum Requirements to Create a Young Single Adult Stake, Ward, or Branch
 
-| Young single adult stake | * 1,500 members (active and less active) * 5 wards |
+| Young single adult stake | • 1,500 members (active and less active)<br/>• 5 wards |
 | --- | --- |
-| Young single adult ward in a young single adult stake | * 125 members (active) * 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
-| Young single adult branch in a young single adult stake | * 50 members (active) * 4 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
+| Young single adult ward in a young single adult stake | • 125 members (active)<br/>• 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
+| Young single adult branch in a young single adult stake | • 50 members (active)<br/>• 4 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
 
 A geographic stake with boundaries that overlap those of a young single adult stake should not have its own young single adult unit.
 
@@ -124,9 +124,9 @@ Married student stakes and wards may be created to serve the married student mem
 
 Minimum Requirements to Create a Married Student Stake or Ward
 
-| Married student stake | * 1,500 members (active and less active) * 5 wards |
+| Married student stake | • 1,500 members (active and less active)<br/>• 5 wards |
 | --- | --- |
-| Married student ward | * 125 members (active and less active) * 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
+| Married student ward | • 125 members (active and less active)<br/>• 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
 
 See [36.4.1](36-creating-changing-and-naming-new-units.md#3641-naming-stakes-and-districts) and [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for stake and ward naming guidelines.
 

@@ -187,9 +187,9 @@ Reports on member participation help leaders focus on the progress and needs of 
 
 Attendance at sacrament meetings and Sunday priesthood and organization meetings is recorded electronically using [LCR](https://lcr.churchofjesuschrist.org) or Member Tools.
 
-*Sacrament Meeting.* Attendance at sacrament meeting is recorded each week by the ward clerk or an assistant ward clerk. The count is the number attending the meeting in-person or by streaming, including visitors. Ward members who are not present because they have another assignment or are attending another ward are counted in the ward they attend.
+_Sacrament Meeting._ Attendance at sacrament meeting is recorded each week by the ward clerk or an assistant ward clerk. The count is the number attending the meeting in-person or by streaming, including visitors. Ward members who are not present because they have another assignment or are attending another ward are counted in the ward they attend.
 
-*Sunday Quorum and Organization Meetings.* Attendance is recorded each week by quorum and organization secretaries and advisers. Youth leaders may also assist in recording attendance. The count is the number attending the meeting in-person or by streaming, including visitors. Members who are serving in the Primary or as youth leaders within the ward are also included as attending. Members who are attending another ward are counted in the ward they attend.
+_Sunday Quorum and Organization Meetings._ Attendance is recorded each week by quorum and organization secretaries and advisers. Youth leaders may also assist in recording attendance. The count is the number attending the meeting in-person or by streaming, including visitors. Members who are serving in the Primary or as youth leaders within the ward are also included as attending. Members who are attending another ward are counted in the ward they attend.
 
 The ward clerk can record attendance on behalf of any organization.
 

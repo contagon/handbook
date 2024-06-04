@@ -60,8 +60,8 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of
 
 | Ordinance | Who Holds Keys |
 | --- | --- |
-| Baptism | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities) Mission president (for converts) |
-| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities) Mission president (for converts) |
+| Baptism | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)<br/>Mission president (for converts) |
+| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)<br/>Mission president (for converts) |
 | Conferral of the Melchizedek Priesthood and ordination to an office (for men) | Stake president |
 | Temple endowment | Bishop and stake president |
 | Temple sealing | Bishop and stake president |
@@ -340,7 +340,7 @@ Although the sacrament is for members of the Church, nothing should be done to p
 6. After the prayer, priesthood holders reverently pass the bread to the members. The presiding leader receives it first, after which there is no set order. Once a tray is handed to members, they may pass it to one another.
 7. Members partake with their right hand when possible.
 8. When the bread has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those blessing the sacrament place a cloth over the bread trays and uncover the water trays.
-9. The person blessing the water kneels and says the sacrament prayer for the water (see [Doctrine and Covenants 20:79](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p79#p79)). He uses the word *water* instead of *wine*.
+9. The person blessing the water kneels and says the sacrament prayer for the water (see [Doctrine and Covenants 20:79](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p79#p79)). He uses the word _water_ instead of _wine_.
 10. After the prayer, priesthood holders reverently pass the water to the members. The presiding leader receives it first, after which there is no set order.
 11. When the water has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those who blessed the sacrament place a cloth over the trays, and those who blessed and passed the sacrament reverently take their seats.
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
@@ -469,7 +469,7 @@ A person’s current legal name should be used on the ordination record and cert
 
 Members who are called and sustained to most Church positions should be set apart to serve in that position (see [John 15:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng&id=p16#p16); [Doctrine and Covenants 42:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11); see also [3.4.3.1](3-priesthood-principles.md#3431-setting-apart) in this handbook). During the setting apart, the person is given (1) authority to act in the calling and (2) words of blessing as guided by the Spirit.
 
-Stake presidents, bishops, and quorum presidents receive keys of presidency when they are set apart (see [3.4.1.1](3-priesthood-principles.md#3411-those-who-hold-priesthood-keys)). However, the word *keys* should not be used when setting apart members to serve in other callings, including counselors in presidencies.
+Stake presidents, bishops, and quorum presidents receive keys of presidency when they are set apart (see [3.4.1.1](3-priesthood-principles.md#3411-those-who-hold-priesthood-keys)). However, the word _keys_ should not be used when setting apart members to serve in other callings, including counselors in presidencies.
 
 For information about calling, ordaining, and setting apart bishops, see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops).
 
@@ -667,7 +667,7 @@ For information on the temple endowment and sealing ordinances, see [chapter 27
 | --- | --- | --- | --- | --- |
 | Patriarch | Stake presidency | Quorum of the Twelve Apostles | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve Apostles; or a member of the First Presidency or Quorum of the Twelve Apostles |
 | High priest | Bishop and stake presidency | Stake presidency and high council | Members in stake conference | Interviewed by the bishop and by the stake president or an assigned counselor; ordained under the direction of the stake president |
-| Elder | Bishop | Stake presidency and high council | Members in stake conference or district conference | Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)) Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
+| Elder | Bishop | Stake presidency and high council | Members in stake conference or district conference | Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents))<br/>Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
 | Bishop | Stake presidency, using [LCR](http://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
 | Priest | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop; ordained under the direction of the bishop |
 | Teacher or deacon | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop or an assigned counselor; ordained under the direction of the bishop |

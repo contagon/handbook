@@ -34,7 +34,7 @@ The stake president provides guidance to bishops and other leaders in the stake.
 
 The stake presidency presides over all who hold the Melchizedek Priesthood in the stake.
 
-*Stake High Priests Quorum.* The stake president is the president of the stake high priests quorum. He and his counselors are the presidency of that quorum. The stake high priests quorum consists of the following additional high priests:
+_Stake High Priests Quorum._ The stake president is the president of the stake high priests quorum. He and his counselors are the presidency of that quorum. The stake high priests quorum consists of the following additional high priests:
 
 * Bishops and their counselors
 * High councilors
@@ -42,9 +42,9 @@ The stake presidency presides over all who hold the Melchizedek Priesthood in th
 
 Members of the high priests quorum attend elders quorum meetings in their ward if they are not assigned elsewhere.
 
-*Elders Quorums.* The stake presidency has responsibility for elders quorums (see [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency)).
+_Elders Quorums._ The stake presidency has responsibility for elders quorums (see [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency)).
 
-*Melchizedek Priesthood Ordinations.* The stake president oversees the conferral of the Melchizedek Priesthood. He also oversees ordinations to the offices of elder and high priest (see [18.10.4](18-priesthood-ordinances-and-blessings.md#18104-who-performs-the-ordinance)).
+_Melchizedek Priesthood Ordinations._ The stake president oversees the conferral of the Melchizedek Priesthood. He also oversees ordinations to the offices of elder and high priest (see [18.10.4](18-priesthood-ordinances-and-blessings.md#18104-who-performs-the-ordinance)).
 
 #### 6.2.1.2 Bishoprics
 
@@ -74,11 +74,11 @@ The stake presidency plans the stake meetings listed in [29.3](29-meetings-in-th
 
 The stake president’s responsibilities for callings and releases are outlined in [chapter 30](30-callings-in-the-church.md). He may assign his counselors and high councilors to extend callings and releases as outlined in [30.8](30-callings-in-the-church.md#308-chart-of-callings). The stake president personally extends the following callings. For some, he must first receive approval as noted.
 
-* *Counselors in the Stake Presidency.* When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
-* *Stake Patriarch.* The stake president may interview, call, and ordain a patriarch after receiving approval from the Quorum of the Twelve Apostles. See [6.6.1](6-stake-leadership.md#661-calling-sustaining-and-ordaining-a-stake-patriarch).
-* *Bishops.* The stake president recommends brethren to be called as bishops. He also recommends their release. He submits recommendations through [LCR](https://lcr.churchofjesuschrist.org). He may call, ordain, and set apart a bishop—or release a bishop—after receiving approval from the First Presidency. He also bestows the priesthood keys associated with this calling. See [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops).
-* *Elders Quorum Presidents.* The stake president calls and sets apart elders quorum presidents. He first consults with bishops. He also bestows the priesthood keys associated with this calling. See [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency).
-* *Stake Relief Society President.* The stake president calls and sets apart the stake Relief Society president.
+* _Counselors in the Stake Presidency._ When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
+* _Stake Patriarch._ The stake president may interview, call, and ordain a patriarch after receiving approval from the Quorum of the Twelve Apostles. See [6.6.1](6-stake-leadership.md#661-calling-sustaining-and-ordaining-a-stake-patriarch).
+* _Bishops._ The stake president recommends brethren to be called as bishops. He also recommends their release. He submits recommendations through [LCR](https://lcr.churchofjesuschrist.org). He may call, ordain, and set apart a bishop—or release a bishop—after receiving approval from the First Presidency. He also bestows the priesthood keys associated with this calling. See [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops).
+* _Elders Quorum Presidents._ The stake president calls and sets apart elders quorum presidents. He first consults with bishops. He also bestows the priesthood keys associated with this calling. See [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency).
+* _Stake Relief Society President._ The stake president calls and sets apart the stake Relief Society president.
 
 Stake presidents who are not able to use [LCR](https://lcr.churchofjesuschrist.org) should contact the area office to make recommendations when needed.
 
