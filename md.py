@@ -3,7 +3,6 @@ import requests
 from markdownify import MarkdownConverter
 from markdownify import ATX
 import re
-from tqdm import tqdm
 
 # TODO: Fix images
 # TODO: Make other links to handbooks work locally??
@@ -11,15 +10,27 @@ from tqdm import tqdm
 TITLE_NUM_REGEX = "(\d{1,2}(\.?\d{0,2}){0,3})"
 
 
-class HandbookConverter:
+class HandbookConverter(MarkdownConverter):
+    def convert_td(self, el, text, convert_as_inline):
+        colspan = 1
+        if "colspan" in el.attrs:
+            colspan = int(el["colspan"])
+
+        # HACK For some reason, LDS.org repeats the header in each row of a table... remove it
+        return " " + text.strip().split("\n\n")[-1] + " |" * colspan
+        return " " + text.strip().replace("\n", " ") + " |" * colspan
+
+
+class HandbookDownloader:
     def __init__(self, dir=""):
         self.cache = {}  # map section # to header slug
         self.files = {}  # map filename to markdown
-        self.converter = MarkdownConverter(heading_style=ATX)
+        self.converter = HandbookConverter(heading_style=ATX)
 
     def cache_headers(self, text, filename):
         # Match of the form "## 1.1.1 Title"
         headers = re.findall(f"(#+) {TITLE_NUM_REGEX} (.*)", text)
+        # Cache them to replace links later
         for _, num, _, title in headers:
             # https://stackoverflow.com/a/68227813
             # Create what the link to each header will be
@@ -48,12 +59,12 @@ class HandbookConverter:
 
         # Save & clean title
         header = body.find("header")
-        final = self.md(header)
+        final = self.convert(header)
         final += "\n\n"
 
         # Save & clean body
         text = body.find("div", {"class": "body-block"})
-        text = self.md(text)
+        text = self.convert(text)
         final += text
 
         # Get all header, save for link replacement later
@@ -63,7 +74,7 @@ class HandbookConverter:
 
         return final
 
-    def md(self, soup):
+    def convert(self, soup):
         text = self.converter.convert_soup(soup).strip()
         text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
 
@@ -83,7 +94,9 @@ class HandbookConverter:
         return text
 
     def process_links(self):
-        def slug(match):
+        # Sanitize all links
+
+        def process(match):
             name = match.group(1).strip()
             link = match.group(2)
 
@@ -96,7 +109,7 @@ class HandbookConverter:
                     return f"[{name}]({self.cache[num]})"
                 else:
                     print(f"Missing num : {name}, {k}")
-                    return match.group(0)
+                    return f"[{name}](https://www.churchofjesuschrist.org{link})"
             # If it's a relative link
             elif link.startswith("/"):
                 return f"[{name}](https://www.churchofjesuschrist.org{link})"
@@ -112,65 +125,10 @@ class HandbookConverter:
                 return match.group(0)
 
         for k in self.files.keys():
-            self.files[k] = re.sub(r"\[(.*?)\]\((.*?)\)", slug, self.files[k])
+            self.files[k] = re.sub(r"\[(.*?)\]\((.*?)\)", process, self.files[k])
 
     def write_files(self, dir="."):
+        # Save all files to a directory
         for k, v in self.files.items():
             with open(f"{dir}/{k}", "w") as f:
                 f.write(v)
-
-
-urls = [
-    "0-introductory-overview",
-    "1-work-of-salvation-and-exaltation",
-    "2-supporting-individuals-and-families",
-    "3-priesthood-principles",
-    "4-leadership-in-the-church-of-jesus-christ",
-    "5-general-and-area-leadership",
-    "6-stake-leadership",
-    "7",
-    "8-elders-quorum",
-    "9-relief-society",
-    "10-aaronic-priesthood",
-    "11-young-women",
-    "12-primary",
-    "13-sunday-school",
-    "14-single-members",
-    "15-seminaries-and-institutes",
-    "16-living-the-gospel",
-    "17-teaching-the-gospel",
-    "18-priesthood-ordinances-and-blessings",
-    "19-music",
-    "20-activities",
-    "21-ministering",
-    "22-providing-for-temporal-needs",
-    "23",
-    "24",
-    "25-temple-and-family-history-work",
-    "26-temple-recommends",
-    "27-temple-ordinances-for-the-living",
-    "28",
-    "29-meetings-in-the-church",
-    "30-callings-in-the-church",
-    "31",
-    "32-repentance-and-membership-councils",
-    "33-records-and-reports",
-    "34-finances-and-audits",
-    "35",
-    "36-creating-changing-and-naming-new-units",
-    "37-specialized-stakes-wards-and-branches",
-    "38-church-policies-and-guidelines",
-]
-prefix = "https://www.churchofjesuschrist.org/study/manual/general-handbook/"
-urls = [f"{prefix}{u}" for u in urls]
-
-converter = HandbookConverter()
-
-for u in tqdm(urls):
-    converter.add_page(u)
-
-converter.process_links()
-converter.write_files("handbook")
-# from pprint import pprint as print
-
-# print(converter.cache)
