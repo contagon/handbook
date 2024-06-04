@@ -1,4 +1,3 @@
-!  Imagemen looking at computer
 # 33. Records and Reports
 
 ## 33.0 Introduction
@@ -58,7 +57,7 @@ The stake president oversees stake record keeping. He may delegate much of this 
 
 Every stake should have a qualified, functioning stake clerk. He is called and set apart by a member of the stake presidency. He should hold the Melchizedek Priesthood and have a current temple recommend. He is a member of the stake council. He attends stake meetings as indicated in [29.3](29-meetings-in-the-church.md#293-stake-meetings).
 
-The stake clerk is instructed by the stake presidency and works under their direction. Assistant stake clerks may be called to help (see [33.3.3](33-records-and-reports.md#3333-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-assistant-stake-clerks)).
+The stake clerk is instructed by the stake presidency and works under their direction. Assistant stake clerks may be called to help (see [33.3.3](33-records-and-reports.md#3333-ao-assistant-stake-clerks)).
 
 #### 33.3.2.1 Record-Keeping Responsibilities
 
@@ -100,7 +99,7 @@ See [33.6.19](33-records-and-reports.md#33619-audits-of-membership-records) and 
 
 See [33.7](33-records-and-reports.md#337-historical-records).
 
-### 33.3.3 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Assistant Stake Clerks
+### 33.3.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Assistant Stake Clerks
 
 The stake president or an assigned counselor may call and set apart one or more assistant stake clerks as needed. These brethren should be Melchizedek Priesthood holders who have a current temple recommend. They work under the guidance of the stake presidency and the stake clerk.
 
@@ -120,7 +119,7 @@ The bishop oversees ward record keeping. He may delegate much of this work to hi
 
 Every ward should have a qualified, functioning ward clerk. He is recommended by the bishopric and called and set apart by a member of the stake presidency or an assigned high councilor. He should hold the Melchizedek Priesthood and have a current temple recommend. He is a member of the ward council. He attends ward meetings as indicated in [29.2](29-meetings-in-the-church.md#292-ward-meetings).
 
-The ward clerk works under the direction of the bishopric. Assistant ward clerks may be called to help (see [33.4.3](33-records-and-reports.md#3343-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-assistant-ward-clerks)).
+The ward clerk works under the direction of the bishopric. Assistant ward clerks may be called to help (see [33.4.3](33-records-and-reports.md#3343-ao-assistant-ward-clerks)).
 
 #### 33.4.2.1 Record-Keeping Responsibilities
 
@@ -147,8 +146,6 @@ Other record-keeping duties may include:
 * Recording information for ward membership councils (see [32.9.6](32-repentance-and-membership-councils.md#3296-stake-or-ward-clerk)).
 * Maintaining financial records (see [34.2.2](34-finances-and-audits.md#3422-ward-clerks)).
 
-!  Imagebaby blessing
-
 #### 33.4.2.2 Instructing Clerks and Secretaries
 
 The ward clerk instructs assistant ward clerks and quorum and organization secretaries.
@@ -163,7 +160,7 @@ This instruction is especially important when:
 
 See [33.7](33-records-and-reports.md#337-historical-records).
 
-### 33.4.3 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Assistant Ward Clerks
+### 33.4.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Assistant Ward Clerks
 
 Assistant ward clerks may be called as needed. They are recommended by the bishopric and called and set apart by a member of the stake presidency or an assigned high councilor. These brethren should hold the Melchizedek or Aaronic Priesthood. They should also have a current temple recommend. If an assistant ward clerk is assigned to finances, he should hold the Melchizedek Priesthood. Assistant ward clerks work under the guidance of the bishopric and the ward clerk.
 
@@ -410,8 +407,6 @@ Keeping a history is a spiritual work that will strengthen the faith of those wh
 Stake and ward priesthood and organization leaders contribute stories using the [Unit History tool](https://unithistory.churchofjesuschrist.org) on ChurchofJesusChrist.org. Stake and ward clerks have the primary responsibility to organize and coordinate this effort. The stake presidency and bishopric may call a stake or ward history specialist to help. Additional instructions are available in the tool’s [Quick Start Guide](https://unithistory.churchofjesuschrist.org/help/quick-start-guide).
 
 Members may use the Unit History tool to view stories that have been published by their ward and stake leaders. Published stories are automatically preserved by the Church.
-
-!  Imagefamily carrying hay
 
 ### 33.7.2 Church History
 

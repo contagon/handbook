@@ -1,4 +1,3 @@
-!  Imageseminary class
 # 13. Sunday School
 
 ## 13.1 Purpose
@@ -25,7 +24,7 @@ The bishop calls and sets apart a Melchizedek Priesthood holder to be the ward S
 
 A member of the bishopric presents Sunday School presidency members in sacrament meeting for sustaining by ward members. A member of the bishopric also sets them apart.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance if desired.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance if desired.
 
 #### 13.2.2.2 Responsibilities
 
@@ -65,8 +64,6 @@ At least two responsible adults should be present in each youth class. The adult
 
 All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
 
-!  Imageyouth Sunday School class
-
 ### 13.3.1 Small Branches
 
 In a small branch, the Sunday School president may be the only Sunday School leader and teacher. He teaches a Sunday School class for all youth and adults in the branch.
@@ -100,13 +97,11 @@ The ward council may organize teacher council meetings for parents during the 50
 
 For more information about teacher council meetings for parents, see [17.5](17-teaching-the-gospel.md#175-teacher-council-meetings-for-parents).
 
-!  Imageadult Sunday School class
-
 ## 13.6 Stake Sunday School Leaders
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also calls and sets apart a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies) and [6.7.3](6-stake-leadership.md#673-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-organization-secretaries). If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies) and [6.7.3](6-stake-leadership.md#673-ao-stake-organization-secretaries). If counselors are called, they assist him.
 
 ## 13.7 Additional Guidelines
 

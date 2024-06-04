@@ -1,4 +1,3 @@
-!  Imagefamily photo
 # 2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation
 
 ## 2.0 Introduction
@@ -67,8 +66,6 @@ Presiding in the family is the responsibility to help lead family members back t
 
 “In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners” (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&id=p7#p7)”). They prayerfully counsel together and with the Lord.
 
-!  Imagedad teaching family
-
 ## 2.2 God’s Work of Salvation and Exaltation in the Home
 
 The First Presidency said, “The home is the basis of a righteous life” (First Presidency letter, Feb. 11, 1999). In their homes, individuals and families engage in helping God accomplish His work of salvation and exaltation.
@@ -124,8 +121,6 @@ Leaders encourage members to be consistent in holding home evening and spending 
 ### 2.2.5 Supporting Individuals
 
 Church leaders assist members who need additional support. Leaders help these members and their families have opportunities for fellowship, wholesome social experiences, and spiritual growth. Leaders encourage and assist them in their efforts to learn and live the gospel of Jesus Christ. Leaders also give them opportunities to serve in the Church.
-
-!  Imagecouple laughing
 
 ## 2.3 The Relationship between the Home and the Church
 

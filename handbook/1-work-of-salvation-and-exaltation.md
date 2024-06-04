@@ -1,4 +1,3 @@
-!  Imagemen building house
 # 1. God’s Plan and Your Role in His Work of Salvation and Exaltation
 
 ## 1.0 Introduction
@@ -47,8 +46,6 @@ Living the gospel of Jesus Christ includes:
 * Exercising faith in Christ, repenting daily, making covenants with God as we receive the ordinances of salvation and exaltation, and enduring to the end by keeping those covenants (see [3.5.1](3-priesthood-principles.md#351-covenants)).
 * Learning and teaching the gospel of Jesus Christ at home and at church.
 * Becoming self-reliant in providing for ourselves and our families, both spiritually and temporally.
-
-!  Imagesister missionaries teaching woman
 
 ### 1.2.2 Caring for Those in Need
 
@@ -112,8 +109,6 @@ Through callings and assignments in the Church, God gives members opportunities 
 ### 1.3.7 A Community of Saints
 
 As a community of Saints, Church members gather regularly to worship God and to remember the Savior by partaking of the sacrament (see [Moroni 6:4–6](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=eng&id=p4-p6#p4); [Doctrine and Covenants 20:77](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p77#p77)). Members also care for and minister to one another (see [Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=eng&id=p19#p19)).
-
-!  Imagetemple, Tijuana Mexico
 
 ## 1.4 Your Role in God’s Work
 

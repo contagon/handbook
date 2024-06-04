@@ -1,4 +1,3 @@
-!  Imagecouple praying
 # 16. Living the Gospel of Jesus Christ
 
 God’s work of salvation and exaltation focuses on four divinely appointed responsibilities (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). The first of these is living the gospel of Jesus Christ. We live the gospel as we:

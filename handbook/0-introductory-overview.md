@@ -33,8 +33,8 @@ The headings and subheadings in this handbook are numbered to make topics easy t
 
 Not all stakes and wards have the same needs. This handbook contains guidelines for adaptation as well as optional resources:
 
-* _Guidelines for adaptation_ (!  ) provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
-* _Optional resources_ (!  ) contain additional information and direction that may be helpful to stake and ward leaders.
+* _Guidelines for adaptation_ () provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
+* _Optional resources_ () contain additional information and direction that may be helpful to stake and ward leaders.
 
 Leaders seek inspiration about which guidelines and optional resources to use to meet members’ needs.
 

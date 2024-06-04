@@ -1,4 +1,3 @@
-!  Imagemen talking
 # 32. Repentance and Church Membership Councils
 
 ## 32.0 Introduction
@@ -85,7 +84,6 @@ The third purpose is to protect the integrity of the Church. Restricting or with
 
 ## 32.3 The Role of Judges in Israel
 
-!  Imagebishop talking to man
 Bishops and stake presidents are called and set apart to be judges in Israel (see [Doctrine and Covenants 107:72–74](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p72-p74#p72)). They hold priesthood keys to represent the Lord in helping Church members repent (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=eng&id=p1#p1); [107:16–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p16-p18#p16)).
 
 Often bishops and stake presidents assist with repentance through personal counseling. This assistance may include informally restricting some privileges of Church membership for a time. (See [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions).)
@@ -111,8 +109,6 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 “And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.
 
 “And how great is his joy in the soul that repenteth!”
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ## 32.4 Confession, Confidentiality, and Reporting to Government Authorities
 
@@ -486,8 +482,6 @@ Spiritual guidance is needed to discern whether a person has sincerely repented.
 * Honesty with Church leaders and others.
 * Willingness to follow the counsel of Church leaders.
 
-!  Imagewoman praying
-
 ### 32.7.4 Violation of Temple Covenants
 
 The Lord declared, “For of him unto whom much is given much is required” ([Doctrine and Covenants 82:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p3#p3)). A person who has received the temple endowment has made covenants to live a higher standard. Violating these covenants magnifies the seriousness of the sin. It increases the likelihood of a membership council being necessary.
@@ -569,8 +563,6 @@ After a member has confessed to a bishop or stake president, follow-up counselin
 With the member’s consent, a bishop or stake president may assign members of the elders quorum or Relief Society to assist in specific ways. For youth, he may assign the Young Women presidency or Aaronic Priesthood quorum advisers to assist. Those who are assigned to assist are entitled to inspiration to fulfill that assignment (see [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-prepare-others-to-be-leaders-and-teachers)).
 
 When assigning someone to assist with follow-up counseling, the leader gives only enough information necessary to help the member. The assigned person must maintain confidentiality. He or she also informs the bishop of the member’s progress and needs.
-
-!  Imagewoman praying
 
 ### 32.8.2 Helping People Address Addictions and Pornography Use
 
@@ -772,8 +764,6 @@ Possible decisions from membership councils are outlined in the following sectio
 ### 32.11.1 Remains in Good Standing
 
 In some instances, a person may be innocent and remains in good standing. In some instances, a person may have committed the sin, repented sincerely, and be in good standing. The bishop or stake president may give counsel and caution about future actions. After the council, he continues to give support as needed.
-
-!  Imagecouple sitting together
 
 ### 32.11.2 Personal Counseling with the Bishop or Stake President
 
@@ -1071,8 +1061,6 @@ When a membership council is necessary for a person who had received the temple 
 If the person engaged in any of the conduct in [32.16.1, number 9](32-repentance-and-membership-councils.md#32161-membership-councils-to-remove-formal-restrictions-or-readmit-a-person), either before or after resigning Church membership, First Presidency approval is required for readmission. If the person engaged in any of the conduct in [32.14.5, number 1](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations), either before or after resigning membership, an annotation will be made on the membership record.
 
 A person who requests readmission must meet the same qualifications as others who are baptized. When the bishop or stake president is satisfied that the person is worthy and sincere in wanting to be readmitted, the person may be baptized and confirmed. A Baptism and Confirmation Certificate is not created (see [32.14.4](32-repentance-and-membership-councils.md#32144-records-after-readmission-to-the-church)).
-
-!  Imageman taking the sacrament
 
 ## 32.17 Church Activity, Ordination, and Restoration of Blessings after Readmission
 

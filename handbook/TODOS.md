@@ -1,3 +1,0 @@
-- Fix images
-- multiline tables: 22, 31, 32
-- footnotes: 30, 

@@ -1,4 +1,3 @@
-!  Imageward council meeting
 # 4. Leadership and Councils in the Church of Jesus Christ
 
 ## 4.0 Introduction
@@ -71,8 +70,6 @@ If you have been called or assigned to preside, follow the Savior’s teaching t
 
 It is not appropriate to aspire to preside in any organization in the Lord’s Church (see [Doctrine and Covenants 121:34–37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=eng&id=p34-p37#p34)). Rather, humbly and faithfully serve in the position to which you are called. Strive to do the Lord’s work with an eye single to His glory (see [Doctrine and Covenants 4:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng&id=p5#p5)).
 
-!  Imageward meeting
-
 ### 4.2.5 Delegate Responsibility and Ensure Accountability
 
 The Savior gave His disciples meaningful assignments and responsibilities (see [Luke 10:1](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=eng&id=p1#p1)). He also gave them an opportunity to account for the work they were given to do (see [Luke 9:10](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/9?lang=eng&id=p10#p10)).
@@ -117,8 +114,6 @@ Heavenly Father has established councils as an important part of receiving inspi
 Following this pattern, the Church of Jesus Christ is governed by councils at every level. For example, the Council of the First Presidency and Quorum of the Twelve Apostles (see [5.1.1.1](5-general-and-area-leadership.md#5111-first-presidency-and-quorum-of-the-twelve-apostles)), Area Presidencies (see [5.2.1](5-general-and-area-leadership.md#521-area-presidency)), stake presidencies, and bishoprics are all councils. In addition to stake and ward councils, each presidency of a Church organization, quorum, or class is also a council.
 
 The Lord has instructed the leaders of His Church to counsel together in doing His work (see [Doctrine and Covenants 41:2–3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=eng&id=p2-p3#p2)). Councils provide opportunities for council members to receive revelation as they seek to understand the needs of God’s children and plan how to help meet them.
-
-!  Imagetwo men talking
 
 ## 4.4 Principles of Effective Councils
 

@@ -1,4 +1,3 @@
-!  Imagefamily walking near temple
 # 18. Performing Priesthood Ordinances and Blessings
 
 ## 18.0 Introduction
@@ -41,8 +40,6 @@ Other ordinances and blessings make it possible for God’s children to receive 
 * Dedicating homes
 * Dedicating graves
 * Patriarchal blessings by ordained patriarchs
-
-!  Imagebaby being blessed
 
 ## 18.3 Participation in an Ordinance or Blessing
 
@@ -126,8 +123,6 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 5. Gives a blessing to the child as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ### 18.6.3 Child Record Form and Blessing Certificate
 
 Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
@@ -139,8 +134,6 @@ The name on the membership record and certificate should match the birth certifi
 Baptism by immersion in water by one having authority is necessary for a person to become a member of the Church and receive the Holy Ghost. All who seek exaltation must follow the example of the Savior by receiving these ordinances. (See [Matthew 3:13–17](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=eng&id=p13-p17#p13); [John 3:3–7](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p3-p7#p3); [Acts 2:37–38](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=eng&id=p37-p38#p37); [2 Nephi 31:5–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p5-p21#p5).)
 
 For information about baptism in special circumstances, see [38.2.8](38-church-policies-and-guidelines.md#3828-baptism-and-confirmation).
-
-!  Imageboy being baptized
 
 ### 18.7.1 Approval for a Person to Be Baptized and Confirmed
 
@@ -229,8 +222,6 @@ To perform the ordinance of baptism, a priest or Melchizedek Priesthood holder:
 5. Has the person hold his or her nose with the right hand (for convenience); then places his right hand high on the person’s back and immerses the person completely, including clothing. Immersion is easier if the person bends his or her knees.
 6. Helps the person to come up out of the water.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ### 18.7.8 Baptism Record
 
 For information about making a record of a baptism, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
@@ -248,8 +239,6 @@ The bishop oversees the confirmations of 8-year-old children of record. These ch
 The full-time missionaries coordinate with ward leaders to plan the confirmation of converts as noted in [18.7.2](18-priesthood-ordinances-and-blessings.md#1872-baptismal-services). Converts may be confirmed at the baptismal service or in sacrament meeting in the ward where they live as soon as possible after their baptism.
 
 New members are recognized and welcomed as a new member of the ward in the sacrament meeting after their confirmation (see [29.2.1.1](29-meetings-in-the-church.md#29211-planning-sacrament-meeting)).
-
-!  Imageyoung woman being confirmed
 
 ### 18.8.1 Who Performs the Ordinance
 
@@ -271,8 +260,6 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 4. States “receive the Holy Ghost” (not “receive the gift of the Holy Ghost”).
 5. Gives words of blessing as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
@@ -328,8 +315,6 @@ See [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life
 
 Although the sacrament is for members of the Church, nothing should be done to prevent others from partaking of it.
 
-!  Imageyoung man passing the sacrament
-
 ### 18.9.4 Instructions
 
 1. Those who prepare, bless, or pass the sacrament first wash their hands with soap or other cleanser.
@@ -344,8 +329,6 @@ Although the sacrament is for members of the Church, nothing should be done to p
 10. After the prayer, priesthood holders reverently pass the water to the members. The presiding leader receives it first, after which there is no set order.
 11. When the water has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those who blessed the sacrament place a cloth over the trays, and those who blessed and passed the sacrament reverently take their seats.
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ## 18.10 Conferring the Priesthood and Ordaining to an Office
 
@@ -418,8 +401,6 @@ Only members in good standing may participate in the sustaining. However, if a m
 
 In some cases, a brother may need to be ordained an elder or high priest before he can be presented in stake conference. When this happens, he is presented in his ward sacrament meeting for sustaining. He is then presented in the next stake conference to ratify the ordination (adapting the process for sustaining, described above). This includes giving stake members an opportunity to sustain or oppose the action.
 
-!  Imageman being ordained
-
 ### 18.10.4 Who Performs the Ordinance
 
 The stake president or a Melchizedek Priesthood holder under his direction may ordain a man to the office of elder. With approval from the mission president, the district president or someone under his direction may perform the ordination (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)). Only Melchizedek Priesthood holders may stand in the circle.
@@ -450,8 +431,6 @@ To confer the priesthood and ordain a person to a priesthood office, one or more
 To ordain a person to a priesthood office after he has already had the appropriate priesthood conferred upon him, the person who performs the ordination omits step 3.
 
 An ordination is an opportunity to give a blessing. Detailed counsel and instruction about a person’s duties are given before and after the ordination. They should not be the focus of the blessing. It is not necessary to have prayers, testimonies, or instruction when someone is ordained.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ### 18.10.6 Ordination Record and Certificate
 
@@ -498,7 +477,7 @@ A setting apart is not a formal meeting with prayers or testimonies. Nor is it a
 
 Melchizedek Priesthood holders must consecrate olive oil before it is used to anoint the sick or afflicted (see [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng&id=p14#p14)). No other oil may be used.
 
-!   Oil vials are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
+ Oil vials are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
 Members should not consume consecrated oil or apply it on afflicted parts of the body.
 
@@ -516,8 +495,6 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 4. Consecrates the oil (not the container) and sets it apart for anointing and blessing the sick and afflicted.
 5. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ## 18.13 Administering to the Sick
 
 Usually, administering to the sick should be done at the request of the person receiving the blessing or at the request of others who are concerned so the blessing will be according to their faith (see [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng&id=p14#p14); [Doctrine and Covenants 24:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=eng&id=p13-p14#p13); [42:43–44, 48–52](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p43-p44,48-p52#p43)).
@@ -527,8 +504,6 @@ Administering to the sick “by the laying on of hands” has two parts: anointi
 If a person requests more than one blessing for the same illness, another anointing is not necessary. A priesthood holder can give another blessing by the laying on of hands and the authority of the Melchizedek Priesthood. However, another anointing may also be done.
 
 Priesthood holders who visit hospitals should not solicit opportunities to administer to the sick.
-
-!  Imagewoman receiving a priesthood blessing
 
 ### 18.13.1 Who Gives the Blessing
 
@@ -555,8 +530,6 @@ To seal the anointing, one or more Melchizedek Priesthood holders place their ha
 3. Gives words of blessing as guided by the Spirit.
 4. Closes in the name of Jesus Christ.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ## 18.14 Blessings of Comfort and Counsel, Including Father’s Blessings
 
 ### 18.14.1 Who Gives the Blessing
@@ -575,8 +548,6 @@ To give a blessing of comfort and counsel or a father’s blessing, one or more 
 2. States that the blessing is being performed by the authority of the Melchizedek Priesthood.
 3. Gives words of blessing, comfort, and counsel as guided by the Spirit.
 4. Closes in the name of Jesus Christ.
-
-!  Imagemissionaries giving a blessing to a woman
 
 ## 18.15 Dedicating Homes
 
@@ -621,8 +592,6 @@ To dedicate a grave, a Melchizedek Priesthood holder:
 
 If a Church member’s body is cremated, the presiding leader uses his judgment to decide whether to dedicate the place where the ashes are kept. He takes into account the family’s wishes and local customs and laws. The brother who acts as voice adapts the instructions for dedicating a grave.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ## 18.17 Patriarchal Blessings
 
 Every worthy, baptized member is entitled to receive a patriarchal blessing, which provides inspired direction from Heavenly Father (see [Genesis 48:14–16](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=eng&id=p14-p16#p14); [49](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng); [2 Nephi 4:3–11](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=eng&id=p3-p11#p3)). Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings.
@@ -646,8 +615,6 @@ A person who receives a patriarchal blessing should treasure its words, ponder t
 Church members should not compare blessings and should not share them except with close family members. Patriarchal blessings should not be read in Church meetings or other public gatherings.
 
 If a patriarchal blessing does not include a declaration of lineage, the patriarch may later give an addendum to declare lineage.
-
-!  Imagewoman receiving a priesthood blessing
 
 ### 18.17.2 Obtaining Copies of Patriarchal Blessings
 

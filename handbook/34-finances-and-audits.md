@@ -1,4 +1,3 @@
-!  Imagechild holding envelope
 # 34. Finances and Audits
 
 ## 34.0 Introduction
@@ -50,7 +49,7 @@ The clerk has the following responsibilities:
 * Participate in financial audits by stake auditors and take corrective actions if needed (see [34.7](34-finances-and-audits.md#347-audits)).
 * Assist bishoprics with training ward clerks.
 
-Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling stake clerks, see [33.3.2](33-records-and-reports.md#3332-stake-clerk) and [33.3.3](33-records-and-reports.md#3333-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-assistant-stake-clerks).
+Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling stake clerks, see [33.3.2](33-records-and-reports.md#3332-stake-clerk) and [33.3.3](33-records-and-reports.md#3333-ao-assistant-stake-clerks).
 
 ## 34.2 Ward Financial Leadership
 
@@ -83,7 +82,7 @@ The clerk has the following responsibilities:
 * Help the bishop prepare and record tithing declarations.
 * Participate in financial audits by stake auditors and take corrective actions if needed (see [34.7](34-finances-and-audits.md#347-audits)).
 
-Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling ward clerks, see [33.4.2](33-records-and-reports.md#3342-ward-clerk) and [33.4.3](33-records-and-reports.md#3343-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-assistant-ward-clerks).
+Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling ward clerks, see [33.4.2](33-records-and-reports.md#3342-ward-clerk) and [33.4.3](33-records-and-reports.md#3343-ao-assistant-ward-clerks).
 
 ## 34.3 Contributions
 
@@ -118,13 +117,11 @@ During tithing declaration, the bishop expresses appreciation to members for the
 
 Instructions for tithing declaration are provided by Church headquarters or the assigned area office.
 
-!  Imagefamily talking to man
-
 ### 34.3.2 Fast Offerings
 
 Church leaders encourage members to live the law of the fast. This includes giving a generous fast offering (see [22.2.2](22-providing-for-temporal-needs.md#2222-the-law-of-the-fast-and-fast-offerings)).
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In some wards, the bishop may authorize Aaronic Priesthood holders to collect fast offerings. In deciding this, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In some wards, the bishop may authorize Aaronic Priesthood holders to collect fast offerings. In deciding this, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
 
 Priesthood holders should go in pairs when gathering fast offerings. They deliver fast offerings promptly to a member of the bishopric.
 
@@ -164,7 +161,7 @@ Telephone: 1-801-356-5300 or 1-800-525-8074
 
 Email: [philanthropies@ChurchofJesusChrist.org](mailto:philanthropies@churchofjesuschrist.org)
 
-### 34.3.6 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) In-Kind Donations, Including Tithing
+### 34.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In-Kind Donations, Including Tithing
 
 The Church normally discourages making in-kind contributions (non-monetary) as tithing and other offerings. It is preferable for members to dispose of the property themselves and then pay tithing and other donations monetarily. However, in-kind donations may be accepted in certain cases. Such donations may be a common practice in some areas of the world.
 
@@ -185,8 +182,6 @@ The amount of tithing and other offerings paid by a donor is confidential. Only 
 ## 34.5 Handling Church Funds
 
 The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ### 34.5.1 Companionship Principle
 
@@ -228,15 +223,13 @@ Members who are responsible for Church funds must never leave them in the meetin
 
 Donor Statements of Contributions are available to all members at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org). Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org), from the local unit, or from the area office.
 
-!  Imagewoman writing
-
 ### 34.5.7 Managing Stake and Ward Payments
 
 All stake funds are managed in Church financial systems. The stake president manages the stake finances. His counselors and clerks may assist him. The counselor who serves as chairman of the stake audit committee generally should not be involved in stake financial record keeping.
 
 All ward funds are managed in Church financial systems. The bishop manages the ward finances. His counselors and clerks may assist him.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Payments are generally made by electronic funds transfer or by check. In some areas, units may be approved to use bank cards.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Payments are generally made by electronic funds transfer or by check. In some areas, units may be approved to use bank cards.
 
 No stake or ward expenses may be incurred or paid without the presiding officer’s authorization.
 
@@ -252,21 +245,21 @@ Authorized leaders and clerks should not approve payments without carefully revi
 
 Stakes and wards may not open their own bank accounts or maintain a petty cash fund.
 
-#### 34.5.7.1 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Electronic Payments
+#### 34.5.7.1 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Electronic Payments
 
 If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org). The ward or stake should never keep physical or electronic copies of members’ bank account information details.
 
-#### 34.5.7.2 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Checks
+#### 34.5.7.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Checks
 
 If the stake or ward uses checks, a check should not be signed until it is filled out completely. Checkbooks and blank checks should be stored in a locked file or cabinet. They must not be left unattended when they are not locked securely. If any blank checks are missing, the stake president or bishop immediately reports the numbers of those checks to Church headquarters or the area office.
 
-#### 34.5.7.3 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Payment Cards
+#### 34.5.7.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Payment Cards
 
 If the stake or ward uses payment cards for local unit expenses, they may be used for point-of-sale transactions or for withdrawing cash. The card transactions and cash withdrawals are automatically uploaded to Church financial systems. All uses of the card should be promptly recorded. If these uses are not recorded, the card may be disabled.
 
 All payment card balances should be brought to zero at least annually.
 
-### 34.5.8 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Cash Boxes
+### 34.5.8 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Cash Boxes
 
 The area office provides specific guidelines for units that do not have access to a Church-provided bank account.
 

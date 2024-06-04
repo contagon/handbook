@@ -1,4 +1,3 @@
-!  Imagefamily holding scriptures
 # 12. Primary
 
 ## 12.1 Purpose and Organization
@@ -30,9 +29,9 @@ Nursery leaders love, teach, and minister to the children. They also ensure thei
 
 At least two people should be called for each nursery class. If the nursery leaders are not husband and wife, they should be the same gender.
 
-Nursery lasts the entire time scheduled for Primary. For more information, see [12.1.4](12-primary.md#1214-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-classes) and [12.3.5](12-primary.md#1235-teachers-and-nursery-leaders).
+Nursery lasts the entire time scheduled for Primary. For more information, see [12.1.4](12-primary.md#1214-ao-classes) and [12.3.5](12-primary.md#1235-teachers-and-nursery-leaders).
 
-### 12.1.4 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Classes
+### 12.1.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Classes
 
 Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) curriculum. On fifth Sundays, teachers are encouraged to use “[Preparing Children for a Lifetime on God’s Covenant Path](https://www.churchofjesuschrist.org/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng).”
 
@@ -66,7 +65,6 @@ Singing time is different from class time. During singing time, children learn a
 
 The Primary presidency and music leader select songs for each month to reinforce gospel principles the children are learning in their classes and at home. Songs that reinforce these principles are also suggested in [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng).
 
-!  Imagechildren singing
 For more information, see “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation](https://www.churchofjesuschrist.org/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng).” See also [12.1.6](12-primary.md#1216-childrens-sacrament-meeting-presentation) and [12.3.4](12-primary.md#1234-music-leader-and-pianist) in this handbook.
 
 ### 12.1.6 Children’s Sacrament Meeting Presentation
@@ -75,7 +73,7 @@ The annual children’s sacrament meeting presentation is held during the last f
 
 The Primary presidency and music leader prayerfully plan the presentation. The bishopric gives direction. Children may sing, give talks, and share stories, scriptures, or testimonies.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The presentation may take all or part of the meeting time after the sacrament. Units with few children may invite children’s family members to participate.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The presentation may take all or part of the meeting time after the sacrament. Units with few children may invite children’s family members to participate.
 
 Because of the sacredness of sacrament meeting, the presentation should not include visuals, costumes, or media presentations.
 
@@ -92,7 +90,7 @@ Parents have the primary responsibility to teach their children about the temple
 
 The meeting may be held during Primary on Sunday, at another time on Sunday, or at a different time. A member of the bishopric conducts. At least one member of the Primary presidency attends.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.
 
 For more information, see [Temple and Priesthood Preparation](https://www.churchofjesuschrist.org/callings/primary-organization/my-calling/temple-and-priesthood-preparation) on ChurchofJesusChrist.org.
 
@@ -123,8 +121,6 @@ Leaders should be sensitive to children who lack family support for gospel livin
 
 Parents and leaders strive to be good examples to children. They encourage children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org)).
 
-!  Imageboy and man sawing wood
-
 #### 12.2.1.2 Gospel Learning
 
 Primary leaders and teachers encourage children and their families to learn the gospel at home. These leaders and teachers study the gospel and share with the children what they learn. They invite children to share at church what they are learning at home.
@@ -140,7 +136,7 @@ Primary meetings for children ages 3–11 are held every Sunday for 50 minutes 
 | Transition to classes | 5 minutes |
 | Classes and closing prayer | 20 minutes |
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.
 
 Nursery for children ages 18 months to 3 years lasts 50 minutes. [Behold Your Little Ones](https://www.churchofjesuschrist.org/study/manual/behold-your-little-ones-nursery-manual?lang=eng) provides a suggested schedule. Children may start attending nursery when they are 18 months old.
 
@@ -152,7 +148,7 @@ Primary activity leaders plan service and activities that help children particip
 
 Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](http://safety.churchofjesuschrist.org); see also [20.7](20-activities.md#207-safety-policies-and-guidelines-for-activities) in this handbook). At least two responsible adult leaders should be present at all activities (see [12.5.1](12-primary.md#1251-safeguarding-children)).
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The following guidelines may be adapted to local circumstances:
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The following guidelines may be adapted to local circumstances:
 
 * Primary activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
 * Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.
@@ -200,8 +196,6 @@ Children can help unite families for eternity in many ways. Some of these ways a
 * Prepare to participate in baptisms and confirmations for the dead.
 * Participate in indexing with a family member (see [FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
 
-!  Imagewoman and child looking at computer
-
 ## 12.3 Ward Primary Leadership
 
 ### 12.3.1 Bishopric
@@ -212,7 +206,7 @@ The bishop and his counselors respond promptly to recommendations from the Prima
 
 The bishop and his counselors regularly attend Primary. They also learn the names and understand the home circumstances of each child in the ward.
 
-### 12.3.2 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Primary Presidency
+### 12.3.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Primary Presidency
 
 The bishop calls and sets apart an adult woman to serve as the ward Primary president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see [chapter 30](30-callings-in-the-church.md)). The bishopric considers her recommendations and extends the callings.
 
@@ -243,7 +237,7 @@ The Primary president has the following additional responsibilities. Her counsel
 * Help introduce the Children and Youth program to children turning 8 and to their parents. This could occur in their homes or their Primary class (see [12.5.7](12-primary.md#1257-introducing-the-children-and-youth-program)).
 * Oversee the records, reports, budget, and finances of Primary.
 
-### 12.3.3 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Secretary
+### 12.3.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Secretary
 
 If the unit is large enough, the Primary president recommends to the bishopric an adult woman to serve as the secretary. She has the following responsibilities:
 
@@ -261,10 +255,10 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 
 ### 12.3.4 Music Leader and Pianist
 
-The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly study of the scriptures as outlined in [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng). ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The following resources may be used:
+The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly study of the scriptures as outlined in [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The following resources may be used:
 
 * [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng)
-* Instructions for Singing Time and the Children’s Sacrament Meeting Program
+* [Instructions for Singing Time and the Children’s Sacrament Meeting Program](https://www.churchofjesuschrist.org/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation/instructions-for-singing-time?lang=eng)
 * [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook?lang=eng)
 * [Hymns](https://www.churchofjesuschrist.org/study/manual/hymns?lang=eng)
 * [Primary Music Collections](http://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
@@ -272,8 +266,7 @@ The music leader and pianist teach children the gospel of Jesus Christ through m
 
 The bishopric must approve the use of any other music in Primary.
 
-!  Imagechildren singing with chorister
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  If a pianist or piano is not available, leaders may use recordings from the following sources:
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) If a pianist or piano is not available, leaders may use recordings from the following sources:
 
 * Sacred Music app
 * Gospel Library app
@@ -308,21 +301,19 @@ Primary teachers and nursery leaders stay with the children throughout Primary, 
 
 Teachers and nursery leaders attend quarterly teacher council meetings (see [13.4](13-sunday-school.md#134-improving-learning-and-teaching-in-the-ward)).
 
-### 12.3.6 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Activity Leaders
+### 12.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Activity Leaders
 
 Primary activity leaders minister to children as they plan service and activities beginning in January of the year children turn 8 (see [12.2.1.3](12-primary.md#12213-service-and-activities)). Service and activities focus on God’s work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.
 
 Primary activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). (See [12.5.1](12-primary.md#1251-safeguarding-children).)
 
-## 12.4 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Primary Leaders
+## 12.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Primary Leaders
 
-The stake presidency calls an adult woman to serve as stake Primary president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Primary presidency and secretary, see [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies), [6.7.1.3](6-stake-leadership.md#6713-additional-stake-primary-presidency-responsibilities), and [6.7.3](6-stake-leadership.md#673-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-organization-secretaries).
+The stake presidency calls an adult woman to serve as stake Primary president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Primary presidency and secretary, see [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies), [6.7.1.3](6-stake-leadership.md#6713-additional-stake-primary-presidency-responsibilities), and [6.7.3](6-stake-leadership.md#673-ao-stake-organization-secretaries).
 
 A counselor in the stake presidency has responsibility for Primary in the stake. He also has responsibility for the work of the stake Primary presidency. He also instructs bishops in their responsibilities for Primary.
 
 The stake presidency assigns a high councilor to work with the stake Primary presidency (see [6.5](6-stake-leadership.md#65-high-council)).
-
-!  Imagechildren singing in sacrament meeting
 
 ## 12.5 Additional Guidelines and Policies
 
@@ -340,7 +331,7 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  For more information, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For more information, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 12.5.3 Men Serving in Primary
 
@@ -354,7 +345,7 @@ Leaders and teachers should encourage parents to take their children to the rest
 
 Leaders and teachers should be careful when acting out sacred events in Primary. Heavenly Father and the Holy Ghost are not portrayed. Children may portray the Savior only in a Nativity scene. For additional guidelines, see [20.5.6](20-activities.md#2056-portrayal-of-deity).
 
-### 12.5.6 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) CTR Rings
+### 12.5.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) CTR Rings
 
 When children begin the CTR 4 class, the Primary presidency and their Primary teacher remind them to “choose the right.” These leaders also give each child a green [CTR ring](https://store.churchofjesuschrist.org/usa/en/ctr-ring/5638675502.p).
 

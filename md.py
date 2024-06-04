@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from markdownify import MarkdownConverter
+from markdownify import MarkdownConverter, chomp
 from markdownify import ATX, UNDERSCORE
 import re
 
@@ -17,10 +17,23 @@ class HandbookConverter(MarkdownConverter):
         if "colspan" in el.attrs:
             colspan = int(el["colspan"])
 
-        text = text.strip().replace("\n", "<br/>")
-        text = re.sub(r"(?<!\\)\*", "•", text)
+        text = text.strip().replace("\n", "<br/>")  # replace newlines with breaks
+        text = re.sub(r"(?<!\\)\*", "•", text)  # replace asterisks with bullet points
 
         return " " + text + " |" * colspan
+
+    def convert_img(self, el, text, convert_as_inline):
+        """Don't bother with images"""
+        return ""
+
+    def convert_a(self, el, text, convert_as_inline):
+        """Handle links to adaption/optional resources differently"""
+        if not text and el.get("href").startswith(
+            "/study/manual/general-handbook/0-introductory-overview"
+        ):
+            return "[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)"
+
+        return super().convert_a(el, text, convert_as_inline)
 
 
 class HandbookDownloader:
@@ -34,12 +47,15 @@ class HandbookDownloader:
     def cache_headers(self, text, filename):
         # Match of the form "## 1.1.1 Title"
         headers = re.findall(f"(#+) {TITLE_NUM_REGEX} (.*)", text)
-        # Cache them to replace links later
+        # Cache them to replace links to handbook later
         for _, num, _, title in headers:
             # https://stackoverflow.com/a/68227813
             # Create what the link to each header will be
             slug_title = f"{num} {title.lower()}"
-            slug_title = re.sub("\s+", "-", slug_title)  # whitespace with -
+            slug_title = re.sub(
+                r"\[(.*?)\]\((.*?)\)", r"\1", slug_title
+            )  # replace links with their name
+            slug_title = re.sub("\s+", "-", slug_title)  # replace whitespace with -
             slug_title = re.sub(
                 "[\]\[\!'\#\$\%\&'\(\)\*\+\,\.\/\:\;\<\=\>\?\@\\\^\_\{\|\}\~\`。，、；：？’]",
                 "",
@@ -71,7 +87,7 @@ class HandbookDownloader:
         text = self.convert(text)
         final += text
 
-        # Get all header, save for link replacement later
+        # Get all header info, save for link replacement later
         self.cache_headers(final, filename)
 
         self.files[filename] = final
@@ -79,7 +95,7 @@ class HandbookDownloader:
         return final
 
     def convert(self, soup):
-        # Remove header in body of tables
+        # Remove extra header in body of tables
         for row in soup.find_all("tbody"):
             for extra in row.find_all("p", {"class": "label"}):
                 extra.decompose()
@@ -88,6 +104,12 @@ class HandbookDownloader:
         # To my knowledge, the only page with footnotes is 30.8
         for a in soup.find_all("a", {"class": "note-ref"}):
             a.decompose()
+
+        # Remove images
+        for img in soup.select('div[class*="imageWrapper-"]'):
+            img.decompose()
+        for img in soup.select('span[class*="imageWrapper-"]'):
+            img.decompose()
 
         text = self.converter.convert_soup(soup).strip()
         text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
@@ -130,9 +152,9 @@ class HandbookDownloader:
             # If it's a valid external link already
             elif link.startswith("http") or link.startswith("mailto"):
                 return match.group(0)
-            # Empty link TODO: Investigate this more later, also includes the images to change things locally
-            elif name == "" or name == "![":
-                return ""
+            # Link to adapted/optional resources, we handled it earlier
+            elif name == "[AO]":
+                return match.group(0)
             # Otherwise, not sure what it'd be
             else:
                 print(f"Unknown link {match.group(0)}, {k}")

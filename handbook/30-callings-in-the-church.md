@@ -1,4 +1,3 @@
-!  Imagepeople raising right hands
 # 30. Callings in the Church
 
 ## 30.0 Introduction
@@ -64,8 +63,6 @@ Bishops and stake presidents carefully consider each recommendation, recognizing
 
 If a bishop or stake president feels inspired to call someone other than the person who was recommended, that does not mean the recommendation was not inspired. It may be that the bishop or stake president had information that was not available to those who made the recommendation.
 
-!  Imagewoman reading to child
-
 ## 30.2 Extending a Calling
 
 Receiving a call to serve should be a meaningful spiritual experience for a member. Callings to serve the Lord are sacred and joyful opportunities. Leaders communicate this by the way they extend a calling. They should not extend callings in a casual manner.
@@ -114,8 +111,6 @@ Only members in good standing may participate in the sustaining. However, if a n
 Those who are called to most Church positions should be set apart. The Chart of Callings indicates who may do the setting apart (see [30.8](30-callings-in-the-church.md#308-chart-of-callings)). This generally happens after members are sustained and before they begin serving.
 
 To set apart a member to a calling means to give him or her the authority to act in that calling (see [3.4.3.1](3-priesthood-principles.md#3431-setting-apart)). A setting apart also includes a blessing and promises guided by the Spirit. For more information, see [18.11](18-priesthood-ordinances-and-blessings.md#1811-setting-apart-members-to-serve-in-callings).
-
-!  Imagewoman receiving priesthood blessing
 
 ## 30.5 Length of Service
 
@@ -197,8 +192,6 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for ratifying as soon as reasonable. He adapts the process described in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-callings). This includes providing an opportunity for ward members to oppose the action.
 2. Active sealers in a temple should not be called to serve in bishoprics. Sealers are called under the direction of the President of the Church.
 
-!  ImageSunday school class
-
 ### 30.8.2 Branch Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
@@ -239,8 +232,6 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 In rare circumstances, a stake member may need to begin service before he or she can be sustained either in a stake conference or in sacrament meetings. When this happens, the person is presented for ratifying as soon as reasonable, adapting the process described in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-callings). This includes providing an opportunity for stake members to oppose the action.
 2. Active sealers in a temple should not be called to serve in stake presidencies. Sealers are called under the direction of the President of the Church.
 3. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
-
-!  Imagecouple talking to bishop
 
 ### 30.8.4 District Callings
 

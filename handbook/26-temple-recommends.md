@@ -1,4 +1,3 @@
-!  Imagebishop interviewing man
 # 26. Temple Recommends
 
 ## 26.0 Introduction
@@ -78,13 +77,11 @@ A mission president may authorize his counselors to conduct these interviews as 
 
 In a young single adult stake, the stake president may authorize his counselors to conduct these interviews.
 
-### 26.3.2 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Temple Recommend Interviews for Members in Isolated Areas
+### 26.3.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Temple Recommend Interviews for Members in Isolated Areas
 
 Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a temple president may interview the person and sign the recommend. Before conducting the interview, he confers with the stake or mission president. The bishop, an authorized counselor, or the branch president should have already interviewed the member and signed the recommend.
 
 This policy also applies to members in the military who are in isolated areas. They should first be interviewed by the bishop of their home ward or the unit that supports their duty station.
-
-!  Imageyouth outside temple
 
 ### 26.3.3 Conducting a Temple Recommend Interview
 
@@ -185,8 +182,6 @@ Children under age 8 do not need a recommend to be sealed to their parents. Nor
 Members who are 21 or older may be sealed to their parents or observe a sealing only if they are (1) endowed and (2) have a current temple recommend.
 
 See [27.4.4](27-temple-ordinances-for-the-living.md#2744-who-may-attend-a-sealing-of-living-children-to-parents) and [38.4.2](38-church-policies-and-guidelines.md#3842-sealing-children-to-parents) for additional policies on observing sealings and being sealed to parents.
-
-!  Imageyouth holding recommends outside temple
 
 ## 26.5 Issuing Temple Recommends in Special Circumstances
 

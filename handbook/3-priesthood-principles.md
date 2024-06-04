@@ -1,4 +1,3 @@
-!  Imagefamily walking near temple
 # 3. Priesthood Principles
 
 ## 3.0 Introduction
@@ -85,8 +84,6 @@ These leaders receive priesthood keys when they are set apart to their callings.
 
 Priesthood keys are not given to others, including counselors to local priesthood leaders or presidents of Church organizations. These leaders are given delegated authority when they are set apart and when they receive assignments under the direction of those who hold priesthood keys. Presidents of Church organizations preside under the direction of those who hold priesthood keys (see [4.2.4](4-leadership-in-the-church-of-jesus-christ.md#424-preside-in-righteousness)).
 
-!  Imageward council meeting
-
 #### 3.4.1.2 Order to God’s Work
 
 Priesthood keys ensure that God’s work of salvation and exaltation is accomplished in an orderly manner (see [Doctrine and Covenants 42:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p11#p11); [132:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p8#p8)). Those who hold priesthood keys direct the Lord’s work within their areas of responsibility. This presiding authority is valid only for the specific responsibilities of the leader’s calling. When priesthood leaders are released from their callings, they no longer hold these keys.
@@ -143,8 +140,6 @@ Those who exercise priesthood authority do not force their will on others. They 
 
 Some Church callings include a responsibility to preside. For information about presiding in the Church, see [4.2.4](4-leadership-in-the-church-of-jesus-christ.md#424-preside-in-righteousness).
 
-!  Imagetwo men and a woman talking
-
 ## 3.5 Priesthood Power
 
 Priesthood power is God’s power, which He uses to bless His children. God’s priesthood power flows to all members of the Church—female and male—as they keep the covenants they have made with Him. Members make these covenants as they receive priesthood ordinances. (See [Doctrine and Covenants 84:19–20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p19-p20#p19).)
@@ -174,8 +169,6 @@ Ordinances have symbolic meaning that point individuals to Heavenly Father and J
 Each ordinance allows individuals to receive rich spiritual blessings. The Lord revealed, “In the ordinances [of the priesthood], the power of godliness is manifest” ([Doctrine and Covenants 84:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20#p20)). Ordinances of salvation and exaltation are essential for eternal life. For more information, see [18.1](18-priesthood-ordinances-and-blessings.md#181-ordinances-of-salvation-and-exaltation).
 
 Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [chapter 28](28.md).
-
-!  Imagewoman receiving a priesthood blessing
 
 ## 3.6 The Priesthood and the Home
 

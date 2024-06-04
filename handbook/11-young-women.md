@@ -1,4 +1,3 @@
-!  Imageyoung women outside
 # 11. Young Women
 
 ## 11.1 Purpose and Organization
@@ -23,7 +22,7 @@ The Young Women theme can help each young woman understand her divine identity a
 
 “As I strive to qualify for exaltation, I cherish the gift of repentance and seek to improve each day. With faith, I will strengthen my home and family, make and keep sacred covenants, and receive the ordinances and blessings of the holy temple.”
 
-### 11.1.3 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Classes
+### 11.1.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Classes
 
 Young women become members of a Young Women class beginning in January of the year they turn 12.
 
@@ -31,7 +30,6 @@ Young women classes are organized by age-groups. An age-group is all young women
 
 Bishoprics and adult Young Women leaders prayerfully decide how to organize classes according to age. They consider leadership opportunities for young women. Each class, regardless of size, should have a president and, where possible, one or two counselors and a secretary. In units with sufficient young women, classes should be large enough so class presidencies have class members to serve.
 
-!  Imageyoung women class
 Classes are referred to by the unifying title of “Young Women.” If a ward has more than one class, age-groups are used to distinguish classes.
 
 ## 11.2 Participating in God’s Work of Salvation and Exaltation
@@ -77,7 +75,7 @@ Young women are encouraged to participate in seminary (see [15.1](15-seminaries-
 
 Class presidencies, supported by adult leaders, plan service and activities. These should help accomplish God’s work of salvation and exaltation. Service and activities should build testimonies, strengthen families, foster class unity, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3)  Most youth activities are held at times other than on Sundays or Monday evenings. They are usually held weekly. In some areas, distance, safety, or other factors make weekly activities impractical. In these areas, activities may be held less often, but they should generally be held at least monthly. ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Activities can be planned on the [Sample Service and Activity Planner](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Activity-Sample-Planner7.pdf), available on ChurchofJesusChrist.org.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Most youth activities are held at times other than on Sundays or Monday evenings. They are usually held weekly. In some areas, distance, safety, or other factors make weekly activities impractical. In these areas, activities may be held less often, but they should generally be held at least monthly. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Activities can be planned on the [Sample Service and Activity Planner](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Activity-Sample-Planner7.pdf), available on ChurchofJesusChrist.org.
 
 Some service and activities should include both young men and young women, especially for older youth.
 
@@ -91,7 +89,7 @@ _Annual Activities._ In addition to regular youth activities, young women may al
 
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young women turning 12 during the year may receive their emblems of belonging during this meeting (see [11.6.3](11-young-women.md#1163-children-and-youth-emblems)). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/17313_000_notice.pdf).
 * A Young Women camp (see [Young Women Camp Guide](https://www.churchofjesuschrist.org/study/manual/young-women-camp-guide?lang=eng)). Young women may participate in additional overnight camps, events, and activities throughout the year, where feasible.
-* ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
+* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
 _Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
@@ -102,8 +100,7 @@ As an exception, if the ward budget does not have enough money to pay for multid
 
 The bishopric ensures that the budget and activities for young women and young men are sufficient and equitable. Budget for the young women is based on the number of young women in the ward. Budget for Aaronic Priesthood quorums is based on the number of young men in the ward.
 
-!  Imageyoung women having a water fight
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  See [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org) for information about funding for FSY conferences.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) See [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org) for information about funding for FSY conferences.
 
 #### 11.2.1.4 Personal Development
 
@@ -142,7 +139,7 @@ If young women desire to serve full-time missions, parents and leaders help them
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23](23.md) and [24](24.md) for more information.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23](23.md) and [24](24.md) for more information.
 
 ### 11.2.4 Uniting Families for Eternity
 
@@ -172,11 +169,10 @@ The bishop and his counselors regularly participate in Young Women meetings, ser
 
 The bishop calls and sets apart an adult woman to serve as the ward Young Women president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see [chapter 30](30-callings-in-the-church.md)). The bishopric considers her recommendations and extends the callings.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In a small unit, the Young Women president may be the only called adult leader in the Young Women organization. In this case, she works with parents to organize instruction and activities for the young women. She also ensures that at least two responsible adults are present at all meetings and activities. When possible, counselors and a secretary should be called.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In a small unit, the Young Women president may be the only called adult leader in the Young Women organization. In this case, she works with parents to organize instruction and activities for the young women. She also ensures that at least two responsible adults are present at all meetings and activities. When possible, counselors and a secretary should be called.
 
 If a branch does not have a Young Women president, the Relief Society president may organize instruction for the young women until a Young Women president is called.
 
-!  Imagewoman and young woman talking
 The Young Women president has the following responsibilities. Her counselors assist her.
 
 * Serve on the ward council. She serves as (1) a ward council member who helps address needs in the ward and find solutions and (2) a representative of the Young Women (see [29.2.5](29-meetings-in-the-church.md#2925-ward-council-meeting)).
@@ -190,7 +186,7 @@ The Young Women president has the following responsibilities. Her counselors ass
 * Regularly hold Young Women presidency meetings and meet with the bishop.
 * Oversee the records, reports, budget, and finances of the Young Women organization.
 
-### 11.3.3 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Secretary
+### 11.3.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Secretary
 
 If the unit is large enough, the Young Women president recommends to the bishop an adult sister to serve as Young Women secretary. She may have the following responsibilities:
 
@@ -205,7 +201,7 @@ If the unit is large enough, the Young Women president recommends to the bishop 
 
 Each Young Women class should have a class presidency. The Young Women presidency may recommend young women to serve as class presidents. Members of the bishopric prayerfully counsel together to determine whom to call.
 
-A member of the bishopric calls a young woman to serve as a class president. ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  When there are enough young women to serve, she prayerfully considers class members to recommend as counselors and a secretary. The bishopric considers her recommendations and extends the callings.
+A member of the bishopric calls a young woman to serve as a class president. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) When there are enough young women to serve, she prayerfully considers class members to recommend as counselors and a secretary. The bishopric considers her recommendations and extends the callings.
 
 Before asking a young woman to serve in any of these callings, the bishopric member asks permission from the young woman’s parents.
 
@@ -227,9 +223,9 @@ Class presidents serve on the ward youth council (see [11.3.4.4](11-young-women.
 * Plan and carry out class service and activities (see [11.2.1.3](11-young-women.md#11213-service-and-activities)).
 * Regularly hold class presidency meetings (see [11.3.4.3](11-young-women.md#11343-class-presidency-meeting)).
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  When class secretaries are called, they prepare agendas for meetings, take notes, and keep track of attendance.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) When class secretaries are called, they prepare agendas for meetings, take notes, and keep track of attendance.
 
-Members of the Young Women presidency regularly teach class presidencies about their responsibilities (see [11.3.2](11-young-women.md#1132-adult-young-women-presidency)). Class advisers and specialists should actively help (see [11.3.5](11-young-women.md#1135-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-advisers) and [11.3.6](11-young-women.md#1136-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-specialists)).
+Members of the Young Women presidency regularly teach class presidencies about their responsibilities (see [11.3.2](11-young-women.md#1132-adult-young-women-presidency)). Class advisers and specialists should actively help (see [11.3.5](11-young-women.md#1135-ao-advisers) and [11.3.6](11-young-women.md#1136-ao-specialists)).
 
 #### 11.3.4.3 Class Presidency Meeting
 
@@ -241,7 +237,7 @@ Young Women class presidencies meet regularly. The class president conducts thes
 * Planning class meetings, service, and activities
 * Leadership instruction from adult Young Women leaders or a member of the class presidency
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  A [Sample Presidency Meeting Agenda](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Quorum-and-Class-Presidency-Agenda8.pdf) is available on ChurchofJesusChrist.org.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A [Sample Presidency Meeting Agenda](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Quorum-and-Class-Presidency-Agenda8.pdf) is available on ChurchofJesusChrist.org.
 
 #### 11.3.4.4 Ward Youth Council
 
@@ -258,7 +254,7 @@ The ward youth council discusses ways to help others build testimonies, receive 
 
 See [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting) for more information about the ward youth council.
 
-### 11.3.5 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Advisers
+### 11.3.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Advisers
 
 The Young Women presidency may recommend that the bishopric call Young Women advisers. Each adviser works with a specific age-group of young women.
 
@@ -272,9 +268,7 @@ Advisers have the following responsibilities:
 
 At least two responsible adult women should be present at each class meeting and activity. Advisers must complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth) (see [11.6.1](11-young-women.md#1161-safeguarding-youth)).
 
-!  Imageyoung women sewing
-
-### 11.3.6 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Specialists
+### 11.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Specialists
 
 Where needed, the Young Women presidency may recommend that the bishopric call specialists to assist with a particular event, such as a camp, a youth conference, or sports.
 
@@ -288,17 +282,15 @@ A young woman may join the Relief Society when she is 18. By age 19, each youn
 
 Parents and Young Women and Relief Society leaders work together to help each young woman successfully progress into Relief Society. These leaders provide ongoing opportunities for young women and Relief Society sisters to make connections and develop relationships.
 
-## 11.5 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Young Women Leaders
+## 11.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Young Women Leaders
 
-A member of the stake presidency calls an adult woman to serve as the stake Young Women president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Young Women presidency and secretary, see [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies), [6.7.1.2](6-stake-leadership.md#6712-additional-stake-young-women-presidency-responsibilities), and [6.7.3](6-stake-leadership.md#673-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-organization-secretaries).
+A member of the stake presidency calls an adult woman to serve as the stake Young Women president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Young Women presidency and secretary, see [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies), [6.7.1.2](6-stake-leadership.md#6712-additional-stake-young-women-presidency-responsibilities), and [6.7.3](6-stake-leadership.md#673-ao-stake-organization-secretaries).
 
 A counselor in the stake presidency has responsibility for the Young Women organization in the stake. He also has responsibility for the work of the stake Young Women presidency. He also instructs bishops in their responsibilities for young women.
 
 The stake presidency assigns a high councilor to work with the stake Young Women presidency (see [6.5](6-stake-leadership.md#65-high-council)).
 
-The stake Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-youth-leadership-committee-meeting)).
-
-!  Imageyoung women in class
+The stake Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-ao-stake-youth-leadership-committee-meeting)).
 
 ## 11.6 Additional Guidelines and Policies
 
@@ -312,7 +304,7 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### 11.6.2 Young Women with Disabilities
 
-Class presidencies give special care to young women who have disabilities. ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  For information about helping these young women, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
+Class presidencies give special care to young women who have disabilities. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For information about helping these young women, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 11.6.3 Children and Youth Emblems
 

@@ -1,4 +1,3 @@
-!  Imagebride and groom
 # 27. Temple Ordinances for the Living
 
 ## 27.0 Introduction
@@ -33,8 +32,6 @@ Members meet with their bishop and stake president to obtain a recommend for liv
 * Being sealed to a spouse.
 
 For information about issuing temple recommends in these circumstances, see [26.1](26-temple-recommends.md#261-types-of-temple-recommends) and [26.3.1](26-temple-recommends.md#2631-temple-recommend-interviews-for-members-in-wards-and-branches).
-
-!  Imagechildren in white clothing
 
 ### 27.1.2 Scheduling Temple Ordinances
 
@@ -172,8 +169,6 @@ Members receiving their own endowment may invite an endowed member of the same g
 
 Church leaders encourage members to prepare to be married and sealed in a temple. Where temple marriages are not legally recognized, authorized Church leaders or others can perform civil marriages that are followed by a temple sealing (see [38.3](38-church-policies-and-guidelines.md#383-civil-marriage)). This pattern may also be followed when a temple marriage could cause parents or immediate family members to feel excluded because they cannot attend the temple ceremony.
 
-!  Imagefamily outside temple
-
 ### 27.3.1 Who May Be Sealed in a Temple
 
 All accountable unmarried members of the Church are invited to prepare for a temple sealing. Those who are civilly married are encouraged to be sealed for time and eternity in the temple as soon as they are prepared. Members must be endowed before they can be sealed (see [27.2](27-temple-ordinances-for-the-living.md#272-the-endowment)).
@@ -289,8 +284,6 @@ See [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-c
 ### 27.4.2 Contacting the Temple
 
 A couple who wants to have their children sealed to them, or children who desire to be sealed to their deceased parents, should contact the temple in advance to schedule the ordinance (see [27.1.2](27-temple-ordinances-for-the-living.md#2712-scheduling-temple-ordinances)). In some cases, other temple ordinances may need to be performed before the sealing can occur.
-
-!  Imageyoung men outside temple
 
 ### 27.4.3 Child Care
 

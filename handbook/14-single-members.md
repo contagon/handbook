@@ -1,4 +1,3 @@
-!  Imagepeople talking
 # 14. Single Members
 
 ## 14.0 Introduction
@@ -41,7 +40,7 @@ The stake presidency pays particular attention to young single adults—as they 
 
 The stake presidency determines whether activities for young single adults should take place at the ward level, the stake level, or some combination of both. Activities for single adults take place at the stake and multistake level. (See [chapter 20](20-activities.md).)
 
-When the number of single members in a location is sufficient, stake presidents may recommend organizing a young single adult ward or a single adult ward (see [14.3](14-single-members.md#143-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-young-single-adult-wards-and-stakes-and-single-adult-wards)).
+When the number of single members in a location is sufficient, stake presidents may recommend organizing a young single adult ward or a single adult ward (see [14.3](14-single-members.md#143-ao-young-single-adult-wards-and-stakes-and-single-adult-wards)).
 
 A stake (or a group of adjacent stakes) may not have enough single members to create a young single adult or single adult ward. In this situation, the Area Presidency may authorize a stake president to invite all of these members to be members of a designated geographic ward. This allows single adults or young single adults to serve and worship together. The Area Presidency counsels with their assigned member of the Presidency of the Seventy and the Quorum of the Twelve.
 
@@ -124,7 +123,7 @@ Leaders or members who desire to participate may organize one or more home eveni
 
 In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) may be a resource.
 
-All young single adults are encouraged to enroll in institute (see [15.2](15-seminaries-and-institutes.md#152-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-institute)).
+All young single adults are encouraged to enroll in institute (see [15.2](15-seminaries-and-institutes.md#152-ao-institute)).
 
 #### 14.2.1.2 Sunday School Classes
 
@@ -150,8 +149,6 @@ Funding for activities comes from stake or ward budgets. When multistake or area
 Funding for activities should be consistent with the policies in [20.2.6](20-activities.md#2026-funding-for-activities). As an exception, members may pay some costs when multistake or area events are held. Leaders ensure that all can participate.
 
 For additional activity guidelines, see [20.2](20-activities.md#202-planning-activities) and [20.3](20-activities.md#203-stake-multistake-and-area-activities).
-
-!  Imagepeople playing football
 
 ### 14.2.2 Caring for Those in Need
 
@@ -194,7 +191,7 @@ As individuals and as groups, single members can help unite families for eternit
 * Serve as temple and family history consultants (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
 * Participate in indexing (see [FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
 
-## 14.3 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Young Single Adult Wards and Stakes and Single Adult Wards
+## 14.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Young Single Adult Wards and Stakes and Single Adult Wards
 
 Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](37-specialized-stakes-wards-and-branches.md).
 
@@ -235,7 +232,7 @@ As an exception, young single adult wards and single adult wards may hold activi
 
 ### 14.4.3 Additional Elders Quorums and Relief Societies
 
-With approval from the stake president, the bishop of a ward for single members may organize more than one Relief Society and elders quorum. (See [8.1.3](8-elders-quorum.md#813-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3-p31titlenumber3-adapting-to-local-needs) and [9.1.3](9-relief-society.md#913-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3-p31titlenumber3-adapting-to-local-needs).)
+With approval from the stake president, the bishop of a ward for single members may organize more than one Relief Society and elders quorum. (See [8.1.3](8-elders-quorum.md#813-ao-adapting-to-local-needs) and [9.1.3](9-relief-society.md#913-ao-adapting-to-local-needs).)
 
 ### 14.4.4 Members Called to Serve in Units for Single Members
 
@@ -272,8 +269,6 @@ In large young single adult wards, bishops may authorize counselors to conduct i
 ### 14.4.7 Participation in Activities for Single Members
 
 A person who is separated from his or her spouse or is seeking a divorce participates in a geographic ward. He or she may attend a ward or activities for single members when his or her divorce decree is final.
-
-!  Imagewoman reading to children
 
 ### 14.4.8 Single Parents
 

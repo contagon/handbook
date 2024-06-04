@@ -1,4 +1,3 @@
-!  Imagemother and daughter at sacrament meeting
 # 29. Meetings in the Church
 
 ## 29.0 Introduction
@@ -61,7 +60,7 @@ The sacrament table should be prepared before the meeting begins. The bishop ens
 
 For more about preparing, blessing, and passing the sacrament, see [18.9](18-priesthood-ordinances-and-blessings.md#189-the-sacrament).
 
-For information about administering the sacrament in unusual situations, see [29.2.1.5](29-meetings-in-the-church.md#29215-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-sacrament-services-in-unusual-situations) and [18.9.1](18-priesthood-ordinances-and-blessings.md#1891-approval-to-administer-the-sacrament).
+For information about administering the sacrament in unusual situations, see [29.2.1.5](29-meetings-in-the-church.md#29215-ao-sacrament-services-in-unusual-situations) and [18.9.1](18-priesthood-ordinances-and-blessings.md#1891-approval-to-administer-the-sacrament).
 10. _Gospel messages and congregational singing or other music._ Messages and music should be consistent with the sacred nature of the sacrament. For information about selecting speakers, see [29.2.1.4](29-meetings-in-the-church.md#29214-selecting-speakers). For information about musical selections in sacrament meeting, see [19.3.2](19-music.md#1932-music-in-sacrament-meeting).
 11. _Closing hymn and prayer._
 12. _Postlude music._
@@ -86,9 +85,7 @@ For information about newly called or recently returned missionaries speaking in
 
 The bishopric schedules one sacrament meeting each year for a presentation by the Primary children. For information about this presentation, see [12.1.6](12-primary.md#1216-childrens-sacrament-meeting-presentation).
 
-!  Imageman speaking over the pulpit
-
-#### 29.2.1.5 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Sacrament Services in Unusual Situations
+#### 29.2.1.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Sacrament Services in Unusual Situations
 
 Every member needs the spiritual blessings that come from partaking of the sacrament. However, some members are unable to attend sacrament meeting because they are confined to their home, a hospital, or a care facility. The bishop may assign priesthood holders to administer the sacrament to these members (see [18.9.1](18-priesthood-ordinances-and-blessings.md#1891-approval-to-administer-the-sacrament)).
 
@@ -163,8 +160,6 @@ The bishop plans and conducts bishopric meetings. Matters for consideration coul
 
 Other items may include ward organizations and programs, the ward budget, reports on assignments, and plans for upcoming meetings and activities.
 
-!  Imageward council meeting
-
 ### 29.2.5 Ward Council Meeting
 
 Purpose
@@ -211,8 +206,6 @@ Sometimes the ward council may determine that a ward activity could help meet th
 After full-time missionaries return home, they may be invited to report on their missions to the ward council (see [24.8.3](24.md#2483-missionary-reports-and-speaking-in-sacrament-meeting)).
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3](4-leadership-in-the-church-of-jesus-christ.md#43-councils-in-the-church) and [4.4](4-leadership-in-the-church-of-jesus-christ.md#44-principles-of-effective-councils).
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ### 29.2.6 Ward Youth Council Meeting
 
@@ -264,9 +257,7 @@ Coordination meetings for the work of sharing the gospel and strengthening new a
 
 Coordination meetings for temple and family history work are described in [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings).
 
-!  Imagecouncil meeting
-
-### 29.2.8 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Schedules for Sunday Meetings
+### 29.2.8 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Schedules for Sunday Meetings
 
 Wards use one of the following two-hour schedules for Sunday meetings.
 
@@ -286,7 +277,6 @@ Plan 2
 
 When two wards meet in the same building and one or both have very few children or youth, it may be desirable for the children or youth to attend Sunday classes together. The wards’ Sunday meeting schedules could overlap as shown below.
 
-  Imageoverlapping meeting schedule](https://assets.churchofjesuschrist.org/9a/02/9a02124b730b4f284b1fa04927e387cf82ac4611/meeting_schedule_graphic.png)
 This plan may also be considered if the two wards use different languages but the children and youth speak the same language.
 
 Using this plan requires the stake president’s approval. If he approves, the bishop of each ward meets with organization leaders to seek their counsel about implementing it.
@@ -498,7 +488,7 @@ To understand principles that guide council meetings in the Church, all council 
 
 For information about participants joining the meeting remotely, see [29.7](29-meetings-in-the-church.md#297-streaming-meetings-and-holding-virtual-meetings).
 
-### 29.3.8 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Adult Leadership Committee Meeting
+### 29.3.8 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Adult Leadership Committee Meeting
 
 Purpose
 
@@ -522,9 +512,7 @@ In addition, this committee coordinates stake efforts related to welfare and sel
 
 The stake presidency plans and conducts meetings of the stake adult leadership committee. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the adult leadership committee could meet to continue a discussion about specific matters.
 
-!  Imageyouth council meeting
-
-### 29.3.9 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Youth Leadership Committee Meeting
+### 29.3.9 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Youth Leadership Committee Meeting
 
 Purpose
 
@@ -583,8 +571,6 @@ The stake president leads this meeting. He helps bishops learn and fulfill their
 This meeting does not take the place of the stake president’s regular interviews with each bishop (see [6.2.1.2](6-stake-leadership.md#6212-bishoprics)).
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3](4-leadership-in-the-church-of-jesus-christ.md#43-councils-in-the-church) and [4.4](4-leadership-in-the-church-of-jesus-christ.md#44-principles-of-effective-councils).
-
-!  Imagebishopric meeting
 
 ### 29.3.11 Other Stake Meetings
 

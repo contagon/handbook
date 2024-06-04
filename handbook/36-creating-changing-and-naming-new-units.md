@@ -1,4 +1,3 @@
-!  Imageman giving a talk in sacrament meeting
 # 36. Creating, Changing, and Naming New Units
 
 ## 36.0 Introduction
@@ -82,8 +81,6 @@ The Area Presidency may endorse _but not give final approval_ of a mission presi
 
 In these situations, the Area Presidency reviews the proposal, and if they endorse it, they submit it for approval. Only the First Presidency can give final approval. Generally, they make a decision within four weeks of receiving a completed proposal.
 
-!  Imagefamily at church
-
 ## 36.4 Naming Church Units
 
 The name of a unit should help identify it to those who live in the area. Generally, the names of existing units should not be changed.
@@ -157,8 +154,6 @@ Stake or mission presidents notify Church headquarters or their area office afte
 After a stake or mission president receives approval for ward or branch changes, he generally has 90 days to present the changes to be sustained by the members. If he needs to delay longer than 90 days, he requests permission from the Office of the First Presidency.
 
 Stake or mission presidents notify Church headquarters or their area office after the changes have been made. Maps and units are not updated until they are recorded by Church headquarters.
-
-!  Imagepeople singing in church
 
 ## 36.6 Basic Unit Program
 

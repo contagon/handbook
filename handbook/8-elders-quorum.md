@@ -1,4 +1,3 @@
-!  Imagemen talking
 # 8. Elders Quorum
 
 ## 8.1 Purpose and Organization
@@ -27,13 +26,12 @@ Married men under 18 are prospective elders and are also members of the elders 
 
 For information about unwed parents under age 18, see [38.1.5](38-church-policies-and-guidelines.md#3815-unwed-parents-under-age-18).
 
-### 8.1.3 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3) Adapting to Local Needs
+### 8.1.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Adapting to Local Needs
 
 Some wards have a very large number of active Melchizedek Priesthood holders. For these wards, the stake presidency may organize an additional elders quorum (see [Doctrine and Covenants 107:89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89)). Each quorum has its own presidency. If possible, each quorum should have members with a variety of ages and experience.
 
 ## 8.2 Participating in God’s Work of Salvation and Exaltation
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
@@ -54,8 +52,6 @@ Elders quorum leaders support members in living the gospel of Jesus Christ. They
 When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) and other resources can supplement their study.
 
 Home evenings are an important way to learn the gospel at home. They are usually held weekly on Sunday, on Monday evening, or at another time. They could include prayers, gospel study, testimonies, singing, and fun activities.
-
-!  Imagefamily reading
 
 #### 8.2.1.2 Gospel Learning in Quorum Meetings
 
@@ -82,7 +78,6 @@ The elders quorum president oversees these activities. He may ask a counselor or
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies).
 
 #### 8.2.2.1 Ministering
@@ -125,7 +120,7 @@ In presidency and quorum meetings, the elders quorum presidency discusses ways t
 
 The elders quorum president assigns a member of the presidency to help lead efforts to share the gospel in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts (see [23.6.2](23.md#2362-elders-quorum-and-relief-society-presidencies)).
 
-This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1](23.md#2361-bishopric) and [23.6.3](23.md#2363-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-ward-mission-leader).
+This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1](23.md#2361-bishopric) and [23.6.3](23.md#2363-ao-ward-mission-leader).
 
 The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4](23.md#234-hold-weekly-coordination-meetings).
 
@@ -147,9 +142,6 @@ The elders quorum president assigns a member of the presidency to help lead temp
 This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his work. See [25.2.2](25-temple-and-family-history-work.md#2522-elders-quorum-and-relief-society-presidencies).
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-!  Imagemen looking at picture
 
 ## 8.3 Elders Quorum Leaders
 
@@ -243,8 +235,6 @@ The following additional callings may be helpful. The bishop and elders quorum p
 If these or other callings are needed, the elders quorum presidency recommends brethren to serve. They make these recommendations to the bishopric. If the bishopric approves, a member of the quorum presidency calls them. He presents them for sustaining in a quorum meeting and sets them apart.
 
 As needed, the elders quorum presidency may assign brethren to help with elders quorum efforts in other ways. Brethren with short-term assignments do not need to be called and set apart.
-
-!  Imagetwo men giving someone priesthood blessing
 
 ## 8.4 Helping Prospective Elders Prepare to Receive the Melchizedek Priesthood
 

@@ -1,4 +1,3 @@
-!  Imagepeople eating outside
 # 37. Specialized Stakes, Wards, and Branches
 
 ## 37.0 Introduction
@@ -24,11 +23,9 @@ Minimum Requirements to Create a Language Ward or Branch in a Stake
 
 Boundaries for language units generally follow the boundaries of geographic wards, branches, and stakes.
 
-The children and youth of a language unit may combine classes with a geographic unit if desired (see [29.2.8](29-meetings-in-the-church.md#2928-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-schedules-for-sunday-meetings)).
+The children and youth of a language unit may combine classes with a geographic unit if desired (see [29.2.8](29-meetings-in-the-church.md#2928-ao-schedules-for-sunday-meetings)).
 
 See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) for language branches in a mission. See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
-
-!  Imageyouth talking
 
 ### 37.1.1 Membership in a Language Ward or Branch
 
@@ -177,8 +174,6 @@ Generally, leaders who are called to serve in these units should live within the
 See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) for information about branches in a mission for young single adults or single adults; members who do not speak the local native language; members who are in care centers, treatment programs, or prisons; or members in the military.
 
 See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
-
-!  Imagewomen smiling
 
 ## 37.7 Groups in Stakes, Missions, and Areas
 

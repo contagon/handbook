@@ -1,4 +1,3 @@
-!  ImageFirst Presidency
 # 5. General and Area Leadership
 
 ## 5.0 Introduction
@@ -34,8 +33,6 @@ Each Apostle holds all the keys of the kingdom and exercises those keys under th
 Apostles serve full-time in the Church for the remainder of their lives (see [Matthew 4:18–22](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng&id=p18-p22#p18)).
 
 _The Council of the First Presidency and Quorum of the Twelve Apostles._ All members of the First Presidency and Quorum of the Twelve Apostles are prophets, seers, and revelators. Together they form the Council of the First Presidency and Quorum of the Twelve Apostles. Under the direction of the Lord and by unanimous voice, this council has authority to declare and interpret doctrine and establish policy for the Church (see [Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38); [107:27–31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p27-p31#p27)).
-
-!  ImageFirst Presidency and Quorum of the Twelve
 
 #### 5.1.1.2 The Seventy
 
@@ -77,8 +74,6 @@ General Officers may have the following responsibilities:
 * Instruct and support area organization advisers, who serve under the direction of the Area Presidencies (see [5.2.5.1](5-general-and-area-leadership.md#5251-area-organization-advisers)).
 
 Each general Church organization may have a council to assist the Presidency.
-
-!  ImageRelief Society General Presidency
 
 ## 5.2 Area Leadership
 

@@ -1,4 +1,3 @@
-!  Imageman working
 # 22. Providing for Temporal Needs and Building Self-Reliance
 
 ## 22.0 Introduction
@@ -37,8 +36,6 @@ Heavenly Father wants His children to develop physical and emotional strength. T
 * Practice good hygiene and receive proper medical care.
 * Develop healthy relationships.
 * Seek professional help for mental or emotional health challenges as needed.
-
-!  Imagecouple jogging
 
 ### 22.1.3 Education and Employment
 
@@ -86,8 +83,6 @@ All the resources available to the Church to help those with temporal needs are 
 
 The Lord’s storehouse exists in each ward and stake. Leaders can often help individuals and families find solutions to their needs by drawing on the knowledge, skills, and service offered by ward and stake members.
 
-!  Imageman teaching young man carpentry
-
 ### 22.2.2 The Law of the Fast and Fast Offerings
 
 The Lord has established the law of the fast to bless His people and to provide a way for them to serve those in need. Members grow closer to the Lord and increase in spiritual strength as they live the law of the fast. They also strengthen their own self-reliance and develop greater compassion. (See [Isaiah 58:6–12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng&id=p6-p12#p6); [Malachi 3:8–12](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p8-p12#p8).)
@@ -100,7 +95,7 @@ Fasting may be done at any time. However, members usually observe the first Sabb
 
 A fast offering is a donation to help those in need. When members fast, they are invited to give an offering that is at least equal to the value of the meals not eaten. Members are encouraged to be generous and give more than the value of these meals if they can.
 
-Members may give their fast offering and a completed Tithing and Other Offerings form to the bishop or one of his counselors. In some areas, they can also make their [donation online](https://donations.churchofjesuschrist.org). ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In some wards, the bishop may authorize Aaronic Priesthood holders to collect fast offerings (see [34.3.2](34-finances-and-audits.md#3432-fast-offerings)).
+Members may give their fast offering and a completed Tithing and Other Offerings form to the bishop or one of his counselors. In some areas, they can also make their [donation online](https://donations.churchofjesuschrist.org). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In some wards, the bishop may authorize Aaronic Priesthood holders to collect fast offerings (see [34.3.2](34-finances-and-audits.md#3432-fast-offerings)).
 
 ### 22.2.3 Service
 
@@ -110,7 +105,7 @@ Service can be coordinated in the ward, stake, or community. Where [JustServe.or
 
 ### 22.2.4 Humanitarian Aid
 
-The Church provides humanitarian aid throughout the world. It does this both directly and through collaboration with other relief organizations. ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Members and others who wish to support these efforts may donate to Church humanitarian aid.
+The Church provides humanitarian aid throughout the world. It does this both directly and through collaboration with other relief organizations. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Members and others who wish to support these efforts may donate to Church humanitarian aid.
 
 ---
 
@@ -138,7 +133,7 @@ The bishop has a sacred responsibility to seek out and care for those in need (s
 * The bishop’s counselors.
 * Other members of the ward council.
 
-As needed, the bishopric may call ward welfare and self-reliance specialists to support these efforts (see [22.6.4](22-providing-for-temporal-needs.md#2264-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-ward-welfare-and-self-reliance-specialists)).
+As needed, the bishopric may call ward welfare and self-reliance specialists to support these efforts (see [22.6.4](22-providing-for-temporal-needs.md#2264-ao-ward-welfare-and-self-reliance-specialists)).
 
 In a spirit of love and concern, ward leaders help identify members who may need assistance. It is not enough to assist only when asked. Leaders should counsel with ministering brothers and sisters to ensure that members in need receive proper care.
 
@@ -149,7 +144,7 @@ Members strive to meet their basic needs through their own efforts and help from
 * Government and community resources (see [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources)).
 * Church assistance.
 
-Church assistance might include help with short-term needs such as food, clothing, housing, or other basics. Bishops may use fast offerings to respond to these needs. ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Where bishops’ orders are available, bishops generally use those to provide food and other basic goods (see “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in Leader and Clerk Resources [LCR]).
+Church assistance might include help with short-term needs such as food, clothing, housing, or other basics. Bishops may use fast offerings to respond to these needs. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where bishops’ orders are available, bishops generally use those to provide food and other basic goods (see “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in Leader and Clerk Resources [LCR]).
 
 When providing Church assistance, leaders follow the principles and policies outlined in sections [22.4](22-providing-for-temporal-needs.md#224-principles-for-providing-church-assistance) and [22.5](22-providing-for-temporal-needs.md#225-policies-for-providing-church-assistance).
 
@@ -159,7 +154,7 @@ Members may need ongoing support to address longer-term challenges. Education, v
 
 The [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf) helps members identify their strengths, needs, and resources. This plan should be used each time Church assistance is considered. The bishop may assign Relief Society leaders, elders quorum leaders, ministering brothers and sisters, or others to help members fill out the plan.
 
-As part of a self-reliance plan, leaders may recommend that members participate in a [self-reliance group](https://www.churchofjesuschrist.org/study/books-and-lessons/self-reliance?lang=eng). These groups help them develop skills and resources for better education, employment, or financial management (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). The groups are generally organized by stake or ward councils (see [22.10.2](22-providing-for-temporal-needs.md#22102-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-specialized-working-groups), [22.7](22-providing-for-temporal-needs.md#227-role-of-the-ward-council)).
+As part of a self-reliance plan, leaders may recommend that members participate in a [self-reliance group](https://www.churchofjesuschrist.org/study/books-and-lessons/self-reliance?lang=eng). These groups help them develop skills and resources for better education, employment, or financial management (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). The groups are generally organized by stake or ward councils (see [22.10.2](22-providing-for-temporal-needs.md#22102-ao-specialized-working-groups), [22.7](22-providing-for-temporal-needs.md#227-role-of-the-ward-council)).
 
 The bishop, or another leader he assigns, uses the [Bishop’s Guide to the Self-Reliance Plan](https://assets.churchofjesuschrist.org/da/b8/dab8d678fdc111ebbf18eeeeac1e5d0b6d1c4dfe/self_reliance_plan_for_bishops_and_members.pdf) when providing assistance. This form helps leaders follow up on members’ progress toward self-reliance.
 
@@ -176,11 +171,9 @@ The Church provides “[Counseling Resources](https://www.churchofjesuschrist.or
 
 Bishops may consult with Family Services staff to better understand a member’s emotional challenges and to identify available resources. Stake and mission presidents may also consult with Family Services. Family Services staff can help these leaders evaluate if a member with serious emotional or social challenges may need professional counseling. Leaders can request a consultation by contacting their Family Services office or their welfare and self-reliance manager. (See [31.3.6](31.md#3136-professional-counseling-and-therapy) for contact information.)
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in LCR). Alternatively, members may seek help from reputable professional counselors in the community.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in LCR). Alternatively, members may seek help from reputable professional counselors in the community.
 
 Sometimes bishops counsel members who need help to repent of sinful behavior. This behavior may include sins related to or caused by addictions. In these situations, bishops should refer to the guidelines in [32.8.1](32-repentance-and-membership-councils.md#3281-personal-counseling) and [32.8.2](32-repentance-and-membership-councils.md#3282-helping-people-address-addictions-and-pornography-use).
-
-!  Imagecouple looking at papers
 
 ## 22.4 Principles for Providing Church Assistance
 
@@ -192,8 +185,6 @@ With the help of the Lord, members seek to provide for themselves and their fami
 Church assistance is intended to help members develop independence, not dependence. Any assistance given should strengthen members in their efforts to become self-reliant.
 
 When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5](22-providing-for-temporal-needs.md#2241-encourage-personal-and-family-responsibility). Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds).”
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 Principles for Providing Church Assistance
 
@@ -337,13 +328,13 @@ Under the direction of the bishop, the Relief Society and elders quorum presiden
 * Build self-reliance.
 * Increase personal and family preparedness.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). The bishop generally assigns the Relief Society president to meet with the members and fill out the order form (see [9.2.2.2](9-relief-society.md#9222-short-term-needs)). However, he may also assign the elders quorum president (see [8.2.2.2](8-elders-quorum.md#8222-short-term-needs)). A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). The bishop generally assigns the Relief Society president to meet with the members and fill out the order form (see [9.2.2.2](9-relief-society.md#9222-short-term-needs)). However, he may also assign the elders quorum president (see [8.2.2.2](8-elders-quorum.md#8222-short-term-needs)). A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
 
 ### 22.6.3 Ministering Brothers or Sisters
 
 Assistance with spiritual and temporal needs often begins with ministering brothers and sisters (see [21.1](21-ministering.md#211-responsibilities-of-ministering-sisters-and-brothers)). They report the needs of those whom they serve to their elders quorum or Relief Society presidencies in ministering interviews and at other times. They may share needs that are confidential directly with the bishop.
 
-### 22.6.4 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Ward Welfare and Self-Reliance Specialists
+### 22.6.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Ward Welfare and Self-Reliance Specialists
 
 Bishoprics may call individuals or couples as ward welfare and self-reliance specialists. These specialists support ward leaders in their efforts to care for others and help them become more self-reliant.
 
@@ -413,7 +404,7 @@ The stake president also has the following responsibilities:
 * Review any requests for Church assistance for bishops (see [22.5.1.2](22-providing-for-temporal-needs.md#22512-assistance-to-bishops-and-stake-presidents)).
 * Serve as the agent stake president for welfare and self-reliance operations if assigned (see [22.9.1.2](22-providing-for-temporal-needs.md#22912-serve-as-the-agent-stake-president-for-church-welfare-and-self-reliance-operations)).
 
-The stake presidency may assign one or more high councilors to help oversee the efforts of caring for those with temporal needs in the stake (see [22.9.2](22-providing-for-temporal-needs.md#2292-high-councilors)). The stake presidency may also call stake welfare and self-reliance specialists to support these efforts (see [22.9.4](22-providing-for-temporal-needs.md#2294-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-welfare-and-self-reliance-specialists)).
+The stake presidency may assign one or more high councilors to help oversee the efforts of caring for those with temporal needs in the stake (see [22.9.2](22-providing-for-temporal-needs.md#2292-high-councilors)). The stake presidency may also call stake welfare and self-reliance specialists to support these efforts (see [22.9.4](22-providing-for-temporal-needs.md#2294-ao-stake-welfare-and-self-reliance-specialists)).
 
 #### 22.9.1.1 Teach Bishops the Principles of Providing Church Assistance
 
@@ -436,7 +427,7 @@ Where applicable, the Area Presidency assigns an agent stake president to each w
 
 The assigned stake president helps find volunteers to support the needs of the operation. The volunteers may come from the agent stake and from other stakes served by the operation.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The agent stake president may organize an agent stake operating committee to oversee the operation. Committee members include:
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The agent stake president may organize an agent stake operating committee to oversee the operation. Committee members include:
 
 * The stake president or an assigned counselor.
 * A high councilor.
@@ -466,9 +457,9 @@ The high councilor assigned to each elders quorum supports the quorum presidency
 
 The stake presidency may also assign one or more high councilors to do the following:
 
-* Help teach stake and ward welfare and self-reliance specialists their roles, if specialists have been called (see [22.9.4](22-providing-for-temporal-needs.md#2294-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-welfare-and-self-reliance-specialists) and [22.6.4](22-providing-for-temporal-needs.md#2264-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-ward-welfare-and-self-reliance-specialists)).
+* Help teach stake and ward welfare and self-reliance specialists their roles, if specialists have been called (see [22.9.4](22-providing-for-temporal-needs.md#2294-ao-stake-welfare-and-self-reliance-specialists) and [22.6.4](22-providing-for-temporal-needs.md#2264-ao-ward-welfare-and-self-reliance-specialists)).
 * Coordinate volunteer efforts for welfare and self-reliance operations.
-* Serve on specialized working groups that coordinate resources related to self-reliance or community service (see [22.10.2](22-providing-for-temporal-needs.md#22102-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-specialized-working-groups)).
+* Serve on specialized working groups that coordinate resources related to self-reliance or community service (see [22.10.2](22-providing-for-temporal-needs.md#22102-ao-specialized-working-groups)).
 
 In stakes that support a welfare and self-reliance operation, a high councilor may be asked to serve on the agent stake operating committee (see [22.9.1.2](22-providing-for-temporal-needs.md#22912-serve-as-the-agent-stake-president-for-church-welfare-and-self-reliance-operations)).
 
@@ -476,9 +467,9 @@ In stakes that support a welfare and self-reliance operation, a high councilor m
 
 The stake Relief Society presidency supports ward Relief Society presidencies in their responsibility to care for those in need and help them build self-reliance (see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies)).
 
-Members of the stake Relief Society presidency may be asked to serve on specialized working groups that coordinate resources related to self-reliance or community service (see [22.10.2](22-providing-for-temporal-needs.md#22102-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-specialized-working-groups)). ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In stakes that support a welfare and self-reliance operation, a presidency member may also be asked to serve on the agent stake operating committee (see [22.9.1.2](22-providing-for-temporal-needs.md#22912-serve-as-the-agent-stake-president-for-church-welfare-and-self-reliance-operations)).
+Members of the stake Relief Society presidency may be asked to serve on specialized working groups that coordinate resources related to self-reliance or community service (see [22.10.2](22-providing-for-temporal-needs.md#22102-ao-specialized-working-groups)). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In stakes that support a welfare and self-reliance operation, a presidency member may also be asked to serve on the agent stake operating committee (see [22.9.1.2](22-providing-for-temporal-needs.md#22912-serve-as-the-agent-stake-president-for-church-welfare-and-self-reliance-operations)).
 
-### 22.9.4 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Welfare and Self-Reliance Specialists
+### 22.9.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Welfare and Self-Reliance Specialists
 
 As needed, the stake presidency may call individuals or couples as stake welfare and self-reliance specialists.
 
@@ -497,7 +488,7 @@ Stake specialists coordinate efforts with welfare and self-reliance specialists 
 
 Members of the stake council discuss the needs of stake members and plan how to help members become self-reliant (see [29.3.7](29-meetings-in-the-church.md#2937-stake-council-meeting)). They identify resources in the community and stake that can help ward leaders care for the temporal and emotional needs of their members (see [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources) and [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). They develop and maintain a simple written plan for the stake to respond to emergencies (see “[Stake and Ward Preparedness](https://www.churchofjesuschrist.org/study/manual/stake-and-ward-preparedness?lang=eng)”). Stake councils may also plan ways of providing service in the community.
 
-### 22.10.1 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Resources Coordinated by the Stake
+### 22.10.1 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Resources Coordinated by the Stake
 
 Based on local availability, the stake council may access or implement any of the following optional resources. These resources can help stake members build self-reliance or participate in community service.
 
@@ -509,11 +500,11 @@ Based on local availability, the stake council may access or implement any of th
 * [Stake welfare and self-reliance resource centers](https://assets.ldscdn.org/da/df/dadf5707998611eca190eeeeac1ee215e0a084a1/products_and_services_overview_booklet.pdf)
 * A directory of local government and community resources that serve those in need (see [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources) for examples)
 
-### 22.10.2 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Specialized Working Groups
+### 22.10.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Specialized Working Groups
 
-To help organize and manage the optional resources outlined in [22.10.1](22-providing-for-temporal-needs.md#22101-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-resources-coordinated-by-the-stake), the stake presidency may appoint specialized working groups, such as JustServe working groups. These groups could consist of selected members of the stake council or the stake adult leadership committee (see [29.3.8](29-meetings-in-the-church.md#2938-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-adult-leadership-committee-meeting)). They could also include specialists such as:
+To help organize and manage the optional resources outlined in [22.10.1](22-providing-for-temporal-needs.md#22101-ao-resources-coordinated-by-the-stake), the stake presidency may appoint specialized working groups, such as JustServe working groups. These groups could consist of selected members of the stake council or the stake adult leadership committee (see [29.3.8](29-meetings-in-the-church.md#2938-ao-stake-adult-leadership-committee-meeting)). They could also include specialists such as:
 
-* Welfare and self-reliance specialists (see [22.9.4](22-providing-for-temporal-needs.md#2294-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-welfare-and-self-reliance-specialists)).
+* Welfare and self-reliance specialists (see [22.9.4](22-providing-for-temporal-needs.md#2294-ao-stake-welfare-and-self-reliance-specialists)).
 * Stake communication directors or JustServe specialists (see the JustServe Community Service Guidebook).
 * Others as needed.
 
@@ -544,11 +535,9 @@ In many areas, members have access to government or community resources that hel
 * Senior assistance programs.
 * Housing assistance.
 
-!  Imagegroup studying
-
 ## 22.13 Church Resources
 
-The following table lists Church resources that can support members’ efforts to provide for their temporal and emotional needs and build self-reliance. The Lord’s storehouse (see [22.2.1](22-providing-for-temporal-needs.md#2221-the-lords-storehouse)) and fast offerings (see [22.2.2](22-providing-for-temporal-needs.md#2222-the-law-of-the-fast-and-fast-offerings)) are available to bishops in every ward. ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The other resources listed are optional and vary by location.
+The following table lists Church resources that can support members’ efforts to provide for their temporal and emotional needs and build self-reliance. The Lord’s storehouse (see [22.2.1](22-providing-for-temporal-needs.md#2221-the-lords-storehouse)) and fast offerings (see [22.2.2](22-providing-for-temporal-needs.md#2222-the-law-of-the-fast-and-fast-offerings)) are available to bishops in every ward. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The other resources listed are optional and vary by location.
 
 | Category | Resources |
 | --- | --- |

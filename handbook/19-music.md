@@ -1,4 +1,3 @@
-!  Imagewoman and child playing piano
 # 19. Music
 
 ## 19.1 Purpose of Music in the Church
@@ -72,7 +71,7 @@ Live instruments are normally used for prelude and postlude music and for hymn a
 
 Musical instruments should convey a feeling of worship and be played in keeping with the spirit of the meeting.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  If a piano, organ, or accompanist is not available, recordings may be used (see [19.2](19-music.md#192-music-in-the-home)).
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) If a piano, organ, or accompanist is not available, recordings may be used (see [19.2](19-music.md#192-music-in-the-home)).
 
 #### 19.3.6.1 Obtaining Musical Instruments
 
@@ -86,7 +85,7 @@ Pianos are tuned and organs are maintained regularly. The bishop or the stake bu
 
 Since Old Testament times, God’s children have sung in choirs to offer praise to Him. Church choirs bring glory to God, unify and edify Church members, and bring joy to participants and congregations.
 
-#### 19.3.7.1 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Ward Choirs
+#### 19.3.7.1 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Ward Choirs
 
 Where there are enough members, wards may organize choirs that sing in sacrament meeting regularly. The bishopric may call a choir director and choir accompanist (see [19.4.3.3](19-music.md#19433-choir-director-and-choir-accompanist)).
 
@@ -100,9 +99,7 @@ If the ward choir needs sheet music, it may be purchased with ward budget funds 
 
 In addition to the ward choir, families and groups of women, men, youth, or children may be invited to sing in Church meetings.
 
-!  Imagechoir singing
-
-#### 19.3.7.2 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake and Multistake Choirs
+#### 19.3.7.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake and Multistake Choirs
 
 With the approval of stake or area leaders, stake and multistake choirs may be organized for stake conferences and other occasions, such as community events. After the meeting or event, the choir is disbanded until other occasions arise.
 
@@ -112,7 +109,7 @@ With the approval of stake or area leaders, stake and multistake choirs may be o
 
 The bishop is responsible for ward music. He may assign this responsibility to one of his counselors. Bishoprics have the following responsibilities:
 
-* Call and set apart members to serve in the music callings described in [19.4.2](19-music.md#1942-ward-music-coordinator) and [19.4.3](19-music.md#1943-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-additional-callings) as needed.
+* Call and set apart members to serve in the music callings described in [19.4.2](19-music.md#1942-ward-music-coordinator) and [19.4.3](19-music.md#1943-ao-additional-callings) as needed.
 * Work with the ward music coordinator to plan music for sacrament meetings (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings)).
 * Teach about the importance of worshipping through music in meetings. Encourage members to participate in congregational singing. Encourage members, especially youth, to use uplifting music daily in their personal lives (see [19.2](19-music.md#192-music-in-the-home)).
 * Decide when instruments other than pianos or organs may be used in Church meetings (see [19.3.6](19-music.md#1936-musical-instruments)).
@@ -129,7 +126,7 @@ The ward music coordinator serves under the direction of the bishopric. He or sh
 * Serve in other ward music callings if others have not been called.
 * Consult with the stake music coordinator for training and support as needed.
 
-### 19.4.3 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Additional Callings
+### 19.4.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Additional Callings
 
 In wards that are large enough, the bishopric may call members to serve in the following callings. Youth and those of other faiths may be called to serve. Bishoprics may adapt these callings as necessary to meet the needs of their ward.
 
@@ -141,7 +138,7 @@ The music leader conducts the congregational hymns for sacrament meeting and for
 
 The ward accompanist provides prelude and postlude music and accompaniment for hymns during sacrament meeting and other ward meetings as requested. When needed, the accompanist could also accompany the choir or serve as the Primary pianist.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  When no one in the ward can play the piano or organ, the following options are available:
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) When no one in the ward can play the piano or organ, the following options are available:
 
 * A member may play an alternate instrument approved by the bishop (see [19.3.6](19-music.md#1936-musical-instruments)).
 * Digital pianos and organs that play preprogrammed hymn accompaniments are available in some meetinghouses (see [19.3.6.1](19-music.md#19361-obtaining-musical-instruments)).
@@ -174,8 +171,8 @@ The bishopric may call specialists to help with music training in the ward (see 
 
 The stake president oversees stake music. He may assign the following responsibilities to one of his counselors or a member of the high council:
 
-* Call and set apart members to serve in the music callings described in [19.5.2](19-music.md#1952-stake-music-coordinator) and [19.5.3](19-music.md#1953-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-music-specialists) as needed.
-* Consult with the stake music coordinator to plan music for stake conference and other stake events (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings), [19.3.4](19-music.md#1934-music-in-stake-conference), and [19.3.7.2](19-music.md#19372-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-and-multistake-choirs)).
+* Call and set apart members to serve in the music callings described in [19.5.2](19-music.md#1952-stake-music-coordinator) and [19.5.3](19-music.md#1953-ao-stake-music-specialists) as needed.
+* Consult with the stake music coordinator to plan music for stake conference and other stake events (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings), [19.3.4](19-music.md#1934-music-in-stake-conference), and [19.3.7.2](19-music.md#19372-ao-stake-and-multistake-choirs)).
 * Teach about the importance of worshipping through music in meetings. Encourage members to participate in congregational singing. Encourage members to use uplifting music daily in their personal lives (see [19.2](19-music.md#192-music-in-the-home)).
 * Decide when instruments other than pianos or organs may be used in stake meetings (see [19.3.6](19-music.md#1936-musical-instruments)).
 
@@ -184,13 +181,13 @@ The stake president oversees stake music. He may assign the following responsibi
 Under the direction of the stake presidency, the stake music coordinator has the following responsibilities:
 
 * Serve as a resource to the stake presidency and other stake leaders on music matters.
-* Consult with the stake presidency to plan music for stake conference and other stake events (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings), [19.3.4](19-music.md#1934-music-in-stake-conference), and [19.3.7.2](19-music.md#19372-imageicon-optional-resourcesstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-and-multistake-choirs)).
+* Consult with the stake presidency to plan music for stake conference and other stake events (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings), [19.3.4](19-music.md#1934-music-in-stake-conference), and [19.3.7.2](19-music.md#19372-ao-stake-and-multistake-choirs)).
 * Recommend and supervise music training in the stake (see [19.6](19-music.md#196-music-training-and-resources)).
 * As requested by the stake presidency, recommend members to fill stake music callings. Orient those who serve in these callings. Offer support, instruction, and training as needed.
 * Provide training and support for ward music coordinators as needed.
 * Serve as the music leader and choir director in stake meetings if others have not been called.
 
-### 19.5.3 [Imageicon, optional resources](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Stake Music Specialists
+### 19.5.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Music Specialists
 
 Stake music specialists may be called as needed. They may include a stake choir director, stake music leader, and stake accompanist. Stake music specialists may also be assigned to provide music training (see [19.6](19-music.md#196-music-training-and-resources)).
 
@@ -209,7 +206,7 @@ The following resources may also be helpful:
 
 Stake and ward music coordinators may organize basic music training courses for music leaders, choir directors, or accompanists. Participants could include those who currently serve in music callings and other interested adults, youth, and children. Music coordinators or specialists may teach the courses. Music coordinators may also recommend qualified instructors to provide training.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Where there are enough members, music coordinators may consult with priesthood leaders and recommend organizing stake or multistake training workshops. No fee is charged for Church-sponsored training.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where there are enough members, music coordinators may consult with priesthood leaders and recommend organizing stake or multistake training workshops. No fee is charged for Church-sponsored training.
 
 ## 19.7 Additional Policies and Guidelines
 

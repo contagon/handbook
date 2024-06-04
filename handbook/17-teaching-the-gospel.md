@@ -1,4 +1,3 @@
-!  Imagemother teaching son
 # 17. Teaching the Gospel
 
 We teach the gospel to help people strengthen their faith in Heavenly Father and Jesus Christ. We seek to help people become more like the Savior, receive His power in their lives, and ultimately obtain eternal life. When the word of God is taught and received by the Spirit, it has the power to change hearts and inspire conversion. It has a “more powerful effect upon the minds of the people than … anything else” ([Alma 31:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=eng&id=p5#p5)).
@@ -9,25 +8,17 @@ When teaching the gospel, parents, teachers, and leaders follow the example of J
 
 Leaders share the following principles of Christlike teaching with teachers in their organizations. These principles are explained in more detail in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ### 17.1.1 Love Those You Teach
 
 Everything the Savior does is an expression of His love (see [2 Nephi 26:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24)). Leaders and teachers follow His example by showing love for those they teach. They pray for those they teach by name, seek to connect with and understand them, and focus on individual needs. They reach out to members of their class or quorum who do not attend.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ### 17.1.2 Teach by the Spirit
 
 To inspire people to have faith in Jesus Christ, teachers must teach by the Spirit. Teachers seek the Spirit’s guidance as they prepare and teach, and they strive to live worthy of His influence each day.
 
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
-
 ### 17.1.3 Teach the Doctrine
 
 The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current [Instructions for Curriculum](https://www.churchofjesuschrist.org/study/manual/instructions-for-curriculum-2021/instructions-for-curriculum-2021?lang=eng) on ChurchofJesusChrist.org.
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ### 17.1.4 Invite Diligent Learning
 
@@ -38,8 +29,6 @@ Teachers encourage members to be responsible for their own learning. They suppor
 To become converted to the Lord Jesus Christ, each member of the Church is responsible to learn the gospel for himself or herself. In addition, parents are responsible to teach the gospel to their children. Gospel learning and teaching should be centered in the home. Church leaders and teachers encourage and support home-centered gospel learning and teaching.
 
 Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) and [Church magazines](https://www.churchofjesuschrist.org/study/magazines?lang=eng).
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ## 17.3 Leaders’ Responsibilities
 
@@ -70,8 +59,6 @@ The Primary presidency counsels with a member of the bishopric to determine how 
 The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
 
 For more information, see “[Teacher Council Meetings](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in Teaching in the Savior’s Way (pages 38–39).
-
-![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 
 ## 17.5 Teacher Council Meetings for Parents
 

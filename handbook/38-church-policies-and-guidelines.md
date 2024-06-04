@@ -1074,7 +1074,7 @@ Church members should not engage in any form of Satan worship or participate in 
 
 The Church condemns pornography in any form. Pornography use of any kind damages individual lives, families, and society. It also drives away the Spirit of the Lord. Church members should avoid all forms of pornographic material and oppose its production, dissemination, and use.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3-p31#title_number3)  The Church provides the following resources to help people whose lives are affected by pornography:
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The Church provides the following resources to help people whose lives are affected by pornography:
 
 * [AddressingPornography.ChurchofJesusChrist.org](https://AddressingPornography.ChurchofJesusChrist.org)
 * [AddictionRecovery.ChurchofJesusChrist.org](http://AddictionRecovery.ChurchofJesusChrist.org)
@@ -1107,7 +1107,7 @@ Feeling same-sex attraction is not a sin. Members who have these feelings and do
 
 All members who keep their covenants will receive all promised blessings in the eternities whether or not their circumstances allow them to receive the blessings of eternal marriage and parenthood in this life (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41)).
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
 
 * “[Same-Sex Attraction](https://www.churchofjesuschrist.org/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Topics and Questions, topics.ChurchofJesusChrist.org
 * “[Same-Sex Attraction](http://www.churchofjesuschrist.org/topics/gay),” Life Help, ChurchofJesusChrist.org
@@ -1183,7 +1183,7 @@ No bishop’s referral is needed for this service. There is no charge. See [31.3
 
 In other areas, leaders may contact Family Services staff or the welfare and self-reliance manager in the area office for consultation.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](https://www.churchofjesuschrist.org/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](https://www.churchofjesuschrist.org/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 ### 38.6.20 Suicide
 
@@ -1201,7 +1201,7 @@ The family, in consultation with the bishop, determines the place and nature of 
 
 Those who have lost a loved one to suicide can find hope and healing in Jesus Christ and His Atonement.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  For information about suicide prevention and ministering, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For information about suicide prevention and ministering, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
 
 ### 38.6.21 Surgical Sterilization (Including Vasectomy)
 
@@ -1429,7 +1429,6 @@ Subscriptions to the print magazines are available at [store.ChurchofJesusChrist
 
 ### 38.8.8 Church Name, Wordmark, and Symbol
 
-!  ImageChurch wordmark and symbol
 The Church’s name, wordmark, and symbol are key Church identifiers. They are registered as trademarks or are otherwise legally protected worldwide. They are used to identify official literature, news, and events of the Church.
 
 The Church’s key identifiers are to be used only according to the guidelines provided below.
@@ -2223,7 +2222,7 @@ For information about patriarchal blessings for service members, see [38.2.10.3]
 
 For information about ordaining service members in isolated locations, see [38.2.9.6](38-church-policies-and-guidelines.md#38296-military-servicemen-in-war-zones-or-isolated-areas).
 
-For information about issuing temple recommends in isolated locations, see [26.3.2](26-temple-recommends.md#2632-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-temple-recommend-interviews-for-members-in-isolated-areas).
+For information about issuing temple recommends in isolated locations, see [26.3.2](26-temple-recommends.md#2632-ao-temple-recommend-interviews-for-members-in-isolated-areas).
 
 If Church leaders have questions about military relations, they may contact:
 

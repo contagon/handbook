@@ -1,4 +1,3 @@
-!  Imageyoung woman with water blaster
 # 20. Activities
 
 ## 20.1 Purposes
@@ -71,8 +70,6 @@ Service activities should follow safety guidelines (see [20.7.6.1](20-activities
 #### 20.2.4.2 Cultural Arts
 
 Cultural arts activities provide opportunities for members to develop and share their talents. These activities also nurture creativity, confidence, and cooperation. They could include arts and crafts displays, talent shows, or dance, music, and drama. They could also include celebrations of culture, holidays, or local or general Church history.
-
-!  Imagewoman sewing
 
 #### 20.2.4.3 Recreation, Health, Fitness, and Sports
 
@@ -157,8 +154,6 @@ Funding for most multistake activities comes from the budget funds of the partic
 
 Stake, multistake, and area activities should comply with Church travel policies (see [20.7.7](20-activities.md#2077-travel)). Travel for FSY conferences should comply with Church travel policies unless an FSY administrator gives local leaders other instructions.
 
-!  Imagepeople talking
-
 ## 20.4 Youth Conference
 
 Beginning in January of the year they turn 14, young men and young women are invited to participate together in a youth conference. Youth conferences are usually held once each year on a ward or stake level. They may also be held on a multistake or area level. In a year that youth are assigned to attend an FSY conference, stakes and wards should not hold youth conferences.
@@ -175,7 +170,7 @@ Youth can also learn leadership skills as they help plan youth conferences.
 
 Ward youth conferences are planned and carried out by the ward youth council, under the direction of the bishopric (see [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting)). The bishopric obtains the stake presidency’s approval of plans for a ward youth conference.
 
-Stake youth conferences are planned and carried out by the stake youth leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-stake-youth-leadership-committee-meeting)). Youth should be invited to assist the committee as much as possible.
+Stake youth conferences are planned and carried out by the stake youth leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-ao-stake-youth-leadership-committee-meeting)). Youth should be invited to assist the committee as much as possible.
 
 Youth conferences are funded from the stake or ward budget. Members should not be asked to pay for youth conferences (see [20.6](20-activities.md#206-policies-and-guidelines-for-funding-activities)).
 
@@ -275,8 +270,6 @@ Participants in Church sports activities do not need to be Church members. Howev
 If team uniforms are used, they should be simple, inexpensive, and appropriate for the activity. Colored T-shirts or pullover shirts are usually sufficient. Uniforms should be paid for from the stake or ward budget.
 
 The presentation of team or individual awards or trophies is discouraged.
-
-!  Imagemen playing soccer
 
 ### 20.5.10 Temple Visits
 
@@ -439,8 +432,6 @@ Activities should include appropriate training and supervision. They should also
 Leaders instruct all participants in safety practices for the activity. When activities require specific physical skills or experience, it may be necessary to obtain specialized training or to use professional guides.
 
 Leaders should be prepared for emergencies. They should also know in advance how to contact local law enforcement and emergency services. For more information, see “[FAQs—What Should I Do?](https://www.churchofjesuschrist.org/callings/church-safety-and-health/faqs-what-should-i-do)” on ChurchofJesusChrist.org.
-
-!  Imagegroup digging in ground
 
 #### 20.7.6.2 Accident Response
 
