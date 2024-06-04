@@ -105,7 +105,7 @@ God invites all to come unto Christ and assist in His work by:
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
 
-Primary helps children, families, leaders, and teachers participate in this work. For more information about God’s work of salvation and exaltation, study [1](1-work-of-salvation-and-exaltation.md).
+Primary helps children, families, leaders, and teachers participate in this work. For more information about God’s work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
 
 ### 12.2.1 Living the Gospel of Jesus Christ
 
@@ -146,7 +146,7 @@ Nursery for children ages 18 months to 3 years lasts 50 minutes. [Behold Your
 
 #### 12.2.1.3 Service and Activities
 
-Beginning in January of the year they turn 8, children may begin attending Primary activities. For general activity guidelines, see [20](20-activities.md).
+Beginning in January of the year they turn 8, children may begin attending Primary activities. For general activity guidelines, see [chapter 20](20-activities.md).
 
 Primary activity leaders plan service and activities that help children participate in God’s work of salvation and exaltation. Service and activities should be fun and engaging. They build testimonies, strengthen families, and foster personal growth.
 
@@ -214,7 +214,7 @@ The bishop and his counselors regularly attend Primary. They also learn the name
 
 ### 12.3.2 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Primary Presidency
 
-The bishop calls and sets apart an adult woman to serve as the ward Primary president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see [30](30-callings-in-the-church.md)). The bishopric considers her recommendations and extends the callings.
+The bishop calls and sets apart an adult woman to serve as the ward Primary president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see [chapter 30](30-callings-in-the-church.md)). The bishopric considers her recommendations and extends the callings.
 
 The Primary presidency receives orientation and ongoing support from the stake Primary presidency.
 
@@ -298,7 +298,7 @@ Primary teachers teach from [Come, Follow Me](https://www.churchofjesuschrist.or
 
 Nursery leaders teach from [Behold Your Little Ones](https://www.churchofjesuschrist.org/study/manual/behold-your-little-ones-nursery-manual?lang=eng).
 
-Teachers and nursery leaders follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng) and [17](17-teaching-the-gospel.md) of this handbook.
+Teachers and nursery leaders follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
 
 When adults teach children in Church settings, at least two responsible adults should be present. The two adults could be two women, two men, or a married couple. If this is not possible, leaders should combine classes. Leaders and teachers must complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). (See [12.5.1](12-primary.md#1251-safeguarding-children).)
 

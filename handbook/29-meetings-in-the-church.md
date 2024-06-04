@@ -196,9 +196,9 @@ When they meet together, ward council members discuss matters that would benefit
 Ward council meetings usually do not last longer than one hour. They begin with a prayer and brief reports on assignments from previous meetings. Listed below are items that could be discussed. There is not enough time to discuss all of them in every meeting. The bishop gives priority to matters that are most needed to bless individuals and families.
 
 * *Living the gospel of Jesus Christ.* Helping all members build faith, receive saving ordinances, and keep their covenants.
-* *Caring for those in need.* Sharing resources and skills to bless individuals, families, and the community. Helping ward members become self-reliant. (See [22](22-providing-for-temporal-needs.md).)
-* *Inviting all to receive the gospel.* Reviewing the progress of those who are learning about the gospel, as well as new and returning members. Discussing ways members can share the gospel with others. (See [23](23.md).)
-* *Uniting families for eternity.* Reviewing the progress of members who are preparing to receive temple ordinances. Planning ways to help more members qualify for a temple recommend. Discussing ways members can participate in temple and family history work. (See [25](25-temple-and-family-history-work.md).)
+* *Caring for those in need.* Sharing resources and skills to bless individuals, families, and the community. Helping ward members become self-reliant. (See [chapter 22](22-providing-for-temporal-needs.md).)
+* *Inviting all to receive the gospel.* Reviewing the progress of those who are learning about the gospel, as well as new and returning members. Discussing ways members can share the gospel with others. (See [chapter 23](23.md).)
+* *Uniting families for eternity.* Reviewing the progress of members who are preparing to receive temple ordinances. Planning ways to help more members qualify for a temple recommend. Discussing ways members can participate in temple and family history work. (See [chapter 25](25-temple-and-family-history-work.md).)
 
 As ward council members discuss these matters, they consider the needs and strengths of the members they serve. They can learn about these needs and strengths in presidency meetings, in discussions with members of their organization (including ministering interviews), and through their own ministering efforts. In addition, [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members. Council members must keep confidential any private or sensitive information (see [4.4.6](4-leadership-in-the-church-of-jesus-christ.md#446-confidentiality)).
 
@@ -206,7 +206,7 @@ The ward council should know the children and youth in the ward and their home c
 
 After a discussion, the bishop may either decide on a course of action or postpone a decision while seeking additional information and guidance. Or he could refer the matter to a different council, such as the bishopric. See [4.4.3](4-leadership-in-the-church-of-jesus-christ.md#443-discussion-and-decisions).
 
-Sometimes the ward council may determine that a ward activity could help meet the needs of members. The ward council may oversee the planning of ward activities. However, most of the planning is done before and after council meetings. For more information about activities, see [20](20-activities.md).
+Sometimes the ward council may determine that a ward activity could help meet the needs of members. The ward council may oversee the planning of ward activities. However, most of the planning is done before and after council meetings. For more information about activities, see [chapter 20](20-activities.md).
 
 After full-time missionaries return home, they may be invited to report on their missions to the ward council (see [24.8.3](24.md#2483-missionary-reports-and-speaking-in-sacrament-meeting)).
 
@@ -240,21 +240,21 @@ Before each meeting, the bishop and the person conducting review the items to be
 * God’s work of salvation and exaltation.
 * Needs of youth in the ward and ways to address them.
 * Efforts to reach out to youth who are less active or new members.
-* Activities, including opportunities to serve those in need. Most of the planning is done in quorum or class presidency meetings (see [20](20-activities.md)).
-* Ministering (see [21](21-ministering.md)).
+* Activities, including opportunities to serve those in need. Most of the planning is done in quorum or class presidency meetings (see [chapter 20](20-activities.md)).
+* Ministering (see [chapter 21](21-ministering.md)).
 * Orienting newly called quorum and class presidencies.
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3](4-leadership-in-the-church-of-jesus-christ.md#43-councils-in-the-church) and [4.4](4-leadership-in-the-church-of-jesus-christ.md#44-principles-of-effective-councils).
 
 ### 29.2.7 Other Ward Meetings and Classes
 
-Meetings for priesthood quorums and their presidencies are described in [8](8-elders-quorum.md) and [10](10-aaronic-priesthood.md).
+Meetings for priesthood quorums and their presidencies are described in [chapters 8](8-elders-quorum.md) and [10](10-aaronic-priesthood.md).
 
-Meetings for Relief Society sisters and their leaders are described in [9](9-relief-society.md).
+Meetings for Relief Society sisters and their leaders are described in [chapter 9](9-relief-society.md).
 
-Meetings for young women and their leaders are described in [11](11-young-women.md).
+Meetings for young women and their leaders are described in [chapter 11](11-young-women.md).
 
-Meetings for Primary children and their leaders are described in [12](12-primary.md).
+Meetings for Primary children and their leaders are described in [chapter 12](12-primary.md).
 
 Sunday School classes are described in [13.3](13-sunday-school.md#133-sunday-school-classes).
 
@@ -574,9 +574,9 @@ At least quarterly.
 Matters for discussion could include:
 
 * Helping youth progress spiritually.
-* Using fast offerings to care for those in need. Helping members build self-reliance (see [22](22-providing-for-temporal-needs.md), especially [22.11](22-providing-for-temporal-needs.md#2211-role-of-the-stake-bishops-council)). Sharing information about resources available in the community.
-* Helping members repent and experience a change of heart (see [32](32-repentance-and-membership-councils.md)).
-* Managing Church finances (see [34](34-finances-and-audits.md)).
+* Using fast offerings to care for those in need. Helping members build self-reliance (see [chapter 22](22-providing-for-temporal-needs.md), especially [22.11](22-providing-for-temporal-needs.md#2211-role-of-the-stake-bishops-council)). Sharing information about resources available in the community.
+* Helping members repent and experience a change of heart (see [chapter 32](32-repentance-and-membership-councils.md)).
+* Managing Church finances (see [chapter 34](34-finances-and-audits.md)).
 
 The stake president leads this meeting. He helps bishops learn and fulfill their principal responsibilities (see [7.1](7.md#71-the-bishop-and-his-counselors)). He also invites bishops to counsel about instruction from Church leaders.
 

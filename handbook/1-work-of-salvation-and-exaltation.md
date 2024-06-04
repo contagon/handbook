@@ -91,7 +91,7 @@ Through the priesthood, God accomplishes His work of salvation and exaltation. T
 
 ### 1.3.2 Covenants and Ordinances
 
-In Heavenly Father’s plan, we make covenants as we receive the ordinances of salvation and exaltation, such as baptism (see [John 3:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p5#p5); see also [18](18-priesthood-ordinances-and-blessings.md) in this handbook). These covenants and ordinances are essential for us to become more like God and return to dwell in His presence (see [Doctrine and Covenants 84:19–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p19-p22#p19)).
+In Heavenly Father’s plan, we make covenants as we receive the ordinances of salvation and exaltation, such as baptism (see [John 3:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p5#p5); see also [chapter 18](18-priesthood-ordinances-and-blessings.md) in this handbook). These covenants and ordinances are essential for us to become more like God and return to dwell in His presence (see [Doctrine and Covenants 84:19–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p19-p22#p19)).
 
 ### 1.3.3 Prophetic Direction
 

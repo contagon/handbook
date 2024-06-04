@@ -29,7 +29,7 @@ Church leaders support members in the following ways:
 * Encourage endowed members to have a current temple recommend and worship in the temple as often as their circumstances allow.
 * Encourage youth, new members, and other unendowed adults to have a current recommend for proxy baptisms and confirmations and go to the temple to be baptized and confirmed for the dead.
 
-See [26](26-temple-recommends.md) for information about temple recommends.
+See [chapter 26](26-temple-recommends.md) for information about temple recommends.
 
 ### 25.1.1 Individual Responsibility for Temple Attendance
 
@@ -54,7 +54,7 @@ The bishopric also has the following responsibilities for temple and family hist
 * Ensure that temple and family history work is coordinated in ward council and ward youth council meetings.
 * Review and approve the ward temple and family history plan (see [25.2.6](25-temple-and-family-history-work.md#2526-ward-temple-and-family-history-plan)).
 * Oversee the organization of temple preparation courses (see [25.2.8](25-temple-and-family-history-work.md#2528-temple-preparation-course)).
-* Issue temple recommends (see [26](26-temple-recommends.md)).
+* Issue temple recommends (see [chapter 26](26-temple-recommends.md)).
 
 ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The bishopric consults with the stake president to determine whether to call a ward temple and family history leader (see [25.2.3](25-temple-and-family-history-work.md#2523-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-ward-temple-and-family-history-leader) for more information).
 
@@ -174,7 +174,7 @@ The stake president holds the keys for God’s work of salvation and exaltation 
 * Help members prepare to make sacred covenants as they receive temple ordinances.
 * Encourage members to learn about their ancestors and perform temple ordinances on their behalf.
 * Encourage members to worship in the temple as often as their circumstances allow.
-* Conduct temple recommend interviews (see [26](26-temple-recommends.md)).
+* Conduct temple recommend interviews (see [chapter 26](26-temple-recommends.md)).
 
 In his regular meeting with each elders quorum president, a member of the stake presidency discusses temple and family history work in the ward (see [8.3.1](8-elders-quorum.md#831-stake-presidency-and-bishop)). ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  The counselors in the elders quorum presidency and the high councilor assigned to the quorum may attend.
 

@@ -45,7 +45,7 @@ The Sunday School president may recommend members to serve as Sunday School teac
 
 Sunday School teachers get to know class members, including those who do not attend classes. Teachers support members in their efforts to learn and live the gospel of Jesus Christ.
 
-To prepare to teach, Sunday School teachers use the scriptures and [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng) and [17](17-teaching-the-gospel.md) of this handbook.
+To prepare to teach, Sunday School teachers use the scriptures and [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
 
 Sunday School teachers attend quarterly teacher council meetings (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)).
 

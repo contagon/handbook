@@ -345,7 +345,7 @@ Funding for most multistake activities comes from the budget funds of the partic
 
 #### 34.6.3.2 Special Activities and Equipment
 
-For information about special activities and equipment, see [20](20-activities.md).
+For information about special activities and equipment, see [chapter 20](20-activities.md).
 
 ## 34.7 Audits
 

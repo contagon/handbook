@@ -28,7 +28,7 @@ The following types of records are kept in Church units:
 * Member participation reports (see [33.5](33-records-and-reports.md#335-reports-on-member-participation))
 * Membership records (see [33.6](33-records-and-reports.md#336-membership-records))
 * Historical records (see [33.7](33-records-and-reports.md#337-historical-records))
-* Financial records (see [34](34-finances-and-audits.md))
+* Financial records (see [chapter 34](34-finances-and-audits.md))
 
 ## 33.2 General Instructions for Clerks
 
@@ -387,7 +387,7 @@ A member is sometimes located after his or her record has been in the “address
 
 ### 33.6.17 Recording and Correcting Ordinance Information
 
-See [18](18-priesthood-ordinances-and-blessings.md).
+See [chapter 18](18-priesthood-ordinances-and-blessings.md).
 
 ### 33.6.18 Recording and Correcting Civil Information
 

@@ -72,7 +72,7 @@ God invites all to come unto Christ and assist in His work by:
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
 
-The bishopric and youth quorum leaders, supported by advisers (see [10.5](10-aaronic-priesthood.md#105-advisers-and-specialists)), counsel together about how to help accomplish this work. For more information about God’s work of salvation and exaltation, study [1](1-work-of-salvation-and-exaltation.md).
+The bishopric and youth quorum leaders, supported by advisers (see [10.5](10-aaronic-priesthood.md#105-advisers-and-specialists)), counsel together about how to help accomplish this work. For more information about God’s work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
 
 ### 10.2.1 Living the Gospel of Jesus Christ
 
@@ -151,7 +151,7 @@ Aaronic Priesthood holders assist the bishop in “administering all temporal th
 
 #### 10.2.2.1 Ministering
 
-Ministering is caring for others as the Savior would. Aaronic Priesthood holders receive ministering assignments beginning in January of the year they turn 14. For more information, see [21](21-ministering.md).
+Ministering is caring for others as the Savior would. Aaronic Priesthood holders receive ministering assignments beginning in January of the year they turn 14. For more information, see [chapter 21](21-ministering.md).
 
 ### 10.2.3 Inviting All to Receive the Gospel
 
@@ -173,7 +173,7 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=eng). This class is not held during regular Sunday meetings.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young men as they prepare to serve as missionaries. See [23](23.md) and [24](24.md) for more information.
+](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23](23.md) and [24](24.md) for more information.
 
 ### 10.2.4 Uniting Families for Eternity
 
@@ -201,7 +201,7 @@ When a bishopric member attends a quorum meeting, he presides in the meeting.
 
 The bishopric has the following additional responsibilities for Aaronic Priesthood quorums:
 
-* Mentor quorum presidencies and the bishop’s assistants in the priests quorum. Help them understand and fulfill their duties as leaders. To do this, the bishopric uses the scriptures and “[Aaronic Priesthood and Young Women Class Presidency Orientation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60009511/PD60009511_000-Quorum-Class-Training.pdf)” (see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](http://aaronicpriesthoodquorums.churchofjesuschrist.org)). They may also use [4](4-leadership-in-the-church-of-jesus-christ.md) of this handbook.
+* Mentor quorum presidencies and the bishop’s assistants in the priests quorum. Help them understand and fulfill their duties as leaders. To do this, the bishopric uses the scriptures and “[Aaronic Priesthood and Young Women Class Presidency Orientation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60009511/PD60009511_000-Quorum-Class-Training.pdf)” (see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](http://aaronicpriesthoodquorums.churchofjesuschrist.org)). They may also use [chapter 4](4-leadership-in-the-church-of-jesus-christ.md) of this handbook.
 * Meet with each young man at least twice a year (see [31.3.1](31.md#3131-meeting-with-youth)).
 * Oversee teaching in the Aaronic Priesthood quorums.
 * Help young men prepare to receive the Melchizedek Priesthood (see [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood)).
@@ -227,7 +227,7 @@ A member of the bishopric announces these callings in sacrament meeting. He does
 
 Aaronic Priesthood quorum presidents, including the bishop, have the following responsibilities. Their counselors and the bishop’s assistants in the priests quorum share in these responsibilities.
 
-* Lead the quorum’s efforts to participate in God’s work of salvation and exaltation (see [1](1-work-of-salvation-and-exaltation.md)).
+* Lead the quorum’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Get to know and serve each quorum member, including those who do not attend quorum meetings. Be aware of their needs and circumstances.
 * Serve on the ward youth council (see [10.4.4](10-aaronic-priesthood.md#1044-ward-youth-council)).
 * Participate in ward efforts to share the gospel and strengthen new and returning members. An assistant in the priests quorum attends coordination meetings (see [23.4](23.md#234-hold-weekly-coordination-meetings)).
@@ -288,7 +288,7 @@ Those who receive the Melchizedek Priesthood should strive to understand:
 
 * The oath and covenant of the priesthood (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p33-p44#p33)).
 * The duties of an elder ([Doctrine and Covenants 20:38–45](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p38-p45#p38); [42:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p44#p44); [107:11–12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p11-p12#p11)).
-* The purposes of priesthood ordinances and blessings and how to perform them (see [18](18-priesthood-ordinances-and-blessings.md)).
+* The purposes of priesthood ordinances and blessings and how to perform them (see [chapter 18](18-priesthood-ordinances-and-blessings.md)).
 * How men and women work together to help accomplish God’s work.
 
 ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  For information about these topics, see “[Melchizedek Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/melchizedek-priesthood?lang=eng),” “[Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=eng),” and “[Women in the Church](https://www.churchofjesuschrist.org/study/manual/gospel-topics/women-in-the-church?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).

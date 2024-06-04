@@ -191,7 +191,7 @@ With the help of the Lord, members seek to provide for themselves and their fami
 
 Church assistance is intended to help members develop independence, not dependence. Any assistance given should strengthen members in their efforts to become self-reliant.
 
-When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&id=title_number79-p145#title_number79). Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds).”
+When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5](22-providing-for-temporal-needs.md#2241-encourage-personal-and-family-responsibility). Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds).”
 
 ![](https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default)  
 

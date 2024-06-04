@@ -43,7 +43,7 @@ God invites all to come unto Christ and assist in His work by:
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
 
-Class presidencies, supported by adult leaders, counsel together about how to help accomplish this work. For more information about God’s work of salvation and exaltation, study [1](1-work-of-salvation-and-exaltation.md).
+Class presidencies, supported by adult leaders, counsel together about how to help accomplish this work. For more information about God’s work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
 
 ### 11.2.1 Living the Gospel of Jesus Christ
 
@@ -119,7 +119,7 @@ Young women should have regular opportunities to serve others in and with their 
 
 #### 11.2.2.1 Ministering
 
-Ministering is caring for others as the Savior would. Young women may receive ministering assignments beginning in January of the year they turn 14. For more information, see [21](21-ministering.md).
+Ministering is caring for others as the Savior would. Young women may receive ministering assignments beginning in January of the year they turn 14. For more information, see [chapter 21](21-ministering.md).
 
 ### 11.2.3 Inviting All to Receive the Gospel
 
@@ -142,7 +142,7 @@ If young women desire to serve full-time missions, parents and leaders help them
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young women who desire to prepare to serve a mission. See [23](23.md) and [24](24.md) for more information.
+](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  [Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org) provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23](23.md) and [24](24.md) for more information.
 
 ### 11.2.4 Uniting Families for Eternity
 
@@ -170,7 +170,7 @@ The bishop and his counselors regularly participate in Young Women meetings, ser
 
 ### 11.3.2 Adult Young Women Presidency
 
-The bishop calls and sets apart an adult woman to serve as the ward Young Women president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see [30](30-callings-in-the-church.md)). The bishopric considers her recommendations and extends the callings.
+The bishop calls and sets apart an adult woman to serve as the ward Young Women president. If the unit is large enough, she recommends one or two adult women to be called as her counselors (see [chapter 30](30-callings-in-the-church.md)). The bishopric considers her recommendations and extends the callings.
 
 ](/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3)  In a small unit, the Young Women president may be the only called adult leader in the Young Women organization. In this case, she works with parents to organize instruction and activities for the young women. She also ensures that at least two responsible adults are present at all meetings and activities. When possible, counselors and a secretary should be called.
 
@@ -213,13 +213,13 @@ After extending these callings, a member of the bishopric presents the young wom
 
 A member of the bishopric announces these callings in sacrament meeting. He does not present them to be sustained.
 
-Shortly after class presidencies are set apart, a member of the bishopric should orient them to their responsibilities. See “[Aaronic Priesthood Quorum and Young Women Class Presidency Orientation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60009511/PD60009511_000-Quorum-Class-Training.pdf)” at [YoungWomen.ChurchofJesusChrist.org](http://youngwomen.churchofjesuschrist.org); see also [4](4-leadership-in-the-church-of-jesus-christ.md) of this handbook.
+Shortly after class presidencies are set apart, a member of the bishopric should orient them to their responsibilities. See “[Aaronic Priesthood Quorum and Young Women Class Presidency Orientation](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60009511/PD60009511_000-Quorum-Class-Training.pdf)” at [YoungWomen.ChurchofJesusChrist.org](http://youngwomen.churchofjesuschrist.org); see also [chapter 4](4-leadership-in-the-church-of-jesus-christ.md) of this handbook.
 
 #### 11.3.4.2 Responsibilities
 
 Class presidents serve on the ward youth council (see [11.3.4.4](11-young-women.md#11344-ward-youth-council)). Class presidencies also have the following responsibilities:
 
-* Lead the class’s efforts to participate in God’s work of salvation and exaltation (see [1](1-work-of-salvation-and-exaltation.md)).
+* Lead the class’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Get to know and serve each young woman, including those who do not attend class meetings. Be aware of their needs and circumstances.
 * Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.4](23.md#234-hold-weekly-coordination-meetings)).
 * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)).

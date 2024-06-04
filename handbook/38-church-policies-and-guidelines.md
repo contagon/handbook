@@ -26,7 +26,7 @@ For baptism of minor children ages 8 and older, see [38.2.8.2](38-church-polici
 
 ### 38.1.3 Temple Attendance
 
-Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [26](26-temple-recommends.md).)
+Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](26-temple-recommends.md).)
 
 ### 38.1.4 Unmarried Member Participation and Blessings
 
@@ -47,7 +47,7 @@ In making this decision, youth, parents, and leaders consider the following:
 
 ## 38.2 Policies for Ordinances and Blessings
 
-This section gives policies for ordinances and blessings. Some of these policies involve special circumstances. General information about ordinances and blessings is provided in [18](18-priesthood-ordinances-and-blessings.md). Information about temple ordinances is provided in [27](27-temple-ordinances-for-the-living.md) and [28](28.md).
+This section gives policies for ordinances and blessings. Some of these policies involve special circumstances. General information about ordinances and blessings is provided in [chapter 18](18-priesthood-ordinances-and-blessings.md). Information about temple ordinances is provided in [chapters 27](27-temple-ordinances-for-the-living.md) and [28](28.md).
 
 ### 38.2.1 Interpreting Ordinances and Blessings into Another Language
 
@@ -562,7 +562,7 @@ When issuing temple recommends for a couple to be sealed, priesthood leaders mak
 
 A living woman who is not currently married or sealed to another man may be sealed to a deceased husband from whom she was divorced in life. She must first receive signed consent from her former husband’s widow (if there is one).
 
-See [28](28.md) for information about performing ordinances for a deceased spouse.
+See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
 *Men.* If a man and woman were sealed and later divorced, the man must receive a sealing clearance before being sealed to another woman (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the previous wife is deceased.
 
@@ -570,7 +570,7 @@ A sealing clearance is needed only if a man is divorced from the woman who was m
 
 A living man may be sealed to a deceased wife from whom he was divorced in life. He must first receive signed consent from his former wife’s widower (if there is one). He also must receive written consent from his current wife if he is married.
 
-See [28](28.md) for information about performing ordinances for a deceased spouse.
+See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
 #### 38.4.1.3 Sealing of Living Members after a Spouse’s Death
 
@@ -580,13 +580,13 @@ A living woman who is not currently married or sealed to another man may be seal
 
 A living woman who is currently married may not be sealed to a deceased husband without First Presidency approval.
 
-See [28](28.md) for information about performing ordinances for a deceased spouse.
+See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
 *Men.* If a husband and wife have been sealed and the wife dies, the man may be sealed to another woman if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce)).
 
 A living man may be sealed to a deceased wife if she is not currently sealed to another man (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
 
-See [28](28.md) for information about performing ordinances for a deceased spouse.
+See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
 #### 38.4.1.4 Applying for a Sealing Cancellation or a Sealing Clearance
 
@@ -1056,7 +1056,7 @@ Victims of incest often suffer serious trauma. Leaders respond with heartfelt co
 
 Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders help them and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=eng&id=p8#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng&id=p9#p9)).
 
-In addition to receiving the inspired help of Church leaders, victims and their families may need professional counseling. For information, see [38.6.18.2.](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number222-p2340#title_number222)
+In addition to receiving the inspired help of Church leaders, victims and their families may need professional counseling. For information, see [38.6.18.2.](38-church-policies-and-guidelines.md#386182-counseling-for-victims-of-sexual-abuse-rape-and-other-forms-of-sexual-assault)
 
 ### 38.6.11 In Vitro Fertilization
 
@@ -2159,7 +2159,7 @@ Members in the military normally participate in wards located near their militar
 	+ Attendance at local meetings is not feasible.
 * Members belong to Reserve or National Guard units and participate in weekend drills or annual training exercises.
 
-Wards and branches at military installations are created using the procedures outlined in [37](37-specialized-stakes-wards-and-branches.md).
+Wards and branches at military installations are created using the procedures outlined in [chapter 37](37-specialized-stakes-wards-and-branches.md).
 
 Wards and branches are usually established to support both military members and their families. A ward or branch may also be established for military members without their families. Such units may be established for members attending basic or advanced training or on a remote assignment. The military does not normally allow Church members who are not associated with the military to belong to a ward or branch that uses installation facilities.
 

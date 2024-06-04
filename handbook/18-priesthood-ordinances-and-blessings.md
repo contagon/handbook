@@ -587,7 +587,7 @@ Church members may have their homes dedicated by the authority of the Melchizede
 A home is dedicated by a Melchizedek Priesthood holder. If there is not a Melchizedek Priesthood holder in the home:
 
 * A family may invite a close friend, relative, or ministering brother who holds the Melchizedek Priesthood to dedicate the home. The person does not need to seek approval from a priesthood leader.
-* A family might gather and offer a prayer as guided by the Spirit. The prayer could include the elements mentioned in [18.15.2, number 3](https://www.churchofjesuschrist.org/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&id=p217#p217).
+* A family might gather and offer a prayer as guided by the Spirit. The prayer could include the elements mentioned in [18.15.2, number 3](18-priesthood-ordinances-and-blessings.md#18152-instructions).
 
 ### 18.15.2 Instructions
 
@@ -659,7 +659,7 @@ For more information about patriarchal blessings, see [38.2.10](38-church-polici
 
 ## 18.18 Temple Endowment and Sealing
 
-For information on the temple endowment and sealing ordinances, see [27](27-temple-ordinances-for-the-living.md).
+For information on the temple endowment and sealing ordinances, see [chapter 27](27-temple-ordinances-for-the-living.md).
 
 ## 18.19 Chart of Ordinations
 

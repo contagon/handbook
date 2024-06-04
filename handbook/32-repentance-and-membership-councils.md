@@ -9,11 +9,11 @@ When assisting members with repentance, bishops and stake presidents are loving 
 
 As outlined below, this chapter is organized to guide leaders through the key decisions and actions necessary to help someone repent of a serious sin and to help protect others.
 
-* *The Church’s Role in Helping a Person Repent.* [Sections 32.1–32.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number2-p448#title_number2) explain the Lord’s doctrine of repentance and forgiveness. These sections also explain the three purposes of Church membership restrictions or withdrawal. Additionally, they explain the role of bishops and stake presidents in helping with repentance.
-* *Determining the Setting for Helping a Person Repent.* [Sections 32.5–32.7](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number14-p491#title_number14) provide guidelines for deciding if a membership council or personal counseling is the appropriate setting for helping someone repent.
-* *Administering Personal Counseling.* [Section 32.8](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number50-p207#title_number50) provides guidelines for personal counseling by the bishop or stake president. It also explains informal Church membership restrictions.
-* *Administering Church Membership Councils.* [Sections 32.9–32.14](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number54-p385#title_number54) explain who has responsibility for membership councils, how to conduct them, and the possible decisions. The results of those decisions are also explained.
-* *Returning Church Membership Privileges.* [Sections 32.15–32.17](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number89-p443#title_number89) explain how a person can have Church membership privileges restored through repentance.
+* *The Church’s Role in Helping a Person Repent.* [Sections 32.1–32.4](32-repentance-and-membership-councils.md#321-repentance-and-forgiveness) explain the Lord’s doctrine of repentance and forgiveness. These sections also explain the three purposes of Church membership restrictions or withdrawal. Additionally, they explain the role of bishops and stake presidents in helping with repentance.
+* *Determining the Setting for Helping a Person Repent.* [Sections 32.5–32.7](32-repentance-and-membership-councils.md#325-settings-for-helping-a-person-repent) provide guidelines for deciding if a membership council or personal counseling is the appropriate setting for helping someone repent.
+* *Administering Personal Counseling.* [Section 32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions) provides guidelines for personal counseling by the bishop or stake president. It also explains informal Church membership restrictions.
+* *Administering Church Membership Councils.* [Sections 32.9–32.14](32-repentance-and-membership-councils.md#329-participation-and-responsibility) explain who has responsibility for membership councils, how to conduct them, and the possible decisions. The results of those decisions are also explained.
+* *Returning Church Membership Privileges.* [Sections 32.15–32.17](32-repentance-and-membership-councils.md#3215-continue-to-minister) explain how a person can have Church membership privileges restored through repentance.
 
 Unless otherwise noted, references to stake presidents apply also to mission presidents. References to bishops apply also to branch presidents.
 
@@ -53,7 +53,7 @@ If a member commits a serious sin, the bishop or stake president helps him or he
 
 Restricting or withdrawing a person’s membership is not intended to punish. Rather, these actions are sometimes necessary to help a person repent and experience a change of heart. They also give a person time to prepare spiritually to renew and keep his or her covenants again.
 
-The bishop or stake president oversees membership restrictions or withdrawal as outlined in [32.5–32.14](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number14-p385#title_number14). These actions are accompanied by conditions of repentance. As a person sincerely repents, he or she may have the privileges of Church membership restored.
+The bishop or stake president oversees membership restrictions or withdrawal as outlined in [32.5–32.14](32-repentance-and-membership-councils.md#325-settings-for-helping-a-person-repent). These actions are accompanied by conditions of repentance. As a person sincerely repents, he or she may have the privileges of Church membership restored.
 
 When membership restrictions or withdrawal is necessary, the bishop or stake president follows the guidance of the Holy Ghost and the instructions in this chapter. He acts in a spirit of love (see [32.3](32-repentance-and-membership-councils.md#323-the-role-of-judges-in-israel)).
 
@@ -90,7 +90,7 @@ Bishops and stake presidents are called and set apart to be judges in Israel (se
 
 Often bishops and stake presidents assist with repentance through personal counseling. This assistance may include informally restricting some privileges of Church membership for a time. (See [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions).)
 
-For some serious sins, leaders assist with repentance by holding a membership council (see [32.6](32-repentance-and-membership-councils.md#326-severity-of-the-sin-and-church-policy) and [32.9–32.14](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number54-p385#title_number54)). This assistance may include formally restricting some privileges of Church membership or withdrawing a person’s membership for a time (see [32.11.3](32-repentance-and-membership-councils.md#32113-formal-membership-restrictions) and [32.11.4](32-repentance-and-membership-councils.md#32114-withdrawal-of-membership)).
+For some serious sins, leaders assist with repentance by holding a membership council (see [32.6](32-repentance-and-membership-councils.md#326-severity-of-the-sin-and-church-policy) and [32.9–32.14](32-repentance-and-membership-councils.md#329-participation-and-responsibility)). This assistance may include formally restricting some privileges of Church membership or withdrawing a person’s membership for a time (see [32.11.3](32-repentance-and-membership-councils.md#32113-formal-membership-restrictions) and [32.11.4](32-repentance-and-membership-councils.md#32114-withdrawal-of-membership)).
 
 Bishops and stake presidents help Church members understand that God loves His children. Because He wants them to be happy and receive blessings, He also cares immensely about their obedience and repentance.
 
@@ -230,7 +230,7 @@ A bishop counsels with the stake president about specific situations. He must re
 
 On difficult matters, the stake president may seek counsel from his assigned Area Seventy. The stake president must counsel with the Area Presidency on the matters outlined in [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). However, only the stake president decides if a council should be held to address the conduct. If a council is held, the stake president or bishop decides the outcome.
 
-If a bishop or stake president determines that personal counseling is sufficient, he follows the guidelines in [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions). If he determines that a membership council is needed, or if Church policy requires a council, the one who conducts it follows the procedures in [32.9–32.14](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=title_number54-p385#title_number54).
+If a bishop or stake president determines that personal counseling is sufficient, he follows the guidelines in [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions). If he determines that a membership council is needed, or if Church policy requires a council, the one who conducts it follows the procedures in [32.9–32.14](32-repentance-and-membership-councils.md#329-participation-and-responsibility).
 
 Before holding the council, the bishop or stake president may determine that informal membership restrictions would be best for a time. He holds the council when it would best encourage the member’s sincere repentance. However, he should not delay a council if it is necessary to protect others.
 
@@ -369,7 +369,7 @@ When a Membership Council Is Required or May Be Necessary
 
 Some matters require extra sensitivity and guidance. To know how to best help, the stake president must counsel with the Area Presidency about the situations in this section. However, only the stake president decides if a council should be held to address the conduct. If a council is held, the stake president or bishop decides the outcome.
 
-If a membership council is held for one of the matters outlined in this section, the decision of the council must be “remains in good standing,” “formal membership restrictions,” or “withdrawal of membership.” First Presidency approval is required to remove formal restrictions or readmit the person into the Church (see [32.16.1, number 9](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p408-p417#p408)).
+If a membership council is held for one of the matters outlined in this section, the decision of the council must be “remains in good standing,” “formal membership restrictions,” or “withdrawal of membership.” First Presidency approval is required to remove formal restrictions or readmit the person into the Church (see [32.16.1, number 9](32-repentance-and-membership-councils.md#32161-membership-councils-to-remove-formal-restrictions-or-readmit-a-person)).
 
 #### 32.6.3.1 Other Action
 
@@ -717,7 +717,7 @@ The bishop or stake president gives a member written notice of a membership coun
 
 A final paragraph could include an expression of love, hope, and concern.
 
-Guidelines about whom the person may invite to speak to the council are provided in [32.10.3, number 4](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p280#p280).
+Guidelines about whom the person may invite to speak to the council are provided in [32.10.3, number 4](32-repentance-and-membership-councils.md#32103-conduct-the-council).
 
 If the letter cannot be delivered in person, it may be sent by registered or certified mail, with a return receipt requested.
 
@@ -727,7 +727,7 @@ The bishop or stake president prepares the member for the council by explaining 
 
 ### 32.10.2 Obtain Statements from Victims
 
-When a Church member is a victim (such as for incest, child abuse, spouse abuse, or fraud), the bishop or stake president contacts that person’s current bishop or stake president. These leaders determine whether it would be helpful to give the victim an opportunity to provide a written statement about the misconduct and its effects. These statements may be read in a membership council (see [32.10.3, number 3](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p279#p279)). Church leaders do not have authority to initiate contact with victims who are not members of the Church.
+When a Church member is a victim (such as for incest, child abuse, spouse abuse, or fraud), the bishop or stake president contacts that person’s current bishop or stake president. These leaders determine whether it would be helpful to give the victim an opportunity to provide a written statement about the misconduct and its effects. These statements may be read in a membership council (see [32.10.3, number 3](32-repentance-and-membership-councils.md#32103-conduct-the-council)). Church leaders do not have authority to initiate contact with victims who are not members of the Church.
 
 Any communication with a victim for this purpose is made by his or her current bishop or stake president. If a victim provides a statement, this leader gives it to the bishop or stake president who holds the membership council. Leaders must take great care to avoid causing further trauma. See [32.4.3](32-repentance-and-membership-councils.md#3243-gathering-information) for other cautions.
 
@@ -1068,7 +1068,7 @@ In other circumstances, a membership council is not held unless the bishop or st
 
 When a membership council is necessary for a person who had received the temple endowment, the stake president holds it. When a council is necessary for a person who was not endowed, the bishop holds it, with approval from the stake president.
 
-If the person engaged in any of the conduct in [32.16.1, number 9](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p408-p417#p408), either before or after resigning Church membership, First Presidency approval is required for readmission. If the person engaged in any of the conduct in [32.14.5, number 1](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p358-p367#p358), either before or after resigning membership, an annotation will be made on the membership record.
+If the person engaged in any of the conduct in [32.16.1, number 9](32-repentance-and-membership-councils.md#32161-membership-councils-to-remove-formal-restrictions-or-readmit-a-person), either before or after resigning Church membership, First Presidency approval is required for readmission. If the person engaged in any of the conduct in [32.14.5, number 1](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations), either before or after resigning membership, an annotation will be made on the membership record.
 
 A person who requests readmission must meet the same qualifications as others who are baptized. When the bishop or stake president is satisfied that the person is worthy and sincere in wanting to be readmitted, the person may be baptized and confirmed. A Baptism and Confirmation Certificate is not created (see [32.14.4](32-repentance-and-membership-councils.md#32144-records-after-readmission-to-the-church)).
 

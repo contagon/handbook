@@ -67,7 +67,7 @@ class HandbookConverter:
         text = self.converter.convert_soup(soup).strip()
         text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
 
-        # hack to fix a couple of poor formatting versions from the website
+        # HACK to fix a couple of poor formatting versions from the website
         bad_titles = [
             ("30.8.1", "Ward Callings"),
             ("30.8.2", "Branch Callings"),
@@ -87,15 +87,13 @@ class HandbookConverter:
             name = match.group(1).strip()
             link = match.group(2)
 
-            if name.lower().startswith("chapter"):
-                name = re.split("\s", name)[-1]
-
             # If it's a chapter link or section number link
-            if re.fullmatch(TITLE_NUM_REGEX, name) and link.startswith(
-                "/study/manual/general-handbook"
+            if link.startswith("/study/manual/general-handbook") and (
+                num := re.search(TITLE_NUM_REGEX, name)
             ):
-                if name in self.cache:
-                    return f"[{name}]({self.cache[name]})"
+                num = num.group(1)
+                if num in self.cache:
+                    return f"[{name}]({self.cache[num]})"
                 else:
                     print(f"Missing num : {name}, {k}")
                     return match.group(0)
@@ -123,6 +121,7 @@ class HandbookConverter:
 
 
 urls = [
+    "0-introductory-overview",
     "1-work-of-salvation-and-exaltation",
     "2-supporting-individuals-and-families",
     "3-priesthood-principles",

@@ -39,7 +39,7 @@ The stake president may assign one of his counselors and a high councilor to sup
 
 The stake presidency pays particular attention to young single adults—as they do all members of the rising generation.
 
-The stake presidency determines whether activities for young single adults should take place at the ward level, the stake level, or some combination of both. Activities for single adults take place at the stake and multistake level. (See [20](20-activities.md).)
+The stake presidency determines whether activities for young single adults should take place at the ward level, the stake level, or some combination of both. Activities for single adults take place at the stake and multistake level. (See [chapter 20](20-activities.md).)
 
 When the number of single members in a location is sufficient, stake presidents may recommend organizing a young single adult ward or a single adult ward (see [14.3](14-single-members.md#143-imageicon-guidelines-for-adaptationstudymanualgeneral-handbook0-introductory-overviewlangengidtitlenumber3titlenumber3-young-single-adult-wards-and-stakes-and-single-adult-wards)).
 
@@ -172,11 +172,11 @@ Where it is available, [JustServe.org](http://www.justserve.org) suggests servic
 
 #### 14.2.2.2 Ministering
 
-Each single brother is assigned ministering brothers. Each single sister is assigned ministering sisters and ministering brothers. Assignments are made to individuals, not to groups or apartments. (See [21](21-ministering.md).)
+Each single brother is assigned ministering brothers. Each single sister is assigned ministering sisters and ministering brothers. Assignments are made to individuals, not to groups or apartments. (See [chapter 21](21-ministering.md).)
 
 ### 14.2.3 Inviting All to Receive the Gospel
 
-Single members have an opportunity to invite all to receive the blessings of the gospel of Jesus Christ. They do this by sharing the gospel, strengthening new and returning members, and reaching out to those who are not participating. (See [23](23.md).)
+Single members have an opportunity to invite all to receive the blessings of the gospel of Jesus Christ. They do this by sharing the gospel, strengthening new and returning members, and reaching out to those who are not participating. (See [chapter 23](23.md).)
 
 Some young single adults move frequently. Young single adults may periodically organize activities to find and welcome other young single adults in the stake. These activities may also be done with neighboring stakes.
 
@@ -196,7 +196,7 @@ As individuals and as groups, single members can help unite families for eternit
 
 ## 14.3 [Imageicon, guidelines for adaptation](https://www.churchofjesuschrist.org/study/manual/general-handbook/0-introductory-overview?lang=eng&id=title_number3#title_number3) Young Single Adult Wards and Stakes and Single Adult Wards
 
-Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [37](37-specialized-stakes-wards-and-branches.md).
+Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](37-specialized-stakes-wards-and-branches.md).
 
 * A young single adult ward for those ages 18–30 (see [37.2](37-specialized-stakes-wards-and-branches.md#372-young-single-adult-wards-and-branches-in-a-geographic-stake))
 * A young single adult stake for those ages 18–30 (see [37.3](37-specialized-stakes-wards-and-branches.md#373-young-single-adult-stakes-and-their-wards-and-branches))

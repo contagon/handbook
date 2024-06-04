@@ -72,7 +72,7 @@ The stake presidency plans the stake meetings listed in [29.3](29-meetings-in-th
 
 #### 6.2.1.5 Callings and Releases
 
-The stake president’s responsibilities for callings and releases are outlined in [30](30-callings-in-the-church.md). He may assign his counselors and high councilors to extend callings and releases as outlined in [30.8](30-callings-in-the-church.md#308-chart-of-callings). The stake president personally extends the following callings. For some, he must first receive approval as noted.
+The stake president’s responsibilities for callings and releases are outlined in [chapter 30](30-callings-in-the-church.md). He may assign his counselors and high councilors to extend callings and releases as outlined in [30.8](30-callings-in-the-church.md#308-chart-of-callings). The stake president personally extends the following callings. For some, he must first receive approval as noted.
 
 * *Counselors in the Stake Presidency.* When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
 * *Stake Patriarch.* The stake president may interview, call, and ordain a patriarch after receiving approval from the Quorum of the Twelve Apostles. See [6.6.1](6-stake-leadership.md#661-calling-sustaining-and-ordaining-a-stake-patriarch).
@@ -125,7 +125,7 @@ For information about communication callings, see [GCN.ChurchofJesusChrist.org](
 
 ### 6.2.2 Leading God’s Work of Salvation and Exaltation in the Stake
 
-The stake president leads God’s work of salvation and exaltation in the stake (see [1](1-work-of-salvation-and-exaltation.md)). He instructs and encourages stake and ward leaders and members in this work. His counselors and other leaders assist him.
+The stake president leads God’s work of salvation and exaltation in the stake (see [chapter 1](1-work-of-salvation-and-exaltation.md)). He instructs and encourages stake and ward leaders and members in this work. His counselors and other leaders assist him.
 
 He helps members live the gospel and increase their spiritual strength. He teaches them to pray and study the scriptures. He also teaches them about the covenants they will make as they receive the ordinances of salvation and exaltation. He encourages them to honor their covenants.
 
@@ -148,7 +148,7 @@ The stake president is the common judge in the stake (see [Doctrine and Covenant
 
 * Conduct interviews as outlined in [31.2](31.md#312-interviews). He may also authorize his counselors to conduct certain interviews (see [31.2.2](31.md#3122-types-of-interviews)).
 * Meet with stake members who seek spiritual guidance, who have weighty personal problems, or who have committed serious sins. For guidelines, see [31.1](31.md#311-guiding-principles).
-* Hold membership councils when members have committed serious sins (see [32](32-repentance-and-membership-councils.md)).
+* Hold membership councils when members have committed serious sins (see [chapter 32](32-repentance-and-membership-councils.md)).
 
 In matters that require the approval of the First Presidency, the stake president carefully considers the request. He interviews the person to determine his or her worthiness.
 
@@ -162,9 +162,9 @@ The stake president oversees records, finances, and properties in the stake. He 
 
 See the following chapters for more information:
 
-* [33](33-records-and-reports.md) (records)
-* [34](34-finances-and-audits.md) (finances)
-* [35](35.md) (meetinghouses)
+* [Chapter 33](33-records-and-reports.md) (records)
+* [Chapter 34](34-finances-and-audits.md) (finances)
+* [Chapter 35](35.md) (meetinghouses)
 
 ## 6.3 Differences between the Authority of District Presidents and That of Stake Presidents
 
@@ -217,7 +217,7 @@ The high council does not meet as a group unless a member of the stake presidenc
 
 The stake presidency assigns a high councilor to each ward in the stake.
 
-The stake presidency also assigns a high councilor to each elders quorum in the stake. In this role, high councilors instruct newly called elders quorum presidencies. This includes providing instruction from [1–4](https://www.churchofjesuschrist.org/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng) and [8](8-elders-quorum.md) of this handbook.
+The stake presidency also assigns a high councilor to each elders quorum in the stake. In this role, high councilors instruct newly called elders quorum presidencies. This includes providing instruction from [chapters 1–4](1-work-of-salvation-and-exaltation.md) and [8](8-elders-quorum.md) of this handbook.
 
 High councilors who are assigned to elders quorums meet regularly with quorum leaders to do the following:
 
@@ -357,7 +357,7 @@ The stake presidency calls and sets apart a high councilor to be the stake Sunda
 Members of these presidencies have the following responsibilities:
 
 * Serve on the stake council (presidents only). Participate in efforts to build faith and strengthen individuals and families in the stake.
-* Orient newly called ward organization presidencies. This includes providing instruction from [1–4](https://www.churchofjesuschrist.org/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng) in this handbook and the chapter for their organization.
+* Orient newly called ward organization presidencies. This includes providing instruction from [chapters 1–4](1-work-of-salvation-and-exaltation.md) in this handbook and the chapter for their organization.
 * Offer ongoing support and instruction. Communicate with ward organization presidencies regularly to learn of their needs, discuss the needs of the members they serve, and communicate information from the stake presidency. Arrange with ward leaders to visit their meetings and classes periodically.
 * Instruct ward organization presidencies during stake leadership meetings (see [29.3.4](29-meetings-in-the-church.md#2934-stake-leadership-meetings)). These are generally held once a year. The stake presidency may authorize a second meeting if it would not create a burden for participants. Bishops may request additional instruction for ward organization presidencies.
 * Counsel together regularly in their own presidency meetings (if counselors are called). Communicate regularly with the member of the stake presidency responsible for their service.

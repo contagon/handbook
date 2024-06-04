@@ -3,7 +3,7 @@
 
 ## 3.0 Introduction
 
-The priesthood is the authority and power of God. Through the priesthood, Heavenly Father accomplishes His work “to bring to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39)). God grants authority and power to His sons and daughters on earth to help carry out this work (see [1](1-work-of-salvation-and-exaltation.md)).
+The priesthood is the authority and power of God. Through the priesthood, Heavenly Father accomplishes His work “to bring to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39)). God grants authority and power to His sons and daughters on earth to help carry out this work (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 
 ## 3.1 Restoration of the Priesthood
 
@@ -38,7 +38,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p8#p8)). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p18#p18)).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p65-p67#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,10#p8); see also [6](6-stake-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p17#p17); see also [7](7.md) in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p65-p67#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,10#p8); see also [chapter 6](6-stake-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p17#p17); see also [chapter 7](7.md) in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](8-elders-quorum.md#81-purpose-and-organization).
 
@@ -173,7 +173,7 @@ Ordinances have symbolic meaning that point individuals to Heavenly Father and J
 
 Each ordinance allows individuals to receive rich spiritual blessings. The Lord revealed, “In the ordinances [of the priesthood], the power of godliness is manifest” ([Doctrine and Covenants 84:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20#p20)). Ordinances of salvation and exaltation are essential for eternal life. For more information, see [18.1](18-priesthood-ordinances-and-blessings.md#181-ordinances-of-salvation-and-exaltation).
 
-Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [28](28.md).
+Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [chapter 28](28.md).
 
 !  Imagewoman receiving a priesthood blessing
 

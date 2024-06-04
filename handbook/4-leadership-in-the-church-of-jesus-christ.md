@@ -3,7 +3,7 @@
 
 ## 4.0 Introduction
 
-As a leader in the Church, you have been called by inspiration through the Lord’s authorized servants. You have the privilege of assisting in Heavenly Father’s work of “bring[ing] to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39)). You do this by encouraging members to engage in God’s work of salvation and exaltation for themselves, their families, and others (see [1](1-work-of-salvation-and-exaltation.md)). You will find joy as you serve God’s children.
+As a leader in the Church, you have been called by inspiration through the Lord’s authorized servants. You have the privilege of assisting in Heavenly Father’s work of “bring[ing] to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39)). You do this by encouraging members to engage in God’s work of salvation and exaltation for themselves, their families, and others (see [chapter 1](1-work-of-salvation-and-exaltation.md)). You will find joy as you serve God’s children.
 
 Following Jesus Christ’s example, you will often serve others one by one. You will also have opportunities to provide leadership in Church meetings and activities. In addition, you may give important service through councils. These can include presidency meetings, ward council meetings, and others.
 
@@ -41,7 +41,7 @@ Help individuals deepen their conversion and strengthen their faith in Heavenly 
 
 ### 4.2.3 Teach the Gospel of Jesus Christ
 
-All leaders are teachers. Strive to follow the Savior’s example as a teacher (see [17](17-teaching-the-gospel.md); [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng)). Through your words and actions, teach the doctrine of Jesus Christ and the principles of His gospel (see [3 Nephi 11:32–33](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p32-p33#p32); [Doctrine and Covenants 42:12–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p12-p14#p12)). Effective teaching inspires people to strengthen their relationship with God and live the gospel, progressing toward eternal life.
+All leaders are teachers. Strive to follow the Savior’s example as a teacher (see [chapter 17](17-teaching-the-gospel.md); [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng)). Through your words and actions, teach the doctrine of Jesus Christ and the principles of His gospel (see [3 Nephi 11:32–33](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p32-p33#p32); [Doctrine and Covenants 42:12–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p12-p14#p12)). Effective teaching inspires people to strengthen their relationship with God and live the gospel, progressing toward eternal life.
 
 Teaching in the Savior’s way is more than talking; it includes listening and asking questions the way He did (see [Matthew 16:13–17](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=eng&id=p13-p17#p13)).
 
@@ -98,11 +98,11 @@ When considering who could serve in Church callings or assignments, be prayerful
 
 Sometimes the same people are called repeatedly to leadership positions. This can overburden them and their families and take opportunities away from others. Seek to give all members opportunities to serve and grow.
 
-For more information about Church callings, see [30](30-callings-in-the-church.md).
+For more information about Church callings, see [chapter 30](30-callings-in-the-church.md).
 
 ### 4.2.7 Plan Meetings, Lessons, and Activities with Clear Purposes
 
-Seek inspiration from the Lord in planning meetings, lessons, and activities that have clear purposes. These purposes should strengthen individuals and families, bring them closer to Christ, and help accomplish God’s work of salvation and exaltation (see [1](1-work-of-salvation-and-exaltation.md) and [2](2-supporting-individuals-and-families.md)). When planning, follow the principles in [4.4.2](4-leadership-in-the-church-of-jesus-christ.md#442-preparation-for-council-meetings) and in [20](20-activities.md) and [29](29-meetings-in-the-church.md).
+Seek inspiration from the Lord in planning meetings, lessons, and activities that have clear purposes. These purposes should strengthen individuals and families, bring them closer to Christ, and help accomplish God’s work of salvation and exaltation (see [chapters 1](1-work-of-salvation-and-exaltation.md) and [2](2-supporting-individuals-and-families.md)). When planning, follow the principles in [4.4.2](4-leadership-in-the-church-of-jesus-christ.md#442-preparation-for-council-meetings) and in [chapters 20](20-activities.md) and [29](29-meetings-in-the-church.md).
 
 ### 4.2.8 Evaluating Your Efforts
 
