@@ -84,6 +84,11 @@ class HandbookDownloader:
             for extra in row.find_all("p", {"class": "label"}):
                 extra.decompose()
 
+        # Remove footnotes
+        # To my knowledge, the only page with footnotes is 30.8
+        for a in soup.find_all("a", {"class": "note-ref"}):
+            a.decompose()
+
         text = self.converter.convert_soup(soup).strip()
         text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
 
