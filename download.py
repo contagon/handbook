@@ -1,127 +1,160 @@
-from md import HandbookDownloader
-from tqdm import tqdm
-import argparse
+from bs4 import BeautifulSoup
+import requests
+from markdownify import MarkdownConverter
+from markdownify import ATX, UNDERSCORE
+import re
 import os
 import datetime
-import requests
+import const
 from time import sleep
 
-wayback_api = "https://archive.org/wayback/available?"
 
-urls = [
-    "0-introductory-overview",
-    "1-work-of-salvation-and-exaltation",
-    "2-supporting-individuals-and-families",
-    "3-priesthood-principles",
-    "4-leadership-in-the-church-of-jesus-christ",
-    "5-general-and-area-leadership",
-    "6-stake-leadership",
-    "7",
-    "8-elders-quorum",
-    "9-relief-society",
-    "10-aaronic-priesthood",
-    "11-young-women",
-    "12-primary",
-    "13-sunday-school",
-    "14-single-members",
-    "15-seminaries-and-institutes",
-    "16-living-the-gospel",
-    "17-teaching-the-gospel",
-    "18-priesthood-ordinances-and-blessings",
-    "19-music",
-    "20-activities",
-    "21-ministering",
-    "22-providing-for-temporal-needs",
-    "23",
-    "24",
-    "25-temple-and-family-history-work",
-    "26-temple-recommends",
-    "27-temple-ordinances-for-the-living",
-    "28",
-    "29-meetings-in-the-church",
-    "30-callings-in-the-church",
-    "31",
-    "32-repentance-and-membership-councils",
-    "33-records-and-reports",
-    "34-finances-and-audits",
-    "35",
-    "36-creating-changing-and-naming-new-units",
-    "37-specialized-stakes-wards-and-branches",
-    "38-church-policies-and-guidelines",
-]
-prefix = "https://www.churchofjesuschrist.org/study/manual/general-handbook/"
-urls = [f"{prefix}{u}?lang=eng" for u in urls]
+class HandbookConverter(MarkdownConverter):
+    def convert_td(self, el, text, convert_as_inline):
+        """Handle tables with bullet points in them via html breaks and bullet points characters"""
+        colspan = 1
+        if "colspan" in el.attrs:
+            colspan = int(el["colspan"])
 
-dates = [
-    "2020-03",
-    "2020-07",
-    "2020-12",
-    "2021-03",
-    "2021-07",
-    "2022-08",
-    "2023-08",
-    "2024-05",
-]
+        text = text.strip().replace("\n", "<br/>")  # replace newlines with breaks
+        text = re.sub(r"(?<!\\)\*", "•", text)  # replace asterisks with bullet points
+
+        return " " + text + " |" * colspan
+
+    def convert_img(self, el, text, convert_as_inline):
+        """Don't bother with images"""
+        return ""
+
+    def convert_a(self, el, text, convert_as_inline):
+        """Handle links to adaption/optional resources differently"""
+        if not text and el.get("href").startswith(
+            "/study/manual/general-handbook/0-introductory-overview"
+        ):
+            return "[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)"
+
+        return super().convert_a(el, text, convert_as_inline)
 
 
-def find_link(curr_date, url):
-    # use wayback api to find closest snapshot
-    next_date = dates[dates.index(curr_date) + 1]
-    next_date = datetime.datetime.strptime(next_date, "%Y-%m")
-    curr_date = datetime.datetime.strptime(curr_date, "%Y-%m")
+class HandbookDownloader:
+    def __init__(self, dir=""):
+        self.converter = HandbookConverter(
+            heading_style=ATX, strong_em_symbol=UNDERSCORE
+        )
+        self.dir = dir
+        os.makedirs(self.dir, exist_ok=True)
 
-    months_apart = (next_date - curr_date).days // 30
-    # Make sure to start at start of next month as it might have come out mid-month of curr_date
-    for i in range(1, months_apart):
-        down_date_guess = curr_date + datetime.timedelta(days=i * 30)
-        api = wayback_api + f"url={url}&timestamp={down_date_guess.strftime('%Y%m%d')}"
-        ans = requests.get(api).json()
+    def convert(self, soup):
+        # Remove extra header in body of tables
+        for row in soup.find_all("tbody"):
+            for extra in row.find_all("p", {"class": "label"}):
+                extra.decompose()
 
-        if "closest" not in ans["archived_snapshots"]:
-            continue
+        # Remove footnotes
+        # To my knowledge, the only page with footnotes is 30.8
+        for a in soup.find_all("a", {"class": "note-ref"}):
+            a.decompose()
 
-        down_date = ans["archived_snapshots"]["closest"]["timestamp"]
-        down_date = datetime.datetime.strptime(down_date, "%Y%m%d%H%M%S")
+        # Remove images
+        for img in soup.select('div[class*="imageWrapper-"]'):
+            img.decompose()
+        for img in soup.select('span[class*="imageWrapper-"]'):
+            img.decompose()
 
-        if down_date > curr_date:
-            break
+        text = self.converter.convert_soup(soup).strip()
+        text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
 
-    if down_date > next_date:
-        print(f"No snapshot found for {url} on {curr_date}")
-        return None
+        # HACK to fix a couple of poor formatting versions from the website
+        bad_titles = [
+            ("30.8.1", "Ward Callings"),
+            ("30.8.2", "Branch Callings"),
+            ("30.8.3", "Stake Callings"),
+            ("30.8.4", "District Callings"),
+        ]
+        for num, title in bad_titles:
+            text = re.sub(f"{num}\n\n{title}", f"{num}\n\n### {title}", text)
 
-    print(f"Found snapshot {down_date.strftime('%Y-%m-%d')} for {url.split('/')[-1]}")
-    return down_date.strftime("%Y%m%d%H%M%S")
+        text = re.sub(
+            f"(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)", r"\3 \1 \4", text
+        )  # merge number and header (removing trailing dot if needed)
+        return text
 
+    def get_page(self, date, page):
+        # download page
+        filename = page + ".md"
+        filename = os.path.join(self.dir, filename)
 
-def download(date, dir):
-    os.makedirs(dir, exist_ok=True)
-    converter = HandbookDownloader()
+        if os.path.exists(filename):
+            print(f"{filename} already exists, skipping")
+            return
 
-    idx = dates.index(date)
-    for u in urls:
-        if idx == len(dates) - 1:
-            link = u
-        else:
-            snapshot = find_link(date, u)
-            if snapshot is None:
+        print(f"{filename}")
+
+        url = self.find_link(date, page)
+        if url is None:
+            return
+        response = requests.get(url)
+        sleep(const.WAYBACK_DELAY)
+        soup = BeautifulSoup(response.content, "html.parser")
+        print("----Downloaded")
+
+        body = soup.find("div", {"class": "body"})
+
+        # Save & clean title
+        header = body.find("header")
+        final = self.convert(header)
+        final += "\n\n"
+
+        # Save & clean body
+        text = body.find("div", {"class": "body-block"})
+        text = self.convert(text)
+        final += text
+
+        with open(filename, "w") as f:
+            f.write(final)
+
+        print("----Saved")
+
+    def find_link(self, curr_date, page):
+        url = f"{const.PREFIX}{page}?lang=eng"
+
+        if curr_date == const.DATES[-1]:
+            print("----Current version, no need for wayback machine")
+            return url
+
+        # use wayback api to find closest snapshot
+        next_date = const.DATES[const.DATES.index(curr_date) + 1]
+        next_date = datetime.datetime.strptime(next_date, "%Y-%m")
+        curr_date = datetime.datetime.strptime(curr_date, "%Y-%m") + datetime.timedelta(
+            days=30
+        )
+
+        # Iterate by month till we find something
+        months_apart = (next_date - curr_date).days // 30
+        for i in range(0, months_apart):
+            down_date = None
+            down_date_guess = curr_date + datetime.timedelta(days=i * 30)
+            api = (
+                const.WAYBACK_API
+                + f"url={url}&timestamp={down_date_guess.strftime('%Y%m%d')}"
+            )
+            ans = requests.get(api).json()
+            sleep(const.WAYBACK_DELAY)
+
+            if "closest" not in ans["archived_snapshots"]:
                 continue
-            link = f"https://web.archive.org/web/{snapshot}id_/{u}"
 
-        converter.add_page(link)
-        sleep(10)
+            down_date = ans["archived_snapshots"]["closest"]["timestamp"]
+            down_date = datetime.datetime.strptime(down_date, "%Y%m%d%H%M%S")
 
-    converter.process_links()
-    converter.write_files(dir)
+            if down_date > curr_date:
+                break
 
+        if down_date is None or down_date > next_date:
+            print("----No snapshot found, skipping")
+            return None
 
-if __name__ == "__main__":
-    args = argparse.ArgumentParser()
-    args.add_argument("--date", default="2024-05", choices=dates)
-    args.add_argument("--dir", default="handbook")
-    args = vars(args.parse_args())
+        print(f"----Found snapshot {down_date.strftime('%Y-%m-%d')}")
 
-    download(**args)
-
-
-# 20230909055210
+        return (
+            f"https://web.archive.org/web/{down_date.strftime('%Y%m%d%H%M%S')}id_/{url}"
+        )
