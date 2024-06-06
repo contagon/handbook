@@ -13,7 +13,7 @@ class FillMissing:
             filename = f"{dir}/{page}.md"
             if not os.path.exists(filename):
                 self.missing.append(filename)
-                print(f"---- {page}")
+                print(page)
 
     def save_missing(self, file):
         # Save the missing files
@@ -31,12 +31,14 @@ class FillMissing:
             for filename in os.listdir(prev):
                 if not os.path.exists(f"{curr}/{filename}"):
                     shutil.copy(f"{prev}/{filename}", f"{curr}/{filename}")
+                    print(f"---- Copied {filename} from {prev} to {curr}")
 
         # Backward pass for fill in
-        for i in range(len(const.DATES) - 2, 0, -1):
+        for i in range(len(const.DATES) - 2, -1, -1):
             prev = const.DATES[i + 1]
             curr = const.DATES[i]
 
-            for filename in os.listdir(curr):
-                if not os.path.exists(f"{prev}/{filename}"):
-                    shutil.copy(f"{curr}/{filename}", f"{prev}/{filename}")
+            for filename in os.listdir(prev):
+                if not os.path.exists(f"{curr}/{filename}"):
+                    shutil.copy(f"{prev}/{filename}", f"{curr}/{filename}")
+                    print(f"---- Copied {filename} from {prev} to {curr}")

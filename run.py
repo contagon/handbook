@@ -33,6 +33,8 @@ def missing(_date):
         print(f"-------- Finding missing {date} --------")
         missing.find_missing(date)
 
+    print()
+    print("-------- Saving missing --------")
     missing.save_missing("missing.md")
 
     missing.fill()
