@@ -15,12 +15,28 @@ class FillMissing:
                 self.missing.append(filename)
                 print(f"---- {page}")
 
-    def save_missing(self, dir):
+    def save_missing(self, file):
         # Save the missing files
-        with open("missing.txt", "w") as f:
+        with open(file, "w") as f:
             for filename in self.missing:
                 f.write(f"{filename}\n")
 
     @staticmethod
     def fill():
-        pass
+        # Forward pass for fill in
+        for i in range(1, len(const.DATES)):
+            prev = const.DATES[i - 1]
+            curr = const.DATES[i]
+
+            for filename in os.listdir(prev):
+                if not os.path.exists(f"{curr}/{filename}"):
+                    shutil.copy(f"{prev}/{filename}", f"{curr}/{filename}")
+
+        # Backward pass for fill in
+        for i in range(len(const.DATES) - 2, 0, -1):
+            prev = const.DATES[i + 1]
+            curr = const.DATES[i]
+
+            for filename in os.listdir(curr):
+                if not os.path.exists(f"{prev}/{filename}"):
+                    shutil.copy(f"{curr}/{filename}", f"{prev}/{filename}")

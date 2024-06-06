@@ -40,11 +40,14 @@ def missing(_date):
 
 if __name__ == "__main__":
     args = argparse.ArgumentParser()
-    args.add_argument("--kind", choices=["sanitize", "down", "missing"])
+    args.add_argument("--kind", choices=["sanitize", "download", "missing"])
     args.add_argument("--date", default="2024-05", choices=const.DATES + ["all"])
     args = args.parse_args()
 
     func = locals()[args.kind]
+
+    if args.kind == "missing" and args.date != "2024-05":
+        raise ValueError("Missing always runs on all dates.")
 
     if args.date == "all":
         for date in const.DATES[::-1]:

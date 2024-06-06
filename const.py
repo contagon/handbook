@@ -1,6 +1,6 @@
 WAYBACK_API = "https://archive.org/wayback/available?"
 
-WAYBACK_DELAY = 60.0 / 15.0  # 15 requests per minute
+WAYBACK_DELAY = 60.0 / 15.0 + 0.1  # 15 requests per minute
 
 PAGES = [
     "0-introductory-overview",
