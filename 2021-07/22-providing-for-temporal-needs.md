@@ -8,7 +8,7 @@ Church members are also counseled to strengthen their own self-reliance through 
 
 ---
 
- __INDIVIDUAL AND FAMILY EFFORTS__ 
+__INDIVIDUAL AND FAMILY EFFORTS__ 
 
 ---
 
@@ -123,7 +123,7 @@ The Church provides humanitarian aid throughout the world. It does this both dir
 
 ---
 
- __LEADER EFFORTS__ 
+__LEADER EFFORTS__ 
 
 ---
 
@@ -534,7 +534,7 @@ Council members are encouraged to:
 
 ---
 
- __GOVERNMENT, COMMUNITY, AND CHURCH RESOURCES__ 
+__GOVERNMENT, COMMUNITY, AND CHURCH RESOURCES__ 
 
 ---
 

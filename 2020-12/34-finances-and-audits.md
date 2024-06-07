@@ -99,7 +99,7 @@ Church leaders encourage members to live the law of the fast. A fast day typical
 
 A fast offering is a donation to help those in need. When members fast, they are invited to give an offering that is at least equal to the value of the meals not eaten. Members are encouraged to be generous and give more than the value of these meals if they can.
 
- In wards that are geographically concentrated, the bishop may direct Aaronic Priesthood holders to visit members each month and invite them to contribute fast offerings. In making this decision, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
+In wards that are geographically concentrated, the bishop may direct Aaronic Priesthood holders to visit members each month and invite them to contribute fast offerings. In making this decision, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
 
 Priesthood holders should go in pairs when gathering fast offerings. Those who gather fast offerings deliver them promptly to a member of the bishopric.
 

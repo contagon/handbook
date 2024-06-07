@@ -477,7 +477,7 @@ A setting apart is not a formal meeting with prayers or testimonies. Nor is it a
 
 Melchizedek Priesthood holders must consecrate olive oil before it is used to anoint the sick or afflicted (see [James 5:14](/study/scriptures/nt/james/5?lang=eng&id=p14#p14)). No other oil may be used.
 
- Oil vials are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
+Oil vials are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
 Members should not consume consecrated oil or apply it on afflicted parts of the body.
 

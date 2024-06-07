@@ -63,6 +63,10 @@ class HandbookDownloader:
         text = self.converter.convert_soup(soup).strip()
         text = re.sub(r"\n\s*\n", "\n\n", text)  # remove extra newlines
 
+        text = re.sub(
+            r"^ +([\w#])", r"\1", text, flags=re.MULTILINE
+        )  # remove leading spaces
+
         # HACK to fix a couple of poor formatting versions from the website
         bad_titles = [
             ("30.8.1", "Ward Callings"),
@@ -74,7 +78,7 @@ class HandbookDownloader:
             text = re.sub(f"{num}\n\n{title}", f"{num}\n\n### {title}", text)
 
         text = re.sub(
-            f"(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)", r"\3 \1 \4", text
+            "(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)", r"\3 \1 \4", text
         )  # merge number and header (removing trailing dot if needed)
         return text
 
@@ -149,7 +153,7 @@ class HandbookDownloader:
             if down_date > curr_date:
                 break
 
-        if down_date is None or down_date > next_date:
+        if down_date is None or down_date > next_date or down_date < curr_date:
             print("----No snapshot found, skipping")
             return None
 

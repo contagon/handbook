@@ -116,16 +116,16 @@ Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChr
 
 For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](http://aaronicpriesthoodquorums.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)See also [JustServe.org](http://www.justserve.org/) where it is available. These resources provide service and activity ideas.
 
- _Annual Activities._ In addition to regular youth activities, young men may also participate in the following each year:
+_Annual Activities._ In addition to regular youth activities, young men may also participate in the following each year:
 
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young men turning 12 during the year may receive their emblems of belonging during this meeting (see [10.8.3](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number34-p152#title_number34)). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/17313_000_notice.pdf).
 * An Aaronic Priesthood quorum camp (see  [Aaronic Priesthood Quorum Camp Guide](/study/manual/aaronic-priesthood-quorum-camp-guide?lang=eng) ). Young men may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 * [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)A ward or stake youth conference or a For the Strength of Youth (FSY) conference (see [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org/)).
 * At least one activity emphasizing the standards in  [For the Strength of Youth](/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
- _Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4](/study/manual/for-the-strength-of-youth/dating?lang=eng¶=4#p4)).
+_Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4](/study/manual/for-the-strength-of-youth/dating?lang=eng¶=4#p4)).
 
- _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
+_Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
 As an exception, if the ward budget does not have enough money to pay for multiday activities, such as camps, leaders may ask participants to help pay for them. However, a young man should not be prevented from participating if he cannot help pay. If more money is still needed, the bishop may authorize one fundraising activity each year (see [20.6.5](/study/manual/general-handbook/20-activities?lang=eng¶=title_number23-p231#title_number23)).
 

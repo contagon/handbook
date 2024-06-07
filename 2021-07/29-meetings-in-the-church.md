@@ -83,7 +83,7 @@ For information about newly called or recently returned missionaries speaking in
 
 The bishopric schedules one sacrament meeting each year for a presentation by the Primary children. For information about this presentation, see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng¶=title_number9-p75#title_number9).
 
-#### 29.2.1.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Sacrament Services in Unusual Situations
+#### 29.2.1.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Sacrament Services in Unusual Situations
 
 Every member needs the spiritual blessings that come from partaking of the sacrament. However, some members are unable to attend sacrament meeting because they are confined to their home, a hospital, or a care facility. The bishop may assign priesthood holders to administer the sacrament to these members (see [18.9.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number28-p249#title_number28)).
 
@@ -255,7 +255,7 @@ Coordination meetings for the work of sharing the gospel and strengthening new a
 
 Coordination meetings for temple and family history work are described in [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number13-p72#title_number13).
 
-### 29.2.8 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Schedules for Sunday Meetings
+### 29.2.8 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Schedules for Sunday Meetings
 
 Wards use one of the following two-hour schedules for Sunday meetings.
 
@@ -501,7 +501,7 @@ To understand principles that guide council meetings in the Church, all council 
 
 For information about participants joining the meeting remotely, see [29.7](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number57-p229#title_number57).
 
-### 29.3.9 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Adult Leadership Committee Meeting
+### 29.3.9 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Stake Adult Leadership Committee Meeting
 
 Purpose
 
@@ -525,7 +525,7 @@ In addition, this committee coordinates stake efforts related to welfare and sel
 
 The stake presidency plans and conducts meetings of the stake adult leadership committee. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the adult leadership committee could meet to continue a discussion about specific matters.
 
-### 29.3.10 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Youth Leadership Committee Meeting
+### 29.3.10 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Stake Youth Leadership Committee Meeting
 
 Purpose
 

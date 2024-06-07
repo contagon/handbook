@@ -33,7 +33,7 @@ The stake president provides guidance to bishops and other leaders in the stake.
 
 The stake presidency presides over all who hold the Melchizedek Priesthood in the stake.
 
- _Stake High Priests Quorum._ The stake president is the president of the stake high priests quorum. He and his counselors are the presidency of that quorum. The stake high priests quorum consists of the following additional high priests:
+_Stake High Priests Quorum._ The stake president is the president of the stake high priests quorum. He and his counselors are the presidency of that quorum. The stake high priests quorum consists of the following additional high priests:
 
 * Bishops and their counselors
 * High councilors
@@ -41,9 +41,9 @@ The stake presidency presides over all who hold the Melchizedek Priesthood in th
 
 Members of the high priests quorum attend elders quorum meetings in their ward if they are not assigned elsewhere. See [29.3.5](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number20-p118#title_number20) for information about the stake high priests quorum meeting.
 
- _Elders Quorums._ The stake presidency has responsibility for elders quorums (see [8.3.3.1](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number130-p241#title_number130)).
+_Elders Quorums._ The stake presidency has responsibility for elders quorums (see [8.3.3.1](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number130-p241#title_number130)).
 
- _Melchizedek Priesthood Ordinations._ The stake president oversees the conferral of the Melchizedek Priesthood. He also oversees ordinations to the offices of elder and high priest (see [38.2.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number40-p126#title_number40)).
+_Melchizedek Priesthood Ordinations._ The stake president oversees the conferral of the Melchizedek Priesthood. He also oversees ordinations to the offices of elder and high priest (see [38.2.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number40-p126#title_number40)).
 
 #### 6.2.1.2 Bishoprics
 

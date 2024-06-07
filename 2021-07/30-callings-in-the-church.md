@@ -158,7 +158,7 @@ The following chart lists selected ward and stake callings. Other callings and s
 
 A ward or stake does not need to fill every calling listed in this chart. Leaders determine which callings to fill based on the needs of the unit and those available to serve.
 
- _Note:_ Sealers in a temple are called under the direction of the President of the Church. For this reason, active sealers should not be called to serve in bishoprics or in branch, district, stake, or mission presidencies.
+_Note:_ Sealers in a temple are called under the direction of the President of the Church. For this reason, active sealers should not be called to serve in bishoprics or in branch, district, stake, or mission presidencies.
 
 ### 30.8.1 Ward Callings
 

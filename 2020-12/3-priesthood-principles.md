@@ -1,16 +1,10 @@
-3.
+# 3. Priesthood Principles
 
-# Priesthood Principles
-
-3.0
-
-## Introduction
+## 3.0 Introduction
 
 The priesthood is the authority and power of God. It has always existed and will continue to exist without end (see [Alma 13:7–8](/study/scriptures/bofm/alma/13.7-8?lang=eng#p7); [Doctrine and Covenants 84:17–18](/study/scriptures/dc-testament/dc/84.17-18?lang=eng#p17)). Through the priesthood, Heavenly Father accomplishes His work “to bring to pass the immortality and eternal life of man” ([Moses 1:39](/study/scriptures/pgp/moses/1.39?lang=eng#p39)). God grants authority and power to His sons and daughters on earth to help carry out this work (see [chapter 1](/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng)).
 
-3.1
-
-## Restoration of the Priesthood
+## 3.1 Restoration of the Priesthood
 
 The Church of Jesus Christ of Latter-day Saints is the only organization on earth with priesthood authority. The Prophet Joseph Smith received the Aaronic Priesthood and its keys from John the Baptist (see [Doctrine and Covenants 13:1](/study/scriptures/dc-testament/dc/13.1?lang=eng#p1)). He received the Melchizedek Priesthood and its keys from the Apostles Peter, James, and John (see [Doctrine and Covenants 27:12–13](/study/scriptures/dc-testament/dc/27.12-13?lang=eng#p12)).
 
@@ -24,9 +18,7 @@ Each member of the First Presidency and Quorum of the Twelve Apostles holds all 
 
 For information about priesthood keys, see [3.4.1](/study/manual/general-handbook/3-priesthood-principles?lang=eng¶=title_number8-p42#title_number8).
 
-3.2
-
-## Blessings of the Priesthood
+## 3.2 Blessings of the Priesthood
 
 Through covenants and priesthood ordinances, God makes great blessings available to all His children. These blessings include:
 
@@ -41,15 +33,11 @@ Through covenants and priesthood ordinances, God makes great blessings available
 
 God’s children can receive these blessings of the priesthood and experience great joy as they live the gospel of Jesus Christ.
 
-3.3
-
-## Melchizedek Priesthood and Aaronic Priesthood
+## 3.3 Melchizedek Priesthood and Aaronic Priesthood
 
 In the Church, the priesthood has two parts: the Melchizedek Priesthood and the Aaronic Priesthood (see [Doctrine and Covenants 107:1](/study/scriptures/dc-testament/dc/107.1?lang=eng#p1)).
 
-3.3.1
-
-### Melchizedek Priesthood
+### 3.3.1 Melchizedek Priesthood
 
 The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son of God” ([Doctrine and Covenants 107:3](/study/scriptures/dc-testament/dc/107.3?lang=eng#p3)). It is the power by which the sons and daughters of God can become like Him (see [Doctrine and Covenants 84:19–21](/study/scriptures/dc-testament/dc/84.19-21?lang=eng#p19); [132:19–20](/study/scriptures/dc-testament/dc/132.19-20?lang=eng#p19)).
 
@@ -59,9 +47,7 @@ The President of the Church is the presiding high priest over the Melchizedek Pr
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number2-p188#title_number2).
 
-3.3.2
-
-### Aaronic Priesthood
+### 3.3.2 Aaronic Priesthood
 
 The Aaronic Priesthood is “an appendage to … the Melchizedek Priesthood” ([Doctrine and Covenants 107:14](/study/scriptures/dc-testament/dc/107.14?lang=eng#p14)). It includes the keys of:
 
@@ -75,23 +61,17 @@ The bishop is the president of the Aaronic Priesthood in the ward (see [Doctrine
 
 For information about the offices and responsibilities of the Aaronic Priesthood, see [10.1.3](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number6-p19#title_number6).
 
-3.4
-
-## Priesthood Authority
+## 3.4 Priesthood Authority
 
 Priesthood authority is the authorization to represent God and act in His name. In the Church, all priesthood authority is exercised under the direction of those who hold priesthood keys.
 
 Worthy male Church members receive priesthood authority through priesthood conferral and ordination to priesthood offices. All Church members can exercise delegated authority as they are set apart or assigned to assist in accomplishing God’s work. Members are accountable to God and to those He has appointed to preside for how they exercise His authority (see [3.4.4](/study/manual/general-handbook/3-priesthood-principles?lang=eng¶=title_number15-p66#title_number15)).
 
-3.4.1
-
-### Priesthood Keys
+### 3.4.1 Priesthood Keys
 
 Priesthood keys are the authority to direct the use of the priesthood on behalf of God’s children. The use of all priesthood authority in the Church is directed by those who hold priesthood keys (see [Doctrine and Covenants 65:2](/study/scriptures/dc-testament/dc/65.2?lang=eng#p2)).
 
-3.4.1.1
-
-#### Those Who Hold Priesthood Keys
+#### 3.4.1.1 Those Who Hold Priesthood Keys
 
 Jesus Christ holds all the keys of the priesthood. Under His direction, priesthood keys are given to men to use in specific callings for accomplishing God’s work, as explained below.
 
@@ -110,17 +90,13 @@ These leaders receive priesthood keys when they are set apart to their callings.
 
 Priesthood keys are not given to others, including counselors to local priesthood leaders or presidents of Church organizations. Rather, these leaders are given delegated authority when they are set apart and when they receive assignments under the direction of those who hold priesthood keys. Presidents of Church organizations preside under the direction of those who hold priesthood keys (see [4.2.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng¶=title_number7-p20#title_number7)).
 
-3.4.1.2
-
-#### Order to the Lord’s Work
+#### 3.4.1.2 Order to the Lord’s Work
 
 Priesthood keys ensure that the work of salvation and exaltation is accomplished in an orderly manner (see [Doctrine and Covenants 42:11](/study/scriptures/dc-testament/dc/42.11?lang=eng#p11); [132:8](/study/scriptures/dc-testament/dc/132.8?lang=eng#p8)). Those who hold priesthood keys direct the Lord’s work within their areas of responsibility. They do so in love and righteousness. This presiding authority is valid only for the specific responsibilities of the leader’s calling. When priesthood leaders are released from their callings, they no longer hold these keys.
 
 All who serve in the Church are set apart or assigned under the direction of one who holds priesthood keys. When members are set apart or assigned, they are authorized by God to serve in His work.
 
-3.4.2
-
-### Priesthood Conferral and Ordination
+### 3.4.2 Priesthood Conferral and Ordination
 
 Under the direction of those who hold priesthood keys, the Aaronic Priesthood and the Melchizedek Priesthood are conferred on worthy male Church members (see [Doctrine and Covenants 84:14–17](/study/scriptures/dc-testament/dc/84.14-17?lang=eng#p14)). After the appropriate priesthood is conferred, the person is ordained to an office in that priesthood, such as deacon or elder. A priesthood holder exercises the priesthood according to the rights and duties of that office (see [Doctrine and Covenants 107:99](/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)).
 
@@ -128,18 +104,14 @@ Each man in the Church of Jesus Christ should strive to be worthy to receive and
 
 For more information about priesthood conferral and ordination, see [8.1.1](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number3-p180#title_number3), [10.6](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number29-p140#title_number29), [18.10](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number32-p160#title_number32), and [38.2.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number39-p153#title_number39).
 
-3.4.3
-
-### Delegation of Priesthood Authority to Serve in the Church
+### 3.4.3 Delegation of Priesthood Authority to Serve in the Church
 
 Priesthood authority to serve in the Church is delegated to members in the following ways:
 
 * By setting apart to a Church calling
 * By assignment from presiding Church leaders
 
-3.4.3.1
-
-#### Setting Apart
+#### 3.4.3.1 Setting Apart
 
 When men and women are set apart under the direction of those who hold priesthood keys, they are given authority from God to act in that calling. When they are released from a calling, they no longer have the authority associated with it.
 
@@ -154,9 +126,7 @@ All who are called and set apart serve under the direction of those who preside 
 
 For more information about setting apart members for Church callings, see [18.11](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number36-p174#title_number36).
 
-3.4.3.2
-
-#### Assignment
+#### 3.4.3.2 Assignment
 
 Presiding Church leaders can delegate authority by assignment. When men and women receive these assignments, they are given authority from God to act. For example:
 
@@ -168,9 +138,7 @@ Authority that is delegated by assignment is limited to the specific responsibil
 
 For more information about assignment through delegation, see [4.2.6](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng¶=title_number9-p33#title_number9).
 
-3.4.4
-
-### Exercising Priesthood Authority Righteously
+### 3.4.4 Exercising Priesthood Authority Righteously
 
 Church leaders and members use conferred or delegated priesthood authority to bless the lives of others.
 
@@ -180,9 +148,7 @@ Those who exercise priesthood authority do not force their will on others. They 
 
 Some Church callings include a responsibility to preside. For information about presiding in the Church, see [4.2.4](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng¶=title_number7-p20#title_number7).
 
-3.5
-
-## Priesthood Power
+## 3.5 Priesthood Power
 
 Priesthood power is the power by which God blesses His children. God’s priesthood power flows to all members of the Church﻿—female and male﻿—as they keep the covenants they have made with Him. Members make these covenants as they receive priesthood ordinances. (See [Doctrine and Covenants 84:19–20](/study/scriptures/dc-testament/dc/84.19-20?lang=eng#p19).)
 
@@ -195,9 +161,7 @@ The blessings of priesthood power that members can receive include:
 * Revelation to know how to fulfill the work they are ordained, set apart, or assigned to do.
 * Help and strength to become more like Jesus Christ and Heavenly Father.
 
-3.5.1
-
-### Covenants
+### 3.5.1 Covenants
 
 A covenant is a sacred promise between God and His children. God gives the conditions for the covenant, and His children agree to obey those conditions. God promises to bless His children as they fulfill the covenant.
 
@@ -205,9 +169,7 @@ Members make covenants with God as they receive the ordinances of salvation and 
 
 Parents, Church leaders, and others help individuals prepare to make covenants as they receive the ordinances of the gospel. They ensure that the person understands the covenants he or she will make. After a person makes a covenant, they help him or her keep it. (See [Mosiah 18:8–11, 23–26](/study/scriptures/bofm/mosiah/18.8-11,23-26?lang=eng#p8).)
 
-3.5.2
-
-### Ordinances
+### 3.5.2 Ordinances
 
 An ordinance is a sacred act performed by the authority of the priesthood. Ordinances have always been part of the gospel of Jesus Christ. The first ordinances on earth were performed in the days of Adam and Eve (see [Genesis 1:28](/study/scriptures/ot/gen/1.28?lang=eng#p28); [Moses 6:64–65](/study/scriptures/pgp/moses/6.64-65?lang=eng#p64)).
 
@@ -219,9 +181,7 @@ Each ordinance allows individuals to receive rich spiritual blessings. The Lord 
 
 Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the dead, see [chapter 28](/study/manual/general-handbook/28-temple-ordinances-for-ancestors?lang=eng).
 
-3.6
-
-## The Priesthood and the Home
+## 3.6 The Priesthood and the Home
 
 All Church members who keep their covenants﻿—women, men, and children﻿—are blessed with God’s priesthood power in their homes to strengthen themselves and their families (see [3.5](/study/manual/general-handbook/3-priesthood-principles?lang=eng¶=title_number16-p74#title_number16)). This power will assist members in doing God’s work of salvation and exaltation in their personal lives and families (see [2.2](/study/manual/general-handbook/2-supporting-individuals-and-families?lang=eng¶=title_number6-p34#title_number6)).
 

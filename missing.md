@@ -1,14 +1,19 @@
 2020-03/5-general-and-area-leadership.md
 2020-03/6-stake-leadership.md
 2020-03/7.md
+2020-03/15-seminaries-and-institutes.md
 2020-03/17-teaching-the-gospel.md
 2020-03/21-ministering.md
 2020-03/23.md
 2020-03/24.md
+2020-03/25-temple-and-family-history-work.md
+2020-03/26-temple-recommends.md
 2020-03/27-temple-ordinances-for-the-living.md
 2020-03/28.md
 2020-03/31.md
+2020-03/33-records-and-reports.md
 2020-03/35.md
+2020-03/37-specialized-stakes-wards-and-branches.md
 2020-07/4-leadership-in-the-church-of-jesus-christ.md
 2020-07/5-general-and-area-leadership.md
 2020-07/6-stake-leadership.md
@@ -36,4 +41,6 @@
 2021-03/31.md
 2021-03/35.md
 2023-08/6-stake-leadership.md
+2023-08/14-single-members.md
 2023-08/15-seminaries-and-institutes.md
+2023-08/25-temple-and-family-history-work.md
