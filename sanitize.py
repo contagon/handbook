@@ -5,8 +5,9 @@ TITLE_NUM_REGEX = "(\d{1,2}(\.?\d{0,2}){0,3})"
 
 
 class LinkSanitizer:
-    def __init__(self, dir) -> None:
+    def __init__(self, dir, rm_links) -> None:
         self.dir = dir
+        self.rm_links = rm_links
         self.cache = {}  # map section # to header slug
         self.files = {}  # map filename to markdown
 
@@ -50,6 +51,9 @@ class LinkSanitizer:
         def process(match):
             name = match.group(1).strip()
             link = match.group(2)
+
+            if self.rm_links:
+                return f"[{name}]"
 
             # If it's a chapter link or section number link
             if link.startswith("/study/manual/general-handbook") and (

@@ -19,11 +19,11 @@ def download(date):
             print(e)
 
 
-def sanitize(date):
+def sanitize(date, rm_links):
     print(f"------------ Sanitizing {date} ------------")
     os.makedirs(date, exist_ok=True)
 
-    sanitizer = LinkSanitizer(date)
+    sanitizer = LinkSanitizer(date, rm_links)
     sanitizer.run()
 
 
@@ -44,34 +44,55 @@ def missing(fill):
 
 
 if __name__ == "__main__":
-    args = argparse.ArgumentParser()
-    args.add_argument(
-        "--kind",
-        choices=["sanitize", "download", "missing"],
-        required=True,
-        help="What to do",
+    parser = argparse.ArgumentParser()
+    subparsers = parser.add_subparsers(
+        help="Type of operation to perform", dest="operation"
     )
-    args.add_argument(
+
+    # ------------------------- Downloader ------------------------- #
+    download_parser = subparsers.add_parser("download")
+    download_parser.add_argument(
         "--date",
         default=const.DATES[-1],
         choices=const.DATES + ["all"],
-        help="Date to work on. Doesn't apply to fill.",
+        help="Date to download.",
     )
-    args.add_argument(
+
+    # ------------------------- Filler ------------------------- #
+    missing_parser = subparsers.add_parser("missing")
+    missing_parser.add_argument(
         "--fill",
         action="store_true",
         help="If missing links should be filled. Otherwise creates a file of missing links.",
     )
-    args = args.parse_args()
 
-    func = locals()[args.kind]
+    # ------------------------- Sanitizer ------------------------- #
+    sanitize_parser = subparsers.add_parser("sanitize")
+    sanitize_parser.add_argument(
+        "--date",
+        default=const.DATES[-1],
+        choices=const.DATES + ["all"],
+        help="Date to sanitize.",
+    )
+    sanitize_parser.add_argument(
+        "--rm-links", action="store_true", help="Remove links."
+    )
 
-    if args.kind == "missing":
-        func(args.fill)
-        quit()
+    args = parser.parse_args()
 
-    if args.date == "all":
-        for date in const.DATES[::-1]:
-            func(date)
-    else:
-        func(args.date)
+    if args.operation == "missing":
+        missing(args.fill)
+
+    elif args.operation == "download":
+        if args.date == "all":
+            for date in const.DATES[::-1]:
+                download(date)
+        else:
+            download(args.date)
+
+    elif args.operation == "sanitize":
+        if args.date == "all":
+            for date in const.DATES[::-1]:
+                sanitize(date, args.rm_links)
+        else:
+            sanitize(args.date, args.rm_links)
