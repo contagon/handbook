@@ -170,7 +170,7 @@ Repentance of some sins requires a person to report to government authorities if
 
 In many places, priesthood leaders are required by law to report some illegal behaviors of which they become aware. For example, some states and countries require that child abuse be reported to law enforcement authorities.
 
-In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). It is available 24 hours a day, 7 days a week.
+In some countries, the Church has established a confidential abuse help line to assist bishops and stake presidents. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). It is available 24 hours a day, 7 days a week.
 
 In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office.
 
@@ -308,7 +308,7 @@ The Lord’s law of chastity is abstinence from sexual relations outside of a ma
 
 #### 32.6.2.3 Fraudulent Acts
 
-The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. See 38.8.2 for affinity fraud. See [32.6.1.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number21-p103#title_number21) for when a council is required for fraudulent acts.
+The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. See [38.8.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number239-p2477#title_number239) for affinity fraud. See [32.6.1.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number21-p103#title_number21) for when a council is required for fraudulent acts.
 
 #### 32.6.2.4 Violations of Trust
 

@@ -115,9 +115,7 @@ After the First Presidency has approved the recommendation of a man to serve as 
 7. Closes in the name of Jesus Christ.
 ## 30.7 Chart of Callings
 
-30.7.1
-
-Stake Callings
+### 30.7.1 Stake Callings
 
 The following chart includes a list of selected stake callings. For other callings and service opportunities, see individual chapters in this handbook. Callings are filled according to need and as members are available.
 
@@ -143,9 +141,7 @@ The following chart includes a list of selected stake callings. For other callin
 | [Stake seminary and institute teachers and supervisors](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng¶=title_number3-p7#title_number3) | Stake presidency (after counseling with the bishop and the seminary and institute representative) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | [Stake communication director, assistant directors, and specialists](/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number22-p90#title_number22) | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 
-30.7.2
-
-Melchizedek Priesthood Callings
+### 30.7.2 Melchizedek Priesthood Callings
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
@@ -155,9 +151,7 @@ Melchizedek Priesthood Callings
 | [Elders quorum secretaries, teachers, and other callings](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number11-p154#title_number11) | Quorum president (in consultation with the bishop and the counselors to the elders quorum president) | Bishop | Quorum members | Quorum president or an assigned counselor |
 | [Ministering brothers](/study/manual/general-handbook/21-ministering?lang=eng¶=title_number2-p16#title_number2) | Serving as a ministering brother is a priesthood responsibility of high priests and elders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishop. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of high priests and elders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishop. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of high priests and elders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishop. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of high priests and elders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishop. They are not called, sustained, or set apart. | | | |
 
-30.7.3
-
-Aaronic Priesthood Callings in Wards
+### 30.7.3 Aaronic Priesthood Callings in Wards
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
@@ -168,18 +162,14 @@ Aaronic Priesthood Callings in Wards
 | [Priests, teachers, and deacons quorum advisers and specialists](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number11-p102#title_number11) | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ministering brothers](/study/manual/general-handbook/21-ministering?lang=eng¶=title_number2-p16#title_number2) | Serving as a ministering brother is a priesthood responsibility of teachers and priests. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishopric. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of teachers and priests. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishopric. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of teachers and priests. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishopric. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of teachers and priests. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the bishopric. They are not called, sustained, or set apart. | | | |
 
-30.7.4
-
-Aaronic Priesthood Callings in Branches in Stakes
+### 30.7.4 Aaronic Priesthood Callings in Branches in Stakes
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
 | [Priests quorum president (branch president, who acts as the priests quorum president)](/study/manual/general-handbook/6-ward-leadership?lang=eng¶=title_number10-p32#title_number10) | Stake presidency | Stake presidency and high council | Branch members | Stake president |
 | Other Aaronic Priesthood callings | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | |
 
-30.7.5
-
-Ward Callings
+### 30.7.5 Ward Callings
 
 The following chart includes a list of selected ward callings. For other callings and service opportunities, see individual chapters in this handbook. Callings are filled according to need and as members are available.
 
@@ -211,18 +201,14 @@ The following chart includes a list of selected ward callings. For other calling
 | [Ward magazine representative](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number142-p467#title_number142) | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | Ward welfare specialists (including ward employment specialist) | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 
-30.7.6
-
-Branch Callings in Stakes
+### 30.7.6 Branch Callings in Stakes
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
 | [Branch president](/study/manual/general-handbook/6-ward-leadership?lang=eng¶=title_number1-p43#title_number1) | Stake presidency | Stake presidency and high council | Branch members | Stake president |
 | Other branch callings | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | |
 
-30.7.7
-
-Mission Callings
+### 30.7.7 Mission Callings
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
@@ -231,9 +217,7 @@ Mission Callings
 | Mission clerk and mission executive secretary | Mission president | Mission presidency | Ratified in district conference in all districts | Mission president |
 | Organization presidencies | Organization presidencies are not recommended at the mission level. If the mission president feels that branch organization leaders need training from more-experienced organization leaders, he may assign individuals to provide it. | | | | Organization presidencies are not recommended at the mission level. If the mission president feels that branch organization leaders need training from more-experienced organization leaders, he may assign individuals to provide it. | | | | Organization presidencies are not recommended at the mission level. If the mission president feels that branch organization leaders need training from more-experienced organization leaders, he may assign individuals to provide it. | | | | Organization presidencies are not recommended at the mission level. If the mission president feels that branch organization leaders need training from more-experienced organization leaders, he may assign individuals to provide it. | | | |
 
-30.7.8
-
-District Callings
+### 30.7.8 District Callings
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
@@ -241,9 +225,7 @@ District Callings
 | [Counselors in the district presidency](/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number2-p52#title_number2) | District president | Mission presidency | Members in district conference or district general priesthood meeting | Mission president or an assigned counselor |
 | District councilors and district clerk, assistant clerks, executive secretary, and organization leaders | See [30.7.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure1-igure1_note2_p1#figure1), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.7.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure1-igure1_note2_p1#figure1), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.7.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure1-igure1_note2_p1#figure1), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.7.1](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure1-igure1_note2_p1#figure1), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | |
 
-30.7.9
-
-Elders Quorum Callings in Branches in Missions
+### 30.7.9 Elders Quorum Callings in Branches in Missions
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
@@ -252,18 +234,14 @@ Elders Quorum Callings in Branches in Missions
 | [Elders quorum secretary, teacher(s), and other callings](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number11-p159#title_number11) | Quorum president (in consultation with the branch president and counselors to the quorum president) | Branch president and quorum presidency | Quorum members | Quorum president or an assigned counselor |
 | [Ministering brothers](/study/manual/general-handbook/21-ministering?lang=eng¶=title_number2-p16#title_number2) | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | |
 
-30.7.10
-
-Aaronic Priesthood Callings in Branches in Missions
+### 30.7.10 Aaronic Priesthood Callings in Branches in Missions
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
 | [Priests quorum president (branch president, who acts as the priests quorum president)](/study/manual/general-handbook/6-ward-leadership?lang=eng¶=title_number10-p32#title_number10) | Mission presidency or district presidency | Mission presidency | Branch members | Mission president or, if assigned, the district president |
 | Other Aaronic Priesthood callings | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure3-figure3_aside1_p1#figure3), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | |
 
-30.7.11
-
-Branch Callings in Missions
+### 30.7.11 Branch Callings in Missions
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
@@ -272,9 +250,7 @@ Branch Callings in Missions
 | Branch clerk, assistant clerk, and executive secretary | Branch presidency | Mission presidency or, when authorized by the mission president, the district presidency | Branch members | District president or a priesthood officer he assigns |
 | Branch organization leaders and other callings | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.7.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=figure5-figure5_note3_p1#figure5), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | |
 
-30.7.12
-
-Military Service Member Group Callings
+### 30.7.12 Military Service Member Group Callings
 
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |

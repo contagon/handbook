@@ -24,7 +24,7 @@ __THE CHURCH’S ROLE IN HELPING A PERSON REPENT__
 
 ## 32.1 Repentance and Forgiveness
 
-The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](/study/scriptures/bofm/alma/11.37?lang=eng#p37); see also [3 Nephi 27:19](/study/scriptures/bofm/3-ne/27.19?lang=eng#p19)). Our sins make us unclean﻿—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
+The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](/study/scriptures/bofm/alma/11.37?lang=eng#p37); see also [3 Nephi 27:19](/study/scriptures/bofm/3-ne/27.19?lang=eng#p19)). Our sins make us unclean—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
 
 God’s law of justice requires a consequence when we sin (see [Alma 42:14, 17–18](/study/scriptures/bofm/alma/42.14,17-18?lang=eng#p14)). However, His great plan of mercy “can satisfy the demands of justice, and encircles [us] in the arms of safety” ([Alma 34:16](/study/scriptures/bofm/alma/34.16?lang=eng#p16); see also [Mosiah 15:9](/study/scriptures/bofm/mosiah/15.9?lang=eng#p9)).
 
@@ -67,7 +67,7 @@ The second purpose is to help a person access the redeeming power of Jesus Chris
 
 ### 32.2.3 Protect the Integrity of the Church
 
-The third purpose is to protect the integrity of the Church. Restricting or withdrawing a person’s Church membership may be necessary if his or her conduct significantly harms the Church (see [Alma 39:11](/study/scriptures/bofm/alma/39.11?lang=eng#p11)). The integrity of the Church is not protected by concealing or minimizing serious sins﻿—but by addressing them.
+The third purpose is to protect the integrity of the Church. Restricting or withdrawing a person’s Church membership may be necessary if his or her conduct significantly harms the Church (see [Alma 39:11](/study/scriptures/bofm/alma/39.11?lang=eng#p11)). The integrity of the Church is not protected by concealing or minimizing serious sins—but by addressing them.
 
 ## 32.3 The Role of Judges in Israel
 
@@ -79,7 +79,7 @@ For some serious sins, leaders assist with repentance by holding a membership co
 
 Bishops and stake presidents help Church members understand that God loves all His children, regardless of their sins. Because He wants them to be happy and receive blessings, He also cares immensely about their obedience.
 
-Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](/study/scriptures/nt/john/8.3-11?lang=eng#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”﻿—to repent and change her life.
+Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](/study/scriptures/nt/john/8.3-11?lang=eng#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”—to repent and change her life.
 
 These leaders teach that there is “joy … in heaven over one sinner that repenteth” ([Luke 15:7](/study/scriptures/nt/luke/15.7?lang=eng#p7)). They are patient, supportive, and positive. They inspire hope. They teach and testify that because of the Savior’s atoning sacrifice, all can repent and become clean.
 
@@ -101,7 +101,7 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 ### 32.4.1 Confession
 
-Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins﻿—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](/study/scriptures/dc-testament/dc/58.43?lang=eng#p43); see also [Mosiah 26:29](/study/scriptures/bofm/mosiah/26.29?lang=eng#p29)).
+Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](/study/scriptures/dc-testament/dc/58.43?lang=eng#p43); see also [Mosiah 26:29](/study/scriptures/bofm/mosiah/26.29?lang=eng#p29)).
 
 When Church members commit serious sins, their repentance also includes confession to their bishop or stake president. He is then able to exercise the keys of the gospel of repentance on their behalf (see [Doctrine and Covenants 13:1](/study/scriptures/dc-testament/dc/13.1?lang=eng#p1); [84:26–27](/study/scriptures/dc-testament/dc/84.26-27?lang=eng#p26); [107:18, 20](/study/scriptures/dc-testament/dc/107.18,20?lang=eng#p18)). This helps them heal and return to the gospel path through the power of the Savior’s Atonement.
 
@@ -170,7 +170,7 @@ Repentance of some sins requires a person to report to government authorities if
 
 In many places, priesthood leaders are required by law to report some illegal behaviors of which they become aware. For example, some states and countries require that child abuse be reported to law enforcement authorities.
 
-In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office. These leaders should promptly call the help line about every situation in which a person may have been abused﻿—or is at risk of being abused (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). It is available 24 hours a day, 7 days a week.
+In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). It is available 24 hours a day, 7 days a week.
 
 In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office.
 
@@ -727,7 +727,7 @@ In some instances, a person may be innocent and remains in good standing. In som
 
 ### 32.11.2 Personal Counseling with the Bishop or Stake President
 
-In some membership councils, leaders may determine that the member is not in good standing﻿—but that formal membership restrictions are not warranted. In these instances, the council may decide that the person should receive personal counseling and correction from the bishop or stake president. This counseling may include informal membership restrictions as outlined in [32.8.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number53-p208#title_number53).
+In some membership councils, leaders may determine that the member is not in good standing—but that formal membership restrictions are not warranted. In these instances, the council may decide that the person should receive personal counseling and correction from the bishop or stake president. This counseling may include informal membership restrictions as outlined in [32.8.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number53-p208#title_number53).
 
 Personal counseling and informal membership restrictions are not an option when a council is held for the sins listed in [32.6.1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number18-p105#title_number18).
 
@@ -798,7 +798,7 @@ The First Presidency has final authority over all Church membership restrictions
 
 ## 32.12 Notifications and Announcements
 
-The decision of a membership council is communicated to the person﻿—and to others as necessary﻿—as explained below.
+The decision of a membership council is communicated to the person—and to others as necessary—as explained below.
 
 ### 32.12.1 Notifying a Person of the Decision
 
@@ -890,7 +890,7 @@ As authorized by the First Presidency, Church headquarters annotates a person’
 	3. Involvement with child pornography as outlined in [38.6.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number103-p339#title_number103)
 	4. Plural marriage
 	5. Adult sexual predatory behavior
-	6. Transgender﻿—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p836#title_number118))
+	6. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p836#title_number118))
 	7. Embezzling Church funds or stealing Church property
 	8. Church welfare abuse
 	9. Threatening behavior (such as sexual, violent, or financial) or conduct that harms the Church
@@ -993,7 +993,7 @@ The following guidelines apply when holding a membership council to consider rem
 	5. Apostasy
 	6. Plural marriage
 	7. Committing a serious sin while holding a prominent Church position
-	8. Transgender﻿—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p836#title_number118))
+	8. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p836#title_number118))
 	9. Embezzling Church funds or property
 10. _Give written notice of the decision._ The bishop or stake president ensures that the person receives prompt written notice of the decision and its effects.
 11. _Baptize and confirm._ If a person’s Church membership was withdrawn in the initial council, he or she must be baptized and confirmed again. If First Presidency approval is necessary, these ordinances may be performed only after this approval is received. A Baptism and Confirmation Certificate is not created (see [32.14.4](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number83-p356#title_number83)).

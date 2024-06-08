@@ -134,7 +134,7 @@ The meeting may be held during Primary on Sunday, at another time on Sunday, or 
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) If a unit has few children, the meeting may be held under the direction of the stake presidency. Some or all of the wards in the stake meet together.
 
-See [Temple and Priesthood Preparation](https://www.churchofjesuschrist.org/callings/primary-organization/my-calling/temple-and-priesthood-preparation) on ChurchofJesusChrist.org for more information.
+See [Temple and Priesthood Preparation](http://lds.org/callings/primary/temple-and-priesthood-preparation) on ChurchofJesusChrist.org for more information.
 
 #### 12.2.1.3 Service and Activities
 
@@ -216,7 +216,7 @@ The Primary presidency helps parents prepare children to enter and progress alon
 
 To accomplish this, the Primary president may assign a member of the presidency to help parents prepare their children to be baptized and confirmed. The Primary president may assign another presidency member to help parents with temple and priesthood preparation for their children.
 
-These presidency members make parents aware of resources in the Gospel Library that can help. See, for example, “[Baptism](/study/manual/gospel-topics/baptism?lang=eng),” “[Holy Ghost](/study/manual/gospel-topics/holy-ghost?lang=eng),” and “[Temples](/study/manual/gospel-topics/temples?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org). See also “[Priesthood Principles](/study/manual/general-handbook/3-priesthood-principles?lang=eng)” (chapter 3 in this handbook). Presidency members may work with ministering brothers and sisters, teachers, and others to support parents.
+These presidency members make parents aware of resources in the Gospel Library that can help. See, for example, “[Preparing Your Children for a Lifetime on God’s Covenant Path](/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/54-appendix?lang=eng)” in Come, Follow Me—For Individuals and Families. Presidency members may work with ministering brothers and sisters, teachers, and others to support parents.
 
 The Primary president has the following additional responsibilities. Her counselors assist her.
 
@@ -239,6 +239,7 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 
 * Help the Primary presidency prepare agendas for presidency meetings. She attends these meetings, takes notes, and keeps track of assignments.
 * Work closely with teachers and leaders to keep accurate attendance records.
+* Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary
 * Make sure the Primary presidency is aware of:
 
 	+ New children and visitors.
@@ -336,7 +337,7 @@ Leaders and teachers should be careful when acting out sacred events in Primary.
 
 ### 12.5.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) CTR Rings
 
-When children begin the CTR 4 class, the Primary presidency and their Primary teacher remind them to “choose the right.” These leaders also give each child a green [CTR ring](https://store.churchofjesuschrist.org/usa/en/ctr-ring).
+When children begin the CTR 4 class, the Primary presidency and their Primary teacher remind them to “choose the right.” These leaders also give each child a green [CTR ring](https://store.churchofjesuschrist.org/usa/en/ctr-ring/5638675502.p).
 
 ### 12.5.7 Introducing the Children and Youth Program
 

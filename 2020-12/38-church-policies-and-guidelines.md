@@ -459,9 +459,7 @@ See [18.17.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessi
 
 ### 38.2.13 Chart of Ordinations
 
-38.2.13.1
-
-Chart of Ordinations
+#### 38.2.13.1 Chart of Ordinations
 
 | Office | Recommended By | Approved By | Sustained By | Interviewed and Ordained By |
 | --- | --- | --- | --- | --- |
@@ -474,7 +472,7 @@ Chart of Ordinations
 
 ## 38.3 Civil Marriage
 
-Church leaders encourage members to qualify for temple marriage and be married and sealed in a temple. Where temple marriages are not legally recognized, leaders can perform civil marriages that are followed by a temple sealing. This process may also be followed when a temple marriage would cause parents or immediate family members to feel excluded.
+Church leaders encourage members to qualify for temple marriage and be married and sealed in a temple. Where temple marriages are not legally recognized, leaders can perform civil marriages that are followed by a temple sealing. This process may also be followed when a temple marriage would cause parents or immediate family members to feel excluded. See [38.3.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number60-p200#title_number60) for information about which Church leaders may perform civil marriages.
 
 This section provides instructions for leaders about performing civil marriages. A civil marriage is valid for as long as a couple lives. It does not endure beyond mortal life.
 
@@ -628,7 +626,7 @@ If a woman who has been sealed to a former husband remarries, the children of he
 
 Children who are not born in the covenant can become part of an eternal family by being sealed to their natural or adoptive parents. These children receive the same right to blessings as if they had been born in the covenant.
 
-A child may be sealed only to two parents﻿—a husband and wife﻿—and not to one parent only.
+A child may be sealed only to two parents—a husband and wife—and not to one parent only.
 
 Males who are at least 11 and turning 12 during the year of the ordinance must hold the priesthood and be ordained to the office appropriate to their age before they may be sealed to their parents. Members who are married or are 21 or older may not be sealed to their parents unless they are endowed.
 
@@ -800,7 +798,7 @@ When abuse occurs, the first and immediate responsibility of Church leaders is t
 
 #### 38.6.2.1 Abuse Help Line
 
-In some countries, the Church has established a confidential abuse help line to assist stake presidents and bishops. These leaders should promptly call the help line about every situation in which a person may have been abused﻿—or is at risk of being abused. They should also call it if they become aware of a member viewing, purchasing, or distributing child pornography.
+In some countries, the Church has established a confidential abuse help line to assist stake presidents and bishops. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused. They should also call it if they become aware of a member viewing, purchasing, or distributing child pornography.
 
 The help line is available for bishops and stake presidents to call 24 hours a day, 7 days a week. Phone numbers are shown below.
 
@@ -1099,7 +1097,7 @@ In other areas, leaders may contact Family Services staff or the welfare and sel
 
 ### 38.6.20 Suicide
 
-Mortal life is a precious gift from God﻿—a gift that should be valued and protected. The Church strongly supports the prevention of suicide. For information about how to help someone who is suicidal or someone who has been affected by suicide, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
+Mortal life is a precious gift from God—a gift that should be valued and protected. The Church strongly supports the prevention of suicide. For information about how to help someone who is suicidal or someone who has been affected by suicide, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
 
 Most people who have thought about suicide want to find relief from physical, mental, emotional, or spiritual pain. Such individuals need love, help, and support from family, Church leaders, and qualified professionals.
 
@@ -1127,7 +1125,7 @@ Children who are born to a surrogate mother are not born in the covenant. Follow
 
 ### 38.6.23 Transgender Individuals
 
-Transgender individuals face complex challenges. Members and nonmembers who identify as transgender﻿—and their family and friends﻿—should be treated with sensitivity, kindness, compassion, and an abundance of Christlike love. All are welcome to attend sacrament meeting, other Sunday meetings, and social events of the Church (see [38.1.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number3-p7#title_number3)).
+Transgender individuals face complex challenges. Members and nonmembers who identify as transgender—and their family and friends—should be treated with sensitivity, kindness, compassion, and an abundance of Christlike love. All are welcome to attend sacrament meeting, other Sunday meetings, and social events of the Church (see [38.1.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number3-p7#title_number3)).
 
 Gender is an essential characteristic of Heavenly Father’s plan of happiness. The intended meaning of _gender_ in the [family proclamation](/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) is _biological sex at birth._ Some people experience feelings of incongruence between their biological sex and their gender identity. As a result, they may identify as transgender. The Church does not take a position on the causes of people identifying themselves as transgender.
 
@@ -1458,7 +1456,7 @@ _What permission is needed to present musical and theatrical productions?_ Produ
 
 The Church makes available scriptures, magazines, manuals, books, and other materials to help members learn and live the gospel of Jesus Christ.
 
-Leaders encourage members to obtain copies of the scriptures and [Come, Follow Me﻿—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) to support gospel study at home.
+Leaders encourage members to obtain copies of the scriptures and [Come, Follow Me—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) to support gospel study at home.
 
 Leaders ensure that teachers use Church-approved materials for quorum and class instruction. The publication Instructions for Curriculum provides information about how to organize Sunday classes and which materials to use for lessons.
 

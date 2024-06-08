@@ -145,7 +145,9 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://chil
 
 Aaronic Priesthood holders assist the bishop in “administering all temporal things” ([Doctrine and Covenants 107:68](/study/scriptures/dc-testament/dc/107.68?lang=eng#p68)). They should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/). Where available, 
 
-[JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.#### 10.2.2.1 Ministering
+[JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.
+
+#### 10.2.2.1 Ministering
 
 Ministering is caring for others as the Savior would. Aaronic Priesthood holders receive ministering assignments beginning in January of the year they turn 14. For more information, see [chapter 21](/study/manual/general-handbook/21-ministering?lang=eng).
 

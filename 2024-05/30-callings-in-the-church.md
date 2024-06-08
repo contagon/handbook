@@ -245,9 +245,7 @@ In rare circumstances, a stake member may need to begin service before he or she
 1. Active sealers in a temple should not be called to serve in district presidencies. Sealers are called under the direction of the President of the Church.
 2. In areas with no missions, the Area Presidency performs this function.
 
-30.8.5
-
-Military Service Member Group Callings
+### 30.8.5 Military Service Member Group Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |

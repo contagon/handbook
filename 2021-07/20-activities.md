@@ -236,7 +236,7 @@ Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschri
 
 Overnight activities at Church meetinghouses or meetinghouse grounds are not approved.
 
-For more information, see “[FAQs—What Should I Do?](http://www.churchofjesuschrist.org/callings/church-safety-and-health/faqs-what-should-i-do)” on ChurchofJesusChrist.org.
+For more information, see “[FAQs—What Should I Do?](https://www.churchofjesuschrist.org/callings/church-safety-and-health/faqs-what-should-i-do)” on ChurchofJesusChrist.org.
 
 ### 20.5.6 Portrayal of Deity
 
@@ -380,7 +380,7 @@ The Church counsels members and leaders who oversee Church activities to protect
 
 In the United States and Canada, the Church Activity Medical Assistance (CAMA) program provides secondary medical and dental assistance for injuries sustained while participating in a Church activity. It also provides funeral assistance if necessary. This program is designed to supplement, not replace, a person’s own health and accident insurance. For more information, see “[FAQs—What Should I Do?](https://www.churchofjesuschrist.org/callings/church-safety-and-health/faqs-what-should-i-do)” on ChurchofJesusChrist.org.
 
-If an incident occurs during a Church-sponsored event, leaders determine if CAMA might be needed. Any leader may report an incident in the Global Incident Reporting system at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). If the leader indicates that treatment beyond first aid is expected, the bishop will be notified and will receive enrollment information. The bishop considers a person’s ability to pay medical expenses by other means, such as personal insurance coverage or other resources. He may authorize the use of CAMA funds if he feels it is appropriate.
+If an incident occurs during a Church-sponsored event, leaders determine if CAMA might be needed. Any leader may report an incident in the Global Incident Reporting system at [incidents.ChurchofJesusChrist.org](https://incidents.churchofjesuschrist.org). If the leader indicates that treatment beyond first aid is expected, the bishop will be notified and will receive enrollment information. The bishop considers a person’s ability to pay medical expenses by other means, such as personal insurance coverage or other resources. He may authorize the use of CAMA funds if he feels it is appropriate.
 
 For more information, see the  [Church Activity Medical Assistance Handbook](https://www.dmba.com/churchactivity/pdf/CAHandbook.pdf). To obtain this handbook, contact:
 
@@ -392,15 +392,15 @@ Salt Lake City, UT 84145-0530
 
 Telephone: 1-801-578-5650 or 1-800-777-1647
 
-Email: [churchactivity@dmba.com](mailto:churchactivity@dmba.com) 
+Email: [churchactivity@dmba.com](mailto:churchactivity@dmba.com)
 
-Website: [dmba.com/churchactivity](http://www.dmba.com/churchactivity) 
+Website: [dmba.com/churchactivity](http://www.dmba.com/churchactivity)
 
 #### 20.7.3.5 Certificates of Insurance
 
 The Church is often asked to provide evidence of insurance for activities. These requests come because of rental agreements, contracts, or permits associated with activities.
 
-In the United States and Canada, leaders may obtain a certificate showing evidence of insurance at [InsuranceCertificates.ChurchofJesusChrist.org](https://ldschurchportal.secure.force.com/certificates). Outside the United States and Canada leaders should contact the area office. Requests should include:
+In the United States and Canada, leaders may obtain a certificate showing evidence of insurance at [InsuranceCertificates.ChurchofJesusChrist.org](https://insurancecertificates.churchofjesuschrist.org). Outside the United States and Canada leaders should contact the area office. Requests should include:
 
 * The name and address of the organization requiring evidence of insurance.
 * A description and location of the facility, if renting a facility.
@@ -445,7 +445,7 @@ If an accident or injury occurs on Church property or during a Church activity, 
 * Report the accident (see [20.7.6.3](/study/manual/general-handbook/20-activities?lang=eng¶=title_number55-p278#title_number55)).
 #### 20.7.6.3 Accident Reporting
 
-The following situations should be reported online at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). The bishop, stake president, or member he designates who knows about the incident makes the report promptly.
+The following situations should be reported online at [incidents.ChurchofJesusChrist.org](https://incidents.churchofjesuschrist.org). The bishop, stake president, or member he designates who knows about the incident makes the report promptly.
 
 * An accident or injury occurs on Church property or during a Church activity.
 * A person who was participating in a Church activity is missing.

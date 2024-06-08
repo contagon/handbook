@@ -202,9 +202,7 @@ An endowed sister may accompany the bride to assist her in the dressing room. An
 
 #### 27.3.2.5 Who Performs a Temple Marriage or Sealing
 
-A temple marriage or sealing is usually performed by a sealer who is assigned to the temple where the couple will be married or sealed. If a family member holds the sealing authority and is assigned to the temple where the couple will be married or sealed, they may invite him to perform the marriage or sealing. A sealer may also seek First Presidency approval to perform a sealing for his lineal descendants (children, grandchildren, and great-grandchildren) in a temple other than the one to which he is assigned. He must receive a letter of authorization from the First Presidency for each such sealing. He presents the letter at the temple.
-
-Members are discouraged from asking General Authorities to perform their temple marriage or sealing.
+A temple marriage or sealing is usually performed by a sealer who serves in the temple where the couple is to be married or sealed. If a family member holds the sealing authority, the couple may invite him to perform their marriage or sealing. Members are discouraged from asking General Authorities to perform their temple marriage or sealing.
 
 #### 27.3.2.6 Appropriate Clothing for a Temple Marriage or Sealing
 

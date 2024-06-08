@@ -459,9 +459,7 @@ See [18.17.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessi
 
 ### 38.2.13 Chart of Ordinations
 
-38.2.13.1
-
-Chart of Ordinations
+#### 38.2.13.1 Chart of Ordinations
 
 | Office | Recommended By | Approved By | Sustained By | Interviewed and Ordained By |
 | --- | --- | --- | --- | --- |
@@ -890,7 +888,7 @@ If a person abused a child or youth sexually or seriously abused a child or yout
 
 In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](http://www.churchofjesuschrist.org/letters?clang=eng&id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
 
-Council members should take and discuss the course “[Protecting Children and Youth](http://www.churchofjesuschrist.org/callings/church-safety-and-health/training-and-video-resources/youth-protection).” Council members are also to complete children and youth protection training (see [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number92-p323#title_number92)).
+Council members are also to complete children and youth protection training (see [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number92-p323#title_number92)).
 
 #### 38.6.2.7 Legal Issues Relating to Abuse
 
@@ -1531,7 +1529,7 @@ Missionaries should not offer to sponsor others’ immigration. Nor should they 
 
 The Church does not sponsor immigration through Church employment.
 
-Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35](/study/scriptures/nt/matt/25.35?lang=eng#p35); see also [38.8.20](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number155-p2558#title_number155) and 38.8.35 in this handbook).
+Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35](/study/scriptures/nt/matt/25.35?lang=eng#p35); see also [38.8.35](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number245-p2596#title_number245) in this handbook).
 
 ### 38.8.21 Internet
 
@@ -1601,7 +1599,7 @@ Leaders should speak with Church legal counsel if, in their Church capacities, t
 * Are asked to provide documents or information voluntarily.
 * Are asked to communicate with lawyers or civil authorities about legal proceedings, including sentencing or parole hearings.
 
-However well intentioned, Church leaders sharing information in legal proceedings can be misinterpreted and damaging. Such sharing can be especially harmful to victims and their families. Following the Church’s policy also helps keep the Church from being wrongly implicated in legal matters.
+However well intentioned, Church leaders sharing information in legal proceedings can be misinterpreted and damaging. Such sharing can be especially harmful to victims and their families. Following the Church’s policy also helps keep the Church from being inappropriately implicated in legal matters.
 
 #### 38.8.24.2 Testimony in Legal Proceedings
 
@@ -1779,7 +1777,7 @@ Stake and mission presidents who have questions about relationships with other f
 
 ### 38.8.30 Political and Civic Activity
 
-Church members are encouraged to participate in political and governmental affairs. In many countries, political participation may include:
+Church members are encouraged to participate in political and governmental affairs. In many countries, this may include:
 
 * Voting.
 * Joining or serving in political parties.
@@ -1794,7 +1792,7 @@ In accordance with local laws, members are encouraged to register to vote and to
 
 The Church is neutral regarding political parties, political platforms, and candidates for political office. The Church does not endorse any political party or candidate. Nor does it advise members how to vote.
 
-In exceptional cases, when moral issues or the Church’s practices are involved, the Church may take a position on political matters. In such cases, the Church may engage in political discourse to represent the Church’s views. Only the First Presidency can authorize:
+In exceptional cases, when moral issues or the Church’s practices are involved, the Church may take a position on political matters. In such cases, the Church may engage in political discourse to represent its views. Only the First Presidency can authorize:
 
 * Expressing the Church’s position on moral issues.
 * Committing the Church to support or oppose specific legislation.
@@ -1804,7 +1802,7 @@ Local Church leaders should not organize members to participate in political mat
 
 Church members who seek elected or appointed public office should not imply that they are endorsed by the Church or its leaders. Leaders and members should also avoid statements or conduct that might be interpreted as Church endorsement of any political party, platform, policy, or candidate.
 
-Even when taking a position on a political matter, the Church does not tell elected officials how to vote or what position to take. Members who are elected officials make their own decisions. These officials might not agree with one another or with a publicly stated Church position. They do not speak for the Church.
+Even when taking a position on a political matter, the Church does not ask elected officials to vote a certain way or to take a certain position. Members who are elected officials make their own decisions. These officials might not agree with one another or with a publicly stated Church position. They do not speak for the Church.
 
 Political choices and affiliations should not be the subject of any teachings or advocating in Church settings. Leaders ensure that Church meetings and activities focus on the Savior and His gospel.
 
@@ -2006,17 +2004,17 @@ The military requires that a chaplain provide administrative oversight to any re
 
 A member of the bishopric interviews ward members before they leave for military service. He makes sure they have an opportunity to attend the pre–military service Church orientation.
 
-When a member enters military service or is transferred to a new location, a member of the bishopric helps him or her identify the Church unit nearest the new duty station. Information on meeting times and locations for Church services on military installations is available on “Find a Meetinghouse or Ward” or from the Church’s Military Relations and Chaplain Services Division.
+When a member enters military service or is transferred to a new location, a member of the bishopric helps him or her identify the Church unit nearest the new duty station. Information on meeting times and locations for Church services on military installations is available on “[Find a Meetinghouse or Ward](https://www.churchofjesuschrist.org/maps/meetinghouses)” or from the Church’s Military Relations and Chaplain Services Division.
 
 The membership records for a member entering the military should be retained in the home ward until the member is assigned to his or her first permanent duty station. Do not transfer their membership records to Church units at basic and advanced training bases.
 
-Priesthood leaders in the home ward should correspond regularly with each ward member who is away in military service. They also encourage families to ensure that their family member in the military receives the Ensign or Liahona. The Church News is also available for those who read English.
+Priesthood leaders in the home ward should correspond regularly with each ward member who is away in military service. They also encourage families to ensure that their family member in the military receives the Liahona. The Church News is also available for those who read English.
 
 Each bishop is responsible for Church members assigned to a military installation within his ward boundaries. He establishes a working relationship with the senior chaplain at the installation (see [38.9.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number206-p729#title_number206)).
 
 ### 38.9.3 Pre–Military Service Church Orientation
 
-At the pre–military service Church orientation, members entering military service learn what to expect regarding Church services and activities in the military. The orientation may be held on a stake or ward level. A member of the stake presidency or bishopric calls a pre-military service instructor, preferably someone with recent military experience, to provide the orientation.
+At the pre–military service Church orientation, members entering military service learn what to expect regarding Church services and activities in the military. The orientation may be held on a stake or ward level. A member of the stake presidency or bishopric calls a pre–military service instructor, preferably someone with recent military experience, to provide the orientation.
 
 The [orientation](https://www.churchofjesuschrist.org/military/pre-military-service-church-orientation) may include watching the video recordings Serving Your Country and Let Not Your Heart Be Troubled. The member should receive a military scripture set, a Latter-day Saint identification tag, and the Serving Your Country brochure. If a member did not receive this orientation before arriving at basic training, the bishop, branch president, or service member group leader who is responsible for those in training provides it as soon as possible after the member arrives on the base.
 

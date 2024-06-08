@@ -139,7 +139,9 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://chil
 
 Children should have regular opportunities to serve others in and with their families and during Primary activities. Ideas for service can be found at [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/). 
 
-Where available, [JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.### 12.2.3 Inviting All to Receive the Gospel
+Where available, [JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.
+
+### 12.2.3 Inviting All to Receive the Gospel
 
 Children can invite all to receive the gospel in many ways. Some of these ways are listed below:
 
@@ -280,7 +282,9 @@ Children with disabilities or other special needs typically complete Primary at 
 
 For more information, see 
 
-[disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/) and [38.8.31](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number167-p176#title_number167).### 12.5.3 Men Serving in Primary
+[disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/) and [38.8.31](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number167-p176#title_number167).
+
+### 12.5.3 Men Serving in Primary
 
 The bishopric and Primary presidency should remember the positive influence of worthy men serving in Primary. Men may serve as teachers, nursery leaders, music leaders and pianists, and Primary activity leaders.
 

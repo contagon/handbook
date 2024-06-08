@@ -114,7 +114,7 @@ The Primary presidency and music leader prayerfully plan the presentation. The b
 
 Because of the sacredness of sacrament meeting, the presentation should not include visuals, costumes, or media presentations.
 
-See “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation](/study/come-follow-me/primary?lang=eng)” in Come, Follow Me﻿—For Primary for more information.
+See “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation](/study/come-follow-me/primary?lang=eng)” in Come, Follow Me—For Primary for more information.
 
 _Temple and Priesthood Preparation Meeting._ Parents have the primary responsibility to teach their children about the temple and the priesthood. To support them, the Primary presidency plans a Temple and Priesthood Preparation meeting each year. The bishopric gives direction. The meeting is for children in the Valiant 10 class. Parents are invited. This meeting has the following purposes:
 
@@ -151,7 +151,7 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://chil
 
 #### 12.2.1.4 Personal Development
 
-In their efforts to become more like the Savior, children﻿—beginning in the year they turn 8﻿—are invited to set goals to grow spiritually, socially, physically, and intellectually (see [Luke 2:52](/study/scriptures/nt/luke/2.52?lang=eng#p52)). With help from parents, children seek inspiration to discover what to work on. They make plans, act on their plans, and reflect on what they learn. Leaders offer support as needed. However, they should not track the children’s goals or progress.
+In their efforts to become more like the Savior, children—beginning in the year they turn 8—are invited to set goals to grow spiritually, socially, physically, and intellectually (see [Luke 2:52](/study/scriptures/nt/luke/2.52?lang=eng#p52)). With help from parents, children seek inspiration to discover what to work on. They make plans, act on their plans, and reflect on what they learn. Leaders offer support as needed. However, they should not track the children’s goals or progress.
 
 Beginning in the year they turn 8, children are encouraged to complete at least one goal in each of the four areas each year. They can use [Personal Development: Children’s Guidebook](/study/manual/personal-development-childrens-guidebook?lang=eng) to set and record goals.
 
@@ -233,12 +233,12 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 
 The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly Come, Follow Me study. 
 
-The following resources may be used:* [Come, Follow Me﻿—For Primary](/study/come-follow-me/primary?lang=eng)
+The following resources may be used:* [Come, Follow Me—For Primary](/study/come-follow-me/primary?lang=eng)
 * [Instructions for Singing Time and the Children’s Sacrament Meeting Program](/study/come-follow-me/primary?lang=eng)
 * [Children’s Songbook](/study/manual/childrens-songbook?lang=eng)
 * [Hymns](/study/manual/hymns?lang=eng)
 * [Primary Music Collections](http://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
-* “[Primary Singing Time﻿—Music Can Teach Doctrine](http://www.churchofjesuschrist.org/media-library/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
+* “[Primary Singing Time—Music Can Teach Doctrine](http://www.churchofjesuschrist.org/media-library/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
 
 The bishopric must approve the use of any other music in Primary.
 
@@ -254,7 +254,7 @@ See [Singing Time](https://www.churchofjesuschrist.org/callings/primary-organiza
 
 The Primary presidency recommends to the bishopric men and women to serve as Primary teachers and nursery leaders. The bishopric considers these recommendations and extends the callings. These members are called to teach specific age-groups of children.
 
-Primary teachers and nursery leaders teach from Come, Follow Me﻿—For Primary (ages 3–11) and [Behold Your Little Ones](/study/manual/behold-your-little-ones-nursery-manual?lang=eng) (nursery). They follow the principles in [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way?lang=eng) and [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng) of this handbook.
+Primary teachers and nursery leaders teach from Come, Follow Me—For Primary (ages 3–11) and [Behold Your Little Ones](/study/manual/behold-your-little-ones-nursery-manual?lang=eng) (nursery). They follow the principles in [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way?lang=eng) and [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng) of this handbook.
 
 When adults teach children in Church settings, at least two responsible adults should be present. The two adults could be two women, two men, or a married couple. If this is not possible, leaders should combine classes. Leaders and teachers must complete the training at ProtectingChildren.ChurchofJesusChrist.org. (See [12.5.1](/study/manual/general-handbook/12-primary?lang=eng¶=title_number24-p159#title_number24).)
 

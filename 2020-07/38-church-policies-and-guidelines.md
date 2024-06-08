@@ -456,9 +456,7 @@ See [18.17.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessi
 
 ### 38.2.13 Chart of Ordinations
 
-38.2.13.1
-
-Chart of Ordinations
+#### 38.2.13.1 Chart of Ordinations
 
 | Office | Recommended By | Approved By | Sustained By | Interviewed and Ordained By |
 | --- | --- | --- | --- | --- |

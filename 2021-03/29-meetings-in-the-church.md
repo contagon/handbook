@@ -231,15 +231,17 @@ Coordination meetings for temple and family history work are described in [25.2.
 
 Wards use one of the following two-hour schedules for Sunday meetings.
 
-| Plan 1 | |
-| --- | --- |
+Plan 1
+
 | 60 minutes | Sacrament meeting |
+| --- | --- |
 | 10 minutes | Transition to classes and meetings |
 | 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng¶=title_number9-p75#title_number9))First and third Sundays of the month: Sunday School (see [13.3](/study/manual/general-handbook/13-sunday-school?lang=eng¶=title_number9-p117#title_number9))Second and fourth Sundays: priesthood quorum meetings (see [8.2.1.2](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number121-p207#title_number121) and [10.2.1.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number15-p41#title_number15)), Relief Society meetings (see [9.2.1.2](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number53-p147#title_number53)), and Young Women meetings (see [11.2.1.2](/study/manual/general-handbook/11-young-women?lang=eng¶=title_number9-p30#title_number9))Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers (usually members of the ward or stake). They also determine whether youth and adults, male and female, meet separately or together. |
 
-| Plan 2 | |
-| --- | --- |
+Plan 2
+
 | 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng¶=title_number9-p75#title_number9))First and third Sundays of the month: Sunday School (see [13.3](/study/manual/general-handbook/13-sunday-school?lang=eng¶=title_number9-p117#title_number9))Second and fourth Sundays: priesthood quorum meetings (see [8.2.1.2](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number121-p207#title_number121) and [10.2.1.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number15-p41#title_number15)), Relief Society meetings (see [9.2.1.2](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number53-p147#title_number53)), and Young Women meetings (see [11.2.1.2](/study/manual/general-handbook/11-young-women?lang=eng¶=title_number9-p30#title_number9))Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers (usually members of the ward or stake). They also determine whether youth and adults, male and female, meet separately or together. |
+| --- | --- |
 | 10 minutes | Transition to sacrament meeting |
 | 60 minutes | Sacrament meeting |
 

@@ -22,7 +22,7 @@ Married women under 18 are also members of Relief Society.
 
 For information about unwed parents under age 18, see [38.1.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number216-p2301#title_number216).
 
-### 9.1.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Adapting to Local Needs
+### 9.1.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Adapting to Local Needs
 
 Some wards have a very large number of active adult women. For these wards, the bishop and stake president may authorize having more than one ward Relief Society. Each Relief Society has its own presidency. If possible, each Relief Society should have members with a variety of ages and experience.
 

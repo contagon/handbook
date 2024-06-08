@@ -465,9 +465,7 @@ In some cases, bishops can arrange with morticians to provide respectable burial
 
 Bishops may offer the use of Church meetinghouses for the funeral services of nonmembers. Such services generally may be held in the manner prescribed by the deceased person’s church. However, rituals of other churches or of outside organizations may not be performed in a Church meetinghouse. If the family desires, the service may be conducted by a clergyman of the person’s church, provided it is dignified and appropriate.
 
-29.7
-
-Chart of Ward Meetings
+## 29.7 Chart of Ward Meetings
 
 | Meeting | Purpose | Participants | Frequency |
 | --- | --- | --- | --- |
@@ -486,9 +484,7 @@ Chart of Ward Meetings
 | Ward young single adult committee meeting | Recommend ways to help young single adults participate in service and leadership. Locate and befriend less-active young single adults. | A counselor in the bishopric, the Relief Society and elders quorum counselors assigned to young single adults, young single adult leaders, and the couple called as young single adult advisers | As needed |
 | Missionary coordination meeting | Coordinate missionary, retention, and activation efforts of full-time missionaries and ward members. | Members of the elders quorum and Relief Society presidencies who lead missionary work, ward mission leader (if called), ward missionaries, and full-time missionaries (where available) | Regularly |
 
-29.8
-
-Chart of Stake Meetings
+## 29.8 Chart of Stake Meetings
 
 | Meeting | Purpose | Participants | Frequency |
 | --- | --- | --- | --- |
@@ -506,9 +502,7 @@ Chart of Stake Meetings
 | Stake young single adult committee meeting | Address the needs of young single adults in the stake. Provide opportunities for young single adults to come together for service, gospel learning, and sociality beyond their wards. Ensure that ward young single adult committees are functioning well in wards where they are established. | A counselor in the stake presidency, the high councilor assigned to young single adults, a member of the stake Relief Society presidency, stake young single adult advisers, and ward young single adult leaders (if they are called) or other young single adults in the stake | As needed |
 | Stake single adult committee meeting | Address the needs of single adults in the stake. As needed, provide opportunities for single adults to come together for service, gospel learning, and sociality beyond their wards. | A counselor in the stake presidency, a high councilor, a member of the stake Relief Society presidency, and several single adults | As needed |
 
-29.9
-
-Sunday Meeting Schedule
+## 29.9 Sunday Meeting Schedule
 
 | Plan 1 (2 hours) | | Plan 1 (2 hours) | |
 | --- | --- | --- | --- |

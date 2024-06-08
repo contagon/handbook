@@ -67,19 +67,28 @@ class HandbookDownloader:
             r"^ +([\w#])", r"\1", text, flags=re.MULTILINE
         )  # remove leading spaces
 
-        # HACK to fix a couple of poor formatting versions from the website
-        bad_titles = [
-            ("30.8.1", "Ward Callings"),
-            ("30.8.2", "Branch Callings"),
-            ("30.8.3", "Stake Callings"),
-            ("30.8.4", "District Callings"),
-        ]
-        for num, title in bad_titles:
-            text = re.sub(f"{num}\n\n{title}", f"{num}\n\n### {title}", text)
+        # Some of the headers are missing header titles ##
+        def add_title(match):
+            num = len(match.group(1).split("."))
+            return f"{match.group(1)}\n\n{'#'*num} {match.group(3)}"
 
         text = re.sub(
-            "(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)", r"\3 \1 \4", text
-        )  # merge number and header (removing trailing dot if needed)
+            "^(\d{1,2}(\.?\d{0,2}){0,3})\n\n([^#]+?)",
+            add_title,
+            text,
+            flags=re.MULTILINE,
+        )
+
+        # merge number and header
+        text = re.sub(
+            "(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)",
+            r"\3 \1 \4",
+            text,
+        )
+
+        # Some of the headers don't start on a new line
+        text = re.sub("([^\n#])(#+ (\d{1,2}(\.?\d{0,2}){0,3}))", r"\1\n\n\2", text)
+
         return text
 
     def get_page(self, date, page):
@@ -132,9 +141,9 @@ class HandbookDownloader:
             days=30
         )
 
-        # Iterate by month till we find something
+        # Iterate backwards by month till we find something, since we prefer newer snapshots
         months_apart = (next_date - curr_date).days // 30
-        for i in range(0, months_apart):
+        for i in reversed(range(0, months_apart + 1)):
             down_date = None
             down_date_guess = curr_date + datetime.timedelta(days=i * 30)
             api = (
@@ -150,15 +159,9 @@ class HandbookDownloader:
             down_date = ans["archived_snapshots"]["closest"]["timestamp"]
             down_date = datetime.datetime.strptime(down_date, "%Y%m%d%H%M%S")
 
-            if down_date > curr_date:
-                break
+            if curr_date < down_date and down_date < next_date:
+                print(f"----Found snapshot {down_date.strftime('%Y-%m-%d')}")
+                return f"https://web.archive.org/web/{down_date.strftime('%Y%m%d%H%M%S')}id_/{url}"
 
-        if down_date is None or down_date > next_date or down_date < curr_date:
-            print("----No snapshot found, skipping")
-            return None
-
-        print(f"----Found snapshot {down_date.strftime('%Y-%m-%d')}")
-
-        return (
-            f"https://web.archive.org/web/{down_date.strftime('%Y%m%d%H%M%S')}id_/{url}"
-        )
+        print("----No snapshot found, skipping")
+        return None

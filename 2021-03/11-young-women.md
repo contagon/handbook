@@ -81,7 +81,7 @@ Some service and activities should include both young men and young women, espec
 
 Youth can benefit from socializing in larger groups. The youth in two or more wards may occasionally meet together for service and activities. Stakes or districts may occasionally plan service and activities for youth.
 
-Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](http://safety.churchofjesuschrist.org/); see also [20.6.20](/study/manual/general-handbook/20-activities?lang=eng¶=title_number38-p162#title_number38) in this handbook). At least two responsible adult leaders should be present at all activities (see [11.6.1](/study/manual/general-handbook/11-young-women?lang=eng¶=title_number30-p138#title_number30)).
+Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health); see also [20.6.20](/study/manual/general-handbook/20-activities?lang=eng¶=title_number38-p162#title_number38) in this handbook). At least two responsible adult leaders should be present at all activities (see [11.6.1](/study/manual/general-handbook/11-young-women?lang=eng¶=title_number30-p138#title_number30)).
 
 For more information, see [YoungWomen.ChurchofJesusChrist.org](http://youngwomen.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)See also [JustServe.org](http://www.justserve.org/) where it is available. These resources provide service and activity ideas.
 

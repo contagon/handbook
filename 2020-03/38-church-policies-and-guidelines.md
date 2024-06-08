@@ -446,9 +446,7 @@ See [18.17.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessi
 
 ### 38.2.13 Chart of Ordinations
 
-38.2.13.1
-
-Chart of Ordinations
+#### 38.2.13.1 Chart of Ordinations
 
 | Office | Recommended By | Approved By | Sustained By | Interviewed and Ordained By |
 | --- | --- | --- | --- | --- |
@@ -968,7 +966,9 @@ No bishop’s referral is needed for this service. There is no charge.
 
 Leaders may contact Family Services for assistance. See [38.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94) for contact information.
 
-Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).### 38.6.17 Sperm Donation
+Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+
+### 38.6.17 Sperm Donation
 
 The Church strongly discourages the donation of sperm.
 
@@ -980,7 +980,9 @@ Leaders should counsel and console the family members of a person who dies by su
 
 The bishop should counsel a member who has seriously considered suicide or has attempted suicide. He should also encourage the person to seek professional help.
 
-For information about suicide prevention and ministering, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).### 38.6.19 Surgical Sterilization (Including Vasectomy)
+For information about suicide prevention and ministering, see [suicide.ChurchofJesusChrist.org](https://suicide.ChurchofJesusChrist.org).
+
+### 38.6.19 Surgical Sterilization (Including Vasectomy)
 
 The Church strongly discourages surgical sterilization as an elective form of birth control. Surgical sterilization should be considered only if (1) medical conditions seriously jeopardize life or health or (2) a person does not have the mental competence to be responsible for his or her actions.
 

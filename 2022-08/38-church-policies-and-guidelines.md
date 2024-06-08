@@ -8,7 +8,7 @@ Church leaders and members are often asked who can attend meetings of The Church
 
 ### 38.1.1 Attendance at Church Meetings
 
-The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19)](/study/scriptures/nt/eph/2.19?lang=eng#p19). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3)](/study/scriptures/dc-testament/dc/46.3?lang=eng#p3).
+The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19](/study/scriptures/nt/eph/2.19?lang=eng#p19)). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3](/study/scriptures/dc-testament/dc/46.3?lang=eng#p3)).
 
 All are welcome to attend sacrament meeting, other Sunday meetings, and social events of The Church of Jesus Christ of Latter-day Saints. The presiding officer is responsible to ensure that all who attend are respectful of the sacred setting.
 
@@ -20,7 +20,7 @@ Church meetinghouses remain private property subject to Church policies. Persons
 
 ### 38.1.2 Becoming a Church Member
 
-Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37)](/study/scriptures/dc-testament/dc/20.37?lang=eng#p37).
+Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37](/study/scriptures/dc-testament/dc/20.37?lang=eng#p37)).
 
 A minor child age 8 or older may be baptized with the permission of his or her custodial parent(s) or legal guardian(s). The custodial parent(s) or legal guardian(s) should understand the Church doctrine their child will be taught and support the child in making and keeping the baptismal covenant. (See [38.2.8.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number262-p2779#title_number262).)
 
@@ -32,7 +32,7 @@ Temples are holy places of worship in which essential ordinances are received an
 
 All members, even if they have never married or are without family in the Church, should strive for the ideal of living in an eternal family. This means preparing to be sealed as a worthy husband or wife and to become a loving father or mother. For some, these blessings will not be fulfilled until the next life, but the ultimate goal is the same for all.
 
-Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41)](/study/scriptures/bofm/mosiah/2.41?lang=eng#p41).
+Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41](/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
 
 ### 38.1.5 Unwed Parents under Age 18
 
@@ -223,7 +223,7 @@ Approval from the First Presidency is required before a person can be baptized i
 
 * Has committed murder (see [38.2.8.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number268-p2798#title_number268)).
 * Has been convicted of a crime involving sexual misconduct (see [38.2.8.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number268-p2798#title_number268)).
-* Is currently on legal probation or parole for a felony or a crime involving sexual misconduct (see [38.2.8.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number268-p2798#title_number268)).
+* Is currently on legal probation or parole for any serious crime or offense (usually punishable by one year in prison or longer) or any crime that involves sexual misconduct (see [38.2.8.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number268-p2798#title_number268)).
 * Has been involved in plural marriage (see [38.2.8.9](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number269-p2799#title_number269)).
 * Has completed transition to the opposite of his or her biological sex at birth (see [38.2.8.10](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number270-p2803#title_number270)).
 
@@ -945,7 +945,7 @@ If a person abused a child or youth sexually or seriously abused a child or yout
 
 #### 38.6.2.6 Stake and Ward Councils
 
-In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](http://www.churchofjesuschrist.org/letters?clang=eng&id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
+In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](https://www.churchofjesuschrist.org/letters/letter?id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
 
 Council members are also to complete children and youth protection training (see [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number92-p323#title_number92)).
 
@@ -1514,7 +1514,7 @@ _What permission is needed to present musical and theatrical productions?_ Produ
 
 The Church provides materials to help members learn and live the gospel of Jesus Christ. These include the scriptures, general conference messages, magazines, manuals, books, and other resources. Leaders encourage members to use the scriptures and other resources as needed to study the gospel at home.
 
-Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see [Instructions for Curriculum](/study/come-follow-me?lang=eng).
+Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see Instructions for Curriculum.
 
 ### 38.8.13 Directories
 

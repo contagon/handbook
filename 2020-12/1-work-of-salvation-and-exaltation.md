@@ -15,7 +15,7 @@ Heavenly Father provided the plan of happiness to enable us to enjoy all His ble
 
 God’s Work and Glory
 
-“For behold, this is my work and my glory﻿—to bring to pass the immortality and eternal life of man” ([Moses 1:39](/study/scriptures/pgp/moses/1.39?lang=eng#p39)).
+“For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man” ([Moses 1:39](/study/scriptures/pgp/moses/1.39?lang=eng#p39)).
 
 We cannot obtain immortality and eternal life without God’s help. In this life, we are subject to sin and death, which separate us from Heavenly Father and prevent us from becoming more like Him.
 

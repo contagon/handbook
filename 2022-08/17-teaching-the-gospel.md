@@ -18,7 +18,7 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the Spir
 
 ### 17.1.3 Teach the Doctrine
 
-The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current [Instructions for Curriculum](/study/come-follow-me?lang=eng) on ChurchofJesusChrist.org.
+The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current Instructions for Curriculum on ChurchofJesusChrist.org.
 
 ### 17.1.4 Invite Diligent Learning
 

@@ -172,7 +172,7 @@ The [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/c
 
 As part of a self-reliance plan, leaders may recommend that members participate in a [self-reliance group](http://www.churchofjesuschrist.org/self-reliance). These groups help them develop skills and resources for better education, employment, or financial management (see [22.13](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number100-figure2_p31#title_number100)). The groups are generally organized by stake or ward councils (see [22.10.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number97-p274#title_number97), [22.7](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number75-p207#title_number75)).
 
-The bishop, or another leader he assigns, uses the [Bishop’s Guide to the Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60005860_000_ SelfReliancePlan_Leader_Web_Interactive.pdf) when providing assistance. This form helps leaders follow up on members’ progress toward self-reliance.
+The bishop, or another leader he assigns, uses the [Bishop’s Guide to the Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60005860_000_SelfReliancePlan_Leader_Web_Interactive.pdf) when providing assistance. This form helps leaders follow up on members’ progress toward self-reliance.
 
 ### 22.3.4 Minister to Those with Emotional Needs
 
@@ -266,7 +266,7 @@ At times a bishop or members of his immediate or extended family who live in the
 
 If fast-offering funds are used, the stake president reviews the bills and other expenses before authorizing payment. The bishop may not approve a payment for himself or his family.
 
-When a stake president or members of his immediate or extended family who live in his ward need assistance, he contacts the bishop. The bishop follows the same principles and guidelines of Church assistance that he would for any other member. However, once the bishop has approved the request, the stake president must submit it to the Area Presidency. The stake president and bishop await written approval from a member of the Area Presidency before proceeding with the payment or order.
+When a stake president or members of his immediate or extended family who live in his ward need assistance, he contacts the bishop. The bishop follows the same principles and guidelines of Church assistance that he would for any other member. However, once the bishop has approved the request, the stake president must submit it to the Area Presidency. The stake president and bishop await written approval from a member of the Area Presidency before proceeding with the payment or order. (If a district president needs assistance, approval is sought from the mission president rather than the Area Presidency.)
 
 #### 22.5.1.3 Assistance to Persons Who Are Transient or Homeless
 
@@ -329,7 +329,7 @@ The bishop has a divine mandate to seek out and care for those with temporal nee
 * Determines the type, amount, and duration of any temporal assistance provided.
 * Approves fast-offering assistance (see [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number27-p145#title_number27) and [22.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number28-p168#title_number28)) and bishops’ orders for food and other basic goods (see [22.13](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number100-figure2_p31#title_number100)).
 * Ensures that the principles and policies for providing temporal assistance are followed. (See [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number27-p145#title_number27), [22.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&para=title_number28-p168#title_number28), and the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds).”)
-* Personally reviews members’ self-reliance plans. He assigns other ward leaders to follow up on those plans as needed. (See the [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf) and [Bishop’s Guide to the Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60005860_000_SelfReliancePlan_Leader_Print.pdf).)
+* Personally reviews members’ self-reliance plans. He assigns other ward leaders to follow up on those plans as needed. (See the [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf) and [Bishop’s Guide to the Self-Reliance Plan](https://assets.churchofjesuschrist.org/da/b8/dab8d678fdc111ebbf18eeeeac1e5d0b6d1c4dfe/self_reliance_plan_for_bishops_and_members.pdf).)
 
 The bishop and his counselors have the following responsibilities:
 

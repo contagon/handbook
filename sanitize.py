@@ -10,6 +10,14 @@ class LinkSanitizer:
         self.cache = {}  # map section # to header slug
         self.files = {}  # map filename to markdown
 
+        with open("missing.md", "r") as f:
+            self.missing = f.read().splitlines()
+        self.missing = [
+            re.search("/(\d+)[\.\-]", x).group(1)
+            for x in self.missing
+            if x.startswith(self.dir)
+        ]
+
     def cache_headers(self, text: str, filename: str):
         # Match of the form "## 1.1.1 Title"
         headers = re.findall(f"(#+) {TITLE_NUM_REGEX} (.*)", text)
@@ -36,6 +44,8 @@ class LinkSanitizer:
         self.cache[num] = filename
 
     def process_links(self, text, filename):
+        file_num = re.split("[\.-]", filename)[0]
+
         # Sanitize all links
         def process(match):
             name = match.group(1).strip()
@@ -49,7 +59,12 @@ class LinkSanitizer:
                 if num in self.cache:
                     return f"[{name}]({self.cache[num]})"
                 else:
-                    print(f"Missing num : {name}, {filename}")
+                    # If it's in a missing section, it makes sense it's wrong
+                    if (
+                        num.split(".")[0] not in self.missing
+                        and file_num not in self.missing
+                    ):
+                        print(f"Missing num : {name}, {filename}")
                     return f"[{name}](https://www.churchofjesuschrist.org{link})"
             # If it's a relative link
             elif link.startswith("/"):

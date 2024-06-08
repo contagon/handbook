@@ -145,7 +145,9 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://chil
 
 Aaronic Priesthood holders assist the bishop in “administering all temporal things” ([Doctrine and Covenants 107:68](/study/scriptures/dc-testament/dc/107.68?lang=eng#p68)). They should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/). Where available, 
 
-[JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.#### 10.2.2.1 Ministering
+[JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.
+
+#### 10.2.2.1 Ministering
 
 Ministering is caring for others as the Savior would. Aaronic Priesthood holders receive ministering assignments beginning in January of the year they turn 14. For more information, see [chapter 21](/study/manual/general-handbook/21-ministering?lang=eng).
 
@@ -169,7 +171,9 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel](/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-[Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org/) provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23](/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng) and [24](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng) for more information.### 10.2.4 Uniting Families for Eternity
+[Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org/) provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23](/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng) and [24](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng) for more information.
+
+### 10.2.4 Uniting Families for Eternity
 
 Aaronic Priesthood holders can help unite families for eternity in many ways. Some of these ways are listed below:
 
@@ -309,7 +313,9 @@ For information about how these guidelines apply to ministering companions, see 
 
 Quorum leaders give special care to young men with disabilities. 
 
-For information about helping these young men, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/).### 10.8.3 Children and Youth Emblems
+For information about helping these young men, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/).
+
+### 10.8.3 Children and Youth Emblems
 
 Young men receive emblems as part of the Children and Youth program. When a young man becomes a member of his first Aaronic Priesthood quorum, he receives an emblem of belonging from his quorum leaders. He also receives a copy of [Personal Development: Youth Guidebook](/study/manual/personal-development-youth-guidebook?lang=eng). This could be done when quorum leaders meet with him to welcome him to the quorum. It could also be done at an annual meeting for youth and their parents (see [10.2.1.3](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number16-p56#title_number16)).
 

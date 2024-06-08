@@ -98,7 +98,9 @@ As an exception, if the ward budget does not have enough money to pay for multid
 
 The bishopric ensures that the budget and activities for young women and young men are sufficient and equitable. Budget for the young women is based on the number of young women in the ward. Budget for Aaronic Priesthood quorums is based on the number of young men in the ward.
 
-See [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org/) for information about funding for FSY conferences.#### 11.2.1.4 Personal Development
+See [FSY.ChurchofJesusChrist.org](http://fsy.churchofjesuschrist.org/) for information about funding for FSY conferences.
+
+#### 11.2.1.4 Personal Development
 
 In their efforts to become more like the Savior, youth are invited to set goals to grow spiritually, socially, physically, and intellectually (see [Luke 2:52](/study/scriptures/nt/luke/2.52?lang=eng#p52)). Youth seek inspiration to discover what they need to work on. With help from parents, they make plans, act on their plans, and reflect on what they learn. Leaders also offer support as needed. However, they should not track the young women’s goals or progress. Parents and leaders may suggest goals, but they allow youth to seek their own inspiration about what goals to pursue.
 
@@ -110,7 +112,9 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://chil
 
 Young women should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/). 
 
-Where available, [JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.#### 11.2.2.1 Ministering
+Where available, [JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.
+
+#### 11.2.2.1 Ministering
 
 Ministering is caring for others as the Savior would. Young women may receive ministering assignments beginning in January of the year they turn 14. For more information, see [chapter 21](/study/manual/general-handbook/21-ministering?lang=eng).
 
@@ -135,7 +139,9 @@ If young women desire to serve full-time missions, parents and leaders help them
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel](/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-[Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org/) provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23](/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng) and [24](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng) for more information.### 11.2.4 Uniting Families for Eternity
+[Missionary.ChurchofJesusChrist.org](http://missionary.churchofjesuschrist.org/) provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23](/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng) and [24](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng) for more information.
+
+### 11.2.4 Uniting Families for Eternity
 
 Young women can help unite families for eternity in many ways. Some of these ways are listed below:
 
@@ -225,7 +231,9 @@ Young Women class presidencies meet regularly. The class president conducts thes
 * Planning class meetings, service, and activities
 * Leadership instruction from adult Young Women leaders or a member of the class presidency
 
-A [Sample Presidency Meeting Agenda](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Quorum-and-Class-Presidency-Agenda8.pdf) is available on ChurchofJesusChrist.org.#### 11.3.4.4 Ward Youth Council
+A [Sample Presidency Meeting Agenda](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Quorum-and-Class-Presidency-Agenda8.pdf) is available on ChurchofJesusChrist.org.
+
+#### 11.3.4.4 Ward Youth Council
 
 The purpose of the ward youth council is to help the youth bring others to Jesus Christ and accomplish the work of salvation and exaltation.
 
@@ -290,7 +298,9 @@ For information about how these guidelines apply to ministering companions, see 
 
 Class presidencies give special care to young women who have disabilities. 
 
-For information about helping these young women, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/).### 11.6.3 Children and Youth Emblems
+For information about helping these young women, see [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/).
+
+### 11.6.3 Children and Youth Emblems
 
 Young women receive emblems as part of the Children and Youth program. Every young woman should receive an emblem of belonging from her class presidency when she becomes a member of Young Women. She also receives a copy of [Personal Development: Youth Guidebook](/study/manual/personal-development-youth-guidebook?lang=eng). This could be done when the class presidency and adult Young Women leaders meet with her to welcome her to Young Women. It could also be done at an annual meeting for youth and their parents (see [11.2.1.3](/study/manual/general-handbook/11-young-women?lang=eng¶=title_number10-p45#title_number10)).
 

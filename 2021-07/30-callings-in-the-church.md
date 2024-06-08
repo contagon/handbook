@@ -230,11 +230,9 @@ In rare circumstances, a stake member may need to begin service before he or she
 | --- | --- | --- | --- | --- |
 | [District president](/study/manual/general-handbook/6-stake-leadership?lang=eng¶=title_number15-p164#title_number15) | Mission president | Area Presidency | Members in district conference | Mission president |
 | [Counselors in the district presidency](/study/manual/general-handbook/6-stake-leadership?lang=eng¶=title_number15-p164#title_number15) | District president | Mission presidency | Members in district conference | Mission president or an assigned counselor |
-| Other district callings | See 30.8.3, substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See 30.8.3, substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See 30.8.3, substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See 30.8.3, substituting _district president_ for _stake president_ and _district_ for _stake._ | | | |
+| Other district callings | See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number114-figure1_note1_p3#title_number114), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number114-figure1_note1_p3#title_number114), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number114-figure1_note1_p3#title_number114), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.8.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number114-figure1_note1_p3#title_number114), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | |
 
-30.8.5
-
-Military Service Member Group Callings
+### 30.8.5 Military Service Member Group Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |

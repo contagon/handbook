@@ -40,6 +40,9 @@
 2021-03/28.md
 2021-03/31.md
 2021-03/35.md
+2021-07/28.md
+2021-07/31.md
+2021-07/35.md
 2023-08/6-stake-leadership.md
 2023-08/14-single-members.md
 2023-08/15-seminaries-and-institutes.md

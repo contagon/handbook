@@ -40,7 +40,7 @@ Elders quorum and Relief Society presidencies prayerfully consider assignments f
 When making these decisions, leaders consider the following:
 
 * Dedicated ministering brothers and sisters should be assigned to members who have the greatest need. These may include new members, single parents, widows, widowers, and less-active members.
-* Youth may serve as companions to adults according to the guidelines in 21.2.2.
+* Youth may serve as companions to adults according to the guidelines in [21.2.2](/study/manual/general-handbook/21-ministering?lang=eng¶=title_number7-p64#title_number7).
 * A married couple may be assigned to minister together to a person or family.
 * Stake presidencies and bishoprics care for all members of the stake or ward. Because of this, they are generally not assigned as ministering brothers. The stake president determines whether high councilors and functioning patriarchs are assigned.
 

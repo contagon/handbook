@@ -55,7 +55,7 @@ The bishopric also has the following responsibilities for temple and family hist
 * Oversee the organization of temple preparation courses (see [25.2.8](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number14-p79#title_number14)).
 * Issue temple recommends (see [chapter 26](/study/manual/general-handbook/26-temple-recommends?lang=eng)).
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The bishopric consults with the stake president to determine whether to call a ward temple and family history leader (see [25.2.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number9-p46#title_number9) for more information).
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The bishopric consults with the stake president to determine whether to call a ward temple and family history leader (see [25.2.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number9-p46#title_number9) for more information).
 
 ### 25.2.2 Elders Quorum and Relief Society Presidencies
 
@@ -74,7 +74,7 @@ These leaders have the following responsibilities:
 
 The elders quorum president and Relief Society president each assign a presidency member to help lead temple and family history work in the ward. These two presidency members work together. They attend ward temple and family history coordination meetings (see [25.2.7](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number13-p72#title_number13)).
 
-### 25.2.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Ward Temple and Family History Leader
+### 25.2.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Ward Temple and Family History Leader
 
 The bishopric consults with the stake president to determine whether to call a ward temple and family history leader. If they decide to extend this calling, the bishopric counsels with the elders quorum and Relief Society presidents in determining whom to call. This person should be a Melchizedek Priesthood holder. If this leader is not called, a member of the elders quorum presidency fills this role.
 
@@ -86,7 +86,7 @@ The ward temple and family history leader supports the elders quorum presidency 
 * Help the ward council develop and implement the ward temple and family history plan (see [25.2.6](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number12-p63#title_number12)).
 * Instruct ward temple and family history consultants. Coordinate their efforts to help members with temple and family history work.
 * Work with the ward mission leader and the missionaries to help those learning the gospel, new members, and returning members engage in temple and family history work.
-* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Where applicable, assign ward temple and family history consultants to serve in the family history center (see [23.5.6](/study/manual/general-handbook/23?lang=eng¶=title_number20-p84#title_number20)).
+* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where applicable, assign ward temple and family history consultants to serve in the family history center (see [25.3.6](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number20-p104#title_number20)).
 ### 25.2.4 Ward Temple and Family History Consultants
 
 Ward temple and family history consultants serve under the direction of the ward temple and family history leader or the member of the elders quorum presidency who fills this role. The elders quorum and Relief Society presidents may suggest members who could serve.
@@ -166,7 +166,7 @@ The stake president holds the keys for the work of salvation and exaltation in t
 * Encourage members to worship in the temple as often as their circumstances allow.
 * Conduct temple recommend interviews (see [chapter 26](/study/manual/general-handbook/26-temple-recommends?lang=eng)).
 
-In his regular meeting with each elders quorum president, a member of the stake presidency discusses temple and family history work in the ward (see [8.3.1](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number9-p25#title_number9)). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The counselors in the elders quorum presidency and the high councilor assigned to the quorum may attend.
+In his regular meeting with each elders quorum president, a member of the stake presidency discusses temple and family history work in the ward (see [8.3.1](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number9-p25#title_number9)). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The counselors in the elders quorum presidency and the high councilor assigned to the quorum may attend.
 
 ### 25.3.2 Stake Adult Leadership Committee
 
@@ -198,7 +198,7 @@ The stake presidency may assign a high councilor to coordinate the stake’s eff
 
 Under the direction of the stake president, the stake Relief Society presidency instructs and supports ward Relief Society presidencies in their responsibilities for temple and family history work.
 
-### 25.3.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Stake Temple and Family History Consultants
+### 25.3.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Temple and Family History Consultants
 
 Stake temple and family history consultants support temple and family history work throughout the stake. They serve under the direction of the stake presidency and one or more high councilors assigned to temple and family history work.
 
@@ -207,7 +207,7 @@ These consultants support high councilors and the stake Relief Society presidenc
 * Help teach and support members in ward temple and family history callings.
 * Help coordinate stake indexing efforts ([25.4.3](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number24-p121#title_number24)).
 * Serve in family history centers (see [25.3.6](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number20-p104#title_number20)).
-### 25.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Family History Centers
+### 25.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Family History Centers
 
 If resources are available, the stake may organize one or more family history centers. These centers are to help visitors discover, gather information about, and unite both living and deceased family members. Anyone is welcome to use them.
 
@@ -219,7 +219,7 @@ As an exception, large regional family history libraries are overseen by the Are
 
 ### 25.4.1 My Family: Stories That Bring Us Together
 
-_My Family: Stories That Bring Us Together_ helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
+My Family: Stories That Bring Us Together helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
 
 The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/usa/en/my-family%3A-stories-that-bring-us-together-%282020-version%29).
 
@@ -280,6 +280,7 @@ Temple ordinance workers help perform ordinances in the temple. To be recommende
 * Reside in the temple district of the temple where he or she will serve.
 * Be endowed, honor temple covenants, and hold a current temple recommend.
 * Have a mature knowledge and testimony of the restored gospel of Jesus Christ.
+* Be physically able to administer ordinances without assistance.
 * Be worthy of respect in the Church and in the community.
 * Work well with other people.
 * Be dependable and in good health.
