@@ -11,7 +11,7 @@ Leaders teach members about the responsibilities and blessings of temple and fam
 * They teach members to participate in family history work by identifying their ancestral family members, requesting temple ordinances for them if needed, and providing these ordinances in the temple themselves if possible.
 * They help members understand that they should not request that temple ordinances be performed for any unrelated person without the approval of the person’s closest living relative. Leaders also help members understand that they should not make such requests for famous people who are not related to them or for people whose information has been gathered from unapproved indexing projects.
 
-For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number129-p235#title_number129).
+For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity).
 
 ## 25.2 Bishop and His Counselors
 
@@ -27,7 +27,7 @@ As the bishop meets with members, he helps them prepare to receive the ordinance
 
 The bishop and his counselors encourage members to identify their ancestral family members and provide temple ordinances for them.
 
-Other responsibilities of the bishopric related to temple work are outlined in [27.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng¶=title_number2-p5#title_number2).
+Other responsibilities of the bishopric related to temple work are outlined in [27.1](27-temple-ordinances-for-the-living.md#271-preparing-to-receive-temple-ordinances).
 
 ## 25.3 Ward Council
 
@@ -43,11 +43,11 @@ In ward council meetings, leaders consider matters relating to temple and family
 
 The bishop may assign the elders quorum presidency to coordinate temple and family history work for the ward council. The Relief Society presidency may work closely with the elders quorum presidency and the temple and family history leader (if called) to encourage temple and family history work in the ward.
 
-For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number129-p235#title_number129).
+For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity).
 
 The Melchizedek Priesthood holder who serves in the role of ward temple and family history leader has the following responsibilities:
 
-* He coordinates the ward’s temple and family history efforts, including the development and implementation of the ward temple and family history plan (see [25.4.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number7-p37#title_number7)). He may attend ward council meetings when invited.
+* He coordinates the ward’s temple and family history efforts, including the development and implementation of the ward temple and family history plan (see [25.4.2](25-temple-and-family-history-work.md#2542-ward-temple-and-family-history-plan)). He may attend ward council meetings when invited.
 * He conducts temple and family history coordination meetings and directs the work of temple and family history consultants.
 * He directs the work of helping members prepare for the temple and organizes temple instruction, activities, and trips.
 * He coordinates with members of the ward council, the ward mission leader, and the full-time missionaries to provide family history experiences, especially for those learning the gospel, new and returning members, and children and youth preparing to receive a limited-use temple recommend.
@@ -95,7 +95,7 @@ The temple preparation course is especially helpful for new members, less-active
 
 Under the bishop’s direction, ward council members, assisted by members of the elders quorum and Relief Society presidencies who lead temple and family history work, prayerfully select members to invite to each course.
 
-The bishopric calls one or more teachers, who may be a husband and wife. Lessons and instructions for organizing the course are in [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](/study/manual/endowed-from-on-high?lang=eng). Participants in the course should receive their own copies of the booklet [Preparing to Enter the Holy Temple](/study/manual/preparing-to-enter-the-holy-temple?lang=eng).
+The bishopric calls one or more teachers, who may be a husband and wife. Lessons and instructions for organizing the course are in [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high?lang=eng). Participants in the course should receive their own copies of the booklet [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple?lang=eng).
 
 ### 25.5.2 Access to Online Family History Resources
 
@@ -120,7 +120,7 @@ As the stake president meets with members, he helps them prepare to receive the 
 
 The stake president and his counselors encourage members to identify their ancestral family members and provide temple ordinances for them.
 
-Other responsibilities of the stake presidency related to temple work are outlined in [27.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng¶=title_number2-p5#title_number2).
+Other responsibilities of the stake presidency related to temple work are outlined in [27.1](27-temple-ordinances-for-the-living.md#271-preparing-to-receive-temple-ordinances).
 
 ### 25.6.2 High Councilor(s) Assigned to Temple and Family History Work
 
@@ -190,4 +190,4 @@ To be recommended as a regularly scheduled temple volunteer, a member should res
 
 As an exception to the above requirements, members who volunteer to work outside the temple, such as those who work on the grounds, do not need to be endowed.
 
-See [25.8.2](/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number21-p75#title_number21) for information about the process of calling volunteers.
+See [25.8.2](25-temple-and-family-history-work.md#2582-process-of-calling) for information about the process of calling volunteers.

@@ -2,9 +2,9 @@
 
 ## 0.0 Introduction
 
-The Lord taught, “Let every man learn his duty, and to act in the office in which he is appointed, in all diligence” ([Doctrine and Covenants 107:99](/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)). As a leader in The Church of Jesus Christ of Latter-day Saints, you should seek personal revelation to help you learn and fulfill the duties of your calling.
+The Lord taught, “Let every man learn his duty, and to act in the office in which he is appointed, in all diligence” ([Doctrine and Covenants 107:99](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)). As a leader in The Church of Jesus Christ of Latter-day Saints, you should seek personal revelation to help you learn and fulfill the duties of your calling.
 
-Studying the scriptures and the teachings of latter-day prophets will help you understand and fulfill your duties. As you study the words of God, you will be more receptive to the influence of the Spirit (see [Doctrine and Covenants 84:85](/study/scriptures/dc-testament/dc/84.85?lang=eng#p85)).
+Studying the scriptures and the teachings of latter-day prophets will help you understand and fulfill your duties. As you study the words of God, you will be more receptive to the influence of the Spirit (see [Doctrine and Covenants 84:85](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.85?lang=eng#p85)).
 
 You also learn your duties by studying the instructions in this handbook. These instructions can invite revelation if they are used to provide an understanding of principles, policies, and procedures to apply while seeking the guidance of the Spirit.
 
@@ -27,7 +27,7 @@ General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints pro
 	+ Uniting families for eternity
 * _Church Administration:_ These chapters present additional guidelines for administering the Church. Subjects include meetings, callings, records, finances, and policies.
 
-The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instruction about who may be sealed in a temple is provided in [27.3.1](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng¶=title_number22-p78#title_number22). The number _27_ refers to the chapter, the number _3_ refers to a section in that chapter, and the number _1_ refers to a subsection.
+The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instruction about who may be sealed in a temple is provided in [27.3.1](27-temple-ordinances-for-the-living.md#2731-who-may-be-sealed-in-a-temple). The number _27_ refers to the chapter, the number _3_ refers to a section in that chapter, and the number _1_ refers to a subsection.
 
 ## 0.2 Adaptation and Optional Resources
 
@@ -52,7 +52,7 @@ If leaders have questions about information in this handbook or about issues it 
 
 Except where indicated otherwise:
 
-* The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see [6.3](/study/manual/general-handbook/6-stake-leadership?lang=eng¶=title_number15-p164#title_number15).
+* The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents).
 * References to wards and stakes generally also apply to branches, districts, and missions.
 * References to Sunday apply to whichever day the Sabbath is observed locally.
 * The term _unit_ refers to wards and branches.

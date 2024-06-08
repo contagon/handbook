@@ -46,7 +46,7 @@ Seminary students can learn more effectively and deepen their conversion if they
 
 To graduate from seminary, a student must earn four years of credit and receive an ecclesiastical endorsement from a bishopric member. This endorsement verifies that a student is worthy and committed to living the standards of the gospel.
 
-Each year the stake holds a seminary graduation. This event is planned by a stake presidency member or a high councilor. The S&I representative may help. For more information, see [A Guide to Seminary and Institute Graduation Exercises](/study/manual/a-guide-to-seminary-and-institute-graduation-exercises?lang=eng).
+Each year the stake holds a seminary graduation. This event is planned by a stake presidency member or a high councilor. The S&I representative may help. For more information, see [A Guide to Seminary and Institute Graduation Exercises](https://www.churchofjesuschrist.org/study/manual/a-guide-to-seminary-and-institute-graduation-exercises?lang=eng).
 
 ### 15.1.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Released-Time Seminary
 

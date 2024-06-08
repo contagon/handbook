@@ -2,9 +2,9 @@
 
 ## 20.1 Purposes of Church Activities
 
-Activities at the ward, stake, and multistake levels bring Church members together as “fellowcitizens with the saints” ([Ephesians 2:19](/study/scriptures/nt/eph/2.19?lang=eng#p19)). In addition to providing fun and entertainment, activities should build testimonies, strengthen families, and foster unity and personal growth.
+Activities at the ward, stake, and multistake levels bring Church members together as “fellowcitizens with the saints” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19)). In addition to providing fun and entertainment, activities should build testimonies, strengthen families, and foster unity and personal growth.
 
-Activities strengthen members by giving them a sense of belonging and mutual support. Activities should help members feel connected to others their age, to their leaders, and to their families. Activities should also help members see how living the gospel brings “the joy of the saints” ([Enos 1:3](/study/scriptures/bofm/enos/1.3?lang=eng#p3)).
+Activities strengthen members by giving them a sense of belonging and mutual support. Activities should help members feel connected to others their age, to their leaders, and to their families. Activities should also help members see how living the gospel brings “the joy of the saints” ([Enos 1:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.3?lang=eng#p3)).
 
 Church activities should be planned to fulfill gospel-centered purposes. In addition to the general purposes mentioned above, these include:
 
@@ -24,7 +24,7 @@ Before planning an activity, leaders consider the spiritual and temporal needs o
 
 Under the direction of the bishopric, the ward council oversees the planning of ward activities. When an activity is for a specific organization or group in the ward, it is planned under the direction of the leaders who are responsible for the organization. When an activity is for the entire ward, the bishop may assign responsibility for it to one or more organizations represented on the ward council. He may also assign responsibility for an activity to other individuals or to a committee, working under the direction of the ward council. Normally these assignments are temporary for a specific activity.
 
-Under the direction of the stake presidency, the stake council oversees the planning of stake activities. For more information about stake activities, see [20.3](/study/manual/general-handbook/20-activities?lang=eng¶=title_number13-p57#title_number13).
+Under the direction of the stake presidency, the stake council oversees the planning of stake activities. For more information about stake activities, see [20.3](20-activities.md#203-stake-multistake-and-area-activities).
 
 ### 20.2.2 Strengthening Families
 
@@ -40,17 +40,17 @@ Those who plan activities should make a special effort to reach out to new membe
 
 ### 20.2.4 Standards
 
-Church activities should follow and teach Church standards. They should provide a wholesome environment where participants can develop friendships with others who have similar beliefs and standards. Activities should be uplifting and emphasize things that are “virtuous, lovely, or of good report or praiseworthy” ([Articles of Faith 1:13](/study/scriptures/pgp/a-of-f/1.13?lang=eng#p13)). Activities are not to include anything that is immoral or suggestive or that makes evil appear acceptable and normal. Leaders ensure that any entertainment is in keeping with the teachings of the Savior.
+Church activities should follow and teach Church standards. They should provide a wholesome environment where participants can develop friendships with others who have similar beliefs and standards. Activities should be uplifting and emphasize things that are “virtuous, lovely, or of good report or praiseworthy” ([Articles of Faith 1:13](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.13?lang=eng#p13)). Activities are not to include anything that is immoral or suggestive or that makes evil appear acceptable and normal. Leaders ensure that any entertainment is in keeping with the teachings of the Savior.
 
 Dress and grooming should be modest, tasteful, and appropriate for the activity. The bishopric or stake presidency determines the dress standards for activities. Leaders who plan an activity may recommend dress standards that are consistent with gospel principles.
 
 Substances that are contrary to the Word of Wisdom are not permitted at Church activities or on Church premises. Persons who are obviously under the influence of alcohol or other drugs must not be admitted to Church activities.
 
-For more information on Church standards, see [For the Strength of Youth.](/study/manual/for-the-strength-of-youth?lang=eng)
+For more information on Church standards, see [For the Strength of Youth.](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng)
 
 ### 20.2.5 Safety
 
-See [20.6.20](/study/manual/general-handbook/20-activities?lang=eng¶=title_number38-p162#title_number38).
+See [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting).
 
 ### 20.2.6 Balance and Variety
 
@@ -68,11 +68,11 @@ Cultural arts activities provide opportunities for members to develop their tale
 
 #### 20.2.6.3 Sports, Recreation, Health, and Fitness
 
-For information about Church sports activities, see [20.6.21](/study/manual/general-handbook/20-activities?lang=eng¶=title_number39-p171#title_number39).
+For information about Church sports activities, see [20.6.21](20-activities.md#20621-sports).
 
 Recreational activities can vary according to the resources available in the area. These activities may include historical commemorations, camping, hiking, or pursuit of hobbies. Recreational activities can often be planned so that families can participate together.
 
-As individuals, as families, and as Church groups, members are encouraged to participate in activities that contribute to their health and fitness. These activities may include walking, jogging, aerobic and other exercise programs, health classes, and fitness training (see [20.6.25, number 2](/study/manual/general-handbook/20-activities?lang=eng¶=title_number43-p191#title_number43)).
+As individuals, as families, and as Church groups, members are encouraged to participate in activities that contribute to their health and fitness. These activities may include walking, jogging, aerobic and other exercise programs, health classes, and fitness training (see [20.6.25, number 2](20-activities.md#20625-unapproved-activities)).
 
 ### 20.2.7 Scheduling Activities
 
@@ -80,7 +80,7 @@ Church activities should be planned as far in advance as reasonable. They should
 
 If an activity will be held at a meetinghouse or another Church facility, planners reserve the facility in advance to avoid conflicts with other activities or meetings. Each meetinghouse has an agent bishop assigned by the stake presidency. He oversees the scheduling of the meetinghouse facilities, though he usually appoints another person to do the actual scheduling.
 
-Monday nights are reserved for home evening and family activities (see [20.6.10](/study/manual/general-handbook/20-activities?lang=eng¶=title_number28-p115#title_number28)).
+Monday nights are reserved for home evening and family activities (see [20.6.10](20-activities.md#20610-monday-nights)).
 
 ### 20.2.8 Funding for Activities
 
@@ -95,19 +95,19 @@ Possible exceptions to the funding policy in the preceding paragraph are listed 
 * One annual extended camp or similar activity for young men.
 * One annual young women camp or similar activity.
 * One annual day camp or similar activity for Primary children ages 8–11.
-* Optional activities as outlined in [20.5](/study/manual/general-handbook/20-activities?lang=eng¶=title_number17-p81#title_number17).
+* Optional activities as outlined in [20.5](20-activities.md#205-optional-activities).
 
-If funds from participants are not sufficient, the bishop may authorize one group fundraising activity annually that complies with the guidelines in [20.6.8](/study/manual/general-handbook/20-activities?lang=eng¶=title_number26-p105#title_number26).
+If funds from participants are not sufficient, the bishop may authorize one group fundraising activity annually that complies with the guidelines in [20.6.8](20-activities.md#2068-fundraising-activities).
 
 In no case should the expenses or travel for an annual camp or similar activity be excessive. Nor should the lack of personal funds prohibit a member from participating.
 
-For a possible exception in funding large multistake or area events for young single adults, see [14.3.7](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number16-p49#title_number16).
+For a possible exception in funding large multistake or area events for young single adults, see [14.3.7](14-single-members.md#1437-funding-for-activities).
 
-For guidelines about funding travel that is associated with activities, see [20.6.24](/study/manual/general-handbook/20-activities?lang=eng¶=title_number42-p184#title_number42).
+For guidelines about funding travel that is associated with activities, see [20.6.24](20-activities.md#20624-travel).
 
 ### 20.2.9 Funding for Equipment and Supplies
 
-If possible, equipment and supplies that the ward needs for annual youth camps are purchased with ward budget funds. If these funds are not sufficient, the bishop may authorize one group fundraising activity annually that complies with the guidelines in [20.6.8](/study/manual/general-handbook/20-activities?lang=eng¶=title_number26-p105#title_number26).
+If possible, equipment and supplies that the ward needs for annual youth camps are purchased with ward budget funds. If these funds are not sufficient, the bishop may authorize one group fundraising activity annually that complies with the guidelines in [20.6.8](20-activities.md#2068-fundraising-activities).
 
 Equipment and supplies purchased with Church funds, whether from the ward budget or a fundraising activity, are for Church use only. They are not for the personal use of individuals or families.
 
@@ -115,13 +115,13 @@ Equipment and supplies purchased with Church funds, whether from the ward budget
 
 ### 20.3.1 General Guidelines
 
-Most Church activities are held at the ward level. However, local leaders are encouraged to hold periodic stake and multistake activities when these activities are better able to accomplish the purposes outlined in [20.1](/study/manual/general-handbook/20-activities?lang=eng¶=title_number2-p11#title_number2). Area activities may also be held, as approved by the Area Presidency. These activities are under the direction of an Area Seventy.
+Most Church activities are held at the ward level. However, local leaders are encouraged to hold periodic stake and multistake activities when these activities are better able to accomplish the purposes outlined in [20.1](20-activities.md#201-purposes-of-church-activities). Area activities may also be held, as approved by the Area Presidency. These activities are under the direction of an Area Seventy.
 
 Stake and multistake activities are particularly beneficial for youth, young single adults, and women, especially in areas where there are few members or where members seldom associate in large groups. Well-planned stake and multistake activities can give members confidence in their Church membership and a wider circle of friendships.
 
 The leaders who begin the process of planning stake and multistake activities are generally the stake Young Men, Young Women, and Relief Society presidencies. The stake young single adult committee begins the process of planning stake and multistake activities for young single adults. These leaders identify the needs of those they serve and consider whether stake or multistake activities would help meet those needs. These leaders then recommend activities to the stake presidency.
 
-For information about multistake activities for single adults ages 31 and older, see [14.1.2](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number4-p10#title_number4) and [14.1.3](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number5-p11#title_number5).
+For information about multistake activities for single adults ages 31 and older, see [14.1.2](14-single-members.md#1412-stake-single-adult-committee) and [14.1.3](14-single-members.md#1413-multistake-activities).
 
 Occasionally stake or multistake activities for women may include young women and girls ages 8 and older. The stake Relief Society, Young Women, and Primary presidencies counsel together to recommend such activities to the stake presidency.
 
@@ -129,7 +129,7 @@ To help meet the needs of young single adults, multistake activities should be h
 
 All stake activities must be approved by the stake presidency and are coordinated in stake council meetings. Stake leaders notify ward leaders of stake activities well in advance. They also ensure that stake activities supplement ward activities rather than compete with them.
 
-If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Special occasions such as holidays or the commemoration of a significant local event may provide opportunities for such activities. Youth conferences (see [20.4](/study/manual/general-handbook/20-activities?lang=eng¶=title_number16-p80#title_number16)), service activities, cultural arts activities, and sports or recreational activities can all be held on a multistake level. Such activities are often coordinated in coordinating council meetings (see [29.11](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number57-p242#title_number57)).
+If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Special occasions such as holidays or the commemoration of a significant local event may provide opportunities for such activities. Youth conferences (see [20.4](20-activities.md#204-youth-conference)), service activities, cultural arts activities, and sports or recreational activities can all be held on a multistake level. Such activities are often coordinated in coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 
 Before proposing a multistake activity, stake presidents determine whether it is the best way to meet the needs they have identified. The stake presidents also consider the cost, time, and travel the activity would require. In addition, the stake presidents consider safety factors and the availability of needed resources.
 
@@ -137,11 +137,11 @@ The Area Presidency may assign Area Seventies or stake presidents to be chairmen
 
 Funding for most multistake activities comes from the budget funds of the participating stakes. Funding for larger activities, such as cultural celebrations associated with temple dedications, may come from area or Church headquarters budgets when approved.
 
-Stake, multistake, and area activities should comply with Church standards and with Church travel policies (see [20.2.4](/study/manual/general-handbook/20-activities?lang=eng¶=title_number7-p22#title_number7) and [20.6.24](/study/manual/general-handbook/20-activities?lang=eng¶=title_number42-p184#title_number42)). These activities require effective leadership, careful planning, and adequate resources.
+Stake, multistake, and area activities should comply with Church standards and with Church travel policies (see [20.2.4](20-activities.md#2024-standards) and [20.6.24](20-activities.md#20624-travel)). These activities require effective leadership, careful planning, and adequate resources.
 
 ### 20.3.2 Stake Activities Committee
 
-Stake activities are planned according to the guidelines in [20.2](/study/manual/general-handbook/20-activities?lang=eng¶=title_number3-p48#title_number3). The stake presidency may organize a stake activities committee to help the stake council and stake organization leaders plan stake activities. The stake activities committee consists of a chairman (a high councilor), one or more stake activities directors, and stake activities specialists (if needed).
+Stake activities are planned according to the guidelines in [20.2](20-activities.md#202-planning-activities). The stake presidency may organize a stake activities committee to help the stake council and stake organization leaders plan stake activities. The stake activities committee consists of a chairman (a high councilor), one or more stake activities directors, and stake activities specialists (if needed).
 
 In addition to helping plan stake activities, members of the stake activities committee may advise, support, and instruct ward leaders in their efforts to plan ward activities.
 
@@ -178,9 +178,9 @@ As leaders and youth plan a youth conference, they should observe the policies i
 
 * Select a gospel theme, such as a scripture, that will inspire the youth and help them understand the expectations of the conference. The annual youth theme could be used as the youth conference theme. The bishopric or stake presidency should approve the theme.
 * Plan activities such as devotionals, group meetings, learning experiences, and service projects that are consistent with the theme.
-* Obtain approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. Speakers who primarily entertain, with only casual reference to the gospel, should not be selected. Nor should speakers who would have to travel long distances be selected. See [38.8.23](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number154-p551#title_number154) for other guidelines concerning speakers.
+* Obtain approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. Speakers who primarily entertain, with only casual reference to the gospel, should not be selected. Nor should speakers who would have to travel long distances be selected. See [38.8.23](38-church-policies-and-guidelines.md#38823-guest-speakers-or-instructors) for other guidelines concerning speakers.
 * Avoid scheduling events for Sunday that are not appropriate for the Sabbath day. Testimony meetings, bishopric youth discussions, or similar meetings are permitted. However, sacrament meetings are not to be held﻿—and the sacrament is not to be administered﻿—outside the boundaries of the ward or stake where the priesthood leaders preside. Any exceptions must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
-* Ensure that adequate adult supervision is present at all times (see [20.6.2](/study/manual/general-handbook/20-activities?lang=eng¶=title_number20-p195#title_number20)).
+* Ensure that adequate adult supervision is present at all times (see [20.6.2](20-activities.md#2062-adult-supervision)).
 
 Members of the bishopric or stake presidency are invited to attend as much of the conference as possible. Aaronic Priesthood quorum advisers and Young Women presidencies are encouraged to attend the entire conference.
 
@@ -194,7 +194,7 @@ Leaders ensure that the following policies and guidelines are observed in all Ch
 
 ### 20.6.1 Accident Prevention and Response
 
-See [20.6.20](/study/manual/general-handbook/20-activities?lang=eng¶=title_number38-p162#title_number38).
+See [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting).
 
 ### 20.6.2 Adult Supervision
 
@@ -204,11 +204,11 @@ All adults participating in activities for children and youth are to complete ch
 
 ### 20.6.3 Commercial or Political Activities
 
-Activities that would use Church facilities for any commercial or political purpose are not permitted. For policies on using Church buildings and other property, see [35.4](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number19-p53#title_number19).
+Activities that would use Church facilities for any commercial or political purpose are not permitted. For policies on using Church buildings and other property, see [35.4](35.md#354-maintaining-meetinghouses).
 
 ### 20.6.4 Copyrighted Materials
 
-See [38.8.13](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number145-p525#title_number145).
+See [38.8.13](38-church-policies-and-guidelines.md#38813-copyrighted-materials).
 
 ### 20.6.5 Curfew Laws
 
@@ -216,7 +216,7 @@ Activities should comply with community curfew laws.
 
 ### 20.6.6 Dances and Music
 
-In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see [For the Strength of Youth](/study/manual/for-the-strength-of-youth/music-and-dancing?lang=eng)). Those who oversee dances should carefully follow the policies outlined below.
+In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/music-and-dancing?lang=eng)). Those who oversee dances should carefully follow the policies outlined below.
 
 Leaders use the Performance Contract form when hiring a band, orchestra, or disc jockey. This contract helps ensure that conduct and music are appropriate for Church dances. Those who provide music should not use inappropriate lyrics and should not dress or talk immodestly. Leaders hold auditions and make firm, clear agreements in writing that commit the persons who provide music to follow Church standards when performing for Church activities.
 
@@ -232,8 +232,8 @@ A brief devotional program may be held as part of an activity. Devotionals typic
 
 Fundraising activities are not usually approved, because expenses for stake and ward activities are paid with budget funds. As an exception, a stake president or bishop may authorize one group fundraising activity each year. Such an activity may be held to raise funds for the following purposes only:
 
-* To help pay the cost of one annual camp or similar activity as outlined in [20.2.8](/study/manual/general-handbook/20-activities?lang=eng¶=title_number11-p45#title_number11).
-* To help purchase equipment that the unit needs for annual camps as outlined in [20.2.9](/study/manual/general-handbook/20-activities?lang=eng¶=title_number12-p48#title_number12).
+* To help pay the cost of one annual camp or similar activity as outlined in [20.2.8](20-activities.md#2028-funding-for-activities).
+* To help purchase equipment that the unit needs for annual camps as outlined in [20.2.9](20-activities.md#2029-funding-for-equipment-and-supplies).
 
 If a fundraising activity is held, it should provide a meaningful value or service. It should be a positive experience that builds unity.
 
@@ -255,7 +255,7 @@ Any exceptions to these instructions must be approved by the Area Presidency.
 
 #### 20.6.9.1 Automobile Insurance
 
-See [20.6.24](/study/manual/general-handbook/20-activities?lang=eng¶=title_number42-p184#title_number42).
+See [20.6.24](20-activities.md#20624-travel).
 
 #### 20.6.9.2 Personal Health and Accident Insurance
 
@@ -285,7 +285,7 @@ Where possible, those who oversee activities should protect themselves by carryi
 
 ### 20.6.10 Monday Nights
 
-Members are encouraged to hold home evening on Sunday or at other times as individuals and families choose. A family activity night could be held on Monday or at other times. No Church activities, meetings, baptismal services, games, or practices should be held after 6:00 p.m. on Mondays. Other interruptions on Monday nights should be avoided. An exception may be made when New Year’s Eve is on a Monday (see [20.6.11](/study/manual/general-handbook/20-activities?lang=eng¶=title_number29-p119#title_number29)).
+Members are encouraged to hold home evening on Sunday or at other times as individuals and families choose. A family activity night could be held on Monday or at other times. No Church activities, meetings, baptismal services, games, or practices should be held after 6:00 p.m. on Mondays. Other interruptions on Monday nights should be avoided. An exception may be made when New Year’s Eve is on a Monday (see [20.6.11](20-activities.md#20611-new-years-eve-parties)).
 
 Leaders ensure that Church buildings and other facilities are closed on Monday nights. Receptions and other similar activities may not be held in Church facilities on Monday nights. Members are also discouraged from holding receptions in other facilities on Monday nights.
 
@@ -300,7 +300,7 @@ When New Year’s Eve falls on Saturday, Sunday, or Monday, and when Church acti
 * _Monday._ No local Church-sponsored New Year’s Eve activities should be scheduled before 9:00 p.m. The stake president or bishop may authorize the use of Church buildings on Monday evening in this instance.
 ### 20.6.12 Overnight Activities
 
-Parental permission is required for all Church-sponsored overnight activities involving youth (see [20.6.13](/study/manual/general-handbook/20-activities?lang=eng¶=title_number31-p131#title_number31)).
+Parental permission is required for all Church-sponsored overnight activities involving youth (see [20.6.13](20-activities.md#20613-parental-permission)).
 
 Church-sponsored overnight activities for combined groups of young men and young women or for combined groups of male and female single adults are not authorized unless approved by the stake president and bishop. Such activities are only rarely held, such as for a youth conference or temple visit.
 
@@ -354,7 +354,7 @@ Local units may be asked to show evidence of liability insurance when renting or
 
 ### 20.6.18 Reports of Misconduct
 
-If a leader becomes aware of physical, sexual, or emotional misconduct of someone during a Church activity, he or she should contact the bishop immediately. Instructions for bishops are provided in [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93).
+If a leader becomes aware of physical, sexual, or emotional misconduct of someone during a Church activity, he or she should contact the bishop immediately. Instructions for bishops are provided in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line).
 
 ### 20.6.19 Sabbath-Day Observance
 
@@ -398,7 +398,7 @@ Leaders also report injuries and damage involving Church facilities or property 
 
 #### 20.6.20.4 Insurance and Questions
 
-Leaders should review the applicability of the Church Activity Medical Assistance Program if an injury occurred during a Church-sponsored activity, event, or assignment. For information about insurance, see [20.6.9](/study/manual/general-handbook/20-activities?lang=eng¶=title32-p112#title32).
+Leaders should review the applicability of the Church Activity Medical Assistance Program if an injury occurred during a Church-sponsored activity, event, or assignment. For information about insurance, see [20.6.9](20-activities.md#2069-insurance).
 
 The stake president (or a bishop under his direction) refers questions about safety issues or claims against the Church to the Risk Management Division or to the area office.
 
@@ -424,13 +424,13 @@ The presentation of team or individual awards or trophies is discouraged.
 
 ### 20.6.22 Taxable Activities
 
-Leaders ensure that activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.10.1](/study/manual/general-handbook/34-finances-and-audits?lang=eng¶=title_number44-p170#title_number44).
+Leaders ensure that activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.10.1](34-finances-and-audits.md#34101-tax-exempt-status).
 
 ### 20.6.23 Temple Visits
 
 Temple visits are organized on the ward or stake level within the assigned temple district. Organized ward or stake visits to temples outside the assigned temple district are not encouraged. Such visits would require the approval of the stake presidency. Overnight temple visits also require the approval of the stake presidency.
 
-Temple visits must comply with the travel policies in [20.6.24](/study/manual/general-handbook/20-activities?lang=eng¶=title_number42-p184#title_number42). Overnight temple visits must also comply with the policies in [20.6.12](/study/manual/general-handbook/20-activities?lang=eng¶=title_number30-p129#title_number30).
+Temple visits must comply with the travel policies in [20.6.24](20-activities.md#20624-travel). Overnight temple visits must also comply with the policies in [20.6.12](20-activities.md#20612-overnight-activities).
 
 ### 20.6.24 Travel
 
@@ -440,11 +440,11 @@ Long-distance travel for activities is discouraged. If a stake president or bish
 
 If long-distance travel for an activity is approved, members should not provide it at their own expense. Nor should significant portions of the stake or ward budget allowance be retained from one year to the next to cover travel expenses.
 
-Travel practices and the application of guidelines in this section should be consistent among units in the same coordinating council. Stake presidents may discuss and agree on general consistency in travel practices during coordinating council meetings (see [29.11](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number57-p242#title_number57)).
+Travel practices and the application of guidelines in this section should be consistent among units in the same coordinating council. Stake presidents may discuss and agree on general consistency in travel practices during coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 
 Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/activity-plan.pdf) for activities that involve travel outside the local area.
 
-When a Church activity for youth involves travel outside the local vicinity or staying overnight, parents should give written permission for their children to participate (see [20.6.13](/study/manual/general-handbook/20-activities?lang=eng¶=title_number31-p131#title_number31)). Responsible adult supervision must be provided (see [20.6.2](/study/manual/general-handbook/20-activities?lang=eng¶=title_number20-p195#title_number20)).
+When a Church activity for youth involves travel outside the local vicinity or staying overnight, parents should give written permission for their children to participate (see [20.6.13](20-activities.md#20613-parental-permission)). Responsible adult supervision must be provided (see [20.6.2](20-activities.md#2062-adult-supervision)).
 
 When feasible, Church groups should use commercial transportation that is licensed and is protected by liability insurance.
 
@@ -458,7 +458,7 @@ A man and a woman should not travel alone together for Church activities, meetin
 
 Church units may not sponsor the following activities. Leaders, parents, and others who plan or participate in Church activities should be aware of these restrictions.
 
-* Activities that have a high risk of injury or illness or that require unusual expense or travel (see [20.6.20](/study/manual/general-handbook/20-activities?lang=eng¶=title_number38-p162#title_number38) and [20.6.24](/study/manual/general-handbook/20-activities?lang=eng¶=title_number42-p184#title_number42)).
+* Activities that have a high risk of injury or illness or that require unusual expense or travel (see [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting) and [20.6.24](20-activities.md#20624-travel)).
 * Exercise programs that have music, lyrics, dress, or other elements that are not in harmony with Church standards.
 * Activities that involve wearing masks, except in dramatic productions.
 * Debutante balls, coming-out parties, or activities that include selecting kings and queens.

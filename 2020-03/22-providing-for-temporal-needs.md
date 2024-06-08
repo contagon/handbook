@@ -40,31 +40,31 @@ Spiritual strength is essential to a person’s temporal and eternal well-being.
 
 ### 22.1.2 Members’ Efforts to Care for the Poor and Needy and Give Service
 
-Through His Church, the Lord has provided a way to care for the poor and needy. He has asked Church members to give generously according to what they have received from Him. He has also asked His people to “visit the poor and the needy and administer to their relief” ([Doctrine and Covenants 44:6](/study/scriptures/dc-testament/dc/44.6?lang=eng#p6)). Church members are encouraged to give personal compassionate service to those in need. They should be “anxiously engaged in a good cause,” serving without being asked or assigned (see [Doctrine and Covenants 58:26–27](/study/scriptures/dc-testament/dc/58.26-27?lang=eng#p26)).
+Through His Church, the Lord has provided a way to care for the poor and needy. He has asked Church members to give generously according to what they have received from Him. He has also asked His people to “visit the poor and the needy and administer to their relief” ([Doctrine and Covenants 44:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/44.6?lang=eng#p6)). Church members are encouraged to give personal compassionate service to those in need. They should be “anxiously engaged in a good cause,” serving without being asked or assigned (see [Doctrine and Covenants 58:26–27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.26-27?lang=eng#p26)).
 
-The Lord has established the law of the fast and fast offerings to bless His people and to provide a way for them to serve those in need (see [Isaiah 58:6–12](/study/scriptures/ot/isa/58.6-12?lang=eng#p6); [Malachi 3:8–12](/study/scriptures/ot/mal/3.8-12?lang=eng#p8)). When members fast, they are asked to give to the Church a fast offering at least equal to the value of the food they would have eaten. If possible, they should be generous and give more. Blessings associated with the law of the fast include closeness to the Lord, increased spiritual strength, temporal well-being, greater compassion, and a stronger desire to serve.
+The Lord has established the law of the fast and fast offerings to bless His people and to provide a way for them to serve those in need (see [Isaiah 58:6–12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58.6-12?lang=eng#p6); [Malachi 3:8–12](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3.8-12?lang=eng#p8)). When members fast, they are asked to give to the Church a fast offering at least equal to the value of the food they would have eaten. If possible, they should be generous and give more. Blessings associated with the law of the fast include closeness to the Lord, increased spiritual strength, temporal well-being, greater compassion, and a stronger desire to serve.
 
 Some opportunities to care for those in need come through Church callings. Other opportunities are present in members’ homes, neighborhoods, and communities, such as those coordinated by JustServe (in the United States and Canada, see [JustServe.org](http://www.justserve.org/)). Members can also help the poor and needy of all faiths throughout the world by supporting the Church’s humanitarian efforts, by participating in disaster response through Helping Hands (where applicable), and by individual efforts to serve others in need.
 
-Providing in the Lord’s way humbles the rich, exalts the poor, and sanctifies both (see [Doctrine and Covenants 104:15–18](/study/scriptures/dc-testament/dc/104.15-18?lang=eng#p15)). President J. Reuben Clark Jr. taught:
+Providing in the Lord’s way humbles the rich, exalts the poor, and sanctifies both (see [Doctrine and Covenants 104:15–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104.15-18?lang=eng#p15)). President J. Reuben Clark Jr. taught:
 
 “The real long-term objective of the welfare plan is the building of character in the members of the Church, givers and receivers, rescuing all that is finest down deep inside of them and bringing to flower and fruitage the latent richness of the spirit, which after all is the mission and purpose and reason for being of this church” (in special meeting of stake presidents, Oct. 2, 1936).
 
 ### 22.1.3 The Lord’s Storehouse
 
-In some locations the Church has established buildings called bishops’ storehouses. When members receive permission from their bishop, they may go to the bishops’ storehouse to obtain food and clothing. But the Lord’s storehouse is not limited to a building used to distribute food and clothing to the poor. It also includes Church members’ offerings of time, talents, compassion, materials, and financial means that are made available to the bishop to help care for the poor and needy. The Lord’s storehouse, then, exists in each ward. These offerings are “to be cast into the Lord’s storehouse, … every man seeking the interest of his neighbor, and doing all things with an eye single to the glory of God” ([Doctrine and Covenants 82:18–19](/study/scriptures/dc-testament/dc/82.18-19?lang=eng#p18)). The bishop is the agent of the Lord’s storehouse.
+In some locations the Church has established buildings called bishops’ storehouses. When members receive permission from their bishop, they may go to the bishops’ storehouse to obtain food and clothing. But the Lord’s storehouse is not limited to a building used to distribute food and clothing to the poor. It also includes Church members’ offerings of time, talents, compassion, materials, and financial means that are made available to the bishop to help care for the poor and needy. The Lord’s storehouse, then, exists in each ward. These offerings are “to be cast into the Lord’s storehouse, … every man seeking the interest of his neighbor, and doing all things with an eye single to the glory of God” ([Doctrine and Covenants 82:18–19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82.18-19?lang=eng#p18)). The bishop is the agent of the Lord’s storehouse.
 
 ## 22.2 Welfare Leadership in the Ward
 
 ### 22.2.1 Bishop
 
-The bishop directs welfare work in the ward. He has a divine mandate to seek out and care for the poor (see [Doctrine and Covenants 84:112](/study/scriptures/dc-testament/dc/84.112?lang=eng#p112)). His goal is to help members help themselves and become self-reliant.
+The bishop directs welfare work in the ward. He has a divine mandate to seek out and care for the poor (see [Doctrine and Covenants 84:112](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.112?lang=eng#p112)). His goal is to help members help themselves and become self-reliant.
 
 The bishop’s counselors, the Relief Society president, the elders quorum president, and other members of the ward council assist the bishop in fulfilling these responsibilities.
 
-The bishop maintains confidentiality about the welfare assistance that members receive. He carefully safeguards the privacy and dignity of members who receive assistance. When he feels that other ward leaders can help members in need, he may share information according to the guidelines in [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number27-p60#title_number27).
+The bishop maintains confidentiality about the welfare assistance that members receive. He carefully safeguards the privacy and dignity of members who receive assistance. When he feels that other ward leaders can help members in need, he may share information according to the guidelines in [22.4](22-providing-for-temporal-needs.md#224-confidentiality).
 
-More information about the bishop’s welfare responsibilities, including guidelines for administering assistance from fast-offering funds, is provided in [22.6](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number43-p181#title_number43).
+More information about the bishop’s welfare responsibilities, including guidelines for administering assistance from fast-offering funds, is provided in [22.6](22-providing-for-temporal-needs.md#226-welfare-duties-of-the-bishopric).
 
 ### 22.2.2 Ward Council
 
@@ -72,15 +72,15 @@ In ward council meetings, the bishop teaches welfare principles and instructs co
 
 They counsel together about ways to help ward members understand and follow principles of welfare.
 
-They report on spiritual and temporal welfare needs in the ward, drawing information from personal visits and from ministering interviews. When information may be too confidential to share with the entire ward council, leaders speak privately with the bishop (see [22.2.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number15-p29#title_number15)).
+They report on spiritual and temporal welfare needs in the ward, drawing information from personal visits and from ministering interviews. When information may be too confidential to share with the entire ward council, leaders speak privately with the bishop (see [22.2.3](22-providing-for-temporal-needs.md#2223-ward-priesthood-executive-committee)).
 
-They plan ways to help specific ward members meet their spiritual and temporal needs, including long-term needs. They determine how to assist members who have disabilities or other special needs. They keep these discussions confidential (see [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number27-p60#title_number27)).
+They plan ways to help specific ward members meet their spiritual and temporal needs, including long-term needs. They determine how to assist members who have disabilities or other special needs. They keep these discussions confidential (see [22.4](22-providing-for-temporal-needs.md#224-confidentiality)).
 
 They coordinate efforts to ensure that members who receive Church assistance have opportunities to work or give service. They compile and maintain a list of meaningful work opportunities. If Church welfare operations exist in the area, these operations may provide work opportunities and training for people who need Church assistance.
 
 They compile and maintain a list of ward members whose skills might be useful in responding to short-term, long-term, or disaster-caused needs.
 
-They develop and maintain a simple written plan for the ward to respond to emergencies (see [22.6.11](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number74-p181#title_number74)). They coordinate this plan with similar plans in the stake and community.
+They develop and maintain a simple written plan for the ward to respond to emergencies (see [22.6.11](22-providing-for-temporal-needs.md#22611-emergencies)). They coordinate this plan with similar plans in the stake and community.
 
 ### 22.2.3 Ward Priesthood Executive Committee
 
@@ -96,7 +96,7 @@ As the bishop provides short-term assistance, he may give assignments to elders 
 
 The bishop normally assigns the Relief Society president to visit members who need short-term assistance. She helps assess their needs and suggests to the bishop what assistance to provide. The bishop may ask her to prepare a Bishop’s Order for Commodities form for him to approve and sign.
 
-The Relief Society president’s role in making these family-needs visits is explained more fully in [9.6.1](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number26-p128#title_number26). For information on other short-term welfare responsibilities that apply specifically to the Relief Society president and her counselors, see [9.6.2](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number27-p131#title_number27) and [9.6.3](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number28-p132#title_number28).
+The Relief Society president’s role in making these family-needs visits is explained more fully in [9.6.1](9-relief-society.md#961-family-needs-visits). For information on other short-term welfare responsibilities that apply specifically to the Relief Society president and her counselors, see [9.6.2](9-relief-society.md#962-compassionate-service) and [9.6.3](9-relief-society.md#963-literacy).
 
 #### 22.2.4.2 Long-Term Welfare Needs
 
@@ -138,7 +138,7 @@ The bishopric may call an employment specialist to help members prepare for and 
 
 ### 22.3.1 Stake President
 
-The stake president oversees welfare work in the stake. More information on his welfare responsibilities is provided in [22.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number28-p96#title_number28).
+The stake president oversees welfare work in the stake. More information on his welfare responsibilities is provided in [22.5](22-providing-for-temporal-needs.md#225-welfare-duties-of-the-stake-presidency).
 
 ### 22.3.2 Stake Council
 
@@ -147,7 +147,7 @@ In stake council meetings, leaders consider spiritual and temporal welfare matte
 * They identify welfare concerns in the stake and seek ways to address those concerns. However, they do not assume responsibility to resolve ward welfare matters.
 * They plan ways to teach welfare principles to stake and ward leaders.
 * They discuss ways to make ward leaders aware of people in the stake who can serve as resources to help with welfare needs.
-* They develop and maintain a simple written plan for the stake to respond to emergencies (see [22.5.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number42-p96#title_number42)). This plan should be coordinated with similar plans of other stakes in the coordinating council and with plans in the community.
+* They develop and maintain a simple written plan for the stake to respond to emergencies (see [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies)). This plan should be coordinated with similar plans of other stakes in the coordinating council and with plans in the community.
 * They plan welfare activities, taking care not to place undue burdens on ward leaders.
 * They plan ways to respond to stake welfare assignments.
 * When assigned by the Area Presidency, they provide leadership and support for a welfare operation.
@@ -156,7 +156,7 @@ If a bishop has been assigned to handle requests for assistance to people who ar
 
 ### 22.3.3 Stake Welfare Specialists
 
-A member of the stake presidency or an assigned high councilor may call a stake employment specialist and other welfare specialists. These stake specialists serve as resources for bishops and other ward leaders. The specialists may help with welfare needs such as those listed in [22.2.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number22-p46#title_number22).
+A member of the stake presidency or an assigned high councilor may call a stake employment specialist and other welfare specialists. These stake specialists serve as resources for bishops and other ward leaders. The specialists may help with welfare needs such as those listed in [22.2.5](22-providing-for-temporal-needs.md#2225-ward-welfare-specialists).
 
 ## 22.4 Confidentiality
 
@@ -176,7 +176,7 @@ The stake president and his counselors ensure that the doctrine, principles, and
 
 #### 22.5.1.2 Teach Leaders Their Welfare Responsibilities
 
-The stake president and his counselors teach leaders their welfare responsibilities. The stake president takes special care to instruct bishops in the principles and policies of administering Church welfare assistance. As part of this responsibility, he organizes the stake bishops’ welfare council (see [22.7](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number75-p193#title_number75)).
+The stake president and his counselors teach leaders their welfare responsibilities. The stake president takes special care to instruct bishops in the principles and policies of administering Church welfare assistance. As part of this responsibility, he organizes the stake bishops’ welfare council (see [22.7](22-providing-for-temporal-needs.md#227-stake-bishops-welfare-council)).
 
 The stake president ensures that bishops administer Church welfare properly. In his regular interviews with bishops, he asks about the welfare of individual ward members and discusses the use of welfare assistance, including fast offerings, to help those in need.
 
@@ -193,7 +193,7 @@ The stake president directs the welfare work of the stake council. In stake coun
 * They identify welfare concerns in the stake and seek ways to address those concerns. However, they do not assume responsibility to resolve ward welfare matters.
 * They plan ways to teach welfare principles to stake and ward leaders.
 * They discuss ways to make ward leaders aware of people in the stake who can serve as resources to help with welfare needs.
-* They develop and maintain a simple written plan for the stake to respond to emergencies (see [22.5.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number42-p96#title_number42)).
+* They develop and maintain a simple written plan for the stake to respond to emergencies (see [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies)).
 * They plan welfare activities, taking care not to place undue burdens on ward leaders.
 * They plan ways to respond to stake welfare assignments.
 * When assigned by the Area Presidency, they provide leadership and support for a welfare operation.
@@ -224,7 +224,7 @@ The stake president should be aware of the temporal circumstances of bishops and
 * Use fast offerings to assist himself or his immediate family. If fast-offering funds are used, the stake president reviews the bills and other expenses before authorizing payment.
 * Obtain help for himself or his immediate family through Church welfare operations.
 
-When authorizing the use of fast offerings for the bishop or his immediate family, the stake president ensures that the instructions in [22.6.4.5](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number65-p150#title_number65) are followed, particularly with regard to signing checks. In summary, the bishop may not sign a check that is for welfare assistance for himself or his immediate family.
+When authorizing the use of fast offerings for the bishop or his immediate family, the stake president ensures that the instructions in [22.6.4.5](22-providing-for-temporal-needs.md#22645-fast-offerings) are followed, particularly with regard to signing checks. In summary, the bishop may not sign a check that is for welfare assistance for himself or his immediate family.
 
 #### 22.5.2.2 Medical Expenses That Exceed Authorized Amounts
 
@@ -232,7 +232,7 @@ The Church has specific amounts that are authorized for medical expenses. For gu
 
 #### 22.5.2.3 Other Special Medical Circumstances
 
-See [22.6.6](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number69-p165#title_number69).
+See [22.6.6](22-providing-for-temporal-needs.md#2266-members-who-need-medical-care).
 
 #### 22.5.2.4 Assistance for Members Who Are Transient or Homeless
 
@@ -242,7 +242,7 @@ Where there is a concentration of stakes with large numbers of people who are tr
 
 #### 22.5.2.5 Support to Members in Prisons, Hospitals, and Other Institutions
 
-See [38.8.46](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number190-p669#title_number190).
+See [38.8.46](38-church-policies-and-guidelines.md#38846-support-to-members-in-prisons-hospitals-and-other-institutions).
 
 ### 22.5.3 Emergencies
 
@@ -276,23 +276,23 @@ The bishop and his counselors teach ward officers their welfare responsibilities
 
 The bishopric and members of the ward council encourage members to live the law of the fast. Typically this includes (1) fasting each fast Sunday for two consecutive meals and (2) giving a fast offering that is at least the equivalent value of the meals not eaten. Members are encouraged to be generous and give much more than the value of two meals if they are able.
 
-When members live the law of the fast and contribute fast offerings, their lives and the lives of the needy will be blessed (see [Isaiah 58:6–12](/study/scriptures/ot/isa/58.6-12?lang=eng#p6)). The importance of living the law of the fast should be taught in sacrament meetings; quorum, Relief Society, Young Women, Sunday School, and Primary meetings; home visits; temple recommend interviews; and tithing settlement interviews.
+When members live the law of the fast and contribute fast offerings, their lives and the lives of the needy will be blessed (see [Isaiah 58:6–12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58.6-12?lang=eng#p6)). The importance of living the law of the fast should be taught in sacrament meetings; quorum, Relief Society, Young Women, Sunday School, and Primary meetings; home visits; temple recommend interviews; and tithing settlement interviews.
 
 #### 22.6.1.4 Oversee the Gathering and Accounting of Fast Offerings
 
-See [34.4.2](/study/manual/general-handbook/34-finances-and-audits?lang=eng¶=title_number11-p52#title_number11).
+See [34.4.2](34-finances-and-audits.md#3442-fast-offerings).
 
 #### 22.6.1.5 Preside over the Welfare Work of the Ward Council
 
-The bishop directs the welfare work of the ward council. He ensures that in ward council meetings, leaders consider spiritual and temporal welfare matters as outlined in [22.2.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number14-p28#title_number14).
+The bishop directs the welfare work of the ward council. He ensures that in ward council meetings, leaders consider spiritual and temporal welfare matters as outlined in [22.2.2](22-providing-for-temporal-needs.md#2222-ward-council).
 
 #### 22.6.1.6 Participate in the Stake Bishops’ Welfare Council
 
-See [22.7](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number75-p193#title_number75).
+See [22.7](22-providing-for-temporal-needs.md#227-stake-bishops-welfare-council).
 
 #### 22.6.1.7 Call Ward Welfare and Employment Specialists
 
-See [22.6.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number60-p153#title_number60).
+See [22.6.4](22-providing-for-temporal-needs.md#2264-church-resources-available-to-help-the-poor).
 
 ### 22.6.2 Overview of Welfare Assistance
 
@@ -305,9 +305,9 @@ The objectives of Church welfare assistance are to strengthen needy members as f
 * Help them maintain their self-respect and dignity.
 ### 22.6.3 Principles and Guidelines for Rendering Assistance
 
-The Lord has described His way for caring for the poor and needy. He instructed the Saints to “impart of your substance unto the poor, … and [it] shall be laid before the bishop … [and] shall be kept in my storehouse, to administer to the poor and the needy” ([Doctrine and Covenants 42:31, 34](/study/scriptures/dc-testament/dc/42.31,34?lang=eng#p31)).
+The Lord has described His way for caring for the poor and needy. He instructed the Saints to “impart of your substance unto the poor, … and [it] shall be laid before the bishop … [and] shall be kept in my storehouse, to administer to the poor and the needy” ([Doctrine and Covenants 42:31, 34](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.31,34?lang=eng#p31)).
 
-The Lord further explained that these offerings should include members’ talents. These talents are “to be cast into the Lord’s storehouse, … every man seeking the interest of his neighbor, and doing all things with an eye single to the glory of God” ([Doctrine and Covenants 82:18–19](/study/scriptures/dc-testament/dc/82.18-19?lang=eng#p18)).
+The Lord further explained that these offerings should include members’ talents. These talents are “to be cast into the Lord’s storehouse, … every man seeking the interest of his neighbor, and doing all things with an eye single to the glory of God” ([Doctrine and Covenants 82:18–19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82.18-19?lang=eng#p18)).
 
 In some locations the Church has established buildings called bishops’ storehouses. When members receive permission from their bishop, they may go to the bishops’ storehouse to obtain food and clothing. But the Lord’s storehouse is not limited to a building used to distribute food and clothing to the poor. It also includes Church members’ offerings of time, talents, compassion, materials, and financial means that are made available to the bishop to help care for the poor and needy. The Lord’s storehouse, then, exists in each ward. The bishop is the agent of the Lord’s storehouse.
 
@@ -317,7 +317,7 @@ The bishop seeks the guidance of the Spirit and applies the following welfare pr
 
 #### 22.6.3.1 Seek Out the Poor
 
-The bishop has a divine mandate to seek out and care for the poor (see [Doctrine and Covenants 84:112](/study/scriptures/dc-testament/dc/84.112?lang=eng#p112)). It is not enough to assist only when asked. He should be aware of the temporal circumstances of needy ward members and ensure that those in need receive proper care. He encourages priesthood and Relief Society leaders and those who minister under their direction to help identify members who need assistance.
+The bishop has a divine mandate to seek out and care for the poor (see [Doctrine and Covenants 84:112](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.112?lang=eng#p112)). It is not enough to assist only when asked. He should be aware of the temporal circumstances of needy ward members and ensure that those in need receive proper care. He encourages priesthood and Relief Society leaders and those who minister under their direction to help identify members who need assistance.
 
 #### 22.6.3.2 Promote Personal Responsibility
 
@@ -365,7 +365,7 @@ The bishop prayerfully determines how to use the following Church resources to h
 
 #### 22.6.4.1 Ward Council
 
-Members of the ward council help the bishop meet members’ welfare needs. For information about the welfare work of the ward council, see [22.2.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number14-p28#title_number14).
+Members of the ward council help the bishop meet members’ welfare needs. For information about the welfare work of the ward council, see [22.2.2](22-providing-for-temporal-needs.md#2222-ward-council).
 
 #### 22.6.4.2 Elders Quorum and Relief Society
 
@@ -373,13 +373,13 @@ Welfare is central to the work of the elders quorum and the Relief Society. Elde
 
 Under the direction of the bishop and quorum or Relief Society leaders, ministering brothers, ministering sisters, and others help needy members find solutions to welfare needs and become self-reliant. The time, talents, and skills of ward members are an important resource for the bishop to use in caring for the needy.
 
-The welfare work of Melchizedek Priesthood quorums and the Relief Society is explained more fully in [22.2.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number16-p44#title_number16).
+The welfare work of Melchizedek Priesthood quorums and the Relief Society is explained more fully in [22.2.4](22-providing-for-temporal-needs.md#2224-elders-quorum-and-relief-society).
 
 #### 22.6.4.3 Relief Society President
 
 The bishop normally assigns the Relief Society president to visit members who need welfare assistance. She helps assess their needs and suggests to the bishop what assistance to provide. This may include preparing a Bishop’s Order for Commodities form for the bishop to approve and sign.
 
-The Relief Society president’s role in making these visits is explained more fully in [9.6.1](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number26-p128#title_number26).
+The Relief Society president’s role in making these visits is explained more fully in [9.6.1](9-relief-society.md#961-family-needs-visits).
 
 #### 22.6.4.4 Ward Welfare Specialists
 
@@ -392,11 +392,11 @@ Each week the Church consolidates fast-offering contributions into a worldwide g
 Guidelines for the bishop in using fast offerings to administer assistance are outlined below:
 
 * Personally approve all fast-offering expenditures.
-* If a bishops’ storehouse is not available, use fast offerings to buy essential commodities (see [22.6.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number53-p130#title_number53)).
+* If a bishops’ storehouse is not available, use fast offerings to buy essential commodities (see [22.6.3](22-providing-for-temporal-needs.md#2263-principles-and-guidelines-for-rendering-assistance)).
 * When possible, make payments to providers of goods and services rather than to the person being assisted or to other individuals.
 * Do not loan fast offerings to members. Members are not required to repay welfare assistance they receive from the Church. Encourage members to contribute to the fast-offering fund when they are again able to do so.
 * Do not use fast offerings to pay members’ consumer debt or obligations incurred in business failures or speculative ventures.
-* Ensure that any fast-offering assistance to the bishop or his immediate family members is first approved in writing by the stake president (see [22.5.2](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number36-p89#title_number36)) and complies with the following instructions for preparing checks.
+* Ensure that any fast-offering assistance to the bishop or his immediate family members is first approved in writing by the stake president (see [22.5.2](22-providing-for-temporal-needs.md#2252-welfare-assistance)) and complies with the following instructions for preparing checks.
 * When preparing a check for fast-offering assistance (or a payment approval form, where used), ensure that:
 
 	+ Two authorized signers always sign the check or form.
@@ -440,11 +440,11 @@ Fast offerings may not be used to pay for medical care that is morally, ethicall
 
 The bishop may assist members and others who are transient or homeless, but he should be discerning about the type and amount of assistance he gives. When possible, he contacts the bishop of the person’s home ward before providing assistance.
 
-For instructions when there are two or more wards in the vicinity, see [22.5.2.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number40-p88#title_number40).
+For instructions when there are two or more wards in the vicinity, see [22.5.2.4](22-providing-for-temporal-needs.md#22524-assistance-for-members-who-are-transient-or-homeless).
 
 ### 22.6.8 Confidentiality
 
-The bishop maintains confidentiality about the welfare assistance that members receive. He carefully safeguards the privacy and dignity of members who receive assistance. When he feels that other ward leaders can help members in need, he may share information according to the guidelines in [22.4](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number27-p60#title_number27).
+The bishop maintains confidentiality about the welfare assistance that members receive. He carefully safeguards the privacy and dignity of members who receive assistance. When he feels that other ward leaders can help members in need, he may share information according to the guidelines in [22.4](22-providing-for-temporal-needs.md#224-confidentiality).
 
 ### 22.6.9 Welfare Abuse and Fraud
 
@@ -472,7 +472,7 @@ Care should be exercised so emergency planning does not promote fear. Mock emerg
 
 When emergencies arise, the bishop should receive reports from quorum leaders concerning the conditions and needs of members. Quorum leaders receive these reports from ministering brothers. The bishop then reports to the stake presidency on the condition of members and Church property. This system may also be used to communicate messages from the stake presidency or bishopric.
 
-During an emergency, Church leaders make the services of the Church available to civil authorities. Church leaders also take independent action in behalf of Church members as needed. For information on using Church buildings during emergencies, see [22.5.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number42-p96#title_number42).
+During an emergency, Church leaders make the services of the Church available to civil authorities. Church leaders also take independent action in behalf of Church members as needed. For information on using Church buildings during emergencies, see [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies).
 
 Supplemental equipment, food, clothing, and services are available through bishops’ storehouses, Deseret Industries stores, and Family Services agencies where they are established. During emergencies, the bishop should request these commodities or services as needed.
 

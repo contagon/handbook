@@ -2,7 +2,7 @@
 
 ## 37.0 Introduction
 
-A stake president may propose creating specialized stakes, wards, and branches to serve members as outlined in this chapter. For information about creating specialized units in a mission, see [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number4-p28#title_number4).
+A stake president may propose creating specialized stakes, wards, and branches to serve members as outlined in this chapter. For information about creating specialized units in a mission, see [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions).
 
 A stake president starts a new proposal at [Boundary and Leadership Proposals](https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcr.churchofjesuschrist.org%2Fboundary-proposals&data=02%7C01%7Ctaylorjd%40ChurchofJesusChrist.org%7C3d6cf8d1679e42d4e40608d79934b729%7C61e6eeb35fd74aaaae3c61e8deb09b79%7C0%7C0%7C637146323993393054&sdata=UdWOsK31dFGcOOaodhSI%2BBq4HSwLIkfuISPu%2BsgBa5Q%3D&reserved=0). If he cannot use the online system, he can download paper forms by clicking on the link. Only the First Presidency can approve the proposal.
 
@@ -23,9 +23,9 @@ Minimum Requirements to Create a Language Ward or Branch in a Stake
 
 Boundaries for language units generally follow the boundaries of conventional wards, branches, and stakes.
 
-The children and youth of a language unit may combine classes with a conventional unit if desired (see [29.10](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number43-p208#title_number43)).
+The children and youth of a language unit may combine classes with a conventional unit if desired (see [29.10](29-meetings-in-the-church.md#2910-overlapping-meeting-schedule-for-units-with-different-languages)).
 
-See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number4-p28#title_number4) for language branches in a mission. See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number7-p62#title_number7) for ward and branch naming guidelines.
+See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) for language branches in a mission. See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
 
 ### 37.1.1 Membership in a Language Ward or Branch
 
@@ -54,7 +54,7 @@ Minimum Requirements to Create a Young Single Adult Unit in a Stake
 
 A young single adult ward usually should not have more than 225 _active_ members.
 
-See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number7-p62#title_number7) for ward and branch naming guidelines.
+See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
 
 ### 37.2.1 Membership in a Young Single Adult Ward or Branch in a Conventional Stake
 
@@ -63,7 +63,7 @@ See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-
 * Each person’s membership record should be in the unit he or she is attending.
 * If the stake president feels that it would help a less-active young single adult in his stake, he may approve transferring the membership record from the conventional unit to the young single adult unit. When the less-active member becomes active, he or she may choose to attend the young single adult unit or the conventional unit.
 * Young single adult parents (ages 18–30) who have children at home remain in their conventional unit. The parents may attend the activities of the young single adult unit.
-* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number14-p62#title_number14) for single adult members ages 31–45.
+* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards) for single adult members ages 31–45.
 ### 37.2.2 Leadership in a Young Single Adult Ward or Branch in a Conventional Stake
 
 * The bishop or branch president should be a married man of mature judgment and experience. First Presidency approval is required before calling a bishop.
@@ -88,7 +88,7 @@ A young single adult unit that is in a conventional stake may be transferred to 
 * Its boundaries are adjacent to the young single adult stake.
 * The presidents of both stakes recommend the transfer.
 
-See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number6-p48#title_number6) and [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number7-p62#title_number7) for stake and ward naming guidelines.
+See [36.4.1](36-creating-changing-and-naming-new-units.md#3641-naming-stakes-and-districts) and [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for stake and ward naming guidelines.
 
 ### 37.3.1 Membership in a Young Single Adult Stake and Its Wards or Branches
 
@@ -97,12 +97,12 @@ See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-
 * Young single adults who live at home with their parents may choose to be members of the young single adult unit or their conventional unit.
 * Each person’s membership record should be in the unit he or she is attending.
 * Young single adult parents (ages 18–30) who have children at home remain in their conventional unit. The parents may attend the activities of the young single adult unit.
-* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number14-p62#title_number14) for single adult members (ages 31–45).
+* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards) for single adult members (ages 31–45).
 ### 37.3.2 Leadership in a Young Single Adult Stake and Its Wards or Branches
 
 * The stake presidency, high councilors, stake patriarch, bishoprics, branch presidencies, and stake Relief Society presidency should be married people of mature judgment and experience. First Presidency approval is required before calling a bishop.
 * A bishop’s or branch president’s counselors may include married students or young or older married men. _They may be high priests or elders._ The first counselor is usually a more experienced leader. A branch president and his counselors may be high priests or elders.
-* The stake presidency, high councilors, stake patriarch, bishoprics, branch presidencies, and stake Relief Society presidency may be called from a broader geographical area than the boundaries of the stake, as determined by the Area Presidency. Those who extend such callings first consult with the person’s stake president to obtain approval. For guidelines, see [chapter 30](/study/manual/general-handbook/30-callings-in-the-church?lang=eng).
+* The stake presidency, high councilors, stake patriarch, bishoprics, branch presidencies, and stake Relief Society presidency may be called from a broader geographical area than the boundaries of the stake, as determined by the Area Presidency. Those who extend such callings first consult with the person’s stake president to obtain approval. For guidelines, see [chapter 30](30-callings-in-the-church.md).
 * Quorum of the Twelve approval is required before calling a patriarch.
 * In wards and branches, other leaders and teachers are called from among the young single adults who are members of the unit.
 ## 37.4 Married Student Stakes and Wards
@@ -115,7 +115,7 @@ Minimum Requirements to Create a Married Student Stake or Ward
 | --- | --- |
 | Married student ward | • 125 members (active and less active)<br/>• 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15. |
 
-See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number6-p48#title_number6) and [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number7-p62#title_number7) for stake and ward naming guidelines.
+See [36.4.1](36-creating-changing-and-naming-new-units.md#3641-naming-stakes-and-districts) and [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for stake and ward naming guidelines.
 
 ### 37.4.1 Membership in Married Student Stakes and Wards
 
@@ -124,7 +124,7 @@ See [36.4.1](/study/manual/general-handbook/36-creating-changing-and-naming-new-
 * Membership records should be in the unit the family is attending.
 ### 37.4.2 Leadership in Married Student Stakes and Wards
 
-See [37.3.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number10-p46#title_number10) and apply the same guidelines.
+See [37.3.2](37-specialized-stakes-wards-and-branches.md#3732-leadership-in-a-young-single-adult-stake-and-its-wards-or-branches) and apply the same guidelines.
 
 ## 37.5 Single Adult Wards
 
@@ -138,7 +138,7 @@ Minimum Requirements to Create a Single Adult Ward in a Stake
 | --- | --- |
 | Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 15. |
 
-See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number7-p62#title_number7) for ward naming guidelines.
+See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward naming guidelines.
 
 ### 37.5.1 Membership in a Single Adult Ward
 
@@ -157,9 +157,9 @@ A stake president may suggest creating wards or branches for members in special 
 
 Generally, leaders who are called to serve in these units should live within the stake that is responsible for the unit.
 
-See [36.3](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number4-p28#title_number4) for information about branches in a mission for young single adults or single adults; members who do not speak the local native language; members who are in care centers, treatment programs, or prisons; or members in the military.
+See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) for information about branches in a mission for young single adults or single adults; members who do not speak the local native language; members who are in care centers, treatment programs, or prisons; or members in the military.
 
-See [36.4.2](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number7-p62#title_number7) for ward and branch naming guidelines.
+See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
 
 ## 37.7 Groups in Stakes, Missions, and Areas
 
@@ -167,7 +167,7 @@ Groups are small authorized gatherings of members overseen by a bishop, branch p
 
 * Travel for its potential members to meet with a ward or branch is difficult.
 * A small number of members speak a language that is different from those in the ward or branch.
-* Members in the military are best served by being in a group (see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number209-p748#title_number209)).
+* Members in the military are best served by being in a group (see [38.9.4](38-church-policies-and-guidelines.md#3894-church-units-for-service-members)).
 
 To propose creating a group, the stake or mission president submits a request to the Area Presidency. Only the Area Presidency can approve the request.
 
@@ -186,7 +186,7 @@ A group leader does not hold priesthood keys, and he is not authorized to:
 * Give informal or formal membership restrictions.
 * Perform other duties that require priesthood keys.
 
-Typically, groups use the Basic Unit Program (see [36.6](/study/manual/general-handbook/36-creating-changing-and-naming-new-units?lang=eng¶=title_number11-p73#title_number11)).
+Typically, groups use the Basic Unit Program (see [36.6](36-creating-changing-and-naming-new-units.md#366-basic-unit-program)).
 
 Membership records of group members are kept in the ward or branch that supervises the group.
 
@@ -196,4 +196,4 @@ When a group qualifies, the stake or mission president may propose for it to bec
 
 ## 37.8 Church Units at Military Installations
 
-For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number209-p748#title_number209).
+For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.9.4](38-church-policies-and-guidelines.md#3894-church-units-for-service-members).

@@ -4,7 +4,7 @@
 
 The Sunday School helps accomplish God’s work of salvation and exaltation. It does this by helping God’s children learn and live the gospel of Jesus Christ. Sunday School leaders, teachers, and classes:
 
-* Strengthen faith in Heavenly Father and Jesus Christ by teaching “the doctrine of the kingdom” ([Doctrine and Covenants 88:77](/study/scriptures/dc-testament/dc/88.77?lang=eng#p77)).
+* Strengthen faith in Heavenly Father and Jesus Christ by teaching “the doctrine of the kingdom” ([Doctrine and Covenants 88:77](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.77?lang=eng#p77)).
 * Support home-centered and Church-supported gospel learning and teaching.
 * Help members teach in the Savior’s way.
 
@@ -14,7 +14,7 @@ The Sunday School helps accomplish God’s work of salvation and exaltation. It 
 
 The bishopric oversees the Sunday School. Usually the bishop assigns one of his counselors to fulfill this responsibility under his direction.
 
-This assigned counselor meets with the Sunday School president regularly. They counsel about the needs of the Sunday School, how it is accomplishing its purpose, and the responsibilities outlined in [13.2.2.2](/study/manual/general-handbook/13-sunday-school?lang=eng&para=title_number33-p100#title_number33).
+This assigned counselor meets with the Sunday School president regularly. They counsel about the needs of the Sunday School, how it is accomplishing its purpose, and the responsibilities outlined in [13.2.2.2](13-sunday-school.md#13222-responsibilities).
 
 ### 13.2.2 Sunday School President
 
@@ -30,11 +30,11 @@ A member of the bishopric presents Sunday School presidency members in sacrament
 
 The Sunday School president has the following responsibilities. If he has counselors, they assist him.
 
-* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [29.2.5](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&para=title_number8-p54#title_number8)).
+* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [29.2.5](29-meetings-in-the-church.md#2925-ward-council-meeting)).
 * Oversee efforts to improve gospel learning and teaching at home and at church.
-* Organize Sunday School classes, with the bishopric’s approval (see [13.3](/study/manual/general-handbook/13-sunday-school?lang=eng&para=title_number9-p117#title_number9)). Recommend to the bishopric adult members to serve as Sunday School teachers.
-* Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way/preface?lang=eng). Encourage them to study [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way/preface?lang=eng).
-* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [3](/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng)).
+* Organize Sunday School classes, with the bishopric’s approval (see [13.3](13-sunday-school.md#133-sunday-school-classes)). Recommend to the bishopric adult members to serve as Sunday School teachers.
+* Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng). Encourage them to study [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng).
+* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng)).
 * Encourage teachers to reach out to members who do not attend classes.
 * Work with teachers to keep attendance records. Report attendance quarterly to the ward clerk or in [LCR](https://lcr.churchofjesuschrist.org) or Member Tools. A secretary, if called, can help with this responsibility.
 
@@ -44,9 +44,9 @@ The Sunday School president may recommend members to serve as Sunday School teac
 
 Sunday School teachers get to know class members, including those who do not attend classes. Teachers support members in their efforts to learn and live the gospel of Jesus Christ.
 
-To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way/preface?lang=eng) and [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng) of this handbook.
+To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
 
-Sunday School teachers attend quarterly teacher council meetings (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&para=title_number41-p163#title_number41)).
+Sunday School teachers attend quarterly teacher council meetings (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)).
 
 ## 13.3 Sunday School Classes
 
@@ -81,31 +81,31 @@ Groups that could benefit from their own Sunday School class include:
 
 ## 13.4 Improving Learning and Teaching in the Ward
 
-Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [38](/study/manual/teaching-in-the-saviors-way/appendix/orienting-new-teachers-a-responsibility-of-priesthood-and-auxiliary-leaders?lang=eng)). They can ask the ward Sunday School president for help if needed.
+Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [38](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/appendix/orienting-new-teachers-a-responsibility-of-priesthood-and-auxiliary-leaders?lang=eng)). They can ask the ward Sunday School president for help if needed.
 
-Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&para=title_number41-p163#title_number41)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way/preface?lang=eng) is the main resource for these meetings.
+Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng) is the main resource for these meetings.
 
 The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see Teaching in the Savior’s Way, [3](/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng), or [teaching.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/manual/come-follow-me/teaching-in-the-saviors-way).
+For more information, see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng), or [teaching.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/manual/come-follow-me/teaching-in-the-saviors-way).
 
 ## 13.5 Improving Learning and Teaching in the Home
 
 Parents are responsible for teaching the gospel to their children. They can ask the Sunday School president to help them improve as teachers.
 
-The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during the 50-minute class time on Sunday. [Teaching in the Savior’s Way](/study/manual/teaching-in-the-saviors-way?lang=eng) is the main resource for these meetings.
+The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during the 50-minute class time on Sunday. [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way?lang=eng) is the main resource for these meetings.
 
 ## 13.6 Stake Sunday School Leaders
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also calls and sets apart a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [6.7.1](/study/manual/general-handbook/6-stake-leadership?lang=eng&para=title_number32-p252#title_number32) and [6.7.3](/study/manual/general-handbook/6-stake-leadership?lang=eng&para=title_number38-p268#title_number38). If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies) and [6.7.3](6-stake-leadership.md#673-ao-stake-organization-secretaries). If counselors are called, they assist him.
 
 ## 13.7 Additional Guidelines
 
 ### 13.7.1 Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability); see also [38.8.27](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number167-p631#title_number167) in this handbook.
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 13.7.2 Resource Center
 

@@ -12,7 +12,7 @@ Single members are divided into two groups: single adults (ages 31 and older) a
 
 ## 14.1 Caring for Single Adult Members (Ages 31 and Older)
 
-Leaders encourage single members ages 31 and older to participate in the regular activities and programs of their conventional stakes and wards. These stakes and wards can provide a full range of Church experiences and can offer opportunities to serve, teach, lead, and associate with people of all ages. Conventional wards can also reinforce the important role of the family and the home in the gospel plan. As an exception, stake presidents may recommend the creation of a single adult ward for single adults ages 31–45 according to the guidelines in [37.5](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number14-p62#title_number14).
+Leaders encourage single members ages 31 and older to participate in the regular activities and programs of their conventional stakes and wards. These stakes and wards can provide a full range of Church experiences and can offer opportunities to serve, teach, lead, and associate with people of all ages. Conventional wards can also reinforce the important role of the family and the home in the gospel plan. As an exception, stake presidents may recommend the creation of a single adult ward for single adults ages 31–45 according to the guidelines in [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards).
 
 Leaders should make special efforts to understand and address the needs of single adults. Leaders should recognize that single adults’ circumstances and interests are varied. Leaders should also be sensitive that single adults sometimes feel out of place when they attend family-oriented activities and classes.
 
@@ -49,7 +49,7 @@ Stake and ward leaders work continually to identify, locate, and shepherd young 
 * They help young single adults find and fellowship those in their age-group who are less active in the Church.
 * They create opportunities for young single adults to associate together in meaningful service, gospel learning, and social activities. A central purpose of these activities is to help young single adults find marriage partners and prepare to marry in the temple and raise righteous families.
 * They support young single adults in fulfilling worthy personal goals and in making decisions about marriage, education, careers, and finances.
-* They ensure that each young single adult has a copy of [True to the Faith: A Gospel Reference](/study/manual/true-to-the-faith?lang=eng). Young single adults are encouraged to use the book as a resource as they study gospel principles, prepare talks, teach classes, and answer questions about the Church.
+* They ensure that each young single adult has a copy of [True to the Faith: A Gospel Reference](https://www.churchofjesuschrist.org/study/manual/true-to-the-faith?lang=eng). Young single adults are encouraged to use the book as a resource as they study gospel principles, prepare talks, teach classes, and answer questions about the Church.
 ## 14.3 Young Single Adults in Conventional Stakes and Wards
 
 ### 14.3.1 Stake Leadership
@@ -60,15 +60,15 @@ In his regular interview with each bishop, the stake president asks for a report
 
 The stake president assigns one of his counselors to oversee the work with young single adults in the stake. The stake president also assigns a high councilor to assist in this work.
 
-Stake leaders prayerfully consider what programs and activities will best serve the needs of the young single adults in the stake. A variety of options are listed in [14.3.5](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number14-p43#title_number14).
+Stake leaders prayerfully consider what programs and activities will best serve the needs of the young single adults in the stake. A variety of options are listed in [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward).
 
-While most young single adults live in conventional wards (many with their parents), priesthood leaders may recommend the organization of a young single adult ward when the circumstances make this desirable (see [14.4](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number17-p53#title_number17)).
+While most young single adults live in conventional wards (many with their parents), priesthood leaders may recommend the organization of a young single adult ward when the circumstances make this desirable (see [14.4](14-single-members.md#144-young-single-adult-wards)).
 
 ### 14.3.2 Stake Young Single Adult Committee
 
 A counselor in the stake presidency presides over the stake young single adult committee. This committee also includes the high councilor assigned to young single adults, a member of the stake Relief Society presidency, a couple called to serve as young single adult advisers, and the young single adult leaders from each ward. If wards do not have young single adult leaders, other worthy young single adults are called to serve on the committee. Normally the committee is organized separately from the stake single adult committee.
 
-The committee meets as needed. Committee members may plan ways to give young single adults opportunities to come together for service, gospel learning (see [chapter 17](/study/manual/general-handbook/17-teaching-the-gospel?lang=eng)), and sociality beyond their wards (see [14.3.5](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number14-p43#title_number14)). As they plan young single adult activities, they maintain a focus on spiritual growth and service, not just social experiences. In areas where campus institute programs are not accessible, this committee may serve needs that would ordinarily be met by the institute advisory council.
+The committee meets as needed. Committee members may plan ways to give young single adults opportunities to come together for service, gospel learning (see [chapter 17](17-teaching-the-gospel.md)), and sociality beyond their wards (see [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward)). As they plan young single adult activities, they maintain a focus on spiritual growth and service, not just social experiences. In areas where campus institute programs are not accessible, this committee may serve needs that would ordinarily be met by the institute advisory council.
 
 The committee helps ensure that ward young single adult committees are functioning well in the wards where they are established.
 
@@ -104,7 +104,7 @@ Young single adults should be offered a variety of gospel learning, service, cul
 
 The stake presidency establishes meetings, classes, and activities that will best meet the needs of young single adult members. The stake young single adult committee and ward leaders support the stake presidency in these efforts. The stake presidency also determines whether activities should take place at the ward level, the stake level, or some combination of both.
 
-Young single adult activities should comply with the policies and guidelines in [chapter 20](/study/manual/general-handbook/20-activities?lang=eng). Participation in these activities is limited to young single adult members, assigned Church officers, and young single adult nonmembers who are willing to abide by Church standards. A person who is separated from his or her spouse or is seeking a divorce may not participate until the divorce decree has become final according to law.
+Young single adult activities should comply with the policies and guidelines in [chapter 20](20-activities.md). Participation in these activities is limited to young single adult members, assigned Church officers, and young single adult nonmembers who are willing to abide by Church standards. A person who is separated from his or her spouse or is seeking a divorce may not participate until the divorce decree has become final according to law.
 
 In planning young single adult activities, ward and stake leaders may consider the following options.
 
@@ -124,11 +124,11 @@ Informally and as organized by participants, young single adults may gather to s
 
 #### 14.3.5.4 Sunday School Classes
 
-Wards with enough young single adults may have a separate Sunday School class for young single adults (see [13.3.2](/study/manual/general-handbook/13-sunday-school?lang=eng¶=title_number11-p117#title_number11)).
+Wards with enough young single adults may have a separate Sunday School class for young single adults (see [13.3.2](13-sunday-school.md#1332-sunday-school-classes-for-specific-groups)).
 
 #### 14.3.5.5 Weekday Gospel Study Classes
 
-All young single adults are encouraged to enroll in institute classes (see [15.2](/study/manual/general-handbook/15-seminaries-and-institutes?lang=eng¶=title_number8-p52#title_number8)).
+All young single adults are encouraged to enroll in institute classes (see [15.2](15-seminaries-and-institutes.md#152-aoinstitute)).
 
 If institute classes are not available, local leaders may contact the Seminaries and Institutes of Religion area office for assistance. As needed, local leaders may organize other group opportunities for weekday gospel study.
 
@@ -140,17 +140,17 @@ Area Seventies work with stake presidents to establish multistake committees to 
 
 Multistake committees should plan activities that are varied, simple, and inexpensive and that allow for ample social interaction. These committees coordinate with young single adult wards and institutes of religion to achieve an appropriate balance of activities and to avoid duplication and scheduling conflicts.
 
-For additional guidelines on organizing these activities, see [20.3.1](/study/manual/general-handbook/20-activities?lang=eng¶=title_number14-p57#title_number14).
+For additional guidelines on organizing these activities, see [20.3.1](20-activities.md#2031-general-guidelines).
 
 ### 14.3.7 Funding for Activities
 
 Normally, funding for young single adult activities comes from the stake or ward budget. When multistake or area activities are held, the responsible priesthood leader ensures a fair allocation of funding among the stakes.
 
-Funding for activities should be consistent with the policies in [20.2.8](/study/manual/general-handbook/20-activities?lang=eng¶=title_number11-p45#title_number11). As an exception, when large multistake or area events are held, young single adults may occasionally be asked to pay some costs themselves. However, leaders should ensure that all young single adults have the opportunity to participate without incurring unreasonable personal costs.
+Funding for activities should be consistent with the policies in [20.2.8](20-activities.md#2028-funding-for-activities). As an exception, when large multistake or area events are held, young single adults may occasionally be asked to pay some costs themselves. However, leaders should ensure that all young single adults have the opportunity to participate without incurring unreasonable personal costs.
 
 ## 14.4 Young Single Adult Wards
 
-Where local circumstances and the number of young single adult members make it desirable, priesthood leaders may recommend the creation of a young single adult ward according to the guidelines in [37.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number5-p29#title_number5).
+Where local circumstances and the number of young single adult members make it desirable, priesthood leaders may recommend the creation of a young single adult ward according to the guidelines in [37.2](37-specialized-stakes-wards-and-branches.md#372-young-single-adult-wards-and-branches-in-a-conventional-stake).
 
 Eligible members may, in consultation with their parents, choose to be members of the young single adult ward or to remain in their conventional ward. The stake president may authorize the young single adult ward to find and fellowship other young single adult members of the stake who are less active. Those who become active may then choose to belong to the young single adult ward or to their conventional ward.
 
@@ -160,7 +160,7 @@ Membership in a young single adult ward is temporary. Leaders help young single 
 
 ## 14.5 Young Single Adult Stakes
 
-Priesthood leaders may recommend the creation of a young single adult stake according to the guidelines in [37.3](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number8-p46#title_number8). That section also provides guidelines for membership and leadership in these stakes.
+Priesthood leaders may recommend the creation of a young single adult stake according to the guidelines in [37.3](37-specialized-stakes-wards-and-branches.md#373-young-single-adult-stakes-and-their-wards-and-branches). That section also provides guidelines for membership and leadership in these stakes.
 
 ## 14.6 Guidelines and Policies for Young Single Adult Wards and Stakes
 
@@ -174,7 +174,7 @@ Officers of conventional stakes and wards should cooperate fully when their memb
 
 ### 14.6.3 Home Evening and Gospel Study
 
-The bishopric of a young single adult ward may organize home evening groups as outlined in [14.3.5](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number14-p43#title_number14).
+The bishopric of a young single adult ward may organize home evening groups as outlined in [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward).
 
 Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
 
@@ -192,11 +192,11 @@ The membership records of young single adults should be in the wards where they 
 
 ### 14.6.7 Missionary Recommendations
 
-For information about missionary recommendations, stake presidents and bishops may refer to [chapter 24](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng).
+For information about missionary recommendations, stake presidents and bishops may refer to [chapter 24](24.md).
 
 ### 14.6.8 Priesthood Ordinations
 
-See [18.10](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number32-p160#title_number32).
+See [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office).
 
 ### 14.6.9 School Breaks
 
@@ -218,4 +218,4 @@ Young single parents who have children at home normally remain in their conventi
 
 When needed, missionary couples (local Church-service missionaries or full-time missionaries) may be called to assist in retention and rescue efforts. They encourage service, build institute enrollment, assist with social activities, and mentor young single adults during this important stage of their lives.
 
-Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](http://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](http://www.churchofjesuschrist.org/csm).” See also [chapter 24](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng).
+Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](http://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](http://www.churchofjesuschrist.org/csm).” See also [chapter 24](24.md).

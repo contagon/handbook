@@ -2,13 +2,13 @@
 
 ## 38.1 Church Participation
 
-Our Father in Heaven loves all His children. “All are alike unto God,” and He invites all “to come unto him and partake of his goodness” ([2 Nephi 26:33](/study/scriptures/bofm/2-ne/26.33?lang=eng#p33)).
+Our Father in Heaven loves all His children. “All are alike unto God,” and He invites all “to come unto him and partake of his goodness” ([2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.33?lang=eng#p33)).
 
 Church leaders and members are often asked who can attend meetings of The Church of Jesus Christ of Latter-day Saints, who can become Church members, and who can attend a temple.
 
 ### 38.1.1 Attendance at Church Meetings
 
-The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19)](/study/scriptures/nt/eph/2.19?lang=eng#p19). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3)](/study/scriptures/dc-testament/dc/46.3?lang=eng#p3).
+The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19)](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3)](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.3?lang=eng#p3).
 
 All are welcome to attend sacrament meeting, other Sunday meetings, and social events of The Church of Jesus Christ of Latter-day Saints. The presiding officer is responsible to ensure that all who attend are respectful of the sacred setting.
 
@@ -20,7 +20,7 @@ Church meetinghouses remain private property subject to Church policies. Persons
 
 ### 38.1.2 Becoming a Church Member
 
-Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37)](/study/scriptures/dc-testament/dc/20.37?lang=eng#p37).
+Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37)](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.37?lang=eng#p37).
 
 A minor child age 8 or older may be baptized with the permission of his or her custodial parent(s) or legal guardian(s). The custodial parent(s) or legal guardian(s) should understand the Church doctrine their child will be taught and support the child in making and keeping the baptismal covenant.
 
@@ -32,23 +32,23 @@ Temples are holy places of worship in which essential ordinances are received an
 
 All members, even if they have never married or are without family in the Church, should strive for the ideal of living in an eternal family. This means preparing to be sealed as a worthy husband or wife and to become a loving father or mother. For some, these blessings will not be fulfilled until the next life, but the ultimate goal is the same for all.
 
-Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41)](/study/scriptures/bofm/mosiah/2.41?lang=eng#p41).
+Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41)](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41).
 
 ## 38.2 Ordinances and Blessings Policies
 
 Instructions for performing ordinances and blessings are outlined in the following publications:
 
-* [Chapter 18](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng) of this handbook
-* Family Guidebook, pages [18–25](/study/manual/family-guidebook/priesthood-ordinances-and-blessings?lang=eng)
-* Duties and Blessings of the Priesthood, Part B, pages [42–47](/study/manual/duties-and-blessings-of-the-priesthood-basic-manual-for-priesthood-holders-part-b/priesthood-and-church-government/lesson-5-performing-priesthood-ordinances?lang=eng)
+* [Chapter 18](18-priesthood-ordinances-and-blessings.md) of this handbook
+* Family Guidebook, pages [18–25](https://www.churchofjesuschrist.org/study/manual/family-guidebook/priesthood-ordinances-and-blessings?lang=eng)
+* Duties and Blessings of the Priesthood, Part B, pages [42–47](https://www.churchofjesuschrist.org/study/manual/duties-and-blessings-of-the-priesthood-basic-manual-for-priesthood-holders-part-b/priesthood-and-church-government/lesson-5-performing-priesthood-ordinances?lang=eng)
 
-Policies that pertain to temple ordinances are outlined in [chapters 27](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng) and [28](/study/manual/general-handbook/28-temple-ordinances-for-ancestors?lang=eng) of this handbook.
+Policies that pertain to temple ordinances are outlined in [chapters 27](27-temple-ordinances-for-the-living.md) and [28](28.md) of this handbook.
 
 ### 38.2.1 General Policies
 
 #### 38.2.1.1 Performing or Participating in an Ordinance or Blessing
 
-For information about who may perform or participate in an ordinance or blessing, see the instructions in [chapter 18](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng) for each ordinance and blessing.
+For information about who may perform or participate in an ordinance or blessing, see the instructions in [chapter 18](18-priesthood-ordinances-and-blessings.md) for each ordinance and blessing.
 
 #### 38.2.1.2 Translating and Interpreting Ordinances and Blessings
 
@@ -56,7 +56,7 @@ If necessary, a presiding officer may ask a priesthood holder to translate or in
 
 A presiding officer may also ask a priesthood holder to interpret an ordinance or blessing if the recipient is deaf or hearing impaired. If a priesthood holder is not available, a presiding officer may ask a capable man or woman to do the interpretation.
 
-For information about translation and sign language interpretation of patriarchal blessings, see [38.2.12.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number54-p182#title_number54) and [38.2.12.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number55-p183#title_number55).
+For information about translation and sign language interpretation of patriarchal blessings, see [38.2.12.4](38-church-policies-and-guidelines.md#382124-translation-of-patriarchal-blessings) and [38.2.12.5](38-church-policies-and-guidelines.md#382125-sign-language-interpretation-of-patriarchal-blessings).
 
 #### 38.2.1.3 Records of Ordinances
 
@@ -69,7 +69,7 @@ The complete date that the following ordinances were performed should be recorde
 
 #### 38.2.1.4 Performing an Ordinance or Blessing in Another Ward
 
-For information about a priesthood holder acting as voice when performing an ordinance outside his home ward, see the instructions in [chapter 18](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng) for each ordinance and blessing.
+For information about a priesthood holder acting as voice when performing an ordinance outside his home ward, see the instructions in [chapter 18](18-priesthood-ordinances-and-blessings.md) for each ordinance and blessing.
 
 #### 38.2.1.5 Recording the Words of Ordinances and Blessings
 
@@ -83,13 +83,13 @@ No one should take photographs or video recordings of priesthood ordinances or b
 
 After a legal adoption is final, adopted children receive ordinances in the surname of their adoptive parents. An older child who is adopted after baptism is not baptized again. A clerk changes the membership record to conform to the decree of adoption.
 
-For information about the sealing of adopted or foster children, see [38.5.2.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number85-p265#title_number85).
+For information about the sealing of adopted or foster children, see [38.5.2.4](38-church-policies-and-guidelines.md#38524-adopted-or-foster-children-who-are-living).
 
 #### 38.2.1.8 Ordinances for Persons Who Have Intellectual Disabilities
 
 When considering whether to perform ordinances for a person who has an intellectual disability, priesthood leaders and parents prayerfully consider the person’s wishes and degree of understanding. Ordinances should not be withheld if the person is worthy, wants to receive them, and shows an appropriate degree of responsibility and accountability.
 
-The ordinances of salvation and exaltation are not performed for persons who have intellectual disabilities that make them not accountable and unable to make covenants with God. Nor are these ordinances performed for children who die before age eight. These persons are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](/study/scriptures/dc-testament/dc/137.10?lang=eng#p10); see also [Moroni 8:8–12](/study/scriptures/bofm/moro/8.8-12?lang=eng#p8)).
+The ordinances of salvation and exaltation are not performed for persons who have intellectual disabilities that make them not accountable and unable to make covenants with God. Nor are these ordinances performed for children who die before age eight. These persons are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.10?lang=eng#p10); see also [Moroni 8:8–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8.8-12?lang=eng#p8)).
 
 A bishop consults with his stake president if he has questions about specific persons. The stake president may direct questions to the Office of the First Presidency if necessary.
 
@@ -97,15 +97,15 @@ If leaders determine that a person should receive an ordinance, they help him or
 
 Information about individual ordinances for persons who have intellectual disabilities is provided as follows:
 
-* For baptism, see [38.2.3.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number28-p97#title_number28).
-* For priesthood ordination, see [38.2.5.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number43-p153#title_number43).
-* For patriarchal blessings, see the [fourth paragraph under 38.2.12.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number51-p173#title_number51).
-* For temple ordinances, see [26.3.5](/study/manual/general-handbook/26-temple-recommends?lang=eng¶=title_number17-p47#title_number17).
+* For baptism, see [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-who-may-not-be-accountable).
+* For priesthood ordination, see [38.2.5.4](38-church-policies-and-guidelines.md#38254-other-circumstances).
+* For patriarchal blessings, see the [fourth paragraph under 38.2.12.1](38-church-policies-and-guidelines.md#382121-general-guidelines).
+* For temple ordinances, see [26.3.5](26-temple-recommends.md#2635-members-who-have-disabilities).
 #### 38.2.1.9 Ordinances and Blessings Performed by and for Persons Who Have Physical Disabilities
 
 Persons who have physical disabilities, such as the loss of one or both arms, paraplegia, quadriplegia, deafness, or a hearing impairment, may perform and receive ordinances and blessings. Leaders make the necessary arrangements for these persons to participate in ways that their disabilities allow. If leaders have questions they cannot resolve, the stake president refers the questions to the Office of the First Presidency.
 
-Persons who are deaf or hearing impaired may communicate through sign language when performing or receiving an ordinance or blessing. A priesthood leader who oversees an ordinance ensures that the recipient can understand it through an interpreter or by other means (see [38.2.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number10-p21#title_number10)).
+Persons who are deaf or hearing impaired may communicate through sign language when performing or receiving an ordinance or blessing. A priesthood leader who oversees an ordinance ensures that the recipient can understand it through an interpreter or by other means (see [38.2.1.2](38-church-policies-and-guidelines.md#38212-translating-and-interpreting-ordinances-and-blessings)).
 
 #### 38.2.1.10 Procedure When an Ordinance Is Not Valid
 
@@ -133,7 +133,7 @@ _Records of Ordinances That Were Performed Again._ If an ordinance was performed
 
 ### 38.2.2 Naming and Blessing Children
 
-The following policies apply to naming and blessing children in special circumstances. See [18.6](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number8-p43#title_number8) for instructions on naming and blessing children.
+The following policies apply to naming and blessing children in special circumstances. See [18.6](18-priesthood-ordinances-and-blessings.md#186-naming-and-blessing-children) for instructions on naming and blessing children.
 
 #### 38.2.2.1 Children Who Were Born out of Wedlock
 
@@ -153,17 +153,17 @@ When one or both of a child’s custodial parents or legal guardians are not mem
 
 #### 38.2.3.1 Children Who Are Members of Record
 
-See [18.7](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number12-p88#title_number12) and [18.8](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number23-p106#title_number23).
+See [18.7](18-priesthood-ordinances-and-blessings.md#187-baptism) and [18.8](18-priesthood-ordinances-and-blessings.md#188-confirmation-and-gift-of-the-holy-ghost).
 
 #### 38.2.3.2 Converts
 
-The mission president holds the priesthood keys for baptizing converts in a mission (see the definition of converts in [18.7.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number13-p54#title_number13)). Under his direction, a full-time missionary conducts a baptism and confirmation interview for each candidate and authorizes the ordinances to take place. The mission president also oversees the recording of the ordinances by the mission staff so that a membership record can be created.
+The mission president holds the priesthood keys for baptizing converts in a mission (see the definition of converts in [18.7.1](18-priesthood-ordinances-and-blessings.md#1871-approval-for-a-person-to-be-baptized-and-confirmed)). Under his direction, a full-time missionary conducts a baptism and confirmation interview for each candidate and authorizes the ordinances to take place. The mission president also oversees the recording of the ordinances by the mission staff so that a membership record can be created.
 
 The full-time missionaries coordinate closely with the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward. Under the direction of the bishopric, this person plans and conducts baptismal services.
 
 Converts are typically confirmed in any sacrament meeting in the ward where they live, preferably on the Sunday after their baptism. The bishop may grant exceptions for a convert to be confirmed at the baptismal service, for example if the number of confirmations would require too much time in sacrament meeting or to accommodate personal or family needs of the new convert.
 
-Former members who are readmitted by baptism and confirmation after withdrawal or resignation of membership are not considered converts. Missionaries may not interview them for baptism. For information about readmitting former members by baptism and confirmation, see [32.16](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number90-p428#title_number90).
+Former members who are readmitted by baptism and confirmation after withdrawal or resignation of membership are not considered converts. Missionaries may not interview them for baptism. For information about readmitting former members by baptism and confirmation, see [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church).
 
 #### 38.2.3.3 Baptism and Confirmation Interviews
 
@@ -176,9 +176,9 @@ _Eight-Year-Old Children._ The bishop or an assigned counselor conducts intervie
 
 The full-time missionaries teach and interview 8-year-old children whose parents are not members and children who will be 9 years old or older at the time of baptism.
 
-A bishopric member who interviews a child for baptism ensures that he or she understands the purposes of baptism. He also ensures that each child understands the baptismal covenant and is committed to live by it. As guided by the Spirit, he could ask questions similar to the first two that are asked in convert baptism interviews (see “[Convert Baptism Interviews](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=81-p92#p81)” later in this section). In asking other questions, the interviewer should bear in mind that children are accounted as sinless before God until the age of 8.
+A bishopric member who interviews a child for baptism ensures that he or she understands the purposes of baptism. He also ensures that each child understands the baptismal covenant and is committed to live by it. As guided by the Spirit, he could ask questions similar to the first two that are asked in convert baptism interviews (see “[Convert Baptism Interviews](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=81-p92#p81)” later in this section). In asking other questions, the interviewer should bear in mind that children are accounted as sinless before God until the age of 8.
 
-_Converts._ The full-time missionary district leader normally interviews convert baptism candidates (as defined in [38.2.3.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number25-p65#title_number25)). The zone leader conducts the interview if the person was taught by the district leader. Missionaries are authorized to conduct these interviews by delegation of authority from the mission president.
+_Converts._ The full-time missionary district leader normally interviews convert baptism candidates (as defined in [38.2.3.2](38-church-policies-and-guidelines.md#38232-converts)). The zone leader conducts the interview if the person was taught by the district leader. Missionaries are authorized to conduct these interviews by delegation of authority from the mission president.
 
 Each prospective convert should meet with the bishop before baptism and confirmation. However, the bishop does not interview such candidates for baptism, nor does he determine their worthiness.
 
@@ -188,17 +188,17 @@ If necessary, the mission president may authorize one of his counselors to condu
 
 The mission president must conduct an interview and receive approval from the First Presidency before a prospective convert may be baptized and confirmed if the person:
 
-* Has committed murder (see [38.2.3.13](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number36-p109#title_number36)).
-* Has been involved in the practice of plural marriage (see [38.2.3.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number31-p102#title_number31)).
-* Has completed transition to the opposite gender of his or her birth sex (see [38.2.3.14](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number37-p112#title_number37)).
-* Is currently on legal probation or parole (see [38.2.3.13](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number36-p109#title_number36)).
+* Has committed murder (see [38.2.3.13](38-church-policies-and-guidelines.md#382313-persons-who-have-been-convicted-of-crimes)).
+* Has been involved in the practice of plural marriage (see [38.2.3.8](38-church-policies-and-guidelines.md#38238-adults-involved-in-plural-marriage)).
+* Has completed transition to the opposite gender of his or her birth sex (see [38.2.3.14](38-church-policies-and-guidelines.md#382314-persons-who-identify-as-transgender)).
+* Is currently on legal probation or parole (see [38.2.3.13](38-church-policies-and-guidelines.md#382313-persons-who-have-been-convicted-of-crimes)).
 
-_Convert Baptism Interviews._ The person who conducts a convert baptism and confirmation interview uses the following questions, with the guidance of the Spirit, to determine whether the candidate meets the qualifications described in [Doctrine and Covenants 20:37](/study/scriptures/dc-testament/dc/20.37?lang=eng#p37) (see also [Mosiah 18:8–10](/study/scriptures/bofm/mosiah/18.8-10?lang=eng#p8); [Moroni 6:1–4](/study/scriptures/bofm/moro/6.1-4?lang=eng#p1)). These questions should be adapted to the person’s age and maturity.
+_Convert Baptism Interviews._ The person who conducts a convert baptism and confirmation interview uses the following questions, with the guidance of the Spirit, to determine whether the candidate meets the qualifications described in [Doctrine and Covenants 20:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.37?lang=eng#p37) (see also [Mosiah 18:8–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.8-10?lang=eng#p8); [Moroni 6:1–4](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.1-4?lang=eng#p1)). These questions should be adapted to the person’s age and maturity.
 
 1. Do you believe that God is our Eternal Father? Do you believe that Jesus Christ is the Son of God and the Savior and Redeemer of the world?
 2. Do you believe that the Church and gospel of Jesus Christ have been restored through the Prophet Joseph Smith? Do you believe that [current Church President] is a prophet of God? What does this mean to you?
 3. What does it mean to you to repent? Do you feel that you have repented of your past sins?
-4. Have you ever committed a serious crime? If so, are you now on probation or parole? (For instructions if the person answers affirmatively, see [38.2.3.13](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number36-p109#title_number36).) Have you ever participated in an abortion? Have you ever committed a same-sex sin?
+4. Have you ever committed a serious crime? If so, are you now on probation or parole? (For instructions if the person answers affirmatively, see [38.2.3.13](38-church-policies-and-guidelines.md#382313-persons-who-have-been-convicted-of-crimes).) Have you ever participated in an abortion? Have you ever committed a same-sex sin?
 5. You have been taught that membership in The Church of Jesus Christ of Latter-day Saints includes living gospel standards. What do you understand about the following standards? Are you willing to obey them?
 
 	1. The law of chastity, which prohibits any sexual relations outside the bonds of a legal marriage between a man and a woman
@@ -207,21 +207,21 @@ _Convert Baptism Interviews._ The person who conducts a convert baptism and conf
 	4. Keeping the Sabbath day holy, including partaking of the sacrament weekly and rendering service to others
 6. When you are baptized, you covenant with God that you are willing to take upon yourself the name of Christ and keep His commandments throughout your life. Are you ready to make this covenant and strive to be faithful to it?
 
-After determining that a candidate is prepared for baptism, the interviewer fills out the Baptism and Confirmation Record according to instructions with the form. After a person is confirmed, the bishop and ward clerk ensure that the confirmation information is complete and correct. For more information about the Baptism and Confirmation Record, see [18.8.3](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number26-p106#title_number26).
+After determining that a candidate is prepared for baptism, the interviewer fills out the Baptism and Confirmation Record according to instructions with the form. After a person is confirmed, the bishop and ward clerk ensure that the confirmation information is complete and correct. For more information about the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
 #### 38.2.3.4 Baptismal Services and Baptism and Confirmation Guidelines
 
-For guidelines on baptismal services, see [18.7.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number16-p71#title_number16).
+For guidelines on baptismal services, see [18.7.2](18-priesthood-ordinances-and-blessings.md#1872-baptismal-services).
 
-For guidelines on baptism and confirmation, see [18.7](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number12-p88#title_number12) and [18.8](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number23-p106#title_number23).
+For guidelines on baptism and confirmation, see [18.7](18-priesthood-ordinances-and-blessings.md#187-baptism) and [18.8](18-priesthood-ordinances-and-blessings.md#188-confirmation-and-gift-of-the-holy-ghost).
 
 #### 38.2.3.5 Persons Who May Not Be Accountable
 
-Persons who have intellectual disabilities and cannot knowingly repent may be considered by the bishop as not accountable. These persons do not need to be baptized and confirmed, regardless of their age (see [38.2.1.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number16-p39#title_number16)).
+Persons who have intellectual disabilities and cannot knowingly repent may be considered by the bishop as not accountable. These persons do not need to be baptized and confirmed, regardless of their age (see [38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities)).
 
 If a person later demonstrates an understanding of repentance and an appropriate degree of accountability and desire, he or she may be baptized and confirmed. If a person was baptized but later becomes intellectually disabled, the baptism and confirmation are still valid.
 
-For additional guidelines, see [38.2.1.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number16-p39#title_number16). For information about the membership records of persons who may not be accountable, see [33.6.10](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number29-p129#title_number29).
+For additional guidelines, see [38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities). For information about the membership records of persons who may not be accountable, see [33.6.10](33-records-and-reports.md#33610-records-of-members-who-have-intellectual-disabilities).
 
 #### 38.2.3.6 Minors
 
@@ -247,11 +247,11 @@ A baptismal candidate who has been cohabiting out of wedlock with a person of th
 
 #### 38.2.3.11 Persons Whose Church Membership Has Been Withdrawn or Who Resigned Membership
 
-Persons whose Church membership has been withdrawn or who resigned membership may be readmitted into the Church by baptism and confirmation. Instructions are provided in [32.16](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number90-p429#title_number90).
+Persons whose Church membership has been withdrawn or who resigned membership may be readmitted into the Church by baptism and confirmation. Instructions are provided in [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church).
 
 #### 38.2.3.12 Persons Who Have Been Involved in an Abortion
 
-See “Converts” in [38.2.3.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number26-p92#title_number26).
+See “Converts” in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews).
 
 #### 38.2.3.13 Persons Who Have Been Convicted of Crimes
 
@@ -263,7 +263,7 @@ A person who has been convicted of murder or who has confessed to it, even in pr
 
 #### 38.2.3.14 Persons Who Identify as Transgender
 
-Mission presidents should counsel with the Area Presidency (see [38.6.21](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p413#title_number118)).
+Mission presidents should counsel with the Area Presidency (see [38.6.21](38-church-policies-and-guidelines.md#38621-transgender-individuals)).
 
 A person who is considering elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of his or her birth sex (“sex reassignment”) may not be baptized or confirmed.
 
@@ -271,7 +271,7 @@ Baptism and confirmation of a person who has completed sex reassignment through 
 
 ### 38.2.4 The Sacrament
 
-See [18.9](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number27-p132#title_number27).
+See [18.9](18-priesthood-ordinances-and-blessings.md#189-the-sacrament).
 
 ### 38.2.5 Conferring the Priesthood and Ordaining to an Office
 
@@ -281,9 +281,9 @@ _Stake President’s and Bishop’s Responsibilities._ The stake president holds
 
 With the approval of the stake presidency, the bishop interviews the member as instructed on the Melchizedek Priesthood Ordination Record. Before doing so, he carefully reviews the person’s membership record to verify that it does not include an annotation, an ordinance restriction, or a Church membership restriction.
 
-After the bishop interviews the member, the stake president or one of his counselors conducts a thorough, searching interview as instructed on the Melchizedek Priesthood Ordination Record. He also makes sure the member understands the oath and covenant of the priesthood and agrees to live by it (see [Doctrine and Covenants 84:33–44](/study/scriptures/dc-testament/dc/84.33-44?lang=eng#p33)).
+After the bishop interviews the member, the stake president or one of his counselors conducts a thorough, searching interview as instructed on the Melchizedek Priesthood Ordination Record. He also makes sure the member understands the oath and covenant of the priesthood and agrees to live by it (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.33-44?lang=eng#p33)).
 
-After the interview, the stake presidency asks the high council to sustain the decision to ordain the person. A member of the stake presidency then presents the person for a sustaining vote in the general session of stake conference or in a stake general priesthood meeting (see [Doctrine and Covenants 20:65, 67](/study/scriptures/dc-testament/dc/20.65,67?lang=eng#p65)). The person should stand while the congregation gives a sustaining vote. The member of the stake presidency may say:
+After the interview, the stake presidency asks the high council to sustain the decision to ordain the person. A member of the stake presidency then presents the person for a sustaining vote in the general session of stake conference or in a stake general priesthood meeting (see [Doctrine and Covenants 20:65, 67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.65,67?lang=eng#p65)). The person should stand while the congregation gives a sustaining vote. The member of the stake presidency may say:
 
 “We propose that [name] receive the Melchizedek Priesthood and be ordained an elder [or we propose that (name) be ordained a high priest]. Those in favor may manifest it by the uplifted hand. [Pause briefly for the sustaining vote.] Those opposed, if any, may manifest it. [Pause briefly to allow for a dissenting vote, if any.]”
 
@@ -293,13 +293,13 @@ If a member in good standing gives a dissenting vote, a member of the stake pres
 
 Some brethren may need to be ordained before they can be presented in a general stake meeting. When this occurs, they are presented in their ward sacrament meetings for a sustaining vote. Their names are then presented in the next stake conference or stake general priesthood meeting to ratify the ordination.
 
-When the necessary interviews and approvals are completed, the ordination is performed according to the instructions in [18.10](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number32-p160#title_number32).
+When the necessary interviews and approvals are completed, the ordination is performed according to the instructions in [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office).
 
 _Elders._ Worthy brethren may receive the Melchizedek Priesthood and be ordained elders when they are 18 years old or older. Based on individual circumstances, such as a young man’s testimony and maturity, school graduation, desire to continue with peers, and college attendance, the bishop determines whether a young man should be ordained an elder soon after his 18th birthday or remain with the priests quorum longer. In making this decision, the bishop consults first with the young man and his parents. By age 19 or prior to leaving home to attend college, serve in the military, or accept full-time employment, all worthy men should be ordained elders.
 
 Recently baptized men ages 18 and older are ordained elders after they have served as priests, developed sufficient understanding of the gospel, and demonstrated their worthiness. No specific time as a member is required.
 
-_High Priests._ Men are ordained high priests when they are called to a stake presidency, high council, or bishopric or when otherwise recommended by the bishop and approved by the stake president. As an exception, bishops’ counselors in wards that are in young single adult stakes do not need to be ordained high priests (see in [37.3.2](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number10-p46#title_number10)). When such counselors are elders, they are not members of the high priests quorum.
+_High Priests._ Men are ordained high priests when they are called to a stake presidency, high council, or bishopric or when otherwise recommended by the bishop and approved by the stake president. As an exception, bishops’ counselors in wards that are in young single adult stakes do not need to be ordained high priests (see in [37.3.2](37-specialized-stakes-wards-and-branches.md#3732-leadership-in-a-young-single-adult-stake-and-its-wards-or-branches)). When such counselors are elders, they are not members of the high priests quorum.
 
 Only high priests may stand in the circle when ordaining a man to the office of high priest.
 
@@ -313,9 +313,9 @@ _Bishop’s Responsibility._ The bishop holds the priesthood keys for conferring
 
 The bishop or an assigned counselor interviews those who are to be ordained deacons or teachers to determine if they are worthy. The bishop interviews those who are to be ordained priests. Before interviewing a young man for priesthood ordination, a member of the bishopric obtains permission from the young man’s parents or guardians.
 
-If a member is found worthy in an interview, the person who conducts the interview completes the Aaronic Priesthood Ordination Record. The bishop or one of his counselors presents the member in sacrament meeting for the sustaining vote of members (see [Doctrine and Covenants 20:65](/study/scriptures/dc-testament/dc/20.65?lang=eng#p65)). This should follow the pattern for presenting men for Melchizedek Priesthood ordination (see [38.2.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number40-p126#title_number40)). If a member in good standing gives a dissenting vote, a member of the bishopric confers with him or her privately after the meeting.
+If a member is found worthy in an interview, the person who conducts the interview completes the Aaronic Priesthood Ordination Record. The bishop or one of his counselors presents the member in sacrament meeting for the sustaining vote of members (see [Doctrine and Covenants 20:65](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.65?lang=eng#p65)). This should follow the pattern for presenting men for Melchizedek Priesthood ordination (see [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices)). If a member in good standing gives a dissenting vote, a member of the bishopric confers with him or her privately after the meeting.
 
-After the sustaining vote, the ordination is performed by or under the direction of the bishop according to the instructions in [18.10](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number32-p160#title_number32).
+After the sustaining vote, the ordination is performed by or under the direction of the bishop according to the instructions in [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office).
 
 _Young Men Whose Parents Are Divorced._ A young man whose parents are divorced may be ordained to Aaronic Priesthood offices only with the permission of the parent(s) with legal custody. If the mother has custody and has remarried and if the young man is not formally adopted but has assumed the surname of the stepfather, he may be ordained in the name by which he is known. However, the young man’s legal name, as defined by local law or custom, should be recorded on the ordination certificate.
 
@@ -325,7 +325,7 @@ _Those Who Have Been Recently Baptized and Confirmed._ Brethren who have recentl
 * Teacher, beginning in January of the year they turn 14
 * Priest, beginning in January of the year they turn 16
 
-Those ages 19 and older are also considered prospective elders (see [38.2.5.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number42-p144#title_number42)).
+Those ages 19 and older are also considered prospective elders (see [38.2.5.3](38-church-policies-and-guidelines.md#38253-prospective-elders)).
 
 Because brethren who have been recently baptized and confirmed need to be interviewed by the bishop and sustained by a vote of ward members before they are ordained to an Aaronic Priesthood office, they are not ordained on the day they are baptized or confirmed.
 
@@ -337,7 +337,7 @@ A prospective elder is a male Church member age 19 or older who does not hold t
 
 The bishop interviews prospective elders regularly and works closely with other priesthood leaders in the ward to prepare them to receive the Melchizedek Priesthood. If a prospective elder is not already a priest, he should be ordained a priest as soon as he is worthy. He does not need to be ordained a deacon or teacher first. He may be ordained an elder when he has developed sufficient understanding of the gospel and demonstrated his worthiness.
 
-For more information about prospective elders, see [8.6](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number19-p100#title_number19).
+For more information about prospective elders, see [8.6](8-elders-quorum.md#86-prospective-elders).
 
 #### 38.2.5.4 Other Circumstances
 
@@ -349,51 +349,51 @@ _Those in Young Single Adult Wards and Single Adult Wards._ Worthy men ages 18 
 
 _Military Servicemen in War Zones or Isolated Areas._ A military serviceman is normally interviewed and ordained in the ward that has his membership record. However, this may not be feasible if the serviceman is at sea for an extended time or is serving in a war zone or isolated area. In such cases, the serviceman meets with his service member group leader. If the group leader feels that the serviceman is ready to be ordained, he makes a written recommendation to the presiding officer of the Church unit that oversees the service member group. That presiding officer contacts the bishop of the serviceman’s home ward to determine if he has any concerns about worthiness.
 
-For ordination to Aaronic Priesthood offices, the presiding officer may authorize the group leader or a Latter-day Saint chaplain to interview the person and oversee the ordination. For ordination to the office of elder, the stake or mission president may authorize a Latter-day Saint chaplain to interview the person and oversee the ordination. All ordinations should be sustained or ratified as explained in [38.2.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number40-p126#title_number40) and [38.2.5.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number41-p141#title_number41).
+For ordination to Aaronic Priesthood offices, the presiding officer may authorize the group leader or a Latter-day Saint chaplain to interview the person and oversee the ordination. For ordination to the office of elder, the stake or mission president may authorize a Latter-day Saint chaplain to interview the person and oversee the ordination. All ordinations should be sustained or ratified as explained in [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices) and [38.2.5.2](38-church-policies-and-guidelines.md#38252-aaronic-priesthood-offices).
 
 _Those Who Have Intellectual Disabilities._ Priesthood leaders decide whether those who have intellectual disabilities should receive the priesthood. If the member lives with his parents, priesthood leaders consult with them. To be ordained, a member who has an intellectual disability should first demonstrate an appropriate degree of accountability and an understanding of responsibility. Priesthood holders who have such disabilities should be assisted so they can participate as fully as possible.
 
-_Those Who Have Been Readmitted by Baptism and Confirmation._ For instructions about ordaining those who have been readmitted by baptism and confirmation after withdrawal or resignation of membership, see [32.17](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number93-p443#title_number93).
+_Those Who Have Been Readmitted by Baptism and Confirmation._ For instructions about ordaining those who have been readmitted by baptism and confirmation after withdrawal or resignation of membership, see [32.17](32-repentance-and-membership-councils.md#3217-church-activity-ordination-and-restoration-of-blessings-after-readmission).
 
-_Members Who Identify as Transgender._ A member who has received elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of his or her birth sex (“sex reassignment”), or who has socially transitioned to the opposite gender of his or her birth sex, may not receive or exercise the priesthood. Area Presidencies will help local leaders sensitively address individual situations (see [38.6.21](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p413#title_number118)).
+_Members Who Identify as Transgender._ A member who has received elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of his or her birth sex (“sex reassignment”), or who has socially transitioned to the opposite gender of his or her birth sex, may not receive or exercise the priesthood. Area Presidencies will help local leaders sensitively address individual situations (see [38.6.21](38-church-policies-and-guidelines.md#38621-transgender-individuals)).
 
 A male member who experiences gender incongruence, but who does not pursue medical, surgical, or social transition to the opposite gender of his birth sex and is worthy, may receive and exercise the priesthood.
 
 ### 38.2.6 Setting Apart Officers and Teachers
 
-See [18.11](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number36-p174#title_number36).
+See [18.11](18-priesthood-ordinances-and-blessings.md#1811-setting-apart-members-to-serve-in-callings).
 
 ### 38.2.7 Consecrating Oil
 
-See [18.12](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number39-p183#title_number39).
+See [18.12](18-priesthood-ordinances-and-blessings.md#1812-consecrating-oil).
 
 ### 38.2.8 Administering to the Sick
 
-See [18.13](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number42-p201#title_number42).
+See [18.13](18-priesthood-ordinances-and-blessings.md#1813-administering-to-the-sick).
 
 ### 38.2.9 Blessings of Comfort and Counsel, Including Father’s Blessings
 
-See [18.14](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number45-p209#title_number45).
+See [18.14](18-priesthood-ordinances-and-blessings.md#1814-blessings-of-comfort-and-counsel-including-fathers-blessings).
 
 ### 38.2.10 Dedicating Homes
 
-See [18.15](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number48-p218#title_number48).
+See [18.15](18-priesthood-ordinances-and-blessings.md#1815-dedicating-homes).
 
 ### 38.2.11 Dedicating Graves
 
-See [18.16](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number51-p229#title_number51).
+See [18.16](18-priesthood-ordinances-and-blessings.md#1816-dedicating-graves).
 
 ### 38.2.12 Patriarchal Blessings
 
 Information about patriarchal blessings is provided in the following paragraphs and in these additional sources:
 
-* Sections [18.17](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number54-p240#title_number54) and [38.9](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number195-p713#title_number195) in this handbook
+* Sections [18.17](18-priesthood-ordinances-and-blessings.md#1817-patriarchal-blessings) and [38.9](38-church-policies-and-guidelines.md#389-stake-patriarch) in this handbook
 * Information and Suggestions for Patriarchs
 * Worldwide Leadership Training Meeting: The Patriarch
 
 #### 38.2.12.1 General Guidelines
 
-Every worthy, baptized member is entitled to receive a patriarchal blessing, which provides inspired direction from Heavenly Father. Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings. The bishop or an assigned counselor interviews members who desire to receive a patriarchal blessing. If a member is worthy, the interviewer prepares a Patriarchal Blessing Recommend. He submits it through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest/) on ChurchofJesusChrist.org. If the blessing will be given by a patriarch who lives outside the person’s stake, a member of both stake presidencies must also approve the recommend through the Patriarchal Blessing System. Such authorization may be given only as outlined in [38.2.12.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number52-p178#title_number52).
+Every worthy, baptized member is entitled to receive a patriarchal blessing, which provides inspired direction from Heavenly Father. Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings. The bishop or an assigned counselor interviews members who desire to receive a patriarchal blessing. If a member is worthy, the interviewer prepares a Patriarchal Blessing Recommend. He submits it through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest/) on ChurchofJesusChrist.org. If the blessing will be given by a patriarch who lives outside the person’s stake, a member of both stake presidencies must also approve the recommend through the Patriarchal Blessing System. Such authorization may be given only as outlined in [38.2.12.2](38-church-policies-and-guidelines.md#382122-giving-patriarchal-blessings-to-members-outside-the-stake).
 
 The person who issues a Patriarchal Blessing Recommend ensures that the member is of sufficient age and maturity to understand the significance and sacred nature of the blessing. Ideally the member should be young enough that many important decisions in life are still ahead, though older adults are also encouraged to receive their patriarchal blessings. Priesthood leaders should not establish a minimum age for a member to receive a patriarchal blessing.
 
@@ -442,7 +442,7 @@ If the request is approved, the stake president informs the recipient and the pa
 
 #### 38.2.12.7 Obtaining Copies of Patriarchal Blessings
 
-See [18.17.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number56-p239#title_number56).
+See [18.17.2](18-priesthood-ordinances-and-blessings.md#18172-obtaining-copies-of-patriarchal-blessings).
 
 ### 38.2.13 Chart of Ordinations
 
@@ -481,7 +481,7 @@ Retired chaplains are not authorized to perform civil marriages in their capacit
 
 Those who perform marriages acting in their callings as Church leaders or endorsed chaplains should use the guidelines in this section and follow all legal requirements.
 
-Latter-day Saint chaplains are not considered presiding Church officers unless they are serving as a stake president, bishop, or branch president. When a chaplain who is not a presiding Church officer performs a civil marriage, he or she functions as an agent of the government or civilian organization he or she serves. Thus, the wording of the civil marriage ceremony is changed slightly for these chaplains (see [38.3.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number65-p215#title_number65)).
+Latter-day Saint chaplains are not considered presiding Church officers unless they are serving as a stake president, bishop, or branch president. When a chaplain who is not a presiding Church officer performs a civil marriage, he or she functions as an agent of the government or civilian organization he or she serves. Thus, the wording of the civil marriage ceremony is changed slightly for these chaplains (see [38.3.6](38-church-policies-and-guidelines.md#3836-civil-marriage-ceremony)).
 
 Church officers and Latter-day Saint chaplains are not to use their ecclesiastical authority to perform marriages between two people of the same sex.
 
@@ -499,7 +499,7 @@ Authorized Church officers may perform marriages for nonmembers without receivin
 
 ### 38.3.4 Where to Perform Civil Marriages
 
-Civil marriages are preferably performed in the home of a family member or in a Church building. Marriages in a Church building may be performed in the chapel, the cultural hall, or another suitable room. If the marriage will be performed by a priesthood leader but not in a home or a Church building, the priesthood leader approves the location after consulting with the couple. See [35.4.22](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number41-p87#title_number41) for policies on using Church buildings for weddings.
+Civil marriages are preferably performed in the home of a family member or in a Church building. Marriages in a Church building may be performed in the chapel, the cultural hall, or another suitable room. If the marriage will be performed by a priesthood leader but not in a home or a Church building, the priesthood leader approves the location after consulting with the couple. See [35.4.22](https://www.churchofjesuschrist.org/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number41-p87#title_number41) for policies on using Church buildings for weddings.
 
 ### 38.3.5 Civil Marriages That Must Be Performed by a Public Official or in a Public Place
 
@@ -507,7 +507,7 @@ Some areas require that a marriage ceremony be performed by a public official. S
 
 ### 38.3.6 Civil Marriage Ceremony
 
-A civil marriage performed by a Church officer should be simple and dignified. For example, there should be no extravagance in the decorations or proceedings. When a wedding ceremony is held in a Church building, a wedding march is inappropriate. Video recorders and cameras may not be used if the ceremony is performed in the chapel (see [35.4.15](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number34-p76#title_number34)).
+A civil marriage performed by a Church officer should be simple and dignified. For example, there should be no extravagance in the decorations or proceedings. When a wedding ceremony is held in a Church building, a wedding march is inappropriate. Video recorders and cameras may not be used if the ceremony is performed in the chapel (see [35.4.15](https://www.churchofjesuschrist.org/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number34-p76#title_number34)).
 
 Before performing a civil marriage, a Church officer may counsel the couple on the sacred nature of the marriage vows and may add other counsel as the Spirit directs.
 
@@ -535,11 +535,11 @@ A bishop should consult with his stake president if he has questions about issui
 
 ### 38.4.1 Members Who Have Been Readmitted by Baptism and Confirmation after Church Membership Withdrawal or Resignation
 
-_Members Who Were Not Previously Endowed._ After baptism and confirmation, these members may be issued limited-use recommends to do baptisms and confirmations for the dead as outlined in [26.4.2](/study/manual/general-handbook/26-temple-recommends?lang=eng¶=title_number26-p60#title_number26)﻿—usually within a week of being confirmed. Brethren must be ordained to an office in the priesthood before they may be issued limited-use recommends.
+_Members Who Were Not Previously Endowed._ After baptism and confirmation, these members may be issued limited-use recommends to do baptisms and confirmations for the dead as outlined in [26.4.2](26-temple-recommends.md#2642-limited-use-recommends-for-baptisms-and-confirmations-for-the-dead)﻿—usually within a week of being confirmed. Brethren must be ordained to an office in the priesthood before they may be issued limited-use recommends.
 
 These members may not be issued recommends to receive their own endowment until one full year after the date of their readmission to the Church by baptism and confirmation.
 
-_Members Who Were Previously Endowed._ These members may not be issued recommends, including limited-use recommends, until their temple blessings are restored through the ordinance of restoration of blessings (see [32.17.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number95-p443#title_number95)).
+_Members Who Were Previously Endowed._ These members may not be issued recommends, including limited-use recommends, until their temple blessings are restored through the ordinance of restoration of blessings (see [32.17.2](32-repentance-and-membership-councils.md#32172-restoration-of-blessings)).
 
 ### 38.4.2 Members Who Have Committed a Serious Sin
 
@@ -547,7 +547,7 @@ A member who has committed a serious sin may not receive a temple recommend unti
 
 ### 38.4.3 Members Who Identify as Transgender
 
-A member who has received elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of his or her birth sex (“sex reassignment”), or who has socially transitioned to the opposite gender of his or her birth sex, may not receive a temple recommend. Area Presidencies will help local leaders sensitively address individual situations (see [38.6.21](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number118-p413#title_number118)).
+A member who has received elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of his or her birth sex (“sex reassignment”), or who has socially transitioned to the opposite gender of his or her birth sex, may not receive a temple recommend. Area Presidencies will help local leaders sensitively address individual situations (see [38.6.21](38-church-policies-and-guidelines.md#38621-transgender-individuals)).
 
 A member who does not pursue medical, surgical, or social transition to the opposite gender and is worthy may receive a temple recommend and temple ordinances.
 
@@ -577,11 +577,11 @@ When issuing recommends for a couple to be sealed, priesthood leaders make sure 
 
 #### 38.5.1.2 Sealing of Living Members after Divorce
 
-_Women._ A living woman may be sealed to only one husband. If she is sealed to a husband and later divorces him, she must receive a cancellation of that sealing from the First Presidency before she may be sealed to another man in her lifetime (see [38.5.1.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number76-p241#title_number76)).
+_Women._ A living woman may be sealed to only one husband. If she is sealed to a husband and later divorces him, she must receive a cancellation of that sealing from the First Presidency before she may be sealed to another man in her lifetime (see [38.5.1.4](38-church-policies-and-guidelines.md#38514-applying-for-a-cancellation-of-sealing-or-a-sealing-clearance)).
 
 A living woman who is not currently married may be sealed to a deceased husband, even if they were divorced in life. A living woman who is currently married may not be sealed to a deceased husband without First Presidency approval.
 
-_Men._ If a husband and wife have been sealed and later divorced, the man must receive a sealing clearance from the First Presidency before another woman may be sealed to him (see [38.5.1.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number76-p241#title_number76)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the divorced wife is now deceased.
+_Men._ If a husband and wife have been sealed and later divorced, the man must receive a sealing clearance from the First Presidency before another woman may be sealed to him (see [38.5.1.4](38-church-policies-and-guidelines.md#38514-applying-for-a-cancellation-of-sealing-or-a-sealing-clearance)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the divorced wife is now deceased.
 
 A sealing clearance is needed if a man is divorced from the woman who was most recently sealed to him. For example, if a man received a sealing clearance to be sealed to a second wife after a divorce and his second wife dies, he would not need a sealing clearance to be sealed again.
 
@@ -589,13 +589,13 @@ A sealing clearance is needed if a man is divorced from the woman who was most r
 
 _Women._ After a living woman has been sealed to a husband in the temple, she may not be sealed again unless she receives a cancellation of the first sealing.
 
-_Men._ If a husband and wife have been sealed and the wife dies, the man may have another woman sealed to him if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.5.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number74-p234#title_number74) for the policy in cases of divorce).
+_Men._ If a husband and wife have been sealed and the wife dies, the man may have another woman sealed to him if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.5.1.2](38-church-policies-and-guidelines.md#38512-sealing-of-living-members-after-divorce) for the policy in cases of divorce).
 
 Before a living spouse can be sealed to a deceased spouse, he or she must receive signed consent from the deceased spouse’s widow or widower (if there is one).
 
 #### 38.5.1.4 Applying for a Cancellation of Sealing or a Sealing Clearance
 
-A woman who has previously been sealed must receive a cancellation of that sealing from the First Presidency before she may be sealed to another man in her lifetime. A man who has been divorced from a woman who was sealed to him must receive a sealing clearance from the First Presidency before another woman may be sealed to him (see [38.5.1.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number74-p234#title_number74)).
+A woman who has previously been sealed must receive a cancellation of that sealing from the First Presidency before she may be sealed to another man in her lifetime. A man who has been divorced from a woman who was sealed to him must receive a sealing clearance from the First Presidency before another woman may be sealed to him (see [38.5.1.2](38-church-policies-and-guidelines.md#38512-sealing-of-living-members-after-divorce)).
 
 When the bishop and stake president recommend that a cancellation of sealing or a sealing clearance be granted, they submit an application to the First Presidency using the Leader and Clerk Resources system. Leaders who do not have access to the Leader and Clerk Resources tool may obtain an Application to the First Presidency form by contacting the Confidential Records Office at Church headquarters. Leaders should not contact the Office of the First Presidency to obtain a copy. Instructions are on the form.
 
@@ -619,13 +619,13 @@ _Deceased Women._ A deceased woman may be sealed to all men to whom she was lega
 
 _Deceased Men._ A deceased man may have sealed to him all women to whom he was legally married during his life if they are deceased or if they are living and are not sealed to another man.
 
-_Deceased Couples Who Were Divorced._ Deceased couples who were divorced may be sealed by proxy. These sealings often provide the only way for children of such couples to be sealed to parents. See [28.3.8](/study/manual/general-handbook/28-temple-ordinances-for-ancestors?lang=eng¶=title_number12-p20#title_number12) for a restriction if either the husband or wife had Church membership withdrawn or had resigned membership at the time of death. First Presidency approval is required for the sealing of a deceased couple who obtained a cancellation of their sealing in life.
+_Deceased Couples Who Were Divorced._ Deceased couples who were divorced may be sealed by proxy. These sealings often provide the only way for children of such couples to be sealed to parents. See [28.3.8](https://www.churchofjesuschrist.org/study/manual/general-handbook/28-temple-ordinances-for-ancestors?lang=eng¶=title_number12-p20#title_number12) for a restriction if either the husband or wife had Church membership withdrawn or had resigned membership at the time of death. First Presidency approval is required for the sealing of a deceased couple who obtained a cancellation of their sealing in life.
 
 #### 38.5.1.8 Effects of Withdrawal of Membership or Resignation
 
 After a husband and wife have been sealed in a temple, if Church membership is withdrawn from one of them or if one of them has resigned membership, his or her temple blessings are revoked. However, personal blessings of the sealing for the spouse and children remain in force if they remain worthy.
 
-Children who are born to a couple after one or the other has had Church membership withdrawn or has resigned membership are not born in the covenant. See [38.5.2.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number89-p276#title_number89).
+Children who are born to a couple after one or the other has had Church membership withdrawn or has resigned membership are not born in the covenant. See [38.5.2.8](38-church-policies-and-guidelines.md#38528-status-of-children-when-a-sealing-is-canceled-or-revoked).
 
 ### 38.5.2 Sealing Children to Parents
 
@@ -701,7 +701,7 @@ _Note:_ Some content in this section may undergo future revision.
 
 ### 38.6.1 Abortion
 
-The Lord commanded, “Thou shalt not … kill, nor do anything like unto it” ([Doctrine and Covenants 59:6](/study/scriptures/dc-testament/dc/59.6?lang=eng#p6)). The Church opposes elective abortion for personal or social convenience. Members must not submit to, perform, arrange for, pay for, consent to, or encourage an abortion. The only possible exceptions are when:
+The Lord commanded, “Thou shalt not … kill, nor do anything like unto it” ([Doctrine and Covenants 59:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59.6?lang=eng#p6)). The Church opposes elective abortion for personal or social convenience. Members must not submit to, perform, arrange for, pay for, consent to, or encourage an abortion. The only possible exceptions are when:
 
 * Pregnancy resulted from forcible rape or incest.
 * A competent physician determines that the life or health of the mother is in serious jeopardy.
@@ -709,7 +709,7 @@ The Lord commanded, “Thou shalt not … kill, nor do anything like unto it” 
 
 Even these exceptions do not automatically justify abortion. Abortion is a most serious matter and should be considered only after the persons responsible have consulted with their bishops and received divine confirmation through prayer.
 
-Presiding officers carefully review the circumstances if a Church member has been involved in an abortion. A membership council may be necessary if a member submits to, performs, arranges for, pays for, consents to, or encourages an abortion (see [32.6.2.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number29-figure4#title_number29)). However, a membership council should not be considered if a member was involved in an abortion before baptism. Nor should membership councils or restrictions be considered for members who were involved in an abortion for any of the three reasons outlined earlier in this section.
+Presiding officers carefully review the circumstances if a Church member has been involved in an abortion. A membership council may be necessary if a member submits to, performs, arranges for, pays for, consents to, or encourages an abortion (see [32.6.2.5](32-repentance-and-membership-councils.md#32625-some-other-acts)). However, a membership council should not be considered if a member was involved in an abortion before baptism. Nor should membership councils or restrictions be considered for members who were involved in an abortion for any of the three reasons outlined earlier in this section.
 
 Bishops refer questions on specific cases to the stake president. The stake president may direct questions to the Office of the First Presidency if necessary.
 
@@ -744,23 +744,23 @@ Bishops and stake presidents should call the help line when addressing situation
 * Help protect potential victims.
 * Comply with legal requirements for reporting abuse.
 
-The Church is committed to complying with the law in reporting abuse (see [38.6.2.7](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number99-p323#title_number99)). Laws differ by location, and most Church leaders are not legal experts. Calling the help line is essential for bishops and stake presidents to fulfill their responsibilities to report abuse.
+The Church is committed to complying with the law in reporting abuse (see [38.6.2.7](38-church-policies-and-guidelines.md#38627-legal-issues-relating-to-abuse)). Laws differ by location, and most Church leaders are not legal experts. Calling the help line is essential for bishops and stake presidents to fulfill their responsibilities to report abuse.
 
 A bishop should also notify his stake president of instances of abuse.
 
 In countries that do not have a help line, a bishop who learns of abuse should contact his stake president. He will seek guidance from the area legal counsel at the area office.
 
-For information about professional counseling in cases of abuse, see [38.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94).
+For information about professional counseling in cases of abuse, see [38.6.2.2](38-church-policies-and-guidelines.md#38622-counseling-in-cases-of-abuse).
 
 #### 38.6.2.2 Counseling in Cases of Abuse
 
 Stake presidents and bishops make every effort to counsel those who have been involved in abuse. Victims of abuse often suffer serious trauma and feelings of guilt. These victims are not guilty of sin. Leaders should be sensitive to them and give caring counsel and support to help them overcome the destructive effects of abuse. Leaders also give assurances of God’s love.
 
-Stake presidents and bishops should help those who have committed abuse to repent and to cease their abusive behavior. If an adult has committed a sexual sin against a child, the behavior may be very difficult to change. The process of repentance may be very prolonged. See [38.6.2.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number95-p309#title_number95).
+Stake presidents and bishops should help those who have committed abuse to repent and to cease their abusive behavior. If an adult has committed a sexual sin against a child, the behavior may be very difficult to change. The process of repentance may be very prolonged. See [38.6.2.3](38-church-policies-and-guidelines.md#38623-child-or-youth-abuse).
 
 Stake presidents and bishops should also be caring and sensitive when working with the families of victims and perpetrators of abuse.
 
-Guidance for counseling victims and offenders is provided at [Abuse: How to Help](/study/manual/abuse-how-to-help?lang=eng).
+Guidance for counseling victims and offenders is provided at [Abuse: How to Help](https://www.churchofjesuschrist.org/study/manual/abuse-how-to-help?lang=eng).
 
 In addition to the inspired help of Church leaders, professional counseling may be needed for victims, offenders, and their families. In the United States and Canada, leaders may contact a Family Services office for assistance. Information about the nearest office is provided in the Church Directory Online (CDOL). Leaders can also obtain this information by calling:
 
@@ -770,22 +770,22 @@ In addition to the inspired help of Church leaders, professional counseling may 
 
 In other areas, leaders may contact the Family Services specialist or the welfare self-reliance manager through the area office.
 
-For information about what bishops and stake presidents should do when they learn of any type of abuse, see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p2294#title_number93).
+For information about what bishops and stake presidents should do when they learn of any type of abuse, see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line).
 
 See also [FamilyServices.ChurchofJesusChrist.org](https://FamilyServices.ChurchofJesusChrist.org).
 
 #### 38.6.2.3 Child or Youth Abuse
 
-Abuse of a child or youth is an especially serious sin (see [Luke 17:2](/study/scriptures/nt/luke/17.2?lang=eng#p2)). As used here, _child or youth abuse_ includes the following:
+Abuse of a child or youth is an especially serious sin (see [Luke 17:2](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/17.2?lang=eng#p2)). As used here, _child or youth abuse_ includes the following:
 
 * _Physical abuse:_ Inflicting serious bodily harm by physical violence. Some harm may not be visible.
 * _Sexual abuse or exploitation:_ Having any sexual activity with a child or youth or intentionally allowing or helping others to have such activity. As used here, sexual abuse does not include consensual sexual activity between two minors who are close in age.
 * _Emotional abuse:_ Using actions and words to seriously damage a child or youth’s sense of self-respect or self-worth. This usually involves repeated and continuing insults, manipulations, and criticisms that humiliate and belittle. It may also include gross neglect.
-* _Child pornography:_ See [38.6.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number103-p339#title_number103).
+* _Child pornography:_ See [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography).
 
-If a bishop or stake president learns of or suspects child or youth abuse, he promptly follows the instructions in [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93). He also takes action to help protect against further abuse. If a minor abuses a child, the stake president contacts the Office of the First Presidency for direction.
+If a bishop or stake president learns of or suspects child or youth abuse, he promptly follows the instructions in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line). He also takes action to help protect against further abuse. If a minor abuses a child, the stake president contacts the Office of the First Presidency for direction.
 
-A Church membership council and record annotation are required if an adult member abuses a child or youth as described in this section. See also [32.6.1.1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number19-p98#title_number19) and [38.6.2.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number97-p319#title_number97).
+A Church membership council and record annotation are required if an adult member abuses a child or youth as described in this section. See also [32.6.1.1](32-repentance-and-membership-councils.md#32611-violent-acts-and-abuse) and [38.6.2.5](38-church-policies-and-guidelines.md#38625-church-callings-temple-recommends-and-membership-record-annotations).
 
 Physical or emotional bullying between children or youth of a similar age should be addressed by ward leaders. A membership council is not held.
 
@@ -795,29 +795,29 @@ Abuse of a spouse or another adult can occur in many ways. These include physica
 
 Often there is not a single definition of abuse that can be applied in all situations. Instead, there is a spectrum of severity in abusive behavior. This spectrum ranges from occasionally using sharp words to inflicting serious harm.
 
-If a bishop or stake president learns of abuse of a spouse or another adult, he promptly follows the instructions in [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93). He also takes action to help protect against further abuse.
+If a bishop or stake president learns of abuse of a spouse or another adult, he promptly follows the instructions in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line). He also takes action to help protect against further abuse.
 
 Leaders seek the direction of the Spirit to determine whether personal counseling or a membership council is the most appropriate setting to address abuse. They may also counsel with their direct priesthood leader about the setting. However, any abuse of a spouse or another adult that rises to the levels described below requires holding a membership council.
 
 * _Physical abuse:_ Inflicting serious bodily harm by physical violence. Some harm may not be visible.
-* _Sexual abuse:_ See the situations specified in [38.6.15](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number112-p388#title_number112).
+* _Sexual abuse:_ See the situations specified in [38.6.15](38-church-policies-and-guidelines.md#38615-sexual-abuse).
 * _Emotional abuse:_ Using actions and words to seriously damage a person’s sense of self-respect or self-worth. This usually involves repeated and continuing insults, manipulations, and criticisms that humiliate and belittle.
-* _Financial abuse:_ Taking advantage of someone financially. This may include the illegal or unauthorized use of a person’s property, money, or other valuables. It may also include fraudulently obtaining financial power over someone. It could include using financial power to coerce behavior. See also [32.6.1.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number21-p103#title_number21).
+* _Financial abuse:_ Taking advantage of someone financially. This may include the illegal or unauthorized use of a person’s property, money, or other valuables. It may also include fraudulently obtaining financial power over someone. It could include using financial power to coerce behavior. See also [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts).
 #### 38.6.2.5 Church Callings, Temple Recommends, and Membership Record Annotations
 
 Members who have abused others should not be given Church callings and may not have a temple recommend until they have repented and Church membership restrictions have been removed.
 
-If a person abused a child or youth sexually or seriously abused a child or youth emotionally or physically, his or her membership record will be annotated. He or she must not be given any calling or assignment involving children or youth. This includes not being given a ministering assignment to a family with youth or children in the home. It also includes not having a youth as a ministering companion. These restrictions should remain in place unless the First Presidency authorizes removal of the annotation. See [32.14.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number84-p372#title_number84) for information about annotations.
+If a person abused a child or youth sexually or seriously abused a child or youth emotionally or physically, his or her membership record will be annotated. He or she must not be given any calling or assignment involving children or youth. This includes not being given a ministering assignment to a family with youth or children in the home. It also includes not having a youth as a ministering companion. These restrictions should remain in place unless the First Presidency authorizes removal of the annotation. See [32.14.5](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations) for information about annotations.
 
 #### 38.6.2.6 Stake and Ward Councils
 
 In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](http://www.churchofjesuschrist.org/letters?clang=eng&id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
 
-Council members should take and discuss the course “[Protecting Children and Youth](http://www.churchofjesuschrist.org/callings/church-safety-and-health/training-and-video-resources/youth-protection).” Council members are also to complete children and youth protection training (see [38.6.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number92-p323#title_number92)).
+Council members should take and discuss the course “[Protecting Children and Youth](http://www.churchofjesuschrist.org/callings/church-safety-and-health/training-and-video-resources/youth-protection).” Council members are also to complete children and youth protection training (see [38.6.2](38-church-policies-and-guidelines.md#3862-abuse)).
 
 #### 38.6.2.7 Legal Issues Relating to Abuse
 
-If a member’s abusive activities have violated applicable law, the bishop or stake president should urge the member to report these activities to law enforcement personnel or other appropriate government authorities. The bishop or stake president can obtain information about local reporting requirements through the help line (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). If members have questions about reporting requirements, he encourages them to secure qualified legal advice.
+If a member’s abusive activities have violated applicable law, the bishop or stake president should urge the member to report these activities to law enforcement personnel or other appropriate government authorities. The bishop or stake president can obtain information about local reporting requirements through the help line (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). If members have questions about reporting requirements, he encourages them to secure qualified legal advice.
 
 Church leaders and members should fulfill all legal obligations to report abuse to civil authorities. In some locations, leaders and teachers who work with children and youth are considered “mandated reporters” and must report abuse to legal authorities. Similarly, in many locations, any person who learns of abuse is required to report it to legal authorities. Bishops and stake presidents should call the help line for details about mandated reporters and other legal requirements for reporting abuse. The Church’s policy is to obey the law.
 
@@ -842,25 +842,25 @@ The Lord’s law of chastity is:
 
 Physical intimacy between husband and wife is intended to be beautiful and sacred. It is ordained of God for the creation of children and for the expression of love between husband and wife.
 
-Only a man and a woman who are legally and lawfully wedded as husband and wife should have sexual relations. In God’s sight, moral cleanliness is very important. Violations of the law of chastity are very serious (see [Exodus 20:14](/study/scriptures/ot/ex/20.14?lang=eng#p14); [Matthew 5:28](/study/scriptures/nt/matt/5.28?lang=eng#p28); [Alma 39:5](/study/scriptures/bofm/alma/39.5?lang=eng#p5)). Those involved misuse the sacred power God has given to create life.
+Only a man and a woman who are legally and lawfully wedded as husband and wife should have sexual relations. In God’s sight, moral cleanliness is very important. Violations of the law of chastity are very serious (see [Exodus 20:14](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.14?lang=eng#p14); [Matthew 5:28](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5.28?lang=eng#p28); [Alma 39:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39.5?lang=eng#p5)). Those involved misuse the sacred power God has given to create life.
 
 A Church membership council may be necessary if a member:
 
-* Has sexual relations outside of a marital relationship authorized by God’s law, such as adultery, fornication, and same-sex relations (see [32.6.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number24-figure4_p36#title_number24)).
+* Has sexual relations outside of a marital relationship authorized by God’s law, such as adultery, fornication, and same-sex relations (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary)).
 * Is in a form of marriage or partnership that is not authorized by God’s law, such as cohabitation, civil unions and partnerships, and same-sex marriage.
-* Uses pornography intensively or compulsively, causing significant harm to a member’s marriage or family (see [38.6.11](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number108-p363#title_number108)).
+* Uses pornography intensively or compulsively, causing significant harm to a member’s marriage or family (see [38.6.11](38-church-policies-and-guidelines.md#38611-pornography)).
 
-The decision about whether to hold a membership council in these situations depends on many circumstances. These are outlined in [32.7](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number39-figure5_title1#title_number39). For example, violating temple covenants increases the likelihood of a council being necessary to help a person repent. In some cases, personal counseling and informal membership restrictions may be sufficient (see [32.8](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number50-p208#title_number50)).
+The decision about whether to hold a membership council in these situations depends on many circumstances. These are outlined in [32.7](32-repentance-and-membership-councils.md#327-circumstances-of-the-person). For example, violating temple covenants increases the likelihood of a council being necessary to help a person repent. In some cases, personal counseling and informal membership restrictions may be sufficient (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)).
 
-See [32.6.1.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number20-p102#title_number20) for when a council is _required_ for sexual sins.
+See [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) for when a council is _required_ for sexual sins.
 
 ### 38.6.6 Child Pornography
 
-The Church condemns child pornography in any form. If a bishop or stake president learns that a member is involved with child pornography, he promptly follows the instructions in [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93).
+The Church condemns child pornography in any form. If a bishop or stake president learns that a member is involved with child pornography, he promptly follows the instructions in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line).
 
-A Church membership council and record annotation are required if a member makes, shares, possesses, or repeatedly views pornographic images of children (see [32.6.1.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number20-p102#title_number20) and [32.14.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number84-p372#title_number84)). This guideline generally does not apply to children or youth of approximately the same age who share sexual pictures of themselves or others. Personal counseling and informal membership restrictions may be appropriate in those situations.
+A Church membership council and record annotation are required if a member makes, shares, possesses, or repeatedly views pornographic images of children (see [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) and [32.14.5](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations)). This guideline generally does not apply to children or youth of approximately the same age who share sexual pictures of themselves or others. Personal counseling and informal membership restrictions may be appropriate in those situations.
 
-For more guidance, see [38.6.11](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number108-p363#title_number108).
+For more guidance, see [38.6.11](38-church-policies-and-guidelines.md#38611-pornography).
 
 ### 38.6.7 Female Genital Mutilation
 
@@ -877,9 +877,9 @@ The Church condemns any form of incest. As used here, _incest_ is sexual relatio
 
 As used here, _child,_ _grandchild,_ _siblings,_ _niece,_ and _nephew_ include biological, adopted, step, or foster relationships. Incest can occur between two minors, an adult and a minor, or two adults.
 
-When a minor is a victim of incest, the bishop or stake president calls the Church’s abuse help line in countries where it is available (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). In other countries, the stake president seeks guidance from the area legal counsel at the area office.
+When a minor is a victim of incest, the bishop or stake president calls the Church’s abuse help line in countries where it is available (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). In other countries, the stake president seeks guidance from the area legal counsel at the area office.
 
-A Church membership council and record annotation are required if a member commits incest (see [32.6.1.2](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number20-p102#title_number20) and [32.14.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number84-p372#title_number84)). Incest almost always requires the Church to withdraw a person’s membership.
+A Church membership council and record annotation are required if a member commits incest (see [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) and [32.14.5](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations)). Incest almost always requires the Church to withdraw a person’s membership.
 
 If a minor commits incest, the stake president contacts the Office of the First Presidency for direction.
 
@@ -900,28 +900,28 @@ The Church condemns pornography in any form. Pornography use of any kind damages
 The Church provides the following resources to help people whose lives are affected by pornography:* [AddressingPornography.ChurchofJesusChrist.org](https://AddressingPornography.ChurchofJesusChrist.org)
 * [AddictionRecovery.ChurchofJesusChrist.org](http://AddictionRecovery.ChurchofJesusChrist.org)
 * Helping Those Who Struggle with Pornography (booklet)
-* [Let Virtue Garnish Thy Thoughts](/study/manual/let-virtue-garnish-thy-thoughts?lang=eng) (booklet)
+* [Let Virtue Garnish Thy Thoughts](https://www.churchofjesuschrist.org/study/manual/let-virtue-garnish-thy-thoughts?lang=eng) (booklet)
 
 Stake presidents and bishops also provide support to family members as needed.
 
-Church leaders should realize that use of pornography can be a compulsion or an addiction. In addition to the inspired help of these leaders, members may need professional counseling. Leaders may contact Family Services for assistance. See [38.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94) for contact information.
+Church leaders should realize that use of pornography can be a compulsion or an addiction. In addition to the inspired help of these leaders, members may need professional counseling. Leaders may contact Family Services for assistance. See [38.6.2.2](38-church-policies-and-guidelines.md#38622-counseling-in-cases-of-abuse) for contact information.
 
-Personal counseling and informal membership restrictions are usually sufficient when helping a person repent of using pornography (see [32.8](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number50-p208#title_number50)). Membership councils are not usually held. However, a council may be necessary for intensive and compulsive use of pornography that has caused significant harm to a member’s marriage or family (see [38.6.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number102-p336#title_number102)). A council is required if a member makes, shares, possesses, or repeatedly views pornographic images of children (see [38.6.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number103-p339#title_number103)).
+Personal counseling and informal membership restrictions are usually sufficient when helping a person repent of using pornography (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)). Membership councils are not usually held. However, a council may be necessary for intensive and compulsive use of pornography that has caused significant harm to a member’s marriage or family (see [38.6.5](38-church-policies-and-guidelines.md#3865-chastity-and-fidelity)). A council is required if a member makes, shares, possesses, or repeatedly views pornographic images of children (see [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography)).
 
 ### 38.6.12 Same-Sex Attraction and Same-Sex Behavior
 
 The Church encourages families and members to reach out with sensitivity, love, and respect to persons who are attracted to others of the same sex. The Church also promotes understanding in society at large that reflects its teachings about kindness, inclusiveness, love for others, and respect for all human beings. The Church does not take a position on the causes of same-sex attraction.
 
-God’s commandments forbid all unchaste behavior, either same-sex or heterosexual. Church leaders counsel members who have violated the law of chastity. Leaders help them have a clear understanding of faith in Jesus Christ and His Atonement, the process of repentance, and the purpose of life on earth. Behavior that is inconsistent with the law of chastity may be cause for holding a Church membership council (see [38.6.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number102-p336#title_number102)). It can be forgiven through sincere repentance.
+God’s commandments forbid all unchaste behavior, either same-sex or heterosexual. Church leaders counsel members who have violated the law of chastity. Leaders help them have a clear understanding of faith in Jesus Christ and His Atonement, the process of repentance, and the purpose of life on earth. Behavior that is inconsistent with the law of chastity may be cause for holding a Church membership council (see [38.6.5](38-church-policies-and-guidelines.md#3865-chastity-and-fidelity)). It can be forgiven through sincere repentance.
 
 If members feel same-sex attraction and are striving to live the law of chastity, leaders support and encourage them in their resolve. These members may receive Church callings, hold temple recommends, and receive temple ordinances if they are worthy. Male members may receive and exercise the priesthood.
 
-The circumstances of some faithful members do not allow them to receive the blessings of eternal marriage and parenthood in this life. They will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41](/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
+The circumstances of some faithful members do not allow them to receive the blessings of eternal marriage and parenthood in this life. They will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
 
-The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:* “[Same-Sex Attraction](/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Gospel Topics, topics.ChurchofJesusChrist.org
+The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:* “[Same-Sex Attraction](https://www.churchofjesuschrist.org/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Gospel Topics, topics.ChurchofJesusChrist.org
 * “[Same-Sex Attraction](http://www.churchofjesuschrist.org/topics/gay),” Life Help, ChurchofJesusChrist.org
 
-In addition to the inspired help of Church leaders, members may benefit from professional counseling. Leaders may contact Family Services for assistance. See [38.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94) for contact information.
+In addition to the inspired help of Church leaders, members may benefit from professional counseling. Leaders may contact Family Services for assistance. See [38.6.2.2](38-church-policies-and-guidelines.md#38622-counseling-in-cases-of-abuse) for contact information.
 
 ### 38.6.13 Same-Sex Marriage
 
@@ -937,23 +937,23 @@ Where schools have undertaken sex education, parents should seek to ensure that 
 
 ### 38.6.15 Sexual Abuse
 
-The Church condemns sexual abuse. As used here, _sexual abuse_ is defined as imposing any unwanted sexual activity on another person. Sexual activity with a person who cannot give legal consent is considered sexual abuse. Sexual abuse can also occur with a spouse. For information about sexual abuse of a child or youth, see [38.6.2.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number95-p309#title_number95).
+The Church condemns sexual abuse. As used here, _sexual abuse_ is defined as imposing any unwanted sexual activity on another person. Sexual activity with a person who cannot give legal consent is considered sexual abuse. Sexual abuse can also occur with a spouse. For information about sexual abuse of a child or youth, see [38.6.2.3](38-church-policies-and-guidelines.md#38623-child-or-youth-abuse).
 
 Sexual abuse covers a broad range of actions, from harassment to assault. It can occur physically, verbally, and in other ways.
 
 If leaders and members become aware of sexual abuse, they take action to protect victims and others as soon as possible. This includes alerting the bishop or stake president.
 
-If a bishop or stake president learns of sexual abuse, he calls the Church’s abuse help line in countries where it is available (see [38.6.2.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number93-p293#title_number93)). In other countries, the stake president seeks guidance from the area legal counsel at the area office.
+If a bishop or stake president learns of sexual abuse, he calls the Church’s abuse help line in countries where it is available (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). In other countries, the stake president seeks guidance from the area legal counsel at the area office.
 
-A membership council is required if a member committed a rape or is convicted of sexual assault (see [32.6.1.1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number19-p98#title_number19)). A council must also be held for sexual activity with a vulnerable adult. As used here, a _vulnerable adult_ is a person who, because of physical or mental limitations, either cannot consent to the activity or cannot understand the nature of it.
+A membership council is required if a member committed a rape or is convicted of sexual assault (see [32.6.1.1](32-repentance-and-membership-councils.md#32611-violent-acts-and-abuse)). A council must also be held for sexual activity with a vulnerable adult. As used here, a _vulnerable adult_ is a person who, because of physical or mental limitations, either cannot consent to the activity or cannot understand the nature of it.
 
-To address other forms of sexual abuse, leaders seek the Spirit’s guidance about whether personal counseling or a membership council is the most appropriate setting (see [32.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94) and [32.8](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number50-p208#title_number50)). In severe cases a council is required. Leaders may counsel with their direct priesthood leader about the setting.
+To address other forms of sexual abuse, leaders seek the Spirit’s guidance about whether personal counseling or a membership council is the most appropriate setting (see [32.6.2.2](32-repentance-and-membership-councils.md#32622-sexual-immorality) and [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)). In severe cases a council is required. Leaders may counsel with their direct priesthood leader about the setting.
 
 If membership restrictions result from a membership council that is held for sexual abuse, a person’s records are annotated.
 
 Victims of sexual abuse often suffer serious trauma and feelings of guilt. These victims are not guilty of sin. Leaders should be sensitive to them and give caring counsel and support to help them overcome the destructive effects of abuse. Leaders also give assurances of God’s love.
 
-For information about counseling in cases of abuse, see [38.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94).
+For information about counseling in cases of abuse, see [38.6.2.2](38-church-policies-and-guidelines.md#38622-counseling-in-cases-of-abuse).
 
 ### 38.6.16 Single Expectant Parents
 
@@ -964,9 +964,9 @@ Church members who are single and pregnant are encouraged to meet with their bis
 
 No bishop’s referral is needed for this service. There is no charge.
 
-Leaders may contact Family Services for assistance. See [38.6.2.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number94-p821#title_number94) for contact information.
+Leaders may contact Family Services for assistance. See [38.6.2.2](38-church-policies-and-guidelines.md#38622-counseling-in-cases-of-abuse) for contact information.
 
-Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](https://www.churchofjesuschrist.org/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
 
 ### 38.6.17 Sperm Donation
 
@@ -994,11 +994,11 @@ The Church strongly discourages surrogate motherhood. However, this is a persona
 
 ### 38.6.21 Transgender Individuals
 
-Transgender individuals face complex challenges. Members and nonmembers who identify as transgender﻿—and their family and friends﻿—should be treated with sensitivity, kindness, compassion, and an abundance of Christlike love. All are welcome to attend sacrament meeting, other Sunday meetings, and social events of the Church (see [38.1.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number3-p7#title_number3)).
+Transgender individuals face complex challenges. Members and nonmembers who identify as transgender﻿—and their family and friends﻿—should be treated with sensitivity, kindness, compassion, and an abundance of Christlike love. All are welcome to attend sacrament meeting, other Sunday meetings, and social events of the Church (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)).
 
 Gender is an essential characteristic of Heavenly Father’s plan of happiness. The intended meaning of _gender_ in the family proclamation is _biological sex at birth._ Some people experience feelings of incongruence between their biological sex and their gender identity. As a result, they may identify as transgender. The Church does not take a position on the causes of people identifying themselves as transgender.
 
-Most Church participation and some priesthood ordinances are gender neutral. Transgender persons may be baptized and confirmed as outlined in [38.2.3.14](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number37-p112#title_number37). They may also partake of the sacrament and receive priesthood blessings. However, priesthood ordination and temple ordinances are received according to birth sex.
+Most Church participation and some priesthood ordinances are gender neutral. Transgender persons may be baptized and confirmed as outlined in [38.2.3.14](38-church-policies-and-guidelines.md#382314-persons-who-identify-as-transgender). They may also partake of the sacrament and receive priesthood blessings. However, priesthood ordination and temple ordinances are received according to birth sex.
 
 Church leaders counsel against elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of a person’s birth sex (“sex reassignment”). Leaders advise that taking these actions will be cause for Church membership restrictions.
 
@@ -1012,7 +1012,7 @@ Some children, youth, and adults are prescribed hormone therapy by a licensed me
 
 If a member decides to change his or her preferred name or pronouns of address, the name preference may be noted in the preferred name field on the membership record. The person may be addressed by the preferred name in the ward.
 
-Circumstances vary greatly from unit to unit and person to person. Members and leaders counsel together and with the Lord. Area Presidencies will help local leaders sensitively address individual situations. Bishops counsel with the stake president. Stake presidents and mission presidents must seek counsel from the Area Presidency (see [32.6.3](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number30-p123#title_number30) and [32.6.3.1](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number31-p128#title_number31)).
+Circumstances vary greatly from unit to unit and person to person. Members and leaders counsel together and with the Lord. Area Presidencies will help local leaders sensitively address individual situations. Bishops counsel with the stake president. Stake presidents and mission presidents must seek counsel from the Area Presidency (see [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary) and [32.6.3.1](32-repentance-and-membership-councils.md#32631-other-action)).
 
 For further information on understanding and supporting transgender individuals, see “[Transgender](http://www.churchofjesuschrist.org/topics/transgender)” on ChurchofJesusChrist.org.
 
@@ -1028,11 +1028,11 @@ Autopsies may be performed if the family of the deceased gives consent and if th
 
 The Church does not normally encourage cremation. The family of the deceased must decide whether the body should be cremated, taking into account any laws governing burial or cremation. In some countries, the law requires cremation.
 
-Where possible, the body of a deceased member who has been endowed should be dressed in temple clothing when it is cremated. A funeral service may be held (see [29.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number31-figure1#title_number31)).
+Where possible, the body of a deceased member who has been endowed should be dressed in temple clothing when it is cremated. A funeral service may be held (see [29.6](29-meetings-in-the-church.md#296-funerals-and-other-services-at-a-time-of-death)).
 
 ### 38.7.3 Euthanasia
 
-Euthanasia is defined as deliberately putting to death a person who is suffering from an incurable condition or disease. A person who participates in euthanasia, including helping someone die by suicide, violates the commandments of God. (See also [38.7.9](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number128-p430#title_number128).)
+Euthanasia is defined as deliberately putting to death a person who is suffering from an incurable condition or disease. A person who participates in euthanasia, including helping someone die by suicide, violates the commandments of God. (See also [38.7.9](38-church-policies-and-guidelines.md#3879-prolonging-life).)
 
 ### 38.7.4 HIV Infection and AIDS
 
@@ -1094,7 +1094,7 @@ It is a fact that a child has life before birth. However, there is no direct rev
 
 ### 38.7.12 Word of Wisdom
 
-The only official interpretation of “hot drinks” ([Doctrine and Covenants 89:9](/study/scriptures/dc-testament/dc/89.9?lang=eng#p9)) in the Word of Wisdom is the statement made by early Church leaders that the term “hot drinks” means tea and coffee.
+The only official interpretation of “hot drinks” ([Doctrine and Covenants 89:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89.9?lang=eng#p9)) in the Word of Wisdom is the statement made by early Church leaders that the term “hot drinks” means tea and coffee.
 
 Members should not use any substance that contains illegal drugs. Nor should members use harmful or habit-forming substances except under the care of a competent physician.
 
@@ -1102,11 +1102,11 @@ Members should not use any substance that contains illegal drugs. Nor should mem
 
 ### 38.8.1 Accident Prevention and Response
 
-See [20.6.20](/study/manual/general-handbook/20-activities?lang=eng¶=title_number38-p162#title_number38).
+See [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting).
 
 ### 38.8.2 Activities Policies
 
-See [20.6](/study/manual/general-handbook/20-activities?lang=eng¶=title_number18-p191#title_number18).
+See [20.6](20-activities.md#206-policies-and-guidelines).
 
 ### 38.8.3 Adopted Children and Their Biological Parents
 
@@ -1126,14 +1126,14 @@ Outside the United States and Canada, leaders may contact Family Services or the
 
 Members who wish to adopt children or provide foster care should be certain to obey all applicable laws of the countries and governments involved.
 
-For information about placing children for adoption, see [38.6.16](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number113-p396#title_number113).
+For information about placing children for adoption, see [38.6.16](38-church-policies-and-guidelines.md#38616-single-expectant-parents).
 
 ### 38.8.5 Audiovisual Materials
 
 Members may use audiovisual materials, such as CDs, DVDs, and computer presentations, in Church settings with the following restrictions:
 
 * They may not be used in sacrament meetings or in the general session of stake conference (however, appropriate recorded musical accompaniment may be used if a piano, organ, or accompanist is not available).
-* They may not be used if such use is restricted by copyright (see [38.8.13](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number145-p525#title_number145)).
+* They may not be used if such use is restricted by copyright (see [38.8.13](38-church-policies-and-guidelines.md#38813-copyrighted-materials)).
 * They may not be used if they contain material that is not suitable for Church settings.
 
 Audiovisual materials that meet these criteria may be used in the chapel during meetings other than sacrament meeting or the general session of stake conference if they are an important part of the meeting.
@@ -1160,7 +1160,7 @@ Printed copies of approved editions of the Bible are available from Church Distr
 
 The Church discourages rewriting the Book of Mormon into familiar or modern English. The First Presidency has said:
 
-“When a sacred text is translated into another language or rewritten into more familiar language, there are substantial risks that this process may introduce doctrinal errors or obscure evidence of its ancient origin. To guard against these risks, the First Presidency and Council of the Twelve give close personal supervision to the translation of scriptures from English into other languages and have not authorized efforts to express the doctrinal content of the Book of Mormon in familiar or modern English. (These concerns do not pertain to publications by the Church for children.)” (“[Modern-Language Editions of the Book of Mormon Discouraged](/study/ensign/1993/04/news-of-the-church/modern-language-editions-of-the-book-of-mormon-discouraged?lang=eng¶=4#p4),” Ensign, Apr. 1993, 74).
+“When a sacred text is translated into another language or rewritten into more familiar language, there are substantial risks that this process may introduce doctrinal errors or obscure evidence of its ancient origin. To guard against these risks, the First Presidency and Council of the Twelve give close personal supervision to the translation of scriptures from English into other languages and have not authorized efforts to express the doctrinal content of the Book of Mormon in familiar or modern English. (These concerns do not pertain to publications by the Church for children.)” (“[Modern-Language Editions of the Book of Mormon Discouraged](https://www.churchofjesuschrist.org/study/ensign/1993/04/news-of-the-church/modern-language-editions-of-the-book-of-mormon-discouraged?lang=eng¶=4#p4),” Ensign, Apr. 1993, 74).
 
 ### 38.8.9 Church Employees
 
@@ -1174,7 +1174,7 @@ Church employees must comply with employment laws. Church headquarters or the ar
 
 The First Presidency has consistently encouraged members of the Church to read the Church magazines. Local Church leaders should encourage members to have the Church magazines in their homes. These magazines contain the Lord’s guidance given through latter-day prophets. Church magazines strengthen faith in the Savior and provide inspired direction for personal challenges.
 
-The stake president and bishop may assign their executive secretaries to coordinate Church magazine subscription efforts (see [33.3.4](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number8-p54#title_number8) and [33.4.4](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number13-p83#title_number13)). Bishoprics may also call a ward magazine representative and appoint others to assist. If a ward magazine representative is called, he helps plan and direct Church magazine campaigns, helps members begin or renew subscriptions, and teaches members the benefits of subscribing to the Church magazines.
+The stake president and bishop may assign their executive secretaries to coordinate Church magazine subscription efforts (see [33.3.4](33-records-and-reports.md#3334-stake-executive-secretary) and [33.4.4](33-records-and-reports.md#3344-ward-executive-secretary)). Bishoprics may also call a ward magazine representative and appoint others to assist. If a ward magazine representative is called, he helps plan and direct Church magazine campaigns, helps members begin or renew subscriptions, and teaches members the benefits of subscribing to the Church magazines.
 
 Members can subscribe to the Church magazines through Church Distribution Services. In some areas, members can subscribe by filling out the subscription form on the Church magazines’ webpages.
 
@@ -1223,13 +1223,13 @@ As authorized by the Church’s presiding councils, some Church units are provid
 
 Where necessary, stake presidents arrange to make ward and stake computers available for members to use family history programs. Ward and stake computers are not authorized for other personal uses.
 
-To protect confidential information on computers, leaders and clerks should use the password features of Church record-keeping systems. Personal passwords to access Church financial systems are never to be shared. Additional instructions about protecting confidential information are provided in [33.8](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number45-p158#title_number45) and [33.9](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number46-p165#title_number46).
+To protect confidential information on computers, leaders and clerks should use the password features of Church record-keeping systems. Personal passwords to access Church financial systems are never to be shared. Additional instructions about protecting confidential information are provided in [33.8](33-records-and-reports.md#338-confidentiality-of-records) and [33.9](33-records-and-reports.md#339-records-management).
 
 Computers should be placed so members of the bishopric and clerks can process members’ weekly contributions in privacy.
 
-For restrictions on duplicating computer software, see [38.8.13](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number145-p525#title_number145).
+For restrictions on duplicating computer software, see [38.8.13](38-church-policies-and-guidelines.md#38813-copyrighted-materials).
 
-The stake presidency may assign an assistant stake clerk to be the stake technology specialist. The stake clerk could be given this assignment if necessary. The stake technology specialist manages Church computers in the stake, including those in family history centers. These responsibilities are outlined in [33.3.3.2](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number56-p46#title_number56).
+The stake presidency may assign an assistant stake clerk to be the stake technology specialist. The stake clerk could be given this assignment if necessary. The stake technology specialist manages Church computers in the stake, including those in family history centers. These responsibilities are outlined in [33.3.3.2](33-records-and-reports.md#33332-computers-and-technology).
 
 ### 38.8.13 Copyrighted Materials
 
@@ -1333,7 +1333,7 @@ A proper fast-day observance typically includes abstaining from food and drink f
 
 ### 38.8.20 Fund-Raising
 
-See [20.6.8](/study/manual/general-handbook/20-activities?lang=eng¶=title_number26-p105#title_number26).
+See [20.6.8](20-activities.md#2068-fund-raising-activities).
 
 ### 38.8.21 Gambling and Lotteries
 
@@ -1350,12 +1350,12 @@ The bishop or stake president carefully screens guest speakers or instructors an
 1. Presentations are in harmony with Church doctrine.
 2. Guest speakers or instructors are not paid a fee, do not recruit participants, and do not solicit customers or clients.
 3. The travel expenses of guest speakers or instructors are not paid, either with local unit budget funds or by private contributions.
-4. Presentations comply with the guidelines for using Church facilities (see [35.4](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number19-p87#title_number19)).
+4. Presentations comply with the guidelines for using Church facilities (see [35.4](35.md#354-maintaining-meetinghouses)).
 ### 38.8.23 Income Taxes
 
-Church members are obligated by the twelfth article of faith to obey the tax laws of the nation where they reside (see also [Doctrine and Covenants 134:5](/study/scriptures/dc-testament/dc/134.5?lang=eng#p5)). Members who disapprove of tax laws may try to have them changed by legislation or constitutional amendment. Members who have well-founded legal objections may challenge tax laws in the courts.
+Church members are obligated by the twelfth article of faith to obey the tax laws of the nation where they reside (see also [Doctrine and Covenants 134:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134.5?lang=eng#p5)). Members who disapprove of tax laws may try to have them changed by legislation or constitutional amendment. Members who have well-founded legal objections may challenge tax laws in the courts.
 
-Church members who refuse to file a tax return, pay required income taxes, or comply with a final judgment in a tax case are in direct conflict with the law and with the teachings of the Church. Such members may be ineligible for a temple recommend and should not be called to positions of principal responsibility in the Church. A Church membership council is required if a member is convicted of a felony for willfully violating tax laws (see [32.6.1.5](/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng¶=title_number23-p105#title_number23)).
+Church members who refuse to file a tax return, pay required income taxes, or comply with a final judgment in a tax case are in direct conflict with the law and with the teachings of the Church. Such members may be ineligible for a temple recommend and should not be called to positions of principal responsibility in the Church. A Church membership council is required if a member is convicted of a felony for willfully violating tax laws (see [32.6.1.5](32-repentance-and-membership-councils.md#32615-some-other-acts)).
 
 ### 38.8.24 Internet
 
@@ -1396,7 +1396,7 @@ Search for “Internet Usage Helps for Members” on [ChurchofJesusChrist.org](h
 
 ### 38.8.25 Laws of the Land
 
-Members should obey, honor, and sustain the laws in any country where they reside or travel (see [Doctrine and Covenants 58:21–22](/study/scriptures/dc-testament/dc/58.21-22?lang=eng#p21); [Articles of Faith 1:12](/study/scriptures/pgp/a-of-f/1.12?lang=eng#p12)). This includes laws that prohibit proselyting.
+Members should obey, honor, and sustain the laws in any country where they reside or travel (see [Doctrine and Covenants 58:21–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.21-22?lang=eng#p21); [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.12?lang=eng#p12)). This includes laws that prohibit proselyting.
 
 ### 38.8.26 Legal Counsel for Church Matters
 
@@ -1454,11 +1454,11 @@ Leaders may also identify appropriate community resources that could help indivi
 
 For additional information on assisting persons who have disabilities, leaders and members may go to [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org). Leaders may also contact Family Services (where available).
 
-Leaders and members should not attempt to explain why the challenge of a disability has come to a family. They should never suggest that a disability is a punishment from God (see [John 9:2–3](/study/scriptures/nt/john/9.2-3?lang=eng#p2)). Nor should they suggest that it is a blessing to have a child who has a disability.
+Leaders and members should not attempt to explain why the challenge of a disability has come to a family. They should never suggest that a disability is a punishment from God (see [John 9:2–3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/9.2-3?lang=eng#p2)). Nor should they suggest that it is a blessing to have a child who has a disability.
 
 #### 38.8.31.3 Providing Ordinances
 
-When considering whether to perform ordinances for a person who has an intellectual disability, priesthood leaders follow the guidelines in [18.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number2-p242#title_number2).
+When considering whether to perform ordinances for a person who has an intellectual disability, priesthood leaders follow the guidelines in [18.1](18-priesthood-ordinances-and-blessings.md#181-ordinances-of-salvation-and-exaltation).
 
 #### 38.8.31.4 Providing Opportunities to Serve and Participate
 
@@ -1470,9 +1470,9 @@ Leaders and teachers should include members with disabilities in meetings, class
 
 The bishopric may call an assistant teacher to help a person in a class. The bishopric may also ask someone to help a person in a meeting or activity.
 
-If a person cannot participate in a meeting, class, or activity, leaders and teachers may consult with the family about how to meet his or her needs. The stake president or bishop may approve organizing special classes or programs for members with disabilities (see [38.8.31.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number172-p610#title_number172)). If a person is not able to attend Church meetings, printed materials or recordings of lessons and talks may be provided.
+If a person cannot participate in a meeting, class, or activity, leaders and teachers may consult with the family about how to meet his or her needs. The stake president or bishop may approve organizing special classes or programs for members with disabilities (see [38.8.31.5](38-church-policies-and-guidelines.md#388315-organizing-special-classes-programs-or-units)). If a person is not able to attend Church meetings, printed materials or recordings of lessons and talks may be provided.
 
-Priesthood leaders encourage males who hold the priesthood to participate in ordinances when appropriate. Beginning in January of the year they turn 12, priesthood holders and young women who have been baptized and confirmed and who are worthy may be baptized and confirmed for the dead in a temple. Guidelines about members with disabilities receiving their own temple ordinances are provided in [38.2.1.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number16-p39#title_number16) and [38.2.1.9](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number17-p41#title_number17).
+Priesthood leaders encourage males who hold the priesthood to participate in ordinances when appropriate. Beginning in January of the year they turn 12, priesthood holders and young women who have been baptized and confirmed and who are worthy may be baptized and confirmed for the dead in a temple. Guidelines about members with disabilities receiving their own temple ordinances are provided in [38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities) and [38.2.1.9](38-church-policies-and-guidelines.md#38219-ordinances-and-blessings-performed-by-and-for-persons-who-have-physical-disabilities).
 
 #### 38.8.31.5 Organizing Special Classes, Programs, or Units
 
@@ -1494,7 +1494,7 @@ As invited by the agent stake president or bishop, leaders of a special class or
 
 Leaders may contact Seminaries and Institutes of Religion administrators to learn about classes for members with disabilities that can be established within the Church Educational System.
 
-Wards or branches may be created for members who are deaf or hearing impaired. Or a ward may be asked to host a group for those who are deaf or hearing impaired within a specified geographic area. Such wards, branches, or groups help these members participate fully in service and gospel learning. Instructions for organizing these units are provided in [37.7](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng¶=title_number18-p84#title_number18).
+Wards or branches may be created for members who are deaf or hearing impaired. Or a ward may be asked to host a group for those who are deaf or hearing impaired within a specified geographic area. Such wards, branches, or groups help these members participate fully in service and gospel learning. Instructions for organizing these units are provided in [37.7](37-specialized-stakes-wards-and-branches.md#377-groups-in-stakes-missions-and-areas).
 
 Members who use sign language, and their families, may choose to have their Church membership records in one of the following places: (1) their home ward, (2) a ward that is designated to host a group for members who are deaf or hearing impaired, or (3) a ward or branch that is organized for members who are deaf or hearing impaired.
 
@@ -1549,13 +1549,13 @@ Much that is inspiring, noble, and worthy of the highest respect is found in man
 
 ### 38.8.33 Overnight Activities
 
-See [20.6.12](/study/manual/general-handbook/20-activities?lang=eng¶=title_number30-p129#title_number30) and [35.4.13](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number32-p75#title_number32).
+See [20.6.12](20-activities.md#20612-overnight-activities) and [35.4.13](https://www.churchofjesuschrist.org/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number32-p75#title_number32).
 
 ### 38.8.34 Political and Civic Activity
 
 As citizens, Church members are encouraged to participate in political and governmental affairs, including involvement in the political party of their choice. Members are also urged to be actively engaged in worthy causes to improve their communities and make them wholesome places in which to live and rear families.
 
-In accordance with the laws of their respective governments, members are encouraged to register to vote, to study issues and candidates carefully, and to vote for individuals whom they believe will act with integrity and sound judgment. Latter-day Saints have a special obligation to seek out, vote for, and uphold leaders who are honest, good, and wise (see [Doctrine and Covenants 98:10](/study/scriptures/dc-testament/dc/98.10?lang=eng#p10)).
+In accordance with the laws of their respective governments, members are encouraged to register to vote, to study issues and candidates carefully, and to vote for individuals whom they believe will act with integrity and sound judgment. Latter-day Saints have a special obligation to seek out, vote for, and uphold leaders who are honest, good, and wise (see [Doctrine and Covenants 98:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98.10?lang=eng#p10)).
 
 While affirming the right of expression on political and social issues, the Church is neutral regarding political parties, political platforms, and candidates for political office. The Church does not endorse any political party or candidate. Nor does it advise members how to vote. However, in some exceptional instances the Church will take a position on specific legislation, particularly when it concludes that moral issues are involved. Only the First Presidency can speak for the Church or commit the Church to support or oppose specific legislation or to seek to intervene in judicial matters. Otherwise, stake presidents and other local leaders should not organize members to participate in political matters or attempt to influence how they participate.
 
@@ -1565,7 +1565,7 @@ Members are encouraged to support measures that strengthen the moral fabric of s
 
 Church records, directories, and similar materials may not be used for political purposes.
 
-Church facilities may not be used for political purposes. However, facilities may be used for voter registration or polling where there is not a reasonable alternative (see [35.4](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number19-p87#title_number19)).
+Church facilities may not be used for political purposes. However, facilities may be used for voter registration or polling where there is not a reasonable alternative (see [35.4](35.md#354-maintaining-meetinghouses)).
 
 ### 38.8.35 Postal Regulations
 
@@ -1573,7 +1573,7 @@ In the United States and some other countries, it is a violation of postal regul
 
 ### 38.8.36 Privacy of Members
 
-Church leaders are obligated to protect the privacy of members. Church records, directories, and similar materials may not be used for personal, commercial, or political purposes (see also [38.8.16](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number148-p534#title_number148)).
+Church leaders are obligated to protect the privacy of members. Church records, directories, and similar materials may not be used for personal, commercial, or political purposes (see also [38.8.16](38-church-policies-and-guidelines.md#38816-directories)).
 
 ### 38.8.37 Privately Published Writings
 
@@ -1585,7 +1585,7 @@ Church members should not record the talks or addresses that General Authorities
 
 ### 38.8.39 Referring to the Church and Its Members
 
-The name of the Church was given by revelation to the Prophet Joseph Smith in 1838: “For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints” ([Doctrine and Covenants 115:4](/study/scriptures/dc-testament/dc/115.4?lang=eng#p4)).
+The name of the Church was given by revelation to the Prophet Joseph Smith in 1838: “For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints” ([Doctrine and Covenants 115:4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115.4?lang=eng#p4)).
 
 Accordingly, references to the Church should include its full name whenever possible. Following an initial reference to the full name, if a shortened reference is needed, the terms “the Church” or the “Church of Jesus Christ” are encouraged. The “restored Church of Jesus Christ” is also accurate and encouraged.
 
@@ -1607,7 +1607,7 @@ Many Church welfare operations have equipment and machinery that can cause injur
 
 Normally those who work at welfare operations should be 16 or older. Those who operate equipment should be mature, adequately trained, and experienced in using the equipment. Only adults may operate power equipment.
 
-The operations manager reports accidents to Welfare Services (1-801-240-3001 or 1-800-453-3860, extension 2-3001) and the Risk Management Division at Church headquarters (see [35.3.6](/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number18-p39#title_number18) for contact information).
+The operations manager reports accidents to Welfare Services (1-801-240-3001 or 1-800-453-3860, extension 2-3001) and the Risk Management Division at Church headquarters (see [35.3.6](https://www.churchofjesuschrist.org/study/manual/general-handbook/35-physical-facilities?lang=eng¶=title_number18-p39#title_number18) for contact information).
 
 ### 38.8.42 Sales Agents
 
@@ -1655,7 +1655,7 @@ The Church warns its members against symposia and similar gatherings that includ
 
 ### 38.8.48 Taxable Activities
 
-Ward and stake leaders ensure that local Church activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.10.1](/study/manual/general-handbook/34-finances-and-audits?lang=eng¶=title_number44-p170#title_number44).
+Ward and stake leaders ensure that local Church activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.10.1](34-finances-and-audits.md#34101-tax-exempt-status).
 
 ### 38.8.49 Temple Clothing and Garments
 
@@ -1681,23 +1681,23 @@ To dispose of worn-out temple ceremonial clothing, members should destroy the cl
 
 Members may give garments and temple clothing that are in good condition to other worthy endowed members. The bishop can identify those who might need such clothing. Members should not donate garments or temple ceremonial clothing to the temple or charities.
 
-Information about ordering temple clothing or ordering garments for those in special circumstances (such as members serving in the military, members who are bedfast, or members with disabilities) is provided in [38.10.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number213-p773#title_number213) and [27.3.6](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng¶=title_number17-p26#title_number17).
+Information about ordering temple clothing or ordering garments for those in special circumstances (such as members serving in the military, members who are bedfast, or members with disabilities) is provided in [38.10.8](38-church-policies-and-guidelines.md#38108-wearing-the-garment-in-the-military) and [27.3.6](27-temple-ordinances-for-the-living.md#2736-garments-and-temple-clothing-for-members-who-have-disabilities).
 
 ### 38.8.50 Travel Policies
 
-A man and a woman should not travel alone together for Church activities, meetings, or assignments unless they are married to each other or are both single. For other travel policies, see [20.6.24](/study/manual/general-handbook/20-activities?lang=eng¶=title_number42-p184#title_number42).
+A man and a woman should not travel alone together for Church activities, meetings, or assignments unless they are married to each other or are both single. For other travel policies, see [20.6.24](20-activities.md#20624-travel).
 
 ## 38.9 Stake Patriarch
 
 This section outlines the stake president’s responsibilities for the stake patriarch. It includes guidelines for calling, ordaining, instructing, and overseeing the stake patriarch. For information about patriarchal blessings, see the following sources:
 
-* Sections [18.17](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number54-p240#title_number54) and [38.2.12](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number50-figure1_p29#title_number50) in this handbook
+* Sections [18.17](18-priesthood-ordinances-and-blessings.md#1817-patriarchal-blessings) and [38.2.12](38-church-policies-and-guidelines.md#38212-patriarchal-blessings) in this handbook
 * Information and Suggestions for Patriarchs
 * Worldwide Leadership Training Meeting: The Patriarch
 
 ### 38.9.1 Calling, Sustaining, and Ordaining a Stake Patriarch
 
-The Quorum of the Twelve Apostles directs the calling of stake patriarchs (see [Doctrine and Covenants 107:39](/study/scriptures/dc-testament/dc/107.39?lang=eng#p39)). The stake president may recommend whom to call. Recommendations should be submitted online through Leader and Clerk Resources. In making this recommendation, the stake president should fast and pray for the Spirit to direct him. The recommendation should be approved by his counselors.
+The Quorum of the Twelve Apostles directs the calling of stake patriarchs (see [Doctrine and Covenants 107:39](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.39?lang=eng#p39)). The stake president may recommend whom to call. Recommendations should be submitted online through Leader and Clerk Resources. In making this recommendation, the stake president should fast and pray for the Spirit to direct him. The recommendation should be approved by his counselors.
 
 A man whom the stake president recommends as stake patriarch should be a worthy Melchizedek Priesthood holder. He should be mature in the gospel and the Church, a worthy husband and patriarch in his own home, and sensitive to guidance from the Spirit. He should have received his own patriarchal blessing, and normally he should be age 55 or older. He must be married.
 
@@ -1737,11 +1737,11 @@ A functioning patriarch is a member of the high priests quorum and participates 
 
 The ordination of a patriarch is for a lifetime, so he is not released. However, he may be given nonfunctioning status, excusing him from giving blessings.
 
-If a patriarch is incapacitated by age or illness, as determined by the stake president or the patriarch, the stake president recommends to the Quorum of the Twelve that the patriarch be given nonfunctioning status. He submits this recommendation through Leader and Clerk Resources. If the recommendation for nonfunctioning status is approved, the patriarch’s name is no longer presented for a sustaining vote in stake conferences when Church officers are sustained. The stake president notifies bishops not to send members to that patriarch. The stake president also ensures that all blessings the patriarch has given are sent promptly to the recipients and to Church headquarters as noted in [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number199-p703#title_number199).
+If a patriarch is incapacitated by age or illness, as determined by the stake president or the patriarch, the stake president recommends to the Quorum of the Twelve that the patriarch be given nonfunctioning status. He submits this recommendation through Leader and Clerk Resources. If the recommendation for nonfunctioning status is approved, the patriarch’s name is no longer presented for a sustaining vote in stake conferences when Church officers are sustained. The stake president notifies bishops not to send members to that patriarch. The stake president also ensures that all blessings the patriarch has given are sent promptly to the recipients and to Church headquarters as noted in [38.9.4](38-church-policies-and-guidelines.md#3894-supervising-the-work-of-the-stake-patriarch).
 
-A patriarch is also given nonfunctioning status if he leaves to serve a mission, is absent from his home for other reasons, moves to a different stake, or is approved to be called to a position of Church administration (see [38.9.7](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number202-p710#title_number202) and [38.9.8](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number203-p711#title_number203)). In such circumstances, the stake president notifies the Quorum of the Twelve through Leader and Clerk Resources and follows the instructions in the previous paragraph. A patriarch is not automatically returned to functioning status when he completes his missionary service or other Church assignments (see [38.9.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number201-p708#title_number201)).
+A patriarch is also given nonfunctioning status if he leaves to serve a mission, is absent from his home for other reasons, moves to a different stake, or is approved to be called to a position of Church administration (see [38.9.7](38-church-policies-and-guidelines.md#3897-patriarchs-who-move-to-a-different-stake) and [38.9.8](38-church-policies-and-guidelines.md#3898-patriarchs-who-are-called-to-another-church-position)). In such circumstances, the stake president notifies the Quorum of the Twelve through Leader and Clerk Resources and follows the instructions in the previous paragraph. A patriarch is not automatically returned to functioning status when he completes his missionary service or other Church assignments (see [38.9.6](38-church-policies-and-guidelines.md#3896-returning-a-patriarch-to-functioning-status)).
 
-A patriarch who is given nonfunctioning status may continue to give patriarchal blessings to his lineal descendants (children, grandchildren, and great-grandchildren) if the stake president determines that he is able to do so. The stake president reviews these blessings and ensures they are submitted to Church headquarters as noted in [38.9.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number199-p703#title_number199).
+A patriarch who is given nonfunctioning status may continue to give patriarchal blessings to his lineal descendants (children, grandchildren, and great-grandchildren) if the stake president determines that he is able to do so. The stake president reviews these blessings and ensures they are submitted to Church headquarters as noted in [38.9.4](38-church-policies-and-guidelines.md#3894-supervising-the-work-of-the-stake-patriarch).
 
 ### 38.9.6 Returning a Patriarch to Functioning Status
 
@@ -1749,13 +1749,13 @@ To return a patriarch to functioning status, the stake president interviews him 
 
 ### 38.9.7 Patriarchs Who Move to a Different Stake
 
-If a patriarch moves to a different stake, his status automatically becomes nonfunctioning. He contacts the president of the new stake as a courtesy to inform him of his residence there. If the stake president wants him to serve as a patriarch in the new stake, he contacts the patriarch’s former stake president to confirm the patriarch’s worthiness and past service. The new stake president then follows the procedure in [38.9.6](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number201-p708#title_number201).
+If a patriarch moves to a different stake, his status automatically becomes nonfunctioning. He contacts the president of the new stake as a courtesy to inform him of his residence there. If the stake president wants him to serve as a patriarch in the new stake, he contacts the patriarch’s former stake president to confirm the patriarch’s worthiness and past service. The new stake president then follows the procedure in [38.9.6](38-church-policies-and-guidelines.md#3896-returning-a-patriarch-to-functioning-status).
 
-If the stake president decides not to recommend having the patriarch serve in the new stake, the patriarch remains on nonfunctioning status as explained in [38.9.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number200-p707#title_number200).
+If the stake president decides not to recommend having the patriarch serve in the new stake, the patriarch remains on nonfunctioning status as explained in [38.9.5](38-church-policies-and-guidelines.md#3895-nonfunctioning-status-for-a-stake-patriarch).
 
 ### 38.9.8 Patriarchs Who Are Called to Another Church Position
 
-A patriarch may not be called to a position of Church administration, such as bishop, high councilor, or stake president, unless the Quorum of the Twelve approves the call in advance. If it is approved, the patriarch is given nonfunctioning status as explained in [38.9.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number200-p707#title_number200).
+A patriarch may not be called to a position of Church administration, such as bishop, high councilor, or stake president, unless the Quorum of the Twelve approves the call in advance. If it is approved, the patriarch is given nonfunctioning status as explained in [38.9.5](38-church-policies-and-guidelines.md#3895-nonfunctioning-status-for-a-stake-patriarch).
 
 ### 38.9.9 Confidentiality of Patriarchal Blessings
 
@@ -1780,7 +1780,7 @@ If military installations or members who serve in the military are in a stake, t
 
 A member of the stake presidency oversees the pre–military service Church orientation in the stake. He makes sure the orientation is offered to all members entering military service. The stake executive secretary may coordinate this orientation.
 
-If Church services are held on the military installation, the president of a stake where a military installation is located organizes a ward, branch, or service member group for military personnel and their families (see [38.10.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number209-p748#title_number209)). For each of these units, the stake president calls, sets apart, and oversees a bishopric (when authorized by the First Presidency), branch presidency, or service member group leader and assistants. The stake president gives contact information for these leaders to the Church’s Military Relations and Chaplain Services Division. He may designate a ward to support each service member group.
+If Church services are held on the military installation, the president of a stake where a military installation is located organizes a ward, branch, or service member group for military personnel and their families (see [38.10.4](38-church-policies-and-guidelines.md#38104-church-units-for-service-members)). For each of these units, the stake president calls, sets apart, and oversees a bishopric (when authorized by the First Presidency), branch presidency, or service member group leader and assistants. The stake president gives contact information for these leaders to the Church’s Military Relations and Chaplain Services Division. He may designate a ward to support each service member group.
 
 Where one or more Church units are established for military personnel, the stake president coordinates with the Military Relations and Chaplain Services Division to provide each bishop, branch president, or group leader a letter of appointment. This letter outlines his responsibilities and authorizes him to preside over the unit and conduct meetings. A copy of the letter should be given to the installation chaplain.
 
@@ -1804,7 +1804,7 @@ The membership records for a member entering the military should be retained in 
 
 Priesthood leaders in the home ward should correspond regularly with each ward member who is away in military service. They also encourage families to ensure that their family member in the military receives the Ensign or Liahona. The Church News is also available for those who read English.
 
-Each bishop is responsible for Church members assigned to a military installation within his ward boundaries. He establishes a working relationship with the senior chaplain at the installation (see [38.10.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number206-p729#title_number206)).
+Each bishop is responsible for Church members assigned to a military installation within his ward boundaries. He establishes a working relationship with the senior chaplain at the installation (see [38.10.1](38-church-policies-and-guidelines.md#38101-stake-military-relations-leadership)).
 
 ### 38.10.3 Pre–Military Service Church Orientation
 
@@ -1822,7 +1822,7 @@ Members in the military normally participate in wards or branches located near t
 * The Church members’ military unit is deployed or will be deployed for contingency operations to a location where the Church is not organized, where the local Church unit cannot accommodate the members because of a different language, or where attendance at local meetings is not feasible.
 * Members belong to Reserve or National Guard units and participate in weekend drills or annual training exercises.
 
-Wards and branches at military installations are created using the procedures outlined in [chapter 37](/study/manual/general-handbook/37-specialized-stakes-wards-and-branches?lang=eng).
+Wards and branches at military installations are created using the procedures outlined in [chapter 37](37-specialized-stakes-wards-and-branches.md).
 
 Generally a ward or branch is established, rather than a service member group, if there is a need to support both military members and their families. A ward or branch may also be established for military members without their families if there is a long-term need to provide Church services and programs for members attending basic or advanced training or on a remote assignment. The military does not normally allow Church members who are not associated with the military to belong to a ward or branch that uses installation facilities.
 
@@ -1862,7 +1862,7 @@ The scope and type of ministry a chaplain provides varies greatly depending on t
 * Conduct suicide prevention training.
 * Provide spiritual care and counseling to service members and their families.
 
-For information about Latter-day Saint chaplains performing civil marriages, see [38.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number59-p215#title_number59).
+For information about Latter-day Saint chaplains performing civil marriages, see [38.3](38-church-policies-and-guidelines.md#383-civil-marriage).
 
 Chaplains may assist Church members in the repentance process under the direction of their priesthood leaders. However, members must resolve serious transgressions with their bishop or stake president.
 
@@ -1892,13 +1892,13 @@ Retired military couples are called to serve as senior missionary couples at sel
 
 ### 38.10.10 Other Information
 
-For information about membership records of service members, see [33.6.8](/study/manual/general-handbook/33-records-and-reports?lang=eng¶=title_number27-p127#title_number27).
+For information about membership records of service members, see [33.6.8](33-records-and-reports.md#3368-records-of-members-in-military-service).
 
-For information about patriarchal blessings for service members, see [38.2.12.3](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number53-p180#title_number53).
+For information about patriarchal blessings for service members, see [38.2.12.3](38-church-policies-and-guidelines.md#382123-patriarchal-blessings-for-members-entering-the-military).
 
-For information about ordaining service members in isolated areas, see [38.2.5.4](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number43-p153#title_number43).
+For information about ordaining service members in isolated areas, see [38.2.5.4](38-church-policies-and-guidelines.md#38254-other-circumstances).
 
-For information about giving temple recommends in isolated areas, see [26.2.3](/study/manual/general-handbook/26-temple-recommends?lang=eng¶=title_number11-p25#title_number11).
+For information about giving temple recommends in isolated areas, see [26.2.3](26-temple-recommends.md#2623-isolated-areas).
 
 If Church leaders have questions about military relations, they may contact:
 

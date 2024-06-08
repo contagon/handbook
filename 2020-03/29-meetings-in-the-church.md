@@ -8,13 +8,13 @@ In addition to the meetings outlined in the handbooks, presiding authorities occ
 
 ## 29.1 Guidelines for Planning and Conducting Meetings
 
-Leaders plan and conduct meetings “as they are led by the Holy Ghost, according to the commandments and revelations of God” ([Doctrine and Covenants 20:45](/study/scriptures/dc-testament/dc/20.45?lang=eng#p45); see also [Moroni 6:9](/study/scriptures/bofm/moro/6.9?lang=eng#p9); [Doctrine and Covenants 46:2](/study/scriptures/dc-testament/dc/46.2?lang=eng#p2)).
+Leaders plan and conduct meetings “as they are led by the Holy Ghost, according to the commandments and revelations of God” ([Doctrine and Covenants 20:45](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.45?lang=eng#p45); see also [Moroni 6:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.9?lang=eng#p9); [Doctrine and Covenants 46:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.2?lang=eng#p2)).
 
 Leaders prepare an agenda for each meeting or assign someone else to prepare it under their direction. An agenda helps participants focus on the meeting’s purposes and use time effectively. It should be prioritized to ensure that the most important matters are discussed first.
 
 Leadership meetings should focus on strengthening individuals and families. Time spent on calendaring, program planning, and other administrative business should be minimal.
 
-For guidelines on counseling together in meetings, see [chapter 7](/study/manual/general-handbook/7-councils-in-the-church?lang=eng).
+For guidelines on counseling together in meetings, see [chapter 7](7.md).
 
 The presiding officer may conduct a meeting or ask a counselor or someone else to conduct it under his or her direction.
 
@@ -32,10 +32,10 @@ If the bishop and his counselors are all absent, the stake president designates 
 
 Sunday meetings provide vitally important time for members to increase their faith in Heavenly Father and His Son, Jesus Christ, as they partake of the sacrament, worship, learn the gospel, learn their duties, and give service. Those learning about the Church are invited to attend these meetings.
 
-Wards are to hold the following Sunday meetings in one two-hour period, as outlined below. (For meeting schedule options, see [29.9](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=figure3-figure3_p38#figure3)):
+Wards are to hold the following Sunday meetings in one two-hour period, as outlined below. (For meeting schedule options, see [29.9](29-meetings-in-the-church.md#299-sunday-meeting-schedule)):
 
 * Sacrament meeting weekly
-* Priesthood quorum meetings on the second and fourth Sundays (for all priesthood holders, prospective elders, and unordained young men of Aaronic Priesthood age; young men typically join the deacons quorum in January of the year they turn 12; see [29.2.4](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number7-p74#title_number7))
+* Priesthood quorum meetings on the second and fourth Sundays (for all priesthood holders, prospective elders, and unordained young men of Aaronic Priesthood age; young men typically join the deacons quorum in January of the year they turn 12; see [29.2.4](29-meetings-in-the-church.md#2924-priesthood-quorum-meetings))
 * Relief Society on the second and fourth Sundays (for women ages 18 and older and for younger women who are married)
 * Young Women on the second and fourth Sundays (for young women ages 11–18; young women typically join the Young Women organization in January of the year they turn 12)
 * Primary weekly (for children ages 3–11; also for children ages 18 months through 2 years if a nursery is organized and parents want their children to attend)
@@ -57,18 +57,18 @@ Members of the bishopric plan sacrament meetings and conduct them in a reverent 
 
 The bishopric ensures that sacrament meetings begin and end on time. Meetings should not be overprogrammed. A sample agenda follows:
 
-1. Prelude music (see [19.4.3.1](/study/manual/general-handbook/19-music?lang=eng¶=title_number40-p41#title_number40) for guidelines)
+1. Prelude music (see [19.4.3.1](19-music.md#19431-prelude-and-postlude-music) for guidelines)
 2. Greeting and welcome
 3. Acknowledgment of presiding authorities, General Officers, visiting high councilors, or other leaders who are attending
 4. Announcements (most announcements should be printed or electronically distributed so they do not take time in sacrament meeting; the bishopric may give essential announcements briefly before the opening hymn)
 5. Opening hymn and prayer
 6. Ward and stake business, such as:
 
-	1. Sustaining and releasing officers and teachers (see [30.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number9-p26#title_number9) and [30.5](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number11-p41#title_number11))
-	2. Recognizing 8-year-old children and converts who have been baptized and confirmed (see [29.2.2.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number52-p59#title_number52))
-	3. Presenting names of brethren to receive or advance in the Aaronic Priesthood; brethren do not come to the podium but stand in the congregation as their names are presented and they are sustained (see [38.2.5.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number41-p141#title_number41))
-	4. Presenting names of new ward members (see [29.2.2.8](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number52-p59#title_number52))
-7. Naming and blessing children (usually in fast and testimony meeting) and confirming new converts (unless they were confirmed at the baptismal service; see [38.2.3.2](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number25-p65#title_number25))
+	1. Sustaining and releasing officers and teachers (see [30.3](30-callings-in-the-church.md#303-sustaining-members-in-church-callings) and [30.5](30-callings-in-the-church.md#305-releasing-members-from-church-callings))
+	2. Recognizing 8-year-old children and converts who have been baptized and confirmed (see [29.2.2.8](29-meetings-in-the-church.md#29228-introducing-new-members))
+	3. Presenting names of brethren to receive or advance in the Aaronic Priesthood; brethren do not come to the podium but stand in the congregation as their names are presented and they are sustained (see [38.2.5.2](38-church-policies-and-guidelines.md#38252-aaronic-priesthood-offices))
+	4. Presenting names of new ward members (see [29.2.2.8](29-meetings-in-the-church.md#29228-introducing-new-members))
+7. Naming and blessing children (usually in fast and testimony meeting) and confirming new converts (unless they were confirmed at the baptismal service; see [38.2.3.2](38-church-policies-and-guidelines.md#38232-converts))
 8. Sacrament hymn and administration of the sacrament
 9. Gospel messages and congregational singing or special musical selections
 10. Closing hymn and prayer
@@ -86,7 +86,7 @@ The bishopric encourages families to arrive on time and to sit together.
 
 #### 29.2.2.4 Blessing and Passing the Sacrament
 
-The bishopric ensures that the sacrament is blessed and passed in a reverent and orderly manner. The sacrament table should be prepared before the meeting begins. For instructions on preparing, blessing, and passing the sacrament, see [18.9](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number27-p132#title_number27).
+The bishopric ensures that the sacrament is blessed and passed in a reverent and orderly manner. The sacrament table should be prepared before the meeting begins. For instructions on preparing, blessing, and passing the sacrament, see [18.9](18-priesthood-ordinances-and-blessings.md#189-the-sacrament).
 
 #### 29.2.2.5 Selecting Subjects for Talks and Music
 
@@ -94,15 +94,15 @@ The bishopric selects subjects for talks and music in sacrament meetings. Talks 
 
 #### 29.2.2.6 Selecting and Orienting Participants
 
-_Selecting Participants._ The bishopric selects members to participate in sacrament meetings. Most opportunities to participate are given to ward members. If the bishopric invites members from outside the ward to speak, the guidelines in [38.8.22](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number154-p551#title_number154) should be followed.
+_Selecting Participants._ The bishopric selects members to participate in sacrament meetings. Most opportunities to participate are given to ward members. If the bishopric invites members from outside the ward to speak, the guidelines in [38.8.22](38-church-policies-and-guidelines.md#38822-guest-speakers-or-instructors) should be followed.
 
 Members of the bishopric regularly invite youth to speak in sacrament meeting. Youth should speak briefly (about five minutes each) on assigned gospel subjects. They should prepare their own talks, though the bishopric may encourage parents to help.
 
-The bishopric usually invites missionaries to speak in sacrament meeting just before they depart and when they return (see [24.8.1](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number22-p109#title_number22); [24.10.3.2](/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number81-p167#title_number81)). The bishopric makes it clear that this is a regular sacrament meeting and is not to be a missionary farewell or homecoming. The bishopric plans and conducts these meetings. Family members and friends of the missionary are not invited to speak. However, other departing or returning missionaries or other members may be invited to speak.
+The bishopric usually invites missionaries to speak in sacrament meeting just before they depart and when they return (see [24.8.1](24.md#2481-temple-recommends); [24.10.3.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number81-p167#title_number81)). The bishopric makes it clear that this is a regular sacrament meeting and is not to be a missionary farewell or homecoming. The bishopric plans and conducts these meetings. Family members and friends of the missionary are not invited to speak. However, other departing or returning missionaries or other members may be invited to speak.
 
 The bishopric schedules high councilors to speak as assigned by the stake president. The stake president determines the frequency of such assignments. It is not necessary for high councilors to speak in sacrament meeting every month.
 
-The bishopric schedules one sacrament meeting each year for the Primary children to take part in a Primary program (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng¶=title_number9-p75#title_number9)).
+The bishopric schedules one sacrament meeting each year for the Primary children to take part in a Primary program (see [12.2.1.2](12-primary.md#12212-gospel-learning)).
 
 Occasionally the bishopric may invite the full-time missionaries who are serving in the area to speak.
 
@@ -112,7 +112,7 @@ Members of the bishopric should extend invitations to speak in sacrament meeting
 
 _Orienting Participants._ Members of the bishopric orient sacrament meeting participants. They review the purposes of sacrament meeting and explain that all talks and music should be in harmony with the sacred nature of the sacrament.
 
-When inviting members to speak, a member of the bishopric clearly explains the subject and the length of time the person should speak. He counsels speakers to teach the doctrine of the gospel, relate faith-promoting experiences, bear witness of divinely revealed truths, and use the scriptures (see [Doctrine and Covenants 42:12](/study/scriptures/dc-testament/dc/42.12?lang=eng#p12); [52:9](/study/scriptures/dc-testament/dc/52.9?lang=eng#p9)). Speakers should teach in a spirit of love after prayerful preparation. They should not speak on subjects that are speculative, controversial, or out of harmony with Church doctrine.
+When inviting members to speak, a member of the bishopric clearly explains the subject and the length of time the person should speak. He counsels speakers to teach the doctrine of the gospel, relate faith-promoting experiences, bear witness of divinely revealed truths, and use the scriptures (see [Doctrine and Covenants 42:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.12?lang=eng#p12); [52:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/52.9?lang=eng#p9)). Speakers should teach in a spirit of love after prayerful preparation. They should not speak on subjects that are speculative, controversial, or out of harmony with Church doctrine.
 
 To maintain an atmosphere of reverent worship in sacrament meetings, when speakers use scriptures as part of their talks, they should not ask the congregation to open their own books to the scriptural references.
 
@@ -120,7 +120,7 @@ Members who participate in sacrament meeting should stay until the meeting ends.
 
 #### 29.2.2.7 Music
 
-See [19.4.3](/study/manual/general-handbook/19-music?lang=eng¶=title_number15-p44#title_number15) and [19.4.4](/study/manual/general-handbook/19-music?lang=eng¶=title_number16-p49#title_number16).
+See [19.4.3](19-music.md#1943-standard-musical-elements-in-church-worship-services) and [19.4.4](19-music.md#1944-sacrament-meetings).
 
 #### 29.2.2.8 Introducing New Members
 
@@ -130,11 +130,11 @@ After children who are members of record are baptized and confirmed, a member of
 
 #### 29.2.2.9 Visual Aids and Audiovisual Materials
 
-See [29.4](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number29-p167#title_number29) and [38.8.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number137-p452#title_number137).
+See [29.4](29-meetings-in-the-church.md#294-visual-aids-and-audiovisual-materials-in-church-meetings) and [38.8.5](38-church-policies-and-guidelines.md#3885-audiovisual-materials).
 
 #### 29.2.2.10 Sacrament Services in Unusual Situations
 
-Every member needs the spiritual blessings that come from partaking of the sacrament. If members are unable to attend sacrament meeting because they are confined to a home, nursing home, or hospital, the bishop may assign priesthood holders to prepare, bless, and pass the sacrament to these members. For instructions on administering the sacrament in other unusual circumstances, see [18.9.1](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number28-p248#title_number28).
+Every member needs the spiritual blessings that come from partaking of the sacrament. If members are unable to attend sacrament meeting because they are confined to a home, nursing home, or hospital, the bishop may assign priesthood holders to prepare, bless, and pass the sacrament to these members. For instructions on administering the sacrament in other unusual circumstances, see [18.9.1](18-priesthood-ordinances-and-blessings.md#1891-approval-to-administer-the-sacrament).
 
 Occasionally members may be unable to attend sacrament meeting because of distance to the meetinghouse. Under unusual circumstances, the bishop may occasionally give authorization for a sacrament service to be held away from the meetinghouse. He may authorize such a service only within his ward boundaries. The person whom the bishop authorizes to conduct the service must hold the Melchizedek Priesthood or be a priest in the Aaronic Priesthood. He also must be worthy to bless and pass the sacrament. The priesthood holder who directs the service reports to the bishop when the service has been held.
 
@@ -144,7 +144,7 @@ Sacrament services should not be held in conjunction with family reunions or oth
 
 ### 29.2.3 Fast and Testimony Meeting
 
-Usually on the first Sunday of each month, sacrament meeting is a fast and testimony meeting. When general conference, stake conference, or New Year’s Day (see [20.6.11](/study/manual/general-handbook/20-activities?lang=eng¶=title_number29-p119#title_number29)) is on a Sunday, fast and testimony meeting may need to be on a different Sunday.
+Usually on the first Sunday of each month, sacrament meeting is a fast and testimony meeting. When general conference, stake conference, or New Year’s Day (see [20.6.11](20-activities.md#20611-new-years-eve-parties)) is on a Sunday, fast and testimony meeting may need to be on a different Sunday.
 
 Under the bishop’s direction, in this meeting children may be named and blessed and confirmations may be performed before the administration of the sacrament.
 
@@ -158,7 +158,7 @@ Priesthood quorum meetings are held on the second and fourth Sundays. In these m
 
 On a fifth Sunday, the bishopric may direct the Aaronic Priesthood quorums or all priesthood holders to hold a combined meeting. The bishopric may also plan a fifth-Sunday meeting for all youth or all adults or for youth and adults together.
 
-For more information about priesthood quorum meetings, see [8.8](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number26-p124#title_number26) and [10.2.1.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng¶=title_number15-p41#title_number15).
+For more information about priesthood quorum meetings, see [8.8](8-elders-quorum.md#88-quorum-meetings) and [10.2.1.2](10-aaronic-priesthood.md#10212-gospel-learning).
 
 ### 29.2.5 Ward Conference
 
@@ -188,7 +188,7 @@ The ward priesthood executive committee (PEC) has been discontinued. Agenda item
 
 ### 29.2.8 Ward Council Meeting
 
-See [7.6](/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number9-p51#title_number9).
+See [7.6](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number9-p51#title_number9).
 
 ### 29.2.9 Ward Youth Council Meeting
 
@@ -196,9 +196,9 @@ The bishop presides over the ward youth council. This council is composed of the
 
 The bishopric may invite others to attend the council’s meetings as needed. These may include the other priests quorum assistant, counselors in quorum and class presidencies, quorum and class secretaries, counselors and secretary in the Young Women presidency, and the Aaronic Priesthood quorum advisers.
 
-The purpose of the ward youth council is to help individuals build testimonies, receive saving ordinances, keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5](/study/scriptures/bofm/moro/6.4-5?lang=eng#p4)).
+The purpose of the ward youth council is to help individuals build testimonies, receive saving ordinances, keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.4-5?lang=eng#p4)).
 
-The council usually meets monthly. The bishop may conduct this meeting, or he may assign one of his counselors, one of his priests quorum assistants, or the president of the oldest Young Women class to conduct it. Before each meeting, the bishop reviews and approves the agenda with the person who will be conducting. The agenda may include the items shared with the ward council. These items could include ministering, spiritual and temporal welfare, missionary work, convert retention, activation, temple and family history work, and gospel learning and teaching (see [7.6.2](/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number11-p42#title_number11)). The following items specific to youth may also be considered:
+The council usually meets monthly. The bishop may conduct this meeting, or he may assign one of his counselors, one of his priests quorum assistants, or the president of the oldest Young Women class to conduct it. Before each meeting, the bishop reviews and approves the agenda with the person who will be conducting. The agenda may include the items shared with the ward council. These items could include ministering, spiritual and temporal welfare, missionary work, convert retention, activation, temple and family history work, and gospel learning and teaching (see [7.6.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number11-p42#title_number11)). The following items specific to youth may also be considered:
 
 * Orient newly called quorum and class presidencies.
 * Identify questions, concerns, and challenges facing youth. Counsel together about ways to address them.
@@ -210,11 +210,11 @@ These council meetings should provide leadership opportunities and instruction f
 
 ### 29.2.10 Ward Young Single Adult Committee Meeting
 
-See [14.3.4](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number13-p33#title_number13).
+See [14.3.4](14-single-members.md#1434-ward-young-single-adult-committee).
 
 ### 29.2.11 Missionary Coordination Meeting
 
-See [23.1.5](/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng¶=title_number7-p28#title_number7).
+See [23.1.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng¶=title_number7-p28#title_number7).
 
 ## 29.3 Stake Meetings
 
@@ -232,14 +232,14 @@ The primary purpose of stake conference is to strengthen faith and testimony. Al
 
 Another purpose is to conduct stake business. In one stake conference each year, a member of the stake presidency presents general, area, and stake officers to be sustained, using the Officers Sustained form. He also presents the names of stake officers who have been released so the congregation can give an expression of thanks for their service. This business is normally conducted in the first stake conference each year unless a satellite broadcast is incorporated into that conference. In that case, the business is conducted in the second stake conference.
 
-If stake officers are called or released between stake conferences, they should be presented for a sustaining vote or an expression of thanks in the next stake conference unless this has been done in a stake general priesthood meeting (for callings indicated in the [Chart of Callings](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), 30.7) or in ward sacrament meetings (as outlined in [30.3](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number9-p26#title_number9)).
+If stake officers are called or released between stake conferences, they should be presented for a sustaining vote or an expression of thanks in the next stake conference unless this has been done in a stake general priesthood meeting (for callings indicated in the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), 30.7) or in ward sacrament meetings (as outlined in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-church-callings)).
 
-Brethren who have been recommended for ordination to the offices of elder and high priest are normally presented for a sustaining vote in a stake conference or a stake general priesthood meeting. Instructions are provided in [38.2.5.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number40-p126#title_number40).
+Brethren who have been recommended for ordination to the offices of elder and high priest are normally presented for a sustaining vote in a stake conference or a stake general priesthood meeting. Instructions are provided in [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices).
 
 Each stake conference normally includes the following meetings:
 
 1. A meeting of the Area Seventy or General Authority (if assigned), stake presidency, stake clerk, and stake executive secretary.
-2. A priesthood leadership meeting attended by the Area Seventy or General Authority (if assigned) and the brethren listed in [29.3.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number18-p128#title_number18). This meeting may be held on either Saturday or Sunday as determined by the presiding authority.
+2. A priesthood leadership meeting attended by the Area Seventy or General Authority (if assigned) and the brethren listed in [29.3.3](29-meetings-in-the-church.md#2933-stake-priesthood-leadership-meeting). This meeting may be held on either Saturday or Sunday as determined by the presiding authority.
 3. A Saturday evening session for all members of the stake who are 18 years of age and older. Temple presidents, stake patriarchs, and full-time mission presidents or their representatives who attend should sit on the stand. Depending on local circumstances, this session may be held on Sunday if approved by the presiding authority.
 4. A general session held on Sunday for all members and interested nonmembers. Temple presidents, stake patriarchs, and full-time mission presidents or their representatives who attend should sit on the stand. More than one Sunday general session may be held if facilities are not adequate to seat everyone in the same session. Primary children attend this session with their families, not in a separate meeting.
 
@@ -259,7 +259,7 @@ Planning includes making arrangements for adequate seating, ushering, and parkin
 
 #### 29.3.1.2 Music for Stake Conference
 
-See [19.6.1](/study/manual/general-handbook/19-music?lang=eng¶=title_number25-p69#title_number25).
+See [19.6.1](19-music.md#1961-stake-conferences).
 
 ### 29.3.2 Stake General Priesthood Meeting
 
@@ -269,11 +269,11 @@ The stake presidency uses these meetings to instruct and inspire priesthood hold
 
 In these meetings the stake presidency also conducts stake priesthood business, such as:
 
-* Presenting the names of brethren who have been recommended for ordination to the offices of elder and high priest and asking for a sustaining vote (see [38.2.7.1](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title46#title46)).
-* Presenting the names of newly called stake officers and asking for a sustaining vote (see the [Chart of Callings](/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), 30.7, for guidelines about who is to be presented for this vote).
+* Presenting the names of brethren who have been recommended for ordination to the offices of elder and high priest and asking for a sustaining vote (see [38.2.7.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title46#title46)).
+* Presenting the names of newly called stake officers and asking for a sustaining vote (see the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), 30.7, for guidelines about who is to be presented for this vote).
 ### 29.3.3 Stake Priesthood Leadership Meeting
 
-The stake presidency convenes a stake priesthood leadership meeting in connection with each stake conference (see [29.3.1, number 2](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=105#p105)). The presidency also convenes one other stake priesthood leadership meeting during the year, for a total of three such meetings annually. The purposes of these meetings are to teach priesthood leaders their duties, increase their abilities, and strengthen their faith.
+The stake presidency convenes a stake priesthood leadership meeting in connection with each stake conference (see [29.3.1, number 2](29-meetings-in-the-church.md#2931-stake-conference)). The presidency also convenes one other stake priesthood leadership meeting during the year, for a total of three such meetings annually. The purposes of these meetings are to teach priesthood leaders their duties, increase their abilities, and strengthen their faith.
 
 Brethren who attend this meeting include the stake presidency; high council; stake clerk (and assistant clerks as needed); stake executive secretary; stake Young Men presidency (and secretary as needed); bishoprics; ward clerks (and assistant clerks as needed); ward executive secretaries; elders quorum presidencies and secretaries; and, as needed, Aaronic Priesthood quorum advisers and specialists. The stake presidency may invite others to attend, including ward mission leaders and ward temple and family history leaders (if called).
 
@@ -290,7 +290,7 @@ In these groups, the stake presidency may provide instruction or invite high cou
 
 ### 29.3.4 Stake High Priests Quorum Meeting
 
-The stake presidency convenes a high priests quorum meeting for all members of the high priests quorum in the stake at least once a year. During this meeting, they teach quorum members the doctrine of the gospel (see [Alma 13:1–6](/study/scriptures/bofm/alma/13.1-6?lang=eng#p1)), instruct them in their duties, and conduct quorum business. An annual meeting of all ordained high priests in the stake is no longer held.
+The stake presidency convenes a high priests quorum meeting for all members of the high priests quorum in the stake at least once a year. During this meeting, they teach quorum members the doctrine of the gospel (see [Alma 13:1–6](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/13.1-6?lang=eng#p1)), instruct them in their duties, and conduct quorum business. An annual meeting of all ordained high priests in the stake is no longer held.
 
 ### 29.3.5 Stake Presidency Meeting
 
@@ -325,7 +325,7 @@ The stake council meets two to four times a year as needed. The agenda may inclu
 1. Receive instruction from the stake presidency on doctrine and duties.
 2. Counsel together about how to strengthen individuals and families, solve problems in the stake, and improve in areas such as leadership, retention, activation, and gospel instruction.
 3. Plan and report on the missionary efforts and temple and family history efforts in the stake.
-4. Counsel together about welfare matters. Plan how to encourage members to be self-reliant. Ensure that welfare resources within the stake are made available to the wards as needed. Develop and maintain a simple written plan for the stake to respond to emergencies. Additional information is provided in [22.5.3](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number42-p96#title_number42).
+4. Counsel together about welfare matters. Plan how to encourage members to be self-reliant. Ensure that welfare resources within the stake are made available to the wards as needed. Develop and maintain a simple written plan for the stake to respond to emergencies. Additional information is provided in [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies).
 5. Report on stake organizations and on stake activities and programs as needed.
 6. Coordinate the planning of stake programs and activities.
 7. Review the progress of the Perpetual Education Fund program where it is approved.
@@ -347,7 +347,7 @@ Stake activities should supplement ward activities, not compete with them. They 
 
 ### 29.3.10 Stake Bishops’ Welfare Council Meeting
 
-Information on the stake bishops’ welfare council is provided in [22.7](/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number75-p193#title_number75).
+Information on the stake bishops’ welfare council is provided in [22.7](22-providing-for-temporal-needs.md#227-stake-bishops-welfare-council).
 
 ### 29.3.11 Stake Leadership Meetings
 
@@ -359,21 +359,21 @@ The purposes of these meetings are to teach leaders their duties, instruct them 
 
 The structure of these meetings is flexible to provide the most effective instruction possible. Leaders from an organization may all meet together for instruction and sharing, or they may meet in smaller groups to consider specialized functions within their organization. If all organizations meet at the same time, they may come together for general instruction and then meet in separate groups to receive instruction from their organization leaders.
 
-The stake Young Men presidency does not hold a stake leadership meeting. Instead, bishoprics attend stake priesthood leadership meetings (see [29.3.3](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number18-p128#title_number18)). Aaronic Priesthood quorum advisers and specialists also attend as needed.
+The stake Young Men presidency does not hold a stake leadership meeting. Instead, bishoprics attend stake priesthood leadership meetings (see [29.3.3](29-meetings-in-the-church.md#2933-stake-priesthood-leadership-meeting)). Aaronic Priesthood quorum advisers and specialists also attend as needed.
 
 ### 29.3.12 Stake Young Single Adult Committee Meeting
 
-See [14.3.2](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number11-p26#title_number11).
+See [14.3.2](14-single-members.md#1432-stake-young-single-adult-committee).
 
 ### 29.3.13 Stake Single Adult Committee Meeting
 
-See [14.1.2](/study/manual/general-handbook/14-single-members?lang=eng¶=title_number4-p10#title_number4).
+See [14.1.2](14-single-members.md#1412-stake-single-adult-committee).
 
 ## 29.4 Visual Aids and Audiovisual Materials in Church Meetings
 
 Members should not use visual aids in sacrament meeting or stake conference. Such teaching methods are more appropriate in classroom settings and leadership meetings.
 
-For guidelines about using audiovisual materials in Church meetings, see [38.8.5](/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title_number137-p452#title_number137).
+For guidelines about using audiovisual materials in Church meetings, see [38.8.5](38-church-policies-and-guidelines.md#3885-audiovisual-materials).
 
 ## 29.5 Prayers in Church Meetings
 
@@ -395,9 +395,9 @@ Services for people who die vary greatly around the world according to religion,
 
 ### 29.6.1 Death and Mourning
 
-Death is an essential part of Heavenly Father’s plan of salvation (see [2 Nephi 9:6](/study/scriptures/bofm/2-ne/9.6?lang=eng#p6)). Each person must experience death in order to receive a perfected, resurrected body. Teaching and testifying about the plan of salvation, particularly the Savior’s Atonement and Resurrection, is an essential purpose of the services associated with a Church member’s death.
+Death is an essential part of Heavenly Father’s plan of salvation (see [2 Nephi 9:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9.6?lang=eng#p6)). Each person must experience death in order to receive a perfected, resurrected body. Teaching and testifying about the plan of salvation, particularly the Savior’s Atonement and Resurrection, is an essential purpose of the services associated with a Church member’s death.
 
-Death brings a need to comfort the living. As disciples of Jesus Christ, Church leaders and members “mourn with those that mourn … and comfort those that stand in need of comfort” ([Mosiah 18:9](/study/scriptures/bofm/mosiah/18.9?lang=eng#p9)).
+Death brings a need to comfort the living. As disciples of Jesus Christ, Church leaders and members “mourn with those that mourn … and comfort those that stand in need of comfort” ([Mosiah 18:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.9?lang=eng#p9)).
 
 In many cultures, mortician services, viewings of the body, and funerals are customary to help comfort the living and pay respectful tribute to the deceased. Where more appropriate culturally, most of these purposes could be accomplished in a family gathering, a graveside service, or another dignified and solemn setting.
 
@@ -415,9 +415,9 @@ When a member dies, the bishop visits the family to comfort them and offer assis
 
 The bishop may offer to help make mortuary and cemetery arrangements according to local laws and customs. As needed, he may offer help from the ward in providing local transportation for the family.
 
-The bishop notifies the elders quorum president so he and other brethren, including ministering brothers, can assist the bereaved family. Such assistance may include dressing the body of a deceased male for burial, safeguarding the home during the funeral, and providing other support (see [8.10.2](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number32-p138#title_number32)).
+The bishop notifies the elders quorum president so he and other brethren, including ministering brothers, can assist the bereaved family. Such assistance may include dressing the body of a deceased male for burial, safeguarding the home during the funeral, and providing other support (see [8.10.2](8-elders-quorum.md#8102-offering-support-at-times-of-death)).
 
-The bishop also notifies the Relief Society president so she and other sisters, including ministering sisters, can assist the family. Such assistance may include dressing the body of a deceased female for burial, helping with flowers, tending small children, safeguarding the home during the funeral, and preparing meals (see [9.10.3](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number43-p164#title_number43)).
+The bishop also notifies the Relief Society president so she and other sisters, including ministering sisters, can assist the family. Such assistance may include dressing the body of a deceased female for burial, helping with flowers, tending small children, safeguarding the home during the funeral, and preparing meals (see [9.10.3](9-relief-society.md#9103-offering-support-at-times-of-death)).
 
 ### 29.6.3 Viewings (Where Customary)
 
@@ -449,11 +449,11 @@ Music for funerals might include prelude music, an opening hymn, special musical
 
 ### 29.6.6 Burial or Cremation
 
-Where possible, deceased members who were endowed should be buried in temple clothing. Where cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body in the casket. Additional instructions on temple burial clothing and dressing the dead are provided in [8.10.2](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number32-p138#title_number32), [9.10.3](/study/manual/general-handbook/9-relief-society?lang=eng¶=title_number43-p164#title_number43), and [27.3.9](/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng¶=title_number20-p41#title_number20).
+Where possible, deceased members who were endowed should be buried in temple clothing. Where cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body in the casket. Additional instructions on temple burial clothing and dressing the dead are provided in [8.10.2](8-elders-quorum.md#8102-offering-support-at-times-of-death), [9.10.3](9-relief-society.md#9103-offering-support-at-times-of-death), and [27.3.9](27-temple-ordinances-for-the-living.md#2739-temple-burial-clothing).
 
-If possible, at least one member of the bishopric accompanies the cortege to the cemetery. If the grave will be dedicated, he consults with the family and asks a Melchizedek Priesthood holder to do so according to the instructions in [18.16](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number51-p229#title_number51). If the family prefers, a graveside prayer rather than a dedicatory prayer may be offered.
+If possible, at least one member of the bishopric accompanies the cortege to the cemetery. If the grave will be dedicated, he consults with the family and asks a Melchizedek Priesthood holder to do so according to the instructions in [18.16](18-priesthood-ordinances-and-blessings.md#1816-dedicating-graves). If the family prefers, a graveside prayer rather than a dedicatory prayer may be offered.
 
-The Church does not normally encourage cremation. However, if the body of an endowed member is being cremated, it should be dressed in temple clothing if possible. For information about dedicating the place where the ashes are kept, see [18.16.2](/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng¶=title_number53-p229#title_number53).
+The Church does not normally encourage cremation. However, if the body of an endowed member is being cremated, it should be dressed in temple clothing if possible. For information about dedicating the place where the ashes are kept, see [18.16.2](18-priesthood-ordinances-and-blessings.md#18162-instructions).
 
 ### 29.6.7 Financial Policies
 
@@ -491,14 +491,14 @@ Bishops may offer the use of Church meetinghouses for the funeral services of no
 | Stake conference | Strengthen faith and testimony, provide gospel instruction, and conduct stake business. | General Authority or Area Seventy (if assigned), stake presidency, and all members in the stake | Twice each year |
 | Stake general priesthood meeting | Instruct and inspire priesthood holders and conduct stake priesthood business. | All priesthood holders, prospective elders, and unordained young men of Aaronic Priesthood age in the stake | Once each year |
 | Stake priesthood leadership meeting | Teach priesthood leaders their duties, increase their abilities, and build their faith. | Stake presidency; high council; stake clerk (and assistant clerks as needed); stake executive secretary; stake Young Men presidency (and secretary as needed); bishoprics; ward clerks (and assistant clerks as needed); ward executive secretaries; elders quorum presidencies and secretaries; ward mission leaders and ward temple and family history leaders (if called and as needed); Aaronic Priesthood quorum advisers and specialists (as needed); and others as invited | Three times a year (twice in connection with stake conference) |
-| Stake high priests quorum meeting | Conduct quorum business and instruct quorum members in their duties. | High priests quorum (see [8.1.2](/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number4-p15#title_number4); this meeting is not held in districts) | At least once each year |
+| Stake high priests quorum meeting | Conduct quorum business and instruct quorum members in their duties. | High priests quorum (see [8.1.2](8-elders-quorum.md#812-melchizedek-priesthood-quorums); this meeting is not held in districts) | At least once each year |
 | Stake presidency meeting | Review, plan, and consider matters affecting the stake. | Stake presidency, stake clerk, stake executive secretary, and others as invited | Regularly |
 | High council meeting | Receive instruction, give reports, conduct business, and counsel together. | Stake presidency, high council, stake clerk, stake executive secretary, and others as invited | Twice monthly, where feasible |
 | Stake council meeting | Receive instruction, counsel together, give reports, and coordinate planning of stake programs and activities. | Stake presidency; high council; stake clerk; stake executive secretary; stake Relief Society, Young Men, Young Women, Primary, and Sunday School presidents; and others as invited | Two to four times a year as needed |
 | Meeting with bishoprics | Instruct bishoprics, review policies, and counsel together. | Stake presidency, bishoprics, stake clerk, and stake executive secretary | One to four times a year as needed |
 | Stake Aaronic Priesthood–Young Women committee meeting | Plan stake-sponsored combined activities for young men and young women. | A counselor in the stake presidency, high councilors assigned to the Young Women and Primary, stake Young Men presidency and secretary, stake Young Women presidency and secretary, stake Sunday School president (as needed), and youth and others (as invited) | At least quarterly |
 | Stake bishops’ welfare council meeting | Receive instruction in welfare matters. Exchange ideas and experiences. Review trends in fast-offering contributions, welfare needs, and welfare assistance. Identify work opportunities for those who receive assistance. Identify welfare resources in the community. Evaluate Church welfare operations. Coordinate welfare assignments. | All bishops and branch presidents in the stake (the stake president appoints one bishop to be chairman); stake president (occasionally); welfare specialists as needed | At least quarterly |
-| Stake leadership meeting (for Relief Society, Young Women, Primary, and Sunday School) | Teach ward organization leaders their duties, instruct them in teaching and leadership skills, strengthen their faith, and share ideas. | Stake presidency member (if desired); high councilor assigned to the organization; stake organization presidency and secretary; ward organization presidencies and secretaries; other ward organization leaders, teachers, advisers, and specialists (as needed); bishopric members assigned to the organization (as needed) | Once each year for each organization, or twice with the stake president’s approval (see [29.3.11](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng¶=title_number26-p163#title_number26)) |
+| Stake leadership meeting (for Relief Society, Young Women, Primary, and Sunday School) | Teach ward organization leaders their duties, instruct them in teaching and leadership skills, strengthen their faith, and share ideas. | Stake presidency member (if desired); high councilor assigned to the organization; stake organization presidency and secretary; ward organization presidencies and secretaries; other ward organization leaders, teachers, advisers, and specialists (as needed); bishopric members assigned to the organization (as needed) | Once each year for each organization, or twice with the stake president’s approval (see [29.3.11](29-meetings-in-the-church.md#29311-stake-leadership-meetings)) |
 | Stake young single adult committee meeting | Address the needs of young single adults in the stake. Provide opportunities for young single adults to come together for service, gospel learning, and sociality beyond their wards. Ensure that ward young single adult committees are functioning well in wards where they are established. | A counselor in the stake presidency, the high councilor assigned to young single adults, a member of the stake Relief Society presidency, stake young single adult advisers, and ward young single adult leaders (if they are called) or other young single adults in the stake | As needed |
 | Stake single adult committee meeting | Address the needs of single adults in the stake. As needed, provide opportunities for single adults to come together for service, gospel learning, and sociality beyond their wards. | A counselor in the stake presidency, a high councilor, a member of the stake Relief Society presidency, and several single adults | As needed |
 
@@ -508,11 +508,11 @@ Bishops may offer the use of Church meetinghouses for the funeral services of no
 | --- | --- | --- | --- |
 | 60 min. | Sacrament meeting |
 | 10 min. | Transition to classes or meetings |
-| 50 min. | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng¶=title_number9-p75#title_number9) for details)First and third Sundays: Sunday SchoolSecond and fourth Sundays: Priesthood quorum, Relief Society, and Young Women meetingsFifth Sundays: Youth meetings, adult meetings, or youth and adult meetings under the direction of the bishop. The bishopric determines the subject to be taught and the teacher or teachers (usually members of the ward or stake). They also determine whether youth and adults, men and women, and young men and young women meet separately or combined. |
+| 50 min. | All Sundays: Primary, including nursery (see [12.2.1.2](12-primary.md#12212-gospel-learning) for details)First and third Sundays: Sunday SchoolSecond and fourth Sundays: Priesthood quorum, Relief Society, and Young Women meetingsFifth Sundays: Youth meetings, adult meetings, or youth and adult meetings under the direction of the bishop. The bishopric determines the subject to be taught and the teacher or teachers (usually members of the ward or stake). They also determine whether youth and adults, men and women, and young men and young women meet separately or combined. |
 
 | Plan 2 (2 hours) | | Plan 2 (2 hours) | |
 | --- | --- | --- | --- |
-| 50 min. | All Sundays: Primary, including nursery (see [12.2.1.2](/study/manual/general-handbook/12-primary?lang=eng¶=title_number9-p75#title_number9) for details)First and third Sundays: Sunday SchoolSecond and fourth Sundays: Priesthood quorum, Relief Society, and Young Women meetingsFifth Sundays: Youth meetings, adult meetings, or youth and adult meetings under the direction of the bishop. The bishopric determines the subject to be taught and the teacher or teachers (usually members of the ward or stake). They also determine whether youth and adults, men and women, and young men and young women meet separately or combined. |
+| 50 min. | All Sundays: Primary, including nursery (see [12.2.1.2](12-primary.md#12212-gospel-learning) for details)First and third Sundays: Sunday SchoolSecond and fourth Sundays: Priesthood quorum, Relief Society, and Young Women meetingsFifth Sundays: Youth meetings, adult meetings, or youth and adult meetings under the direction of the bishop. The bishopric determines the subject to be taught and the teacher or teachers (usually members of the ward or stake). They also determine whether youth and adults, men and women, and young men and young women meet separately or combined. |
 | 10 min. | Transition to sacrament meeting |
 | 60 min. | Sacrament meeting |
 

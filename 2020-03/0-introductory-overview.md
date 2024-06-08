@@ -2,9 +2,9 @@
 
 ## 0.0 Introduction
 
-The Lord taught, “Let every man learn his duty, and to act in the office in which he is appointed, in all diligence” ([Doctrine and Covenants 107:99](/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)). As a leader in The Church of Jesus Christ of Latter-day Saints, you should seek personal revelation to help you learn and fulfill the duties of your calling.
+The Lord taught, “Let every man learn his duty, and to act in the office in which he is appointed, in all diligence” ([Doctrine and Covenants 107:99](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)). As a leader in The Church of Jesus Christ of Latter-day Saints, you should seek personal revelation to help you learn and fulfill the duties of your calling.
 
-Studying the scriptures and the teachings of latter-day prophets will help you understand and fulfill your duties. As you study the words of God, you will be more receptive to the influence of the Spirit (see [Doctrine and Covenants 84:85](/study/scriptures/dc-testament/dc/84.85?lang=eng#p85)).
+Studying the scriptures and the teachings of latter-day prophets will help you understand and fulfill your duties. As you study the words of God, you will be more receptive to the influence of the Spirit (see [Doctrine and Covenants 84:85](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.85?lang=eng#p85)).
 
 You also learn your duties by studying the instructions in this handbook. These instructions can invite revelation if they are used to provide an understanding of principles, policies, and procedures to apply while seeking the guidance of the Spirit.
 
@@ -44,7 +44,7 @@ Leaders seek inspiration about which guidelines and optional resources to use to
 
 ## 0.3 Updates
 
-This handbook will be updated periodically. A list of recent changes is available in the “[Summary of Recent Updates](/study/manual/general-handbook/summary-of-recent-updates?lang=eng).”
+This handbook will be updated periodically. A list of recent changes is available in the “[Summary of Recent Updates](https://www.churchofjesuschrist.org/study/manual/general-handbook/summary-of-recent-updates?lang=eng).”
 
 ## 0.4 Questions about Instructions
 

@@ -2,17 +2,17 @@
 
 ## 21.0 Introduction
 
-Ministering means serving others as the Savior did (see [Matthew 20:26–28](/study/scriptures/nt/matt/20.26-28?lang=eng#p26)). He loved, taught, prayed for, comforted, and blessed those around Him (see [Acts 10:38](/study/scriptures/nt/acts/10.38?lang=eng#p38)). As disciples of Jesus Christ, we seek to minister to God’s children.
+Ministering means serving others as the Savior did (see [Matthew 20:26–28](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/20.26-28?lang=eng#p26)). He loved, taught, prayed for, comforted, and blessed those around Him (see [Acts 10:38](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/10.38?lang=eng#p38)). As disciples of Jesus Christ, we seek to minister to God’s children.
 
-The Lord wants all members of His Church to receive such care. For this reason, priesthood holders are assigned as ministering brothers to each member household. Ministering sisters are assigned to each adult sister. These assignments help ensure that Church members are remembered and cared for (see [Moroni 6:4](/study/scriptures/bofm/moro/6.4?lang=eng#p4)).
+The Lord wants all members of His Church to receive such care. For this reason, priesthood holders are assigned as ministering brothers to each member household. Ministering sisters are assigned to each adult sister. These assignments help ensure that Church members are remembered and cared for (see [Moroni 6:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.4?lang=eng#p4)).
 
-Ministering is an important way we keep the commandments to love God and to love our neighbors (see [Matthew 22:36–40](/study/scriptures/nt/matt/22.36-40?lang=eng#p36)). It is also a vital way to help accomplish the work of salvation and exaltation.
+Ministering is an important way we keep the commandments to love God and to love our neighbors (see [Matthew 22:36–40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.36-40?lang=eng#p36)). It is also a vital way to help accomplish the work of salvation and exaltation.
 
-Elders quorum and Relief Society presidencies help ministering brothers and sisters learn how to minister to others. They also give inspiration, guidance, and support. They can do this in ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&para=title_number4-p29#title_number4)), in Sunday meetings, and in personal conversations. They seek inspiration from the scriptures, this chapter, and [ministering.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/ministering).
+Elders quorum and Relief Society presidencies help ministering brothers and sisters learn how to minister to others. They also give inspiration, guidance, and support. They can do this in ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)), in Sunday meetings, and in personal conversations. They seek inspiration from the scriptures, this chapter, and [ministering.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/ministering).
 
 ## 21.1 Responsibilities of Ministering Sisters and Brothers
 
-Ministering sisters and brothers represent the Lord. They also help members feel the love and support of the bishop and Relief Society or quorum leaders. They are to “watch over” Church members and “be with and strengthen them” ([Doctrine and Covenants 20:53](/study/scriptures/dc-testament/dc/20.53?lang=eng#p53)).
+Ministering sisters and brothers represent the Lord. They also help members feel the love and support of the bishop and Relief Society or quorum leaders. They are to “watch over” Church members and “be with and strengthen them” ([Doctrine and Covenants 20:53](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.53?lang=eng#p53)).
 
 Ministering sisters and brothers have the following responsibilities for the individuals and families assigned to them:
 
@@ -21,7 +21,7 @@ Ministering sisters and brothers have the following responsibilities for the ind
 * Discern needs and provide Christlike love, caring, and service. Offer help and comfort in times of spiritual or temporal need. Discuss needs during ministering interviews and at other times.
 * Help them become spiritually and temporally self-reliant.
 
-For more about the responsibilities of ministering sisters and brothers, see [James 1:27](/study/scriptures/nt/james/1.27?lang=eng#p27), [Mosiah 23:18](/study/scriptures/bofm/mosiah/23.18?lang=eng#p18), and [Doctrine and Covenants 20:47, 59](/study/scriptures/dc-testament/dc/20.47,59?lang=eng#p47).
+For more about the responsibilities of ministering sisters and brothers, see [James 1:27](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1.27?lang=eng#p27), [Mosiah 23:18](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/23.18?lang=eng#p18), and [Doctrine and Covenants 20:47, 59](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.47,59?lang=eng#p47).
 
 Ministering sisters and brothers prayerfully seek the guidance of the Spirit. They also counsel with those they serve to understand how best to help them meet their needs.
 
@@ -31,7 +31,7 @@ There may be needs that ministering brothers or sisters cannot meet alone. In su
 
 ## 21.2 Organizing Ministering
 
-The Savior gave His disciples meaningful assignments (see [Luke 10:1–17](/study/scriptures/nt/luke/10.1-17?lang=eng#p1); see also [4.2.6](/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&para=title_number10-p43#title_number10) in this handbook). Following this pattern, we receive assignments to minister to specific individuals and families. An organized approach to ministering helps give each person opportunities to feel the Savior’s love.
+The Savior gave His disciples meaningful assignments (see [Luke 10:1–17](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/10.1-17?lang=eng#p1); see also [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-prepare-others-to-be-leaders-and-teachers) in this handbook). Following this pattern, we receive assignments to minister to specific individuals and families. An organized approach to ministering helps give each person opportunities to feel the Savior’s love.
 
 ### 21.2.1 Making Assignments
 
@@ -40,7 +40,7 @@ Elders quorum and Relief Society presidencies prayerfully consider assignments f
 When making these decisions, leaders consider the following:
 
 * Dedicated ministering brothers and sisters should be assigned to members who have the greatest need. These may include new members, single parents, widows, widowers, and less-active members.
-* Youth may serve as companions to adults according to the guidelines in [21.2.2](/study/manual/general-handbook/21-ministering?lang=eng&para=title_number7-p64#title_number7).
+* Youth may serve as companions to adults according to the guidelines in [21.2.2](21-ministering.md#2122-ministering-assignments-for-youth).
 * A married couple may be assigned to minister together to a person or family.
 * Stake presidencies and bishoprics care for all members of the stake or ward. Because of this, they are generally not assigned as ministering brothers. The stake president determines whether high councilors and functioning patriarchs are assigned.
 
@@ -48,7 +48,7 @@ After the bishop has given approval, a member of the elders quorum presidency ex
 
 These leaders counsel with the ministering brothers or sisters about the strengths, needs, and challenges of those to whom they will minister. Leaders encourage ministering brothers or sisters to understand the needs of those to whom they are assigned, then seek inspiration about how best to serve.
 
-Ministering brothers and sisters are not called, sustained, or set apart. Their service is part of the covenant they made at baptism (see [Mosiah 18:8–11](/study/scriptures/bofm/mosiah/18.8-11?lang=eng#p8)).
+Ministering brothers and sisters are not called, sustained, or set apart. Their service is part of the covenant they made at baptism (see [Mosiah 18:8–11](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.8-11?lang=eng#p8)).
 
 ### 21.2.2 Ministering Assignments for Youth
 
@@ -58,7 +58,7 @@ A young woman may serve as a ministering companion to a Relief Society sister wh
 
 It is often a blessing to a sister to have a young woman minister to her. It can also be a blessing to the young woman.
 
-A young man serves as a ministering companion to a Melchizedek Priesthood holder when he is ordained to the office of teacher or priest. The bishop determines whether the young man is worthy and prepared to be ordained. (See [10.1.3.2](/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&para=title_number8-p16#title_number8).) The elders quorum presidency counsels with the young man, his parents, and the bishopric as they consider ministering assignments.
+A young man serves as a ministering companion to a Melchizedek Priesthood holder when he is ordained to the office of teacher or priest. The bishop determines whether the young man is worthy and prepared to be ordained. (See [10.1.3.2](10-aaronic-priesthood.md#10132-teachers-quorum).) The elders quorum presidency counsels with the young man, his parents, and the bishopric as they consider ministering assignments.
 
 In some cases, youth may be assigned as a third member of a ministering companionship. Leaders may assign the youth to help minister to some or all of the individuals and families assigned to the companionship.
 
@@ -74,7 +74,7 @@ If the mission president approves, full-time missionaries can help with minister
 
 ## 21.3 Ministering Interviews
 
-The Savior had a simple yet profound interview with Peter about feeding His sheep (see [John 21:15–17](/study/scriptures/nt/john/21.15-17?lang=eng#p15)). Ministering interviews can be a similar opportunity. They also allow leaders to set an example of ministering.
+The Savior had a simple yet profound interview with Peter about feeding His sheep (see [John 21:15–17](https://www.churchofjesuschrist.org/study/scriptures/nt/john/21.15-17?lang=eng#p15)). Ministering interviews can be a similar opportunity. They also allow leaders to set an example of ministering.
 
 The elders quorum president and his counselors interview ministering brothers. The Relief Society president and her counselors interview ministering sisters. A married couple assigned to minister together can meet with elders quorum or Relief Society leaders or both.
 
@@ -95,10 +95,10 @@ Leaders use [Leader and Clerk Resources](http://lcr.churchofjesuschrist.org) to 
 
 The Relief Society and the elders quorum share the work of ministering. They do this work in unity.
 
-Relief Society and elders quorum presidencies meet together at least quarterly. They review what they have learned in ministering interviews (see [21.3](/study/manual/general-handbook/21-ministering?lang=eng&para=title_number4-p29#title_number4)). They also coordinate ministering assignments. The two presidents share the responsibility of organizing and conducting the meeting.
+Relief Society and elders quorum presidencies meet together at least quarterly. They review what they have learned in ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)). They also coordinate ministering assignments. The two presidents share the responsibility of organizing and conducting the meeting.
 
 In units with few active members, the Relief Society and elders quorum presidencies may decide not to assign both ministering sisters and ministering brothers to some members. Leaders make this decision together and seek the bishop’s approval. If a sister is assigned ministering sisters but not ministering brothers, leaders ensure that she has someone she can ask for a priesthood blessing.
 
 The Relief Society and elders quorum presidents meet together at least quarterly with the bishop. They discuss the needs of ward members. They also talk about possible changes in ministering assignments.
 
-When needed, Relief Society and elders quorum presidents discuss with the ward council information shared by ministering sisters and brothers. As they do, they respect members’ requests for confidentiality. As coordinated by the bishop, the ward council makes plans to serve and bless ward members. The ward youth council also discusses ministering (see [29.2.6](/study/manual/general-handbook/29-meetings-in-the-church?lang=eng&para=title_number9-p63#title_number9)).
+When needed, Relief Society and elders quorum presidents discuss with the ward council information shared by ministering sisters and brothers. As they do, they respect members’ requests for confidentiality. As coordinated by the bishop, the ward council makes plans to serve and bless ward members. The ward youth council also discusses ministering (see [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting)).
