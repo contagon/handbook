@@ -297,4 +297,4 @@ Members who are 21 or older must be endowed and have a current temple recommend
 
 Married members who are younger than 21 do not need to be endowed to observe such sealings. However, they must have a current temple recommend (see [26.4.4]).
 
-The stake president may authorize a person who has not been baptized or endowed due to intellectual disabilities to observe the sealing of living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the sealing of their living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
