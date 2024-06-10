@@ -22,7 +22,7 @@ Married women under 18 are also members of Relief Society.
 
 For information about unwed parents under age 18, see [38.1.5].
 
-### 9.1.3 [[AO]]Adapting to Local Needs
+### 9.1.3 [[AO]] Adapting to Local Needs
 
 Some wards have a very large number of active adult women. For these wards, the bishop and stake president may authorize having more than one ward Relief Society. Each Relief Society has its own presidency. If possible, each Relief Society should have members with a variety of ages and experience.
 
@@ -157,7 +157,7 @@ Some small units may not have a Young Women or Primary president. In these units
 
 The Relief Society president has the following responsibilities. Her counselors assist her.
 
-* Serve on the ward council. She serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Relief Society (see [7.6.1]).
+* Serve on the ward council. She serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Relief Society (see [29.2.5]).
 * Lead the Relief Society’s efforts to participate in the work of salvation and exaltation (see [chapter 1]).
 * Organize and oversee the service of ministering sisters. Coordinate ministering assignments with the elders quorum presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21].
 * Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources].
@@ -226,7 +226,7 @@ When young adults join Relief Society, the Relief Society presidency gives them 
 
 ## 9.5 Stake Relief Society Leaders
 
-The stake president calls and sets apart a woman to serve as the stake Relief Society president. If a stake is large enough, she recommends one or two women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Relief Society presidency and secretary, see [5.7.1] and [5.7.3].
+The stake president calls and sets apart a woman to serve as the stake Relief Society president. If a stake is large enough, she recommends one or two women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Relief Society presidency and secretary, see [6.7.1] and [6.7.3].
 
 The stake president meets regularly (usually monthly) with the stake Relief Society president or presidency. They counsel together about the work of salvation and exaltation. They also discuss (1) the progress and needs of sisters in the stake and (2) Relief Society meetings, instruction, and activities.
 

@@ -29,7 +29,7 @@ A member of the bishopric presents Sunday School presidency members in sacrament
 
 The Sunday School president has the following responsibilities. If he has counselors, they assist him.
 
-* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [7.6.1]).
+* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [29.2.5]).
 * Oversee efforts to improve gospel learning and teaching at home and at church.
 * Organize Sunday School classes, with the bishopric’s approval (see [13.3]). Recommend to the bishopric adult members to serve as Sunday School teachers.
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way]. Encourage them to study [Teaching in the Savior’s Way].
@@ -95,7 +95,7 @@ The ward council may organize teacher council meetings for parents to help them 
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also assigns a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [5.7.1] and [5.7.3]. If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [6.7.1] and [6.7.3]. If counselors are called, they assist him.
 
 ## 13.7 Additional Guidelines
 
