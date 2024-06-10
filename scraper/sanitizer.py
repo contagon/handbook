@@ -1,22 +1,22 @@
 import re
-import os
+from pathlib import Path
 
 TITLE_NUM_REGEX = "(\d{1,2}(\.?\d{0,2}){0,3})"
 
 
 class LinkSanitizer:
-    def __init__(self, dir, rm_links) -> None:
+    def __init__(self, dir: Path, rm_links: bool) -> None:
         self.dir = dir
         self.rm_links = rm_links
         self.cache = {}  # map section # to header slug
         self.files = {}  # map filename to markdown
 
-        with open("missing.md", "r") as f:
+        with open(self.dir.parent / "missing.md", "r") as f:
             self.missing = f.read().splitlines()
         self.missing = [
-            re.search("/(\d+)[\.\-]", x).group(1)
+            re.search("(\d+)[\.\-]", x.split("/")[-1]).group(1)
             for x in self.missing
-            if x.startswith(self.dir)
+            if x.startswith(str(self.dir))
         ]
 
     def cache_headers(self, text: str, filename: str):
@@ -88,19 +88,19 @@ class LinkSanitizer:
 
     def run(self):
         # Load in all files
-        for filename in os.listdir(self.dir):
-            with open(os.path.join(self.dir, filename), "r") as f:
+        for filename in self.dir.iterdir():
+            with open(filename, "r") as f:
                 self.files[filename] = f.read()
 
         # Cache headers
         for filename, text in self.files.items():
-            self.cache_headers(text, filename)
+            self.cache_headers(text, filename.name)
 
         # Process links
         for k in self.files.keys():
-            self.files[k] = self.process_links(self.files[k], k)
+            self.files[k] = self.process_links(self.files[k], k.name)
 
         # Resave
         for filename, text in self.files.items():
-            with open(os.path.join(self.dir, filename), "w") as f:
+            with open(filename, "w") as f:
                 f.write(text)

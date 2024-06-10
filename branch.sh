@@ -14,12 +14,12 @@ python run.py sanitize --date all --rm-links
 
 # Create new branch
 git checkout -b diff
-git rm --cached -r 202*
+git rm --cached -r editions/*
 git commit add .
 git commit -m "Remove md directories"
 
 # Make all commits & tags
-for dir in 202*; do
+for dir in editions/202*; do
     rm -rf handbook
     mv $dir handbook
     git add handbook

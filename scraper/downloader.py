@@ -3,10 +3,10 @@ import requests
 from markdownify import MarkdownConverter
 from markdownify import ATX, UNDERSCORE
 import re
-import os
 import datetime
 from . import const
 from time import sleep
+from pathlib import Path
 
 
 class HandbookConverter(MarkdownConverter):
@@ -36,12 +36,12 @@ class HandbookConverter(MarkdownConverter):
 
 
 class HandbookDownloader:
-    def __init__(self, dir=""):
+    def __init__(self, dir: Path):
         self.converter = HandbookConverter(
             heading_style=ATX, strong_em_symbol=UNDERSCORE
         )
         self.dir = dir
-        os.makedirs(self.dir, exist_ok=True)
+        self.dir.mkdir(exist_ok=True)
 
     def convert(self, soup):
         # Remove extra header in body of tables
@@ -93,10 +93,9 @@ class HandbookDownloader:
 
     def get_page(self, date, page):
         # download page
-        filename = page + ".md"
-        filename = os.path.join(self.dir, filename)
+        filename = self.dir / f"{page}.md"
 
-        if os.path.exists(filename):
+        if filename.exists():
             print(f"{filename} already exists, skipping")
             return
 

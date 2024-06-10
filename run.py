@@ -3,14 +3,14 @@ from scraper.sanitizer import LinkSanitizer
 from scraper.filler import FillMissing
 from scraper import const
 import argparse
-import os
+from pathlib import Path
 
 
-def download(date):
+def download(dir: Path):
+    date = dir.stem
     print(f"------------ Starting {date} ------------")
-    os.makedirs(date, exist_ok=True)
 
-    downloader = HandbookDownloader(date)
+    downloader = HandbookDownloader(dir)
     for page in const.PAGES:
         try:
             downloader.get_page(date, page)
@@ -19,16 +19,16 @@ def download(date):
             print(e)
 
 
-def sanitize(date, rm_links):
+def sanitize(dir: Path, rm_links: bool):
+    date = dir.stem
     print(f"------------ Sanitizing {date} ------------")
-    os.makedirs(date, exist_ok=True)
 
-    sanitizer = LinkSanitizer(date, rm_links)
+    sanitizer = LinkSanitizer(dir, rm_links)
     sanitizer.run()
 
 
-def missing(fill):
-    missing = FillMissing()
+def missing(dir: Path, fill: bool):
+    missing = FillMissing(dir)
     for date in const.DATES:
         print(f"------------ Finding missing {date} ------------")
         missing.find_missing(date)
@@ -37,7 +37,7 @@ def missing(fill):
     perc = 100 * len(missing.missing) / (len(const.DATES) * len(const.PAGES))
     print()
     print(f"Missing {perc:.2f}% of links.")
-    missing.save_missing("missing.md")
+    missing.save_missing()
 
     if fill:
         missing.fill()
@@ -45,6 +45,9 @@ def missing(fill):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--dir", default=Path("editions"), type=Path, help="Directory to save data."
+    )
     subparsers = parser.add_subparsers(
         help="Type of operation to perform", dest="operation"
     )
@@ -80,19 +83,26 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    # ------------------------- Run things ------------------------- #
+    args.dir.mkdir(exist_ok=True)
+
     if args.operation == "missing":
-        missing(args.fill)
+        missing(args.dir, args.fill)
 
     elif args.operation == "download":
         if args.date == "all":
-            for date in const.DATES[::-1]:
-                download(date)
+            dates = const.DATES[::-1]
         else:
-            download(args.date)
+            dates = [args.date]
+
+        for d in dates:
+            download(args.dir / d)
 
     elif args.operation == "sanitize":
         if args.date == "all":
-            for date in const.DATES[::-1]:
-                sanitize(date, args.rm_links)
+            dates = const.DATES[::-1]
         else:
-            sanitize(args.date, args.rm_links)
+            dates = [args.date]
+
+        for d in dates:
+            sanitize(args.dir / d, args.rm_links)
