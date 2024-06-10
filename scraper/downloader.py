@@ -5,7 +5,7 @@ from markdownify import ATX, UNDERSCORE
 import re
 import os
 import datetime
-import const
+from . import const
 from time import sleep
 
 

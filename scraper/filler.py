@@ -1,4 +1,4 @@
-import const
+from . import const
 import os
 import shutil
 

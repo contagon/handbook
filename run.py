@@ -1,9 +1,9 @@
-from download import HandbookDownloader
-from sanitize import LinkSanitizer
-from missing import FillMissing
+from scraper.downloader import HandbookDownloader
+from scraper.sanitizer import LinkSanitizer
+from scraper.filler import FillMissing
+from scraper import const
 import argparse
 import os
-import const
 
 
 def download(date):
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     missing_parser.add_argument(
         "--fill",
         action="store_true",
-        help="If missing links should be filled. Otherwise creates a file of missing links.",
+        help="If missing files should be filled. Otherwise creates a file of missing links.",
     )
 
     # ------------------------- Sanitizer ------------------------- #

@@ -30,3 +30,4 @@ done
 # Push changes
 git push -u origin diff
 git push --tags
+git checkout master
