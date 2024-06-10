@@ -18,7 +18,7 @@ class FillMissing:
                 self.missing.append(filename)
                 print(page)
 
-    def save_missing(self, file: str = "missing.md"):
+    def save_missing(self, file: str = "missing.txt"):
         # Save the missing files
         with open(self.dir / file, "w") as f:
             for filename in self.missing:

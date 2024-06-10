@@ -4,7 +4,8 @@
 git checkout master
 git push -d origin diff
 git branch -D diff
-for dir in 202*; do
+for dir in editions/202*; do
+    dir=${dir#editions/}
     git tag -d ${dir}
     git push origin --delete ${dir}
 done
@@ -23,6 +24,7 @@ for dir in editions/202*; do
     rm -rf handbook
     mv $dir handbook
     git add handbook
+    dir=${dir#editions/}
     git commit -m "${dir} Edition"
     git tag -a ${dir} -m "${dir} Edition"
 done
@@ -30,4 +32,5 @@ done
 # Push changes
 git push -u origin diff
 git push --tags
+rm editions/missing.txt
 git checkout master

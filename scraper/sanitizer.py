@@ -11,7 +11,7 @@ class LinkSanitizer:
         self.cache = {}  # map section # to header slug
         self.files = {}  # map filename to markdown
 
-        with open(self.dir.parent / "missing.md", "r") as f:
+        with open(self.dir.parent / "missing.txt", "r") as f:
             self.missing = f.read().splitlines()
         self.missing = [
             re.search("(\d+)[\.\-]", x.split("/")[-1]).group(1)
