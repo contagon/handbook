@@ -1,6 +1,6 @@
 # LDS Handbook Tracker
 
-A simple scraper for tracking changes of the General Handbook of the Church of Jesus Christ of Latter-Day Saints (LDS Church) General Handbook using git diff. 
+A simple scraper for tracking changes of the General Handbook of the Church of Jesus Christ of Latter-Day Saints (LDS Church) using git diff. 
 
 For those not familiar with the church, I recommend you check out [the church's website](https://www.churchofjesuschrist.org/welcome/what-do-latter-day-saints-believe?lang=eng) for more information. It is a worldwide church, with volunteer-based clergy that follow the instructions put out by the General Handbook.
 
