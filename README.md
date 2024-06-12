@@ -1,10 +1,10 @@
-# LDS Handbook Tracker
+# General Handbook Tracker
 
-A simple scraper for tracking changes of the General Handbook of the Church of Jesus Christ of Latter-Day Saints (LDS Church) using git diff. 
+A simple scraper for tracking changes of the General Handbook of the Church of Jesus Christ of Latter-Day Saints using git diff. 
 
-For those not familiar with the church, I recommend you check out [the church's website](https://www.churchofjesuschrist.org/welcome/what-do-latter-day-saints-believe?lang=eng) for more information. It is a worldwide church, with volunteer-based clergy that follow the instructions put out by the General Handbook.
+For those not familiar with the Church of Jesus Christ, I recommend you check out [the church's website](https://www.churchofjesuschrist.org/welcome/what-do-latter-day-saints-believe?lang=eng) for more information about our beliefs. It is a worldwide church, with volunteer-based clergy that follow the instructions put out by the General Handbook.
 
-The easiest way to visualizes changes is via the links below. Removed text from previous editions will be shown in red on the left, and the new version with changes in green on the right.
+The easiest way to visualize changes is via the links below. Removed text from previous editions will be shown in red on the left, and the new version with changes in green on the right.
 
 | Edition | Compare to Previous                                                    | Compare to Current                                                     |
 |---------|------------------------------------------------------------------------|------------------------------------------------------------------------|
@@ -20,9 +20,11 @@ The easiest way to visualizes changes is via the links below. Removed text from 
 
 I hope you enjoy! I've enjoyed having an easy visualization of changes to see how the church is continuing to focus on Christ, His work, and bringing others unto Him. 
 
+Note, I am not doing this in any official capacity with the church, just on my own accord.
+
 ## Technical Info
 
-All the versions are stored in the `editions` folder, with working hyperlinks both to [lds.org](lds.org) and relative links to other chapters. Additionally, in the `diff` branch, each edition is stored with a tag and a separate commit in the `handbook` folder. Links comparing different editions are found in the table above.
+All the versions are stored in the `editions` folder, with working hyperlinks both to [churchofjesuschrist.org](https://www.churchofjesuschrist.org/?lang=eng) and relative links to other chapters. Additionally, in the `diff` branch, each edition is stored with a tag and a separate commit in the `handbook` folder. Links comparing different editions are found in the table above.
 
 Editions were found via [Church Newsroom](https://newsroom.churchofjesuschrist.org/) and checking the "Summary of Recent Changes" page on [the wayback machine](https://web.archive.org/).
 
