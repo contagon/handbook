@@ -216,7 +216,7 @@ A supply of hymnbooks is provided to new meetinghouses. Additional hymnbooks, ch
 
 ### 19.7.2 Use of Meetinghouse Instruments for Practice, Private Instruction, and Recitals
 
-When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. This authorization is an exception as described in [35.5.2.1]. No admittance fee should be charged for recitals.
+When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. This authorization is an exception as described in [35.5.6.1]. No admittance fee should be charged for recitals.
 
 ### 19.7.3 Community Choirs
 
