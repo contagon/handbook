@@ -34,5 +34,6 @@ done
 git push -u origin diff
 git push --tags
 rm editions/missing.txt
+git checkout master
 git checkout master .
 git stash apply

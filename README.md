@@ -8,7 +8,7 @@ The easiest way to visualize changes is via the links below. Removed text from p
 
 | Edition | Compare to Previous                                                    | Compare to Current                                                     |
 |---------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| 2024-08 | [Link](https://github.com/contagon/handbook/compare/2024-08...2024-08) | NA                                                                     |
+| 2024-08 | [Link](https://github.com/contagon/handbook/compare/2024-05...2024-08) | NA                                                                     |
 | 2024-05 | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-05) | [Link](https://github.com/contagon/handbook/compare/2024-05...2024-08) |
 | 2023-08 | [Link](https://github.com/contagon/handbook/compare/2022-08...2023-08) | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-08) |
 | 2022-08 | [Link](https://github.com/contagon/handbook/compare/2021-12...2022-08) | [Link](https://github.com/contagon/handbook/compare/2022-08...2024-08) |
