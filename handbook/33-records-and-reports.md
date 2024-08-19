@@ -52,7 +52,7 @@ Other record-keeping duties the stake presidency may give the stake clerk or an 
 * Designing and printing boundary models to use in proposing realignment of stake and ward boundaries.
 * Overseeing the transfer of ward records, correspondence, and accounts when a new ward is created, a ward is discontinued, or a bishop is released.
 * Recording information for stake membership councils (see [32.9.6]).
-* Maintaining and updating the stake’s website if the stake has a Church-approved site (see [38.8.24]).
+* Maintaining and updating the stake’s website if the stake has a Church-approved site (see [38.8.25]).
 #### 33.3.2.2 Review of Ward Records and Reports
 
 The stake clerk (and assistant stake clerks as assigned) reviews ward records and reports to ensure that they are accurate and complete. He resolves record-keeping problems before giving reports to the stake president. He works directly with ward clerks and assistant ward clerks to resolve minor problems. He discusses serious problems with the stake president or, at his request, the bishop.
@@ -106,22 +106,6 @@ To assist the stake technology specialist, the stake presidency may assign worth
 
 The stake technology specialist oversees and coordinates the work of assistant technology specialists. If the stake does not have a stake technology specialist, the stake clerk or an assistant stake clerk oversees the assistant technology specialists and communicates assignments from the stake presidency.
 
-### 33.3.4 Stake Executive Secretary
-
-The stake president or an assigned counselor calls and sets apart a stake executive secretary. The executive secretary should hold the Melchizedek Priesthood and be worthy to have a temple recommend.
-
-The executive secretary is an administrative assistant to the stake presidency. He meets with them and prepares agendas as assigned. He is also a member of the stake council and attends high council meetings. As directed by the stake presidency, he follows up on assignments made in these meetings. He is not a member of the high priests quorum.
-
-He coordinates stake business between the stake presidency, high council, and other stake leaders. He also schedules appointments for the stake presidency. He distributes copies of Church publications and correspondence promptly.
-
-If assigned by the stake presidency, he encourages and assists ward executive secretaries with Church magazine subscription efforts.
-
-He may help the stake presidency encourage and monitor the participation of eligible stake members in Church Educational System programs (see [chapter 15]).
-
-He advises the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, he may help coordinate Church orientation for stake members who are entering the military (see [38.10.1] and [38.10.3]).
-
-He orients new ward executive secretaries as soon as reasonable after they are called. He provides ongoing instruction to them as needed.
-
 ## 33.4 Ward Records and Reports
 
 ### 33.4.1 Bishopric
@@ -155,7 +139,7 @@ Other record-keeping duties the bishopric may give the ward clerk or an assistan
 * Ensuring that certificates for blessing, baptism and confirmation, and priesthood ordination are given to ward members and that these ordinances are properly and promptly recorded.
 * Preparing the [Officers Sustained form] for ward conference.
 * Recording information for ward membership councils (see [32.9.6]).
-* Maintaining and updating the ward’s website if the ward has a Church-approved site (see [38.8.24]).
+* Maintaining and updating the ward’s website if the ward has a Church-approved site (see [38.8.25]).
 #### 33.4.2.2 Record-Keeping Instruction
 
 The ward clerk coordinates record-keeping instruction for assistant clerks and for quorum and organization secretaries. He makes sure they receive instruction when they are newly called, when a Church record-keeping program is introduced or updated, and when records are not completed properly.
@@ -343,6 +327,10 @@ See [18.6.3].
 
 If a child’s parents are divorced, his or her legal name, as defined by local law or custom, should be recorded on the membership record and on certificates of priesthood ordinances and blessings.
 
+Children with divorced parents often attend Church meetings in both parents’ wards. While only one unit may keep and update a child’s official membership record, an out-of-unit member record may be created in the other ward he or she attends. This record is created using Leader and Clerk Resources. It allows the child’s name and contact information to be included on ward lists and class rolls.
+
+Children with an out-of-unit member record may receive a calling in that unit. This can help ensure that they are included and can fully participate wherever they attend.
+
 ### 33.6.15 Records with Annotations
 
 See [32.14.5].
@@ -435,7 +423,7 @@ Stake and ward leaders should make effective records management a part of their 
 
 All information should be protected against unauthorized access, change, destruction, or disclosure. Church records, reports, and backup copies of computer software programs and data should be kept in a safe place. Highly sensitive records, including computer printouts and electronic storage media, should be kept in a locked drawer or cabinet in the leader’s office when they are not being used.
 
-To protect confidential information on computers, leaders and clerks should use the password features of Church record-keeping systems. Passwords should be written down and kept in locked files away from the computer. They should be changed periodically, and they should always be changed when leaders or clerks are released. If members use stake and ward computers for family history work, they should not have access to membership or financial information.
+To protect confidential information on computers and other digital devices, leaders and clerks should only use their personal username and password to access Church record-keeping systems. Passwords should be changed periodically. They should never be shared with others or stored where others may see them. If members use Church computers for family history work, they should not have access to membership or financial information.
 
 Many countries have enacted data protection laws that regulate the processing of personal data, such as the information that is contained in membership records and other records that identify individuals. To determine the extent to which such laws govern local management of Church records or to obtain direction in specific instances, leaders may contact the Church data privacy officer at [dataprivacyofficer@ChurchofJesusChrist.org].
 
