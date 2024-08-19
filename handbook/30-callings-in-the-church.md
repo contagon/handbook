@@ -92,7 +92,7 @@ When a president or bishop is released, the counselors are released automaticall
 
 ## 30.6 Calling, Ordaining, and Setting Apart Bishops
 
-The stake presidency recommends brethren to be called or released as bishops. Recommendations should be submitted through the Leader and Clerk Resources system. A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
+The stake presidency recommends brethren to be called or released as bishops. Recommendations should be submitted through Leader and Clerk Resources. A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
 
 When recommending a person to serve as bishop, the stake presidency carefully observes the principles set forth in [1 Timothy 3:2–7]. It is not appropriate to solicit recommendations or to conduct surveys among ward members with respect to who might be considered for a call to serve as bishop.
 
@@ -125,7 +125,8 @@ The following chart includes a list of selected stake callings. For other callin
 | [High councilors] | Stake presidency | Stake presidency and high council | Members in stake conference or stake general priesthood meeting | Stake president or an assigned counselor |
 | [Stake patriarch] | Stake presidency | Quorum of the Twelve | Members in stake conference or stake general priesthood meeting | A member of the First Presidency or Twelve, or the stake president with approval from the Quorum of the Twelve |
 | [Stake patriarch who is already ordained but has moved to another stake] | Presidency of the stake into which he has moved | Quorum of the Twelve | Members in stake conference or stake general priesthood meeting | Not ordained but set apart to begin service in a new stake |
-| [Stake organization presidents (Young Men, Relief Society, Young Women, Primary, and Sunday School)] | Stake presidency (high councilors are called as the stake Young Men president and the stake Sunday School president) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
+| [Stake Relief Society president] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president |
+| [Stake Young Men, Young Women, Primary, and Sunday School presidents] | Stake presidency (high councilors are assigned as the stake Young Men president and the stake Sunday School president) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 | [Counselors in stake organization presidencies, secretaries, and other organization leaders] | President of the stake organization (in consultation with the assigned high councilor) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | [Stake physical facilities representative (high councilor)] | Assigned by the stake presidency; not called, sustained, or set apart. | | | | Assigned by the stake presidency; not called, sustained, or set apart. | | | | Assigned by the stake presidency; not called, sustained, or set apart. | | | | Assigned by the stake presidency; not called, sustained, or set apart. | | | |
 | [Stake activities committee chairman (high councilor)] | Assigned by the stake presidency; not called, sustained, or set apart. | | | | Assigned by the stake presidency; not called, sustained, or set apart. | | | | Assigned by the stake presidency; not called, sustained, or set apart. | | | | Assigned by the stake presidency; not called, sustained, or set apart. | | | |
@@ -133,7 +134,8 @@ The following chart includes a list of selected stake callings. For other callin
 | [Stake music chairman] | Stake music adviser (high councilor) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | [Stake auditors] | Chairman of the stake audit committee (counselor in the stake presidency) | Stake presidency and high council | Not sustained | Stake president or an assigned counselor |
 | [Stake welfare specialists (including stake employment specialist)] | Stake presidency | Stake presidency and high council | Not sustained | Stake president or an assigned counselor or high councilor |
-| [Stake seminary and institute teachers and supervisors] | Bishop (may consult with seminary and institute personnel) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
+| [Stake seminary and institute teachers and supervisors] | Stake presidency (after counseling with the bishop and the seminary and institute representative) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
+| [Stake communication director, assistant directors, and specialists] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 
 ### 30.7.2 Melchizedek Priesthood Callings
 
@@ -188,8 +190,8 @@ The following chart includes a list of selected ward callings. For other calling
 | [Counselors in Young Women class presidencies and class secretaries] | Class president | Bishopric | Class members | Bishop or an assigned counselor |
 | [Ward music chairman] | Ward music adviser (member of the bishopric) | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward music director, ward organist or pianist, ward choir director and accompanist, and ward choir president] | Ward music chairman | Bishopric | Ward members | Bishop or an assigned counselor |
-| [Ward librarian] | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
-| [Assistant ward librarians] | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
+| Ward resource center specialist | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
+| Assistant resource center specialists | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward temple and family history consultant(s)] | Bishopric (in consultation with the elders quorum president) | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward young single adult leader(s)] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward magazine representative] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
