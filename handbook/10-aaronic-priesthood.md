@@ -312,7 +312,7 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### 10.8.2 Young Men with Disabilities
 
-Quorum leaders give special care to young men with disabilities. [[AO]] For information about helping these young men, see [disability.ChurchofJesusChrist.org].
+Quorum leaders give special care to young men with disabilities. [[AO]] For information about helping these young men, see [disability.ChurchofJesusChrist.org]; see also [38.8.27] in this handbook.
 
 ### 10.8.3 Children and Youth Emblems
 
