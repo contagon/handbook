@@ -100,7 +100,7 @@ Tithes are holy to the Lord, and members honor Him by paying tithing. This is an
 
 #### 34.3.1.1 Use of Tithing Funds
 
-Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (see [Doctrine and Covenants 120]). Some of these purposes are outlined in [34.0].
+Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (see [Doctrine and Covenants 120]). Some of these purposes are outlined in [34.0].
 
 #### 34.3.1.2 Tithing Declaration
 
@@ -139,7 +139,7 @@ Contributions to the General Missionary Fund are used by the Church in its overa
 
 Stake presidents and bishops should send missionary funds that exceed reasonable stake and ward needs to the General Missionary Fund at Church headquarters or to the area office.
 
-For more information about missionary funds and financing missionary service, see [24.3.4].
+For more information about missionary funds and financing missionary service, see [24.3.4].
 
 ### 34.3.4 Additional Contributions
 
@@ -155,7 +155,7 @@ Philanthropies
 
 1450 North University Avenue
 
-Provo, UT 84604-6080
+Provo, UT 84604-6080
 
 Telephone: 1-801-356-5300 or 1-800-525-8074
 
@@ -372,7 +372,7 @@ The stake president and stake audit committee review all audits. After their rev
 
 ### 34.7.4 Area Auditors and Assistant Area Auditors
 
-The Area Presidency follows the guidelines in the Guide to the Area Audit Program when calling an area auditor or assistant area auditor.
+The Area Presidency follows the guidelines in the [Guide to the Area Audit Program] when calling an area auditor or assistant area auditor.
 
 ### 34.7.5 Loss, Theft, Embezzlement, or Misappropriation of Church Funds
 
@@ -405,7 +405,7 @@ Tax Administration
 
 50 East North Temple Street, Room 2276
 
-Salt Lake City, UT 84150-0022
+Salt Lake City, UT 84150-0022
 
 Telephone: 1-801-240-4405 or 1-800-453-3860, extension 2-4405
 

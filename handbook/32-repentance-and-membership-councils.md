@@ -554,7 +554,7 @@ Uplifting Activities to Help with Repenting and Building Spiritual Fortification
 
 * Encourage making restitution to those harmed by sins and asking for forgiveness
 * Encourage turning away from bad influences. Help members take preventive action to resist specific temptations.
-* Recognize that you are an ecclesiastical leader, not a professional counselor. In addition to the counseling you provide, some members would benefit from behavioral counseling. Some suffer from mental illness. As needed, counsel members to seek help from qualified medical and mental health professionals (see [31.3.6]).
+* Recognize that you are an ecclesiastical leader, not a professional counselor. In addition to the counseling you provide, some members would benefit from behavioral counseling. Some suffer from mental illness. As needed, counsel members to seek help from qualified medical and mental health professionals (see [31.3.6]).
 * Be prayerful and seek guidance from the Spirit before giving informal membership restrictions. Some members may benefit from exercising the privileges of Church membership more actively rather than having them restricted.
 * Follow up to give encouragement, fortify spiritual strength, and monitor progress.
 
@@ -566,7 +566,9 @@ When assigning someone to assist with follow-up counseling, the leader gives onl
 
 ### 32.8.2 Helping People Address Addictions and Pornography Use
 
-Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families. Bishops may counsel members to seek help from Church addiction recovery programs and from qualified medical and mental health professionals.
+Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families.
+
+Bishops may counsel members to seek help from the Church’s [Healing through the Savior: The Addiction Recovery Program] and from qualified medical and mental health professionals. Only the Church’s official program should be sponsored or hosted in Church buildings.
 
 Pornography use is becoming increasingly common. Whether pornography use is intensive or occasional, it is harmful. It drives away the Spirit. It weakens the ability to draw on power that comes from keeping covenants. It also harms precious relationships.
 
@@ -1031,7 +1033,7 @@ The stake president submits an application to the First Presidency only if he re
 	2. Incest
 	3. Sexual abuse of a child or youth, sexual exploitation of a child or youth, or serious physical or emotional abuse of a child or youth by an adult or by a youth who is several years older
 	4. Involvement with child pornography when there is a legal conviction
-	5. Apostasy
+	5. Apostasy (see [32.6.3.2] for what constitutes apostasy)
 	6. Plural marriage
 	7. Committing a serious sin while holding a prominent Church position
 	8. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23])
