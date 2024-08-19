@@ -96,9 +96,9 @@ Aaronic Priesthood quorums meet on Sundays to strengthen faith, build unity, str
 
 Quorum meetings are held on the second and fourth Sundays of the month. They last 50 minutes. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts. He leads the quorum in reciting the theme and counseling together about assignments, duties, and other matters.
 
-A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me﻿—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]).
+A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]).
 
-Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5]). Young men and young women may occasionally combine for a Sunday lesson, as directed by the bishopric.
+Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5]). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
 Young men are encouraged to participate in seminary (see [15.1]).
 
@@ -171,7 +171,7 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and [Preach My Gospel]. This class is not held during regular Sunday meetings.
 
-[[AO]][Missionary.ChurchofJesusChrist.org] provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23] and [24] for more information.
+[[AO]][Missionary.ChurchofJesusChrist.org] provides additional resources that can help young men as they prepare to serve as missionaries. See chapters 23 and 24 for more information.
 
 ### 10.2.4 Uniting Families for Eternity
 
@@ -237,7 +237,7 @@ Members of the bishopric teach the young men about their responsibilities (see [
 
 ### 10.4.3 Quorum Presidency Meeting
 
-Aaronic Priesthood quorum presidencies meet regularly. The quorum president conducts these meetings. At least two adults attend﻿—a member of the bishopric, an adviser, or a specialist. During these meetings, leaders counsel together and seek revelation about the Lord’s will for their quorum. The agenda could include discussion of the following items:
+Aaronic Priesthood quorum presidencies meet regularly. The quorum president conducts these meetings. At least two adults attend—a member of the bishopric, an adviser, or a specialist. During these meetings, leaders counsel together and seek revelation about the Lord’s will for their quorum. The agenda could include discussion of the following items:
 
 * Accomplishing the work of salvation and exaltation
 * Serving quorum members, with special attention to supporting new members and rescuing less-active members
@@ -260,7 +260,7 @@ The bishop presides over the ward youth council. This council’s members includ
 
 The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5]). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
-See [29.2.9] for more information about the ward youth council.
+See [29.2.6] for more information about the ward youth council.
 
 ## 10.5 Advisers and Specialists
 
