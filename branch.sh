@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Delete previous branch version
+git stash
 git checkout master
 git push -d origin diff
 git branch -D diff
@@ -33,4 +34,5 @@ done
 git push -u origin diff
 git push --tags
 rm editions/missing.txt
-git checkout master
+git checkout master .
+git stash apply
