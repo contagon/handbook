@@ -184,7 +184,7 @@ With the help of the Lord, members seek to provide for themselves and their fami
 
 Church assistance is intended to help members develop independence, not dependence. Any assistance given should strengthen members in their efforts to become self-reliant.
 
-When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5]. Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities].”
+When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5]. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
 
 Principles for Providing Church Assistance
 
@@ -254,7 +254,7 @@ Bishops may assist members and others who are transient or homeless. However, th
 
 Bishops generally invite transient or homeless members who receive assistance to accept work or service opportunities. Bishops may also refer these members to community resources that are equipped to address their needs.
 
-Based on need, a stake president may appoint one bishop to handle all requests arising in the stake from people who are transient or homeless. In some areas there is a concentration of stakes with large numbers of people who are transient or homeless. In those situations, the Area Presidency may call a service missionary to handle their requests for assistance. This person should have served as a bishop.
+Based on need, a stake president may appoint one bishop to handle all requests arising in the stake from people who are transient or homeless. In some areas there is a concentration of stakes with large numbers of people who are transient or homeless. In those situations, the Area Presidency may call an area welfare and self-reliance specialist to handle their requests for assistance. This person should have served as a bishop.
 
 #### 22.5.1.4 Assistance to Persons Who Are Not Members of the Church
 
@@ -414,7 +414,7 @@ In his interviews with bishops, the stake president reviews fast-offering paymen
 
 Principles and practices for providing Church assistance are also discussed in the stake bishops’ council (see [22.11]).
 
-The stake president ensures that each bishop reviews the training in the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
+The stake president ensures that bishoprics and clerks review the training in the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
 
 #### 22.9.1.2 Serve as the Agent Stake President for Church Welfare and Self-Reliance Operations
 
@@ -542,7 +542,7 @@ The following table lists Church resources that can support members’ efforts t
 | Category | Resources |
 | --- | --- |
 | Immediate needs | • The Lord’s storehouse (members’ offerings of time, talents, compassion, materials, and financial resources)<br/>• Fast offerings<br/>• Bishops’ orders for food and other basic goods through a bishops’ storehouse or grocery store.\*<br/>• Bishops’ orders for clothing or household items through a Deseret Industries store.\*<br/><br/>\* Bishops’ orders are placed through “[Bishops’ Orders and Referrals]” in LCR. |
-| Education and employment | • Self-reliance groups ([Find a Better Job], [Starting and Growing My Business], [Education for Better Work])<br/>• [Stake Welfare and Self-Reliance Resource Centers]<br/>• [Employment centers]<br/>• [BYU–Pathway Worldwide]<br/>• [EnglishConnect]<br/>• [Perpetual Education Fund loans]<br/>• Training programs through [Deseret Industries] or [Development Counseling Services] |
+| Education and employment | • Self-reliance groups ([Find a Better Job], [Starting and Growing My Business], [Education for Better Work])<br/>• [Stake Welfare and Self-Reliance Resource Centers]<br/>• [Employment Services]<br/>• [BYU–Pathway Worldwide]<br/>• [EnglishConnect]<br/>• [Perpetual Education Fund loans]<br/>• Training programs through [Deseret Industries] or [Development Counseling Services] |
 | Emotional health | • Self-reliance group ([Emotional Resilience])<br/>• [Counseling Resources]<br/>• [Family Services counseling]. In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals]” in [LCR].<br/>• [Addiction recovery groups] and [spouse and family support groups]<br/>• [Strengthening Marriages and Families courses]<br/>• [Family Services consultations for leaders]<br/>• [Life Help resources] |
 | Temporal preparedness | • Self-reliance group ([Personal Finances])<br/>• [Home storage products]<br/>• [Temporal Preparedness Resources]<br/>• [Stake and Ward Preparedness] |
 | Community service | • [JustServe.org]<br/>• Other Church-supported projects |
