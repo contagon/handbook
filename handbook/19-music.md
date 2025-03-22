@@ -177,7 +177,7 @@ For guidelines on choosing appropriate music, see [19.4.2](19-music.md#1942-guid
 
 With priesthood leaders’ approval, stake and multistake choirs may be organized for stake conferences, regional conferences, and other occasions, such as community events. After the performance, the choir is disbanded until other occasions arise. These choirs should not interfere with members’ participation in ward choirs.
 
-Standing community choirs directed by and consisting primarily of Church members are not sponsored by the Church. These choirs should not use references to the Church such as “LDS,” “Latter-day Saint,” or “Mormon” in their names (see [38.8.35](38-church-policies-and-guidelines.md#38835-referring-to-the-church-and-its-members)). If stake priesthood leaders approve, community choirs may use Church buildings for rehearsals and performances, provided they follow Church standards and policies related to activities and finances.
+Standing community choirs directed by and consisting primarily of Church members are not sponsored by the Church. These choirs should not use references to the Church such as “LDS,” “Latter-day Saint,” or “Mormon” in their names (see [38.8.34](38-church-policies-and-guidelines.md#38834-referring-to-the-church-and-its-members)). If stake priesthood leaders approve, community choirs may use Church buildings for rehearsals and performances, provided they follow Church standards and policies related to activities and finances.
 
 ## 19.7 Music Training
 
@@ -233,7 +233,7 @@ The agent bishop for each meetinghouse and the stake physical facilities represe
 
 ### 19.9.4 Copyright Guidelines
 
-See [38.8.11](38-church-policies-and-guidelines.md#38811-copyrighted-materials).
+See [38.8.12](38-church-policies-and-guidelines.md#38812-copyrighted-materials).
 
 ### 19.9.5 Music for Weddings
 

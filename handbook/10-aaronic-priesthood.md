@@ -56,7 +56,7 @@ Priests have the same duties as deacons and teachers. Additional duties are desc
 
 Each quorum is led by a president who holds priesthood keys. The deacons quorum president, teachers quorum president, and bishop hold priesthood keys. For more information about these keys, see [3.4.1](3-priesthood-principles.md#341-priesthood-keys).
 
-### 10.1.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Adapting Quorums to Local Needs
+### 10.1.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Adapting Quorums to Local Needs
 
 In a ward or branch with few young men, Aaronic Priesthood quorums may meet together for instruction and activities.
 
@@ -98,7 +98,7 @@ Quorum meetings are held on the second and fourth Sundays of the month. They las
 
 A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)).
 
-Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5](10-aaronic-priesthood.md#1015-aoadapting-quorums-to-local-needs)). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
+Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5](10-aaronic-priesthood.md#1015-ao-adapting-quorums-to-local-needs)). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
 Young men are encouraged to participate in seminary (see [15.1](15-seminaries-and-institutes.md#151-seminary)).
 
@@ -106,28 +106,28 @@ Young men are encouraged to participate in seminary (see [15.1](15-seminaries-an
 
 The bishopric and youth quorum leaders, supported by advisers, plan service and activities. These should help accomplish the work of salvation and exaltation. Service and activities should build testimonies, strengthen families, foster quorum unity, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
-Most youth activities are held at times other than on Sundays or Monday evenings. They are usually held weekly. In some areas, distance, safety, or other factors make weekly activities impractical. In these areas, activities may be held less often, but they should generally be held at least monthly. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Activities can be planned on the [Sample Service and Activity Planner](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Activity-Sample-Planner7.pdf), available on ChurchofJesusChrist.org.
+Most youth activities are held at times other than on Sundays or Monday evenings. They are usually held weekly. In some areas, distance, safety, or other factors make weekly activities impractical. In these areas, activities may be held less often, but they should generally be held at least monthly. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Activities can be planned on the [Sample Service and Activity Planner](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Activity-Sample-Planner7.pdf), available on ChurchofJesusChrist.org.
 
 Some service and activities should include both young men and young women, especially for older youth.
 
 Youth can benefit from socializing in larger groups. The youth in two or more wards may occasionally meet together for service and activities. Stakes or districts may occasionally plan service and activities for youth.
 
-Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org/); see also [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting) in this handbook). At least two responsible adult leaders should be present at all activities (see [10.8.1](10-aaronic-priesthood.md#1081-safeguarding-youth)).
+Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org/); see also [20.7](20-activities.md#207-safety-policies-and-guidelines-for-activities) in this handbook). At least two responsible adult leaders should be present at all activities (see [10.8.1](10-aaronic-priesthood.md#1081-safeguarding-youth)).
 
-For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](https://aaronicpriesthoodquorums.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)See also [JustServe.org](https://www.justserve.org/) where it is available. These resources provide service and activity ideas.
+For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org](https://aaronicpriesthoodquorums.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) See also [JustServe.org](https://www.justserve.org/) where it is available. These resources provide service and activity ideas.
 
 _Annual Activities._ In addition to regular youth activities, young men may also participate in the following each year:
 
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young men turning 12 during the year may receive their emblems of belonging during this meeting (see [10.8.3](10-aaronic-priesthood.md#1083-children-and-youth-emblems)). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/17313_000_notice.pdf).
-* An Aaronic Priesthood quorum camp (see [Aaronic Priesthood Quorum Camp Guide](https://www.churchofjesuschrist.org/study/manual/aaronic-priesthood-quorum-camp-guide?lang=eng)). Young men may participate in additional overnight camps, events, and activities throughout the year, where feasible.
-* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)A ward or stake youth conference or a For the Strength of Youth (FSY) conference (see [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org/)).
-* At least one activity emphasizing the standards in [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
+* An Aaronic Priesthood quorum camp (see  [Aaronic Priesthood Quorum Camp Guide](https://www.churchofjesuschrist.org/study/manual/aaronic-priesthood-quorum-camp-guide?lang=eng) ). Young men may participate in additional overnight camps, events, and activities throughout the year, where feasible.
+* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A ward or stake youth conference or a For the Strength of Youth (FSY) conference (see [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org/)).
+* At least one activity emphasizing the standards in  [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
 _Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/dating?lang=eng¶=4#p4)).
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
-As an exception, if the ward budget does not have enough money to pay for multiday activities, such as camps, leaders may ask participants to help pay for them. However, a young man should not be prevented from participating if he cannot help pay. If more money is still needed, the bishop may authorize one fundraising activity each year (see [20.2.8](20-activities.md#2028-funding-for-activities)).
+As an exception, if the ward budget does not have enough money to pay for multiday activities, such as camps, leaders may ask participants to help pay for them. However, a young man should not be prevented from participating if he cannot help pay. If more money is still needed, the bishop may authorize one fundraising activity each year (see [20.6.5](20-activities.md#2065-fundraising-events)).
 
 The bishopric ensures that the budget and activities for young men and young women are sufficient and equitable. Budget for Aaronic Priesthood quorums is based on the number of young men in the ward. Budget for the young women is based on the number of young women in the ward.
 
@@ -137,7 +137,7 @@ See [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org/) for info
 
 In their efforts to become more like the Savior, youth are invited to set goals to grow spiritually, socially, physically, and intellectually (see [Luke 2:52](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2.52?lang=eng#p52)). Youth seek inspiration to discover what they need to work on. With help from parents, they make plans, act on their plans, and reflect on what they learn. Leaders and advisers also offer support as needed. However, they should not track the young men’s goals or progress. Parents and leaders may suggest goals, but they allow youth to seek their own inspiration about what goals to pursue.
 
-Youth are encouraged to complete at least two goals in each of the four areas each year. They can use [Personal Development: Youth Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-youth-guidebook?lang=eng) or the Gospel Living app to set and record goals.
+Youth are encouraged to complete at least two goals in each of the four areas each year. They can use  [Personal Development: Youth Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-youth-guidebook?lang=eng)  or the Gospel Living app to set and record goals.
 
 For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org/).
 
@@ -145,7 +145,7 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://chi
 
 Aaronic Priesthood holders assist the bishop in “administering all temporal things” ([Doctrine and Covenants 107:68](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.68?lang=eng#p68)). They should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org/). Where available, 
 
-[JustServe.org](https://www.justserve.org/) suggests opportunities for service in the community.
+ [JustServe.org](https://www.justserve.org/) suggests opportunities for service in the community.
 
 #### 10.2.2.1 Ministering
 
@@ -169,9 +169,9 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 * Provide opportunities to serve in the Church.
 * Provide opportunities to teach the gospel in quorum meetings and other settings.
 
-As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
+As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures,  [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and  [Preach My Gospel](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org/) provides additional resources that can help young men as they prepare to serve as missionaries. See chapters 23 and 24 for more information.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) [Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org/) provides additional resources that can help young men as they prepare to serve as missionaries. See chapters 23 and 24 for more information.
 
 ### 10.2.4 Uniting Families for Eternity
 
@@ -181,10 +181,10 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 * Prepare to have their own eternal family.
 * Be worthy of a limited-use temple recommend.
 * Prepare to receive temple ordinances, including eternal marriage.
-* Learn about their extended families and ancestors (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf)).
-* Identify ancestors who need temple ordinances (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[FamilySearch.org](https://www.familysearch.org/)).
+* Learn about their extended families and ancestors (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)  [My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf) ).
+* Identify ancestors who need temple ordinances (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) [FamilySearch.org](https://www.familysearch.org/)).
 * Participate in baptisms and confirmations for the dead as often as circumstances allow.
-* Participate in indexing (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
+* Participate in indexing (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
 * Serve as temple and family history consultants, as called by the bishopric (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
 ## 10.3 Bishopric
 
@@ -210,7 +210,7 @@ Quorum advisers and specialists help with these responsibilities as requested (s
 
 ### 10.4.1 Calling, Sustaining, and Setting Apart
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The bishop calls one or two priests to be his assistants in leading the priests quorum. A member of the bishopric may also call a quorum secretary.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The bishop calls one or two priests to be his assistants in leading the priests quorum. A member of the bishopric may also call a quorum secretary.
 
 A member of the bishopric calls the deacons and teachers quorum presidents. When there are enough Aaronic Priesthood holders to serve, these young men prayerfully consider quorum members to recommend as counselors and a secretary. The bishopric considers their recommendations and extends the callings.
 
@@ -266,7 +266,7 @@ See [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting) for m
 
 A member of the bishopric calls and sets apart men to be Aaronic Priesthood quorum advisers. These advisers support the bishopric in their responsibilities for Aaronic Priesthood quorums. They give special emphasis to mentoring the young men, teaching them how to lead by inspiration, and helping them become more like Jesus Christ.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The bishopric may also call quorum specialists to assist the advisers. In some cases, these callings may be limited to a particular event, such as a camp, a youth conference, or sports. A specialist may also be called to fill a specific assignment, such as recording attendance.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The bishopric may also call quorum specialists to assist the advisers. In some cases, these callings may be limited to a particular event, such as a camp, a youth conference, or sports. A specialist may also be called to fill a specific assignment, such as recording attendance.
 
 At least two responsible adult men should be present at each quorum meeting and activity. Having advisers and specialists present makes it possible for bishopric members to also visit Young Women and Primary classes and activities. Advisers and specialists must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [10.8.1](10-aaronic-priesthood.md#1081-safeguarding-youth)).
 
@@ -285,19 +285,19 @@ Those who receive the Melchizedek Priesthood should strive to understand:
 * The purposes of priesthood ordinances and blessings and how to perform them (see [chapter 18](18-priesthood-ordinances-and-blessings.md)).
 * How men and women work together to accomplish God’s work.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)For information about these topics, see “[Melchizedek Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/melchizedek-priesthood?lang=eng),” “[Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=eng),” and “[Women in the Church](https://www.churchofjesuschrist.org/study/manual/gospel-topics/women-in-the-church?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For information about these topics, see “[Melchizedek Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/melchizedek-priesthood?lang=eng),” “[Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=eng),” and “[Women in the Church](https://www.churchofjesuschrist.org/study/manual/gospel-topics/women-in-the-church?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
 
 The elders quorum presidency and ministering brothers can help provide this instruction. It may occur individually in young men’s homes or in a class held outside of regular Sunday meetings.
 
-## 10.7 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Stake Young Men Leaders
+## 10.7 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Young Men Leaders
 
-The stake presidency assigns a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may serve as his counselors. Or, if a stake is large enough, other Melchizedek Priesthood holders from the stake may be called as counselors (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)).
+The stake presidency assigns a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may serve as his counselors. Or, if a stake is large enough, other Melchizedek Priesthood holders from the stake may be called as counselors. (See [6.5](6-stake-leadership.md#65-high-council).)
 
-The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-aostake-youth-leadership-committee-meeting)). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
+The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-ao-stake-youth-leadership-committee-meeting)). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
 
 A brother from the membership of the stake may be called as the stake Young Men secretary.
 
-For more information about the responsibilities of the stake Young Men presidency and secretary, see [5.7.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number37-p262#title_number37) and [5.7.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number38-p268#title_number38).
+For more information about the responsibilities of the stake Young Men presidency and secretary, see [6.7.2](6-stake-leadership.md#672-stake-young-men-presidency) and [6.7.3](6-stake-leadership.md#673-aostake-organization-secretaries).
 
 ## 10.8 Additional Guidelines and Policies
 
@@ -311,21 +311,21 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### 10.8.2 Young Men with Disabilities
 
-Quorum leaders give special care to young men with disabilities. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)For information about helping these young men, see [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/).
+Quorum leaders give special care to young men with disabilities. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For information about helping these young men, see [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/).
 
 ### 10.8.3 Children and Youth Emblems
 
-Young men receive emblems as part of the Children and Youth program. When a young man becomes a member of his first Aaronic Priesthood quorum, he receives an emblem of belonging from his quorum leaders. He also receives a copy of [Personal Development: Youth Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-youth-guidebook?lang=eng). This could be done when quorum leaders meet with him to welcome him to the quorum. It could also be done at an annual meeting for youth and their parents (see [10.2.1.3](10-aaronic-priesthood.md#10213-service-and-activities)).
+Young men receive emblems as part of the Children and Youth program. When a young man becomes a member of his first Aaronic Priesthood quorum, he receives an emblem of belonging from his quorum leaders. He also receives a copy of  [Personal Development: Youth Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-youth-guidebook?lang=eng). This could be done when quorum leaders meet with him to welcome him to the quorum. It could also be done at an annual meeting for youth and their parents (see [10.2.1.3](10-aaronic-priesthood.md#10213-service-and-activities)).
 
 In January of the year a young man turns 18, he receives an additional emblem of belonging.
 
 Young men may earn an emblem of achievement by striving to become more like the Savior.
 
-For more information about emblems, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/discover/children-and-youth-emblems).
+For more information about emblems, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/inspiration/children-and-youth-emblems).
 
-### 10.8.4 Gathering Fast Offerings
+### 10.8.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Gathering Fast Offerings
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)In wards that are geographically concentrated, the bishop may direct Aaronic Priesthood holders to visit members each month and invite them to contribute fast offerings. In making this decision, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
+In wards that are geographically concentrated, the bishop may direct Aaronic Priesthood holders to visit members each month and invite them to contribute fast offerings. In making this decision, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
 
 Priesthood holders should go in pairs when gathering fast offerings. Those who gather fast offerings deliver them promptly to a member of the bishopric.
 

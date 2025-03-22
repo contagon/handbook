@@ -47,6 +47,8 @@ Those who perform or participate in an ordinance or blessing must have the neces
 
 Generally, only priesthood leaders and other priesthood holders who are close family members and friends participate in an ordinance or blessing.
 
+The person receiving the ordinance, family members, and priesthood leaders counsel together to determine who and how many will participate. This decision should be made well before the ordinance is performed.
+
 When only one or two priesthood holders participate, each of them places both hands lightly on the person’s head. When several participate, they stand in a circle around the person receiving the ordinance or blessing. Each one places his right hand lightly on the person’s head (or under the baby) and his left hand on the shoulder of the brother to his left. One acts as voice to perform the ordinance or give the blessing.
 
 Performing or receiving some ordinances and blessings requires approval from a presiding leader who holds the necessary priesthood keys (see [3.4.1](3-priesthood-principles.md#341-priesthood-keys)). As needed, approval may be given by a counselor he authorizes. See the following charts. References to stake presidents apply also to mission presidents. References to bishops apply also to branch presidents.
@@ -68,7 +70,7 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 | Naming and blessing children | Bishop |
 | The sacrament | Bishop |
 | Conferral of the Aaronic Priesthood and ordination to an office (for young men and men) | Bishop |
-| Setting apart members to serve in callings | See the Chart of Callings ([30.7](30-callings-in-the-church.md#307-chart-of-callings)) |
+| Setting apart members to serve in callings | See [30.8](30-callings-in-the-church.md#308-chart-of-callings) |
 | Consecrating oil | Approval not needed |
 | Administering to the sick | Approval not needed |
 | Blessings of comfort and counsel, including father’s blessings | Approval not needed |
@@ -317,7 +319,7 @@ Although the sacrament is for members of the Church, nothing should be done to p
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
 ## 18.10 Conferring the Priesthood and Ordaining to an Office
 
-There are two divisions of the priesthood: the Aaronic and Melchizedek (see 3.3; [Doctrine and Covenants 107:1, 6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.1,6?lang=eng#p1)). When the priesthood is conferred on a person, he is also ordained to an office in that priesthood. After either of these priesthoods has been conferred, a man need only be ordained to other offices in that priesthood.
+There are two divisions of the priesthood: the Aaronic and Melchizedek (see [3.3](3-priesthood-principles.md#33-melchizedek-priesthood-and-aaronic-priesthood); [Doctrine and Covenants 107:1, 6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.1,6?lang=eng#p1)). When the priesthood is conferred on a person, he is also ordained to an office in that priesthood. After either of these priesthoods has been conferred, a man need only be ordained to other offices in that priesthood.
 
 The stake president holds the priesthood keys for conferring the Melchizedek Priesthood and ordaining to the offices of elder and high priest. However, the bishop usually provides recommendations for these ordinations.
 
@@ -378,11 +380,11 @@ Members who are called and sustained to most Church positions should be set apar
 
 Stake presidents, bishops, and quorum presidents receive keys of presidency when they are set apart (see [3.4.1.1](3-priesthood-principles.md#3411-those-who-hold-priesthood-keys)). However, the word _keys_ should not be used when setting apart members to serve in other callings, including counselors in presidencies.
 
-For information about calling, ordaining, and setting apart bishops, see [30.6](30-callings-in-the-church.md#306-calling-ordaining-and-setting-apart-bishops).
+For information about calling, ordaining, and setting apart bishops, see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops).
 
 ### 18.11.1 Who Performs the Setting Apart
 
-A setting apart is performed by a Melchizedek Priesthood holder. He must receive approval from the leader who holds the appropriate priesthood keys. Those who are authorized to perform a setting apart are indicated in the “Chart of Callings” ([30.7](30-callings-in-the-church.md#307-chart-of-callings)). An elder should not act as voice or stand in the circle when a man is set apart to an office that requires him to be a high priest.
+A setting apart is performed by a Melchizedek Priesthood holder. He must receive approval from the leader who holds the appropriate priesthood keys. Those who are authorized to perform a setting apart are indicated in [30.8](30-callings-in-the-church.md#308-chart-of-callings). An elder should not act as voice or stand in the circle when a man is set apart to an office that requires him to be a high priest.
 
 Under the direction of the presiding leader, one or more Melchizedek Priesthood holders may participate in a setting apart. Presidents are set apart before their counselors.
 

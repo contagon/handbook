@@ -18,7 +18,7 @@ Each ward has an elders quorum. It includes the following brethren:
 
 * All elders in the ward.
 * All prospective elders in the ward (see [8.4](8-elders-quorum.md#84-helping-prospective-elders-prepare-to-receive-the-melchizedek-priesthood)).
-* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [5.2.1.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number5-p16#title_number5) and [29.3.5](29-meetings-in-the-church.md#2935-stake-high-priests-quorum-meeting).
+* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [6.2.1.1](6-stake-leadership.md#6211-melchizedek-priesthood) and [29.3.5](29-meetings-in-the-church.md#2935-stake-high-priests-quorum-meeting).
 
 A young man may begin attending elders quorum meetings when he turns 18, even if he has not yet been ordained an elder. He counsels with his parents and bishop to make this decision. By age 19 or when moving from home, such as to attend a university or serve a mission, he should be ordained an elder if he is worthy. See [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood).
 
@@ -153,7 +153,7 @@ The elders quorum president also receives guidance from the bishop, who is the p
 
 ### 8.3.2 High Councilor
 
-The stake presidency assigns a high councilor to represent them in each elders quorum. His responsibilities are outlined in [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19).
+The stake presidency assigns a high councilor to represent them in each elders quorum. His responsibilities are outlined in [6.5](6-stake-leadership.md#65-high-council).
 
 ### 8.3.3 Elders Quorum Presidency
 
@@ -175,7 +175,7 @@ The stake president sets apart the elders quorum president and confers on him th
 
 The elders quorum president has the following responsibilities. His counselors assist him.
 
-* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the elders quorum (see [7.6.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number10-p29#title_number10)).
+* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the elders quorum (see [29.2.5](29-meetings-in-the-church.md#2925-ward-council-meeting)).
 * Lead the quorum’s efforts to participate in the work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21](21-ministering.md).
 * Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources](https://www.churchofjesuschrist.org/study/manual/counseling-resources?lang=eng).

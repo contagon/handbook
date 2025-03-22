@@ -525,7 +525,7 @@ Uplifting Activities to Help with Repenting and Building Spiritual Fortification
 
 After a member has confessed to a bishop or stake president, follow-up counseling may occur in several ways. The leader himself can provide it. Or, with the member’s permission, he may assign one of his counselors to provide it.
 
-With the member’s consent, a bishop or stake president may assign members of the elders quorum or Relief Society to assist in specific ways. For youth, he may assign the Young Women presidency or Aaronic Priesthood quorum advisers to assist. Those who are assigned to assist are entitled to inspiration to fulfill that assignment (see [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-delegate-responsibility-and-ensure-accountability)).
+With the member’s consent, a bishop or stake president may assign members of the elders quorum or Relief Society to assist in specific ways. For youth, he may assign the Young Women presidency or Aaronic Priesthood quorum advisers to assist. Those who are assigned to assist are entitled to inspiration to fulfill that assignment (see [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-prepare-others-to-be-leaders-and-teachers)).
 
 When assigning someone to assist with follow-up counseling, the leader gives only enough information necessary to help the member. The assigned person must maintain confidentiality. He or she also informs the bishop of the member’s progress and needs.
 

@@ -30,7 +30,7 @@ The stake president oversees stake record keeping. He may assign his counselors 
 
 ### 33.3.2 Stake Clerk
 
-Every stake should have a qualified, functioning stake clerk. He is called and set apart by the stake president. He should hold the Melchizedek Priesthood and be worthy to have a temple recommend. He is a member of the stake council and attends high council meetings. He is not a member of the high priests quorum.
+Every stake should have a qualified, functioning stake clerk. He is called and set apart by the stake president or an assigned counselor. He should hold the Melchizedek Priesthood and be worthy to have a temple recommend. He is a member of the stake council and attends high council meetings. He is not a member of the high priests quorum.
 
 The stake clerk is trained by the stake presidency and works under their direction. The stake president may assign him responsibilities such as those outlined in this section. Assistant stake clerks may be called to help (see [33.3.3](33-records-and-reports.md#3333-assistant-stake-clerks)).
 
@@ -52,7 +52,7 @@ Other record-keeping duties the stake presidency may give the stake clerk or an 
 * Designing and printing boundary models to use in proposing realignment of stake and ward boundaries.
 * Overseeing the transfer of ward records, correspondence, and accounts when a new ward is created, a ward is discontinued, or a bishop is released.
 * Recording information for stake membership councils (see [32.9.6](32-repentance-and-membership-councils.md#3296-stake-or-ward-clerk)).
-* Maintaining and updating the stake’s website if the stake has a Church-approved site (see [38.8.22](38-church-policies-and-guidelines.md#38822-internet)).
+* Maintaining and updating the stake’s website if the stake has a Church-approved site (see [38.8.21.2](38-church-policies-and-guidelines.md#388212-members-use-of-the-internet-in-church-callings)).
 #### 33.3.2.2 Review of Ward Records and Reports
 
 The stake clerk (and assistant stake clerks as assigned) reviews ward records and reports to ensure that they are accurate and complete. He resolves record-keeping problems before giving reports to the stake president. He works directly with ward clerks and assistant ward clerks to resolve minor problems. He discusses serious problems with the stake president or, at his request, the bishop.
@@ -102,8 +102,6 @@ Every ward should have a qualified, functioning ward clerk. He is recommended by
 
 The ward clerk is trained by the bishopric and by stake clerks. He works under the direction of the bishopric. The bishop may assign him responsibilities such as those outlined in this section. Assistant ward clerks may be called to help (see [33.4.3](33-records-and-reports.md#3343-assistant-ward-clerks)).
 
-For additional responsibilities of the ward clerk, see [7.6.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number13-p48#title_number13).
-
 #### 33.4.2.1 Record-Keeping Responsibilities
 
 The ward clerk provides administrative support to the bishopric. He keeps a record of assignments and decisions made in ward leadership meetings. He also reminds the bishopric of items that need follow-up or further consideration.
@@ -123,7 +121,7 @@ Other record-keeping duties the bishopric may give the ward clerk or an assistan
 * Ensuring that certificates for blessing, baptism and confirmation, and priesthood ordination are given to ward members and that these ordinances are properly and promptly recorded.
 * Preparing the [Officers Sustained form](https://lcr.churchofjesuschrist.org/form/officers-sustained) for ward conference.
 * Recording information for ward membership councils (see [32.9.6](32-repentance-and-membership-councils.md#3296-stake-or-ward-clerk)).
-* Maintaining and updating the ward’s website if the ward has a Church-approved site (see [38.8.22](38-church-policies-and-guidelines.md#38822-internet)).
+* Maintaining and updating the ward’s website if the ward has a Church-approved site (see [38.8.21.2](38-church-policies-and-guidelines.md#388212-members-use-of-the-internet-in-church-callings)).
 #### 33.4.2.2 Record-Keeping Instruction
 
 The ward clerk coordinates record-keeping instruction for assistant clerks and for quorum and organization secretaries. He makes sure they receive instruction when they are newly called, when a Church record-keeping program is introduced or updated, and when records are not completed properly.
@@ -307,7 +305,7 @@ If a child’s parents are divorced, his or her legal name, as defined by local 
 
 Children with divorced parents often attend Church meetings in both parents’ wards. While only one unit may keep and update a child’s official membership record, an out-of-unit member record may be created in the other ward he or she attends. This record is created using Leader and Clerk Resources. It allows the child’s name and contact information to be included on ward lists and class rolls.
 
-Children with an out-of-unit member record may receive a calling in that unit. This can help ensure that they are included and can fully participate wherever they attend.
+Youth with an out-of-unit member record may receive a calling in that unit. This can help ensure that they are included and can fully participate wherever they attend.
 
 ### 33.6.15 Records with Annotations
 
@@ -444,6 +442,6 @@ In addition, the stake technology specialist has the following responsibilities 
 * Take direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
 * Maintain a current inventory of all computer hardware in the stake, with serial numbers, models, capacities, and physical locations.
 * Ensure that (1) computers, software, and confidential information are secure, (2) data files are backed up regularly, and (3) backup files are stored away from the building (see [33.8](33-records-and-reports.md#338-confidentiality-of-records) and [33.9](33-records-and-reports.md#339-records-management)).
-* Be familiar with the general policies for Church computers in [38.8.10](38-church-policies-and-guidelines.md#38810-computers). Be familiar with guidelines for obtaining and managing Church computers. These guidelines are available from Church headquarters or the area office. They provide information about matters such as hardware and software, internet connections, repairs, disposal of computers, stolen or damaged computers, security, and use by members.
+* Be familiar with the general policies for Church computers in [38.8.11](38-church-policies-and-guidelines.md#38811-computers). Be familiar with guidelines for obtaining and managing Church computers. These guidelines are available from Church headquarters or the area office. They provide information about matters such as hardware and software, internet connections, repairs, disposal of computers, stolen or damaged computers, security, and use by members.
 
 As needed, stake technology specialists coordinate the work of ward technology specialists and provide training.

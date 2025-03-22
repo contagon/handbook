@@ -30,7 +30,6 @@ Members meet with their bishop and stake president to obtain a recommend for liv
 
 * Receiving their own endowment.
 * Being sealed to a spouse.
-* Being married in a temple for time only.
 
 For information about issuing temple recommends in these circumstances, see [26.1](26-temple-recommends.md#261-types-of-temple-recommends) and [26.3.1](26-temple-recommends.md#2631-temple-recommend-interviews-for-members-in-wards-and-branches).
 
@@ -95,7 +94,7 @@ In the endowment, members are invited to make sacred covenants to:
 * Live the law of obedience and strive to keep Heavenly Father’s commandments.
 * Obey the law of sacrifice, which means sacrificing to support the Lord’s work and repenting with a broken heart and contrite spirit.
 * Obey the law of the gospel of Jesus Christ, which is the higher law that He taught while He was on the earth.
-* Keep the law of chastity, which means having no sexual activity except with those to whom they are legally and lawfully wedded according to God’s law.
+* Keep the law of chastity, which means having sexual relations only with those to whom they are legally and lawfully wedded according to God’s law.
 * Keep the law of consecration, which means dedicating their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
 
 In return, Heavenly Father promises that those who remain faithful to their temple covenants will be endowed “with power from on high” ([Doctrine and Covenants 38:32, 38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38.32,38?lang=eng#p32); see also [Luke 24:49](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24.49?lang=eng#p49); [Doctrine and Covenants 43:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/43.16?lang=eng#p16)).
@@ -199,11 +198,13 @@ Couples being sealed after a civil marriage do not need to bring a marriage lice
 
 #### 27.3.2.4 Escorts for the Bride and Groom
 
-An endowed sister may accompany the bride to assist her in the dressing room. An endowed brother may do the same for the groom. An escort must have a valid temple recommend. The temple can provide an escort if needed.
+An endowed sister may accompany the bride to assist her in the dressing room. An endowed brother may do the same for the groom. An escort must have a current temple recommend. The temple can provide an escort if needed.
 
 #### 27.3.2.5 Who Performs a Temple Marriage or Sealing
 
-A temple marriage or sealing is usually performed by a sealer who is assigned to the temple where the couple will be married or sealed. If a family member holds the sealing authority and is assigned to the temple where the couple will be married or sealed, they may invite him to perform the marriage or sealing. A sealer may also seek First Presidency approval to perform a sealing for his lineal descendants (children, grandchildren, and great-grandchildren) in a temple other than the one to which he is assigned. He must receive a letter of authorization from the First Presidency for each such sealing. He presents the letter at the temple.
+A temple marriage or sealing is usually performed by a sealer who is assigned to the temple where the couple will be married or sealed. If a family member or acquaintance holds the sealing authority and is assigned to the temple where the couple will be married or sealed, they may invite him to perform the marriage or sealing.
+
+A sealer may also seek First Presidency approval to perform a sealing for his lineal descendants (children, grandchildren, and great-grandchildren) in a temple other than the one to which he is assigned. He must receive a letter of authorization from the First Presidency for each such sealing. He presents the letter at the temple.
 
 Members are discouraged from asking General Authorities to perform their temple marriage or sealing.
 
@@ -233,14 +234,7 @@ Couples who are married civilly before their temple sealing may exchange rings a
 
 ### 27.3.3 Marriage in a Temple for Time Only
 
-Marriage in a temple for time only may be performed when all of the following requirements are met:
-
-* The man and the woman are each already sealed to a spouse who is deceased.
-* The man and the woman each have a valid temple recommend and a recommend for living ordinances.
-* Temple marriages are legal marriages in the country where the temple is located.
-* The couple has a valid marriage license.
-
-A marriage in the temple for time only is not authorized for members who are in the process of seeking a cancellation of sealing or a sealing clearance.
+The purpose of the temple is to administer ordinances for eternity. For this reason, marriages for time only are no longer performed in temples.
 
 For the policy on sealing a couple who were married in the temple for time only, see [38.4.1.6](38-church-policies-and-guidelines.md#38416-sealing-after-temple-marriage-for-time-only).
 

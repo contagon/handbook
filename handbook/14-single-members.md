@@ -142,13 +142,13 @@ Area Seventies work with stake presidents to establish multistake committees to 
 
 Multistake committees should plan activities that are varied, simple, and inexpensive and that allow for ample social interaction. These committees coordinate with young single adult wards and institutes of religion to achieve an appropriate balance of activities and to avoid duplication and scheduling conflicts.
 
-For additional guidelines on organizing these activities, see [20.3.1](20-activities.md#2031-general-guidelines).
+For additional guidelines on organizing these activities, see [20.3](20-activities.md#203-stake-multistake-and-area-activities).
 
 ### 14.3.7 Funding for Activities
 
 Normally, funding for young single adult activities comes from the stake or ward budget. When multistake or area activities are held, the responsible priesthood leader ensures a fair allocation of funding among the stakes.
 
-Funding for activities should be consistent with the policies in [20.2.8](20-activities.md#2028-funding-for-activities). As an exception, when large multistake or area events are held, young single adults may occasionally be asked to pay some costs themselves. However, leaders should ensure that all young single adults have the opportunity to participate without incurring unreasonable personal costs.
+Funding for activities should be consistent with the policies in [20.2.6](20-activities.md#2026-funding-for-activities). As an exception, when large multistake or area events are held, young single adults may occasionally be asked to pay some costs themselves. However, leaders should ensure that all young single adults have the opportunity to participate without incurring unreasonable personal costs.
 
 ## 14.4 Young Single Adult Wards
 
