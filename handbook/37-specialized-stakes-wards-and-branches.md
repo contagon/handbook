@@ -19,7 +19,7 @@ Minimum Requirements to Create a Language Ward or Branch in a Stake
 |  | Ward | Branch |
 | --- | --- | --- |
 | Number of members (active and less active) | 125 | No minimum |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 15. | 4 |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 | 4 |
 
 Boundaries for language units generally follow the boundaries of geographic wards, branches, and stakes.
 
@@ -56,7 +56,7 @@ Minimum Requirements to Create a Young Single Adult Unit in a Stake
 |  | Ward | Branch |
 | --- | --- | --- |
 | Number of _active_ members | 125 | 50 |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 15. | 4 |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 | 4 |
 
 A young single adult ward usually should not have more than 225 _active_ members.
 
@@ -84,10 +84,10 @@ Where large numbers of young single adults live in one area, usually near univer
 
 Minimum Requirements to Create a Young Single Adult Stake, Ward, or Branch
 
-| Young single adult stake | • 1,500 members (active and less active)<br/>• 5 wards |
+| Young single adult stake | • 1,500 members (active and less active)<br/>• 5 wards |
 | --- | --- |
-| Young single adult ward in a young single adult stake | • 125 members (active)<br/>• 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15. |
-| Young single adult branch in a young single adult stake | • 50 members (active)<br/>• 4 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
+| Young single adult ward in a young single adult stake | • 125 members (active)<br/>• 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
+| Young single adult branch in a young single adult stake | • 50 members (active)<br/>• 4 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
 
 A geographic stake with boundaries that overlap those of a young single adult stake should not have its own young single adult unit.
 
@@ -121,9 +121,9 @@ Married student stakes and wards may be created to serve the married student mem
 
 Minimum Requirements to Create a Married Student Stake or Ward
 
-| Married student stake | • 1,500 members (active and less active)<br/>• 5 wards |
+| Married student stake | • 1,500 members (active and less active)<br/>• 5 wards |
 | --- | --- |
-| Married student ward | • 125 members (active and less active)<br/>• 1 active, full-tithe-paying Melchizedek Priesthood holder who is capable of serving in a leadership position for every 20 members (active and less active). There must be a minimum of 15. |
+| Married student ward | • 125 members (active and less active)<br/>• 15 active, full-tithe-paying Melchizedek Priesthood holders who are capable of serving in leadership positions |
 
 See [36.4.1](36-creating-changing-and-naming-new-units.md#3641-naming-stakes-and-districts) and [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for stake and ward naming guidelines.
 
@@ -147,7 +147,7 @@ Minimum Requirements to Create a Single Adult Ward in a Stake
 
 | Number of members (active and less active) | 125 |
 | --- | --- |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 15. |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 15 |
 
 See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward naming guidelines.
 

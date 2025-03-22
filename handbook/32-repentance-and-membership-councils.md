@@ -4,7 +4,7 @@
 
 Most repentance takes place between an individual, God, and those who have been affected by a person’s sins. However, sometimes a bishop or stake president needs to help Church members in their efforts to repent.
 
-When assisting members with repentance, bishops and stake presidents are loving and caring. They follow the example of the Savior, who lifted individuals and helped them turn away from sin and turn toward God (see [Matthew 9:10–13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/9.10-13?lang=eng#p10); [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.3-11?lang=eng#p3)).
+When assisting members with repentance, bishops and stake presidents are loving and caring. They follow the example of the Savior, who lifted individuals and helped them turn away from sin and turn toward God (see [Matthew 9:10–13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=eng&id=p10-p13#p10); [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng&id=p3-p11#p3)).
 
 As outlined below, this chapter is organized to guide leaders through the key decisions and actions necessary to help someone repent of a serious sin and to help protect others.
 
@@ -32,21 +32,21 @@ __THE CHURCH’S ROLE IN HELPING A PERSON REPENT__
 
 ## 32.1 Repentance and Forgiveness
 
-The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11.37?lang=eng#p37); see also [3 Nephi 27:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27.19?lang=eng#p19)). Our sins make us unclean—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
+The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p37#p37); see also [3 Nephi 27:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=eng&id=p19#p19)). Our sins make us unclean—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
 
-God’s law of justice requires a consequence when we sin (see [Alma 42:14, 17–18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42.14,17-18?lang=eng#p14)). However, His great plan of mercy “can satisfy the demands of justice, and encircles [us] in the arms of safety” ([Alma 34:16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34.16?lang=eng#p16); see also [Mosiah 15:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15.9?lang=eng#p9)).
+God’s law of justice requires a consequence when we sin (see [Alma 42:14, 17–18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p14,17-p18#p14)). However, His great plan of mercy “can satisfy the demands of justice, and encircles [us] in the arms of safety” ([Alma 34:16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p16#p16); see also [Mosiah 15:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p9#p9)).
 
-To bring about His plan of mercy, Heavenly Father sent His Only Begotten Son, Jesus Christ, to atone for our sins (see [Alma 42:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42.15?lang=eng#p15)). Jesus suffered the penalty that the law of justice requires for our sins (see [Doctrine and Covenants 19:15–19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19.15-19?lang=eng#p15); see also [Alma 42:24–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42.24-25?lang=eng#p24)). Through this sacrifice, both the Father and the Son showed Their infinite love for us (see [John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.16?lang=eng#p16)).
+To bring about His plan of mercy, Heavenly Father sent His Only Begotten Son, Jesus Christ, to atone for our sins (see [Alma 42:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p15#p15)). Jesus suffered the penalty that the law of justice requires for our sins (see [Doctrine and Covenants 19:15–19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=eng&id=p15-p19#p15); see also [Alma 42:24–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p24-p25#p24)). Through this sacrifice, both the Father and the Son showed Their infinite love for us (see [John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16#p16)).
 
-When we exercise “faith unto repentance,” Heavenly Father forgives us, granting mercy through the Atonement of Jesus Christ ([Alma 34:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34.15?lang=eng#p15); see also [Alma 42:13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42.13?lang=eng#p13)). When we are cleansed and forgiven, we can ultimately inherit the kingdom of God (see [Isaiah 1:18](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1.18?lang=eng#p18); [Doctrine and Covenants 58:42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.42?lang=eng#p42)).
+When we exercise “faith unto repentance,” Heavenly Father forgives us, granting mercy through the Atonement of Jesus Christ ([Alma 34:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p15#p15); see also [Alma 42:13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p13#p13)). When we are cleansed and forgiven, we can ultimately inherit the kingdom of God (see [Isaiah 1:18](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=eng&id=p18#p18); [Doctrine and Covenants 58:42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p42#p42)).
 
-Repentance is more than changing behavior. It is turning away from sin and toward Heavenly Father and Jesus Christ. It leads to a change of heart and mind (see [Mosiah 5:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5.2?lang=eng#p2); [Alma 5:12–14](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5.12-14?lang=eng#p12); [Helaman 15:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/15.7?lang=eng#p7)). Through repentance, we become new persons, reconciled to God (see [2 Corinthians 5:17–18](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/5.17-18?lang=eng#p17); [Mosiah 27:25–26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27.25-26?lang=eng#p25)).
+Repentance is more than changing behavior. It is turning away from sin and toward Heavenly Father and Jesus Christ. It leads to a change of heart and mind (see [Mosiah 5:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p2#p2); [Alma 5:12–14](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=p12-p14#p12); [Helaman 15:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=eng&id=p7#p7)). Through repentance, we become new persons, reconciled to God (see [2 Corinthians 5:17–18](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/5?lang=eng&id=p17-p18#p17); [Mosiah 27:25–26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p25-p26#p25)).
 
 The opportunity to repent is one of the greatest blessings Heavenly Father has given us through the gift of His Son.
 
 ## 32.2 Purposes of Church Membership Restrictions or Withdrawal
 
-When a person is baptized, he or she becomes part of the “household of God” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19)). The baptismal covenant includes a promise to strive to live according to Christ’s teachings and commandments. When a person falls short, he or she exercises faith in Jesus Christ and repents, relying on His mercy to strengthen and forgive.
+When a person is baptized, he or she becomes part of the “household of God” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=eng&id=p19#p19)). The baptismal covenant includes a promise to strive to live according to Christ’s teachings and commandments. When a person falls short, he or she exercises faith in Jesus Christ and repents, relying on His mercy to strengthen and forgive.
 
 If a member commits a serious sin, the bishop or stake president helps him or her repent. As part of this process, he may need to restrict some Church membership privileges for a time. In some situations, he may need to withdraw a person’s membership for a time.
 
@@ -56,7 +56,7 @@ The bishop or stake president oversees membership restrictions or withdrawal as 
 
 When membership restrictions or withdrawal is necessary, the bishop or stake president follows the guidance of the Holy Ghost and the instructions in this chapter. He acts in a spirit of love (see [32.3](32-repentance-and-membership-councils.md#323-the-role-of-judges-in-israel)).
 
-Church membership restrictions are ecclesiastical, not civil or criminal. They affect only a person’s standing in the Church. (See [Doctrine and Covenants 134:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134.10?lang=eng#p10).)
+Church membership restrictions are ecclesiastical, not civil or criminal. They affect only a person’s standing in the Church. (See [Doctrine and Covenants 134:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134?lang=eng&id=p10#p10).)
 
 The three purposes of membership restrictions or withdrawal are as follows.
 
@@ -68,23 +68,23 @@ Three Purposes of Church Membership Restrictions or Withdrawal
 
 ### 32.2.1 Help Protect Others
 
-The first purpose is to help protect others. Sometimes a person poses a physical or spiritual threat. Predatory behaviors, physical harm, sexual abuse, substance abuse, fraud, and apostasy are some of the ways this can occur. With inspiration, a bishop or stake president acts to protect others when someone poses a threat in these and other serious ways (see [Alma 5:59–60](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5.59-60?lang=eng#p59)).
+The first purpose is to help protect others. Sometimes a person poses a physical or spiritual threat. Predatory behaviors, physical harm, sexual abuse, substance abuse, fraud, and apostasy are some of the ways this can occur. With inspiration, a bishop or stake president acts to protect others when someone poses a threat in these and other serious ways (see [Alma 5:59–60](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/5?lang=eng&id=p59-p60#p59)).
 
 ### 32.2.2 Help a Person Access the Redeeming Power of Jesus Christ through Repentance
 
 The second purpose is to help a person access the redeeming power of Jesus Christ through repentance. Through this process, he or she may again become clean and worthy to receive all of God’s blessings.
 
-The Savior taught that “a broken heart and a contrite spirit” are the sacrifice He requires for forgiveness of sin ([3 Nephi 9:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9.20?lang=eng#p20)). This includes sincere remorse for sins and their consequences (see [2 Corinthians 7:9–10](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/7.9-10?lang=eng#p9)).
+The Savior taught that “a broken heart and a contrite spirit” are the sacrifice He requires for forgiveness of sin ([3 Nephi 9:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p20#p20)). This includes sincere remorse for sins and their consequences (see [2 Corinthians 7:9–10](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/7?lang=eng&id=p9-p10#p9)).
 
 When a person commits a serious sin, membership restrictions or withdrawal can help foster a broken heart and contrite spirit needed to repent, truly forsake the sin, and understand the consequences of sin. This understanding can help people value their covenants with God more deeply and desire to keep those covenants in the future.
 
 ### 32.2.3 Protect the Integrity of the Church
 
-The third purpose is to protect the integrity of the Church. Restricting or withdrawing a person’s Church membership may be necessary if his or her conduct significantly harms the Church (see [Alma 39:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39.11?lang=eng#p11)). The integrity of the Church is not protected by concealing or minimizing serious sins—but by addressing them.
+The third purpose is to protect the integrity of the Church. Restricting or withdrawing a person’s Church membership may be necessary if his or her conduct significantly harms the Church (see [Alma 39:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=eng&id=p11#p11)). The integrity of the Church is not protected by concealing or minimizing serious sins—but by addressing them.
 
 ## 32.3 The Role of Judges in Israel
 
-Bishops and stake presidents are called and set apart to be judges in Israel (see [Doctrine and Covenants 107:72–74](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.72-74?lang=eng#p72)). They hold priesthood keys to represent the Lord in helping Church members repent (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13.1?lang=eng#p1); [107:16–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.16-18?lang=eng#p16)).
+Bishops and stake presidents are called and set apart to be judges in Israel (see [Doctrine and Covenants 107:72–74](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p72-p74#p72)). They hold priesthood keys to represent the Lord in helping Church members repent (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=eng&id=p1#p1); [107:16–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p16-p18#p16)).
 
 Often bishops and stake presidents assist with repentance through personal counseling. This assistance may include informally restricting some privileges of Church membership for a time. (See [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions).)
 
@@ -92,15 +92,15 @@ For some serious sins, leaders assist with repentance by holding a membership co
 
 Bishops and stake presidents help Church members understand that God loves His children. Because He wants them to be happy and receive blessings, He also cares immensely about their obedience and repentance.
 
-Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.3-11?lang=eng#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”—to repent and change her life.
+Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng&id=p3-p11#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”—to repent and change her life.
 
-These leaders teach that there is “joy … in heaven over one sinner that repenteth” ([Luke 15:7](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/15.7?lang=eng#p7)). They are patient, supportive, and positive. They inspire hope. They teach and testify that because of the Savior’s atoning sacrifice, all can repent and become clean.
+These leaders teach that there is “joy … in heaven over one sinner that repenteth” ([Luke 15:7](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=eng&id=p7#p7)). They are patient, supportive, and positive. They inspire hope. They teach and testify that because of the Savior’s atoning sacrifice, all can repent and become clean.
 
 Bishops and stake presidents seek guidance from the Spirit to know how to help each person repent. Only for the most serious sins does the Church have a set standard on what actions its leaders should take (see [32.6](32-repentance-and-membership-councils.md#326-severity-of-the-sin-and-church-policy) and [32.11](32-repentance-and-membership-councils.md#3211-decisions-from-membership-councils)). No two situations are the same. The counseling that leaders give and the process of repentance they facilitate must be inspired and may be different for each person.
 
 The Lord knows each person’s circumstances, capacity, and spiritual maturity. The Holy Ghost will help leaders discern how to help members make the necessary changes so they can heal and resist the temptation to repeat the sin.
 
-Helping someone repent, turn back to God, and be healed through the Atonement of Jesus Christ is one of the most joyous experiences a person can have. [Doctrine and Covenants 18:10–13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18.10-13?lang=eng#p10) explains:
+Helping someone repent, turn back to God, and be healed through the Atonement of Jesus Christ is one of the most joyous experiences a person can have. [Doctrine and Covenants 18:10–13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=eng&id=p10-p13#p10) explains:
 
 “Remember the worth of souls is great in the sight of God;
 
@@ -114,11 +114,11 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 ### 32.4.1 Confession
 
-Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.43?lang=eng#p43); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.29?lang=eng#p29)).
+Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p43#p43); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng&id=p29#p29)).
 
-When Church members commit serious sins, their repentance also includes confession to their bishop or stake president. He is then able to exercise the keys of the gospel of repentance on their behalf (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13.1?lang=eng#p1); [84:26–27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.26-27?lang=eng#p26); [107:18, 20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.18,20?lang=eng#p18)). This helps them heal and return to the gospel path through the power of the Savior’s Atonement.
+When Church members commit serious sins, their repentance also includes confession to their bishop or stake president. He is then able to exercise the keys of the gospel of repentance on their behalf (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=eng&id=p1#p1); [84:26–27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p26-p27#p26); [107:18, 20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p18,20#p18)). This helps them heal and return to the gospel path through the power of the Savior’s Atonement.
 
-The purpose of confession is to encourage members to unburden themselves so they can fully seek the Lord’s help in changing and healing. Developing a “broken heart and a contrite spirit” is aided by confession ([2 Nephi 2:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2.7?lang=eng#p7)). Voluntary confession shows that a person desires to repent.
+The purpose of confession is to encourage members to unburden themselves so they can fully seek the Lord’s help in changing and healing. Developing a “broken heart and a contrite spirit” is aided by confession ([2 Nephi 2:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=p7#p7)). Voluntary confession shows that a person desires to repent.
 
 When a member confesses, the bishop or stake president follows the guidelines for counseling in [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions). He prayerfully seeks guidance about the appropriate setting for helping the member repent (see [32.5](32-repentance-and-membership-councils.md#325-settings-for-helping-a-person-repent)). He considers whether a membership council would be helpful. If Church policy requires a membership council, he explains this (see [32.6](32-repentance-and-membership-councils.md#326-severity-of-the-sin-and-church-policy) and [32.10](32-repentance-and-membership-councils.md#3210-procedures-for-membership-councils)).
 
@@ -128,7 +128,7 @@ Sometimes a member has wronged a spouse or another adult. As part of repentance,
 
 A bishop or stake president typically learns about a serious sin through confession or from another person. He may also receive promptings about a potential serious sin through the Holy Ghost. If he feels prompted by the Spirit that someone may be struggling with sin, he may schedule an interview. During the interview, he shares his concerns in a kind, respectful way. He avoids any tone of accusation.
 
-If a member denies committing a serious sin that the bishop or stake president has information to support, a membership council may still be held. However, a spiritual impression alone is not sufficient to hold a council (see [Doctrine and Covenants 10:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/10.37?lang=eng#p37)). The leader may gather additional information if needed. He follows the guidelines in [32.4.3](32-repentance-and-membership-councils.md#3243-gathering-information) and [32.10.2](32-repentance-and-membership-councils.md#32102-obtain-statements-from-victims).
+If a member denies committing a serious sin that the bishop or stake president has information to support, a membership council may still be held. However, a spiritual impression alone is not sufficient to hold a council (see [Doctrine and Covenants 10:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=eng&id=p37#p37)). The leader may gather additional information if needed. He follows the guidelines in [32.4.3](32-repentance-and-membership-councils.md#3243-gathering-information) and [32.10.2](32-repentance-and-membership-councils.md#32102-obtain-statements-from-victims).
 
 ### 32.4.3 Gathering Information
 
@@ -136,7 +136,7 @@ Before holding a membership council, the bishop or stake president gathers as mu
 
 When gathering information, the bishop or stake president should only use methods that are appropriate for a priesthood leader. He should not keep a watch on a person’s home or record him or her without consent. Nor should he use any practices that are against the law.
 
-False accusations are rare but can occur. Priesthood leaders should be cautious when there is limited information besides one person’s word. For example, a member who is accused of adultery may deny the charge. The scriptures explain that “every word shall be established against him or her by two witnesses of the church” ([Doctrine and Covenants 42:80](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.80?lang=eng#p80)). “Two witnesses” means two separate sources of information. This could include the knowledge of a participant and some other reliable source. At times a priesthood leader may need to wait to act until more information becomes available.
+False accusations are rare but can occur. Priesthood leaders should be cautious when there is limited information besides one person’s word. For example, a member who is accused of adultery may deny the charge. The scriptures explain that “every word shall be established against him or her by two witnesses of the church” ([Doctrine and Covenants 42:80](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p80#p80)). “Two witnesses” means two separate sources of information. This could include the knowledge of a participant and some other reliable source. At times a priesthood leader may need to wait to act until more information becomes available.
 
 When a Church leader is gathering information for a membership council, he should immediately stop if he learns that law enforcement is actively investigating the member. This is done to avoid possible claims that the leader may have obstructed justice. For legal advice about these situations in the United States and Canada, the stake president contacts the Church’s Office of General Counsel:
 
@@ -211,7 +211,7 @@ Settings for Helping a Person Repent
 | Ward Membership Council | • For any member.<br/>• Is required for the serious sins addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required).<br/>• May be necessary for the serious sins and actions addressed in [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary) and [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary).<br/>• Is insufficient if a man or woman who has been endowed will likely have his or her Church membership withdrawn for any of the serious sins or actions addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required), [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary), or [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). |
 | Personal Counseling (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)) | • For any member.<br/>• May include informal Church membership restrictions.<br/>• May be insufficient for serious sins or actions for which a membership council would be helpful in the repentance process (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary) and [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary)).<br/>• Is insufficient for serious sins that require a membership council (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)).<br/>• Is insufficient if a man or woman who has been endowed will likely have his or her Church membership withdrawn for any of the serious sins or actions addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required), [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary), or [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). |
 
-Personal counseling and informal restrictions by the bishop or stake president are sometimes not sufficient to help a person repent of serious sins. The Lord has provided membership councils to assist a judge in Israel in these situations. (See [Exodus 18:12–27](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/18.12-27?lang=eng#p12); [Mosiah 26:29–36](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.29-36?lang=eng#p29); [Doctrine and Covenants 42:80–83](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.80-83?lang=eng#p80); [102](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng).) For some serious sins, a council is required by Church policy (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)). Violating temple covenants increases the likelihood of a membership council being necessary (see [32.7.4](32-repentance-and-membership-councils.md#3274-violation-of-temple-covenants)).
+Personal counseling and informal restrictions by the bishop or stake president are sometimes not sufficient to help a person repent of serious sins. The Lord has provided membership councils to assist a judge in Israel in these situations. (See [Exodus 18:12–27](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/18?lang=eng&id=p12-p27#p12); [Mosiah 26:29–36](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng&id=p29-p36#p29); [Doctrine and Covenants 42:80–83](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p80-p83#p80); [102](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng).) For some serious sins, a council is required by Church policy (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)). Violating temple covenants increases the likelihood of a membership council being necessary (see [32.7.4](32-repentance-and-membership-councils.md#3274-violation-of-temple-covenants)).
 
 In a ward, the bishop’s counselors assist in membership councils. In a stake, the stake president’s counselors assist. In some stake membership councils, the high council also participates (see [32.9.2](32-repentance-and-membership-councils.md#3292-high-council)). In a membership council, the bishopric or stake presidency meets with the person in a spirit of love.
 
@@ -232,7 +232,7 @@ Before holding the council, the bishop or stake president may determine that inf
 
 ## 32.6 Severity of the Sin and Church Policy
 
-The severity of a sin is an important consideration in determining the setting that will (1) help protect others and (2) help a person repent. The Lord has said that He “cannot look upon sin with the least degree of allowance” ([Doctrine and Covenants 1:31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1.31?lang=eng#p31); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.29?lang=eng#p29)). His servants must not ignore evidence of serious sin.
+The severity of a sin is an important consideration in determining the setting that will (1) help protect others and (2) help a person repent. The Lord has said that He “cannot look upon sin with the least degree of allowance” ([Doctrine and Covenants 1:31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p31#p31); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng&id=p29#p29)). His servants must not ignore evidence of serious sin.
 
 Serious sins are a deliberate and major offense against the laws of God. Categories of serious sins are listed below.
 
@@ -308,7 +308,7 @@ A membership council may be necessary in the following instances.
 
 #### 32.6.2.1 Violent Acts and Abuse
 
-The Lord commanded, “Thou shalt not … kill, _nor do anything like unto it_” ([Doctrine and Covenants 59:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59.6?lang=eng#p6); italics added). Violent acts and abuse for which a membership council may be necessary include (but are not limited to) those listed below.
+The Lord commanded, “Thou shalt not … kill, _nor do anything like unto it_” ([Doctrine and Covenants 59:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=eng&id=p6#p6); italics added). Violent acts and abuse for which a membership council may be necessary include (but are not limited to) those listed below.
 
 _Attempted Murder._ Deliberately trying to kill someone.
 
@@ -318,11 +318,11 @@ _Abuse of a Spouse or Another Adult._ There is a spectrum of severity in abusive
 
 #### 32.6.2.2 Sexual Immorality
 
-The Lord’s law of chastity is abstinence from sexual relations outside of a legal marriage between a man and a woman (see [Exodus 20:14](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.14?lang=eng#p14); [Doctrine and Covenants 63:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63.16?lang=eng#p16)). A membership council may be necessary for sexual immorality as described in [38.6.5](38-church-policies-and-guidelines.md#3865-chastity-and-fidelity). In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive. See [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) for when a council is required.
+The Lord’s law of chastity is abstinence from sexual relations outside of a legal marriage between a man and a woman (see [Exodus 20:14](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p14#p14); [Doctrine and Covenants 63:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=eng&id=p16#p16)). A membership council may be necessary for sexual immorality as described in [38.6.5](38-church-policies-and-guidelines.md#3865-chastity-and-fidelity). In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive. See [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) for when a council is required.
 
 #### 32.6.2.3 Fraudulent Acts
 
-The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
+The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p15-p16#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
 See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property. See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud.
 
@@ -339,9 +339,9 @@ See [32.6.1.4](32-repentance-and-membership-councils.md#32614-violations-of-trus
 
 #### 32.6.2.5 Some Other Acts
 
-King Benjamin taught, “I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many that I cannot number them” ([Mosiah 4:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4.29?lang=eng#p29)). A council may be necessary if a person:
+King Benjamin taught, “I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many that I cannot number them” ([Mosiah 4:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p29#p29)). A council may be necessary if a person:
 
-* Shows a pattern of committing serious sins (see [Doctrine and Covenants 82:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82.7?lang=eng#p7)).
+* Shows a pattern of committing serious sins (see [Doctrine and Covenants 82:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p7#p7)).
 * Deliberately abandons family responsibilities, including nonpayment of child support and alimony.
 * Threatens physical violence, whether in person or online (see [32.2.1](32-repentance-and-membership-councils.md#3221-help-protect-others)).
 * Sells illegal drugs.
@@ -391,7 +391,7 @@ As used here, _apostasy_ refers to a member engaging in any of the following:
 * Continuing to follow the teachings of apostate sects after being corrected by the bishop or stake president
 * Formally joining another church and promoting its teachings (Total inactivity in the Church or attending another church does not by itself constitute apostasy. However, if a member formally joins another church and advocates its teachings, withdrawing his or her membership may be necessary.)
 
-The Savior taught the Nephites that they should continue to minister to a person who has sinned. “But if he repent not he shall not be numbered among my people, that he may not destroy my people” ([3 Nephi 18:31](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18.31?lang=eng#p31)).
+The Savior taught the Nephites that they should continue to minister to a person who has sinned. “But if he repent not he shall not be numbered among my people, that he may not destroy my people” ([3 Nephi 18:31](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=eng&id=p31#p31)).
 
 #### 32.6.3.3 Embezzling Church Funds
 
@@ -436,11 +436,11 @@ Leaders should not use membership councils to settle business disputes. Business
 
 #### 32.6.4.3 Civil Disputes
 
-Membership councils are not held to resolve civil disputes (see [Doctrine and Covenants 134:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134.11?lang=eng#p11)).
+Membership councils are not held to resolve civil disputes (see [Doctrine and Covenants 134:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134?lang=eng&id=p11#p11)).
 
 ## 32.7 Circumstances of the Person
 
-The Lord said, “Mine arm of mercy is extended towards you, and whosoever will come, him will I receive; and blessed are those who come unto me” ([3 Nephi 9:14](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9.14?lang=eng#p14)). A person’s circumstances are an important consideration in determining:
+The Lord said, “Mine arm of mercy is extended towards you, and whosoever will come, him will I receive; and blessed are those who come unto me” ([3 Nephi 9:14](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p14#p14)). A person’s circumstances are an important consideration in determining:
 
 * The appropriate setting for helping him or her repent of serious sins (see [32.5](32-repentance-and-membership-councils.md#325-settings-for-helping-a-person-repent) and [32.6](32-repentance-and-membership-councils.md#326-severity-of-the-sin-and-church-policy)).
 * The decisions made in personal counseling or membership councils (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions) and [32.11](32-repentance-and-membership-councils.md#3211-decisions-from-membership-councils)).
@@ -484,7 +484,7 @@ Spiritual guidance is needed to discern whether a person has sincerely repented.
 
 ### 32.7.4 Violation of Temple Covenants
 
-The Lord declared, “For of him unto whom much is given much is required” ([Doctrine and Covenants 82:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82.3?lang=eng#p3)). A person who has received the temple endowment has made covenants to live a higher standard. Violating these covenants magnifies the seriousness of the sin. It increases the likelihood of a membership council being necessary.
+The Lord declared, “For of him unto whom much is given much is required” ([Doctrine and Covenants 82:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p3#p3)). A person who has received the temple endowment has made covenants to live a higher standard. Violating these covenants magnifies the seriousness of the sin. It increases the likelihood of a membership council being necessary.
 
 ### 32.7.5 Position of Trust or Authority
 
@@ -524,7 +524,7 @@ __ADMINISTERING PERSONAL COUNSELING__
 
 Personal counseling is often sufficient to help protect others and help a person access the redeeming power of Jesus Christ’s Atonement through repentance. Such counseling can also help members guard against more serious sins. In personal counseling, leaders can also give informal membership restrictions to help a member repent of some serious sins (see [32.8.3](32-repentance-and-membership-councils.md#3283-informal-membership-restrictions)).
 
-Serious sins should not be treated lightly (see [Doctrine and Covenants 1:31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1.31?lang=eng#p31)). Violating temple covenants increases the likelihood of a membership council being necessary (see [32.7.4](32-repentance-and-membership-councils.md#3274-violation-of-temple-covenants)).
+Serious sins should not be treated lightly (see [Doctrine and Covenants 1:31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p31#p31)). Violating temple covenants increases the likelihood of a membership council being necessary (see [32.7.4](32-repentance-and-membership-councils.md#3274-violation-of-temple-covenants)).
 
 Guidelines to help leaders know when counseling and informal restrictions may be sufficient are listed below (see also [32.7](32-repentance-and-membership-councils.md#327-circumstances-of-the-person)):
 
@@ -554,7 +554,7 @@ Uplifting Activities to Help with Repenting and Building Spiritual Fortification
 
 * Encourage making restitution to those harmed by sins and asking for forgiveness
 * Encourage turning away from bad influences. Help members take preventive action to resist specific temptations.
-* Recognize that you are an ecclesiastical leader, not a professional counselor. In addition to the counseling you provide, some members would benefit from behavioral counseling. Some suffer from mental illness. As needed, counsel members to seek help from qualified medical and mental health professionals (see [31.3.6](31.md#3136-professional-counseling-and-therapy)).
+* Recognize that you are an ecclesiastical leader, not a professional counselor. In addition to the counseling you provide, some members would benefit from behavioral counseling. Some suffer from mental illness. As needed, counsel members to seek help from qualified medical and mental health professionals (see [31.3.6](31.md#3136-professional-counseling-and-therapy)).
 * Be prayerful and seek guidance from the Spirit before giving informal membership restrictions. Some members may benefit from exercising the privileges of Church membership more actively rather than having them restricted.
 * Follow up to give encouragement, fortify spiritual strength, and monitor progress.
 
@@ -566,7 +566,9 @@ When assigning someone to assist with follow-up counseling, the leader gives onl
 
 ### 32.8.2 Helping People Address Addictions and Pornography Use
 
-Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families. Bishops may counsel members to seek help from Church addiction recovery programs and from qualified medical and mental health professionals.
+Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families.
+
+Bishops may counsel members to seek help from the Church’s [Healing through the Savior: The Addiction Recovery Program](https://www.churchofjesuschrist.org/study/manual/addiction-recovery-program-2023?lang=eng) and from qualified medical and mental health professionals. Only the Church’s official program should be sponsored or hosted in Church buildings.
 
 Pornography use is becoming increasingly common. Whether pornography use is intensive or occasional, it is harmful. It drives away the Spirit. It weakens the ability to draw on power that comes from keeping covenants. It also harms precious relationships.
 
@@ -619,7 +621,7 @@ The stake president:
 
 ### 32.9.2 High Council
 
-Members of the high council do not normally participate in stake membership councils. However, the high council may participate in difficult situations (see [Doctrine and Covenants 102:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102.2?lang=eng#p2)). For example, the stake presidency may invite the high council to participate when:
+Members of the high council do not normally participate in stake membership councils. However, the high council may participate in difficult situations (see [Doctrine and Covenants 102:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng&id=p2#p2)). For example, the stake presidency may invite the high council to participate when:
 
 * There are contested facts.
 * They would add value and balance.
@@ -790,7 +792,7 @@ The time of formal restriction is usually at least one year and may be longer. W
 
 ### 32.11.4 Withdrawal of Membership
 
-In some membership councils, leaders may determine that it is best to withdraw a person’s Church membership for a time (see [Mosiah 26:36](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.36?lang=eng#p36); [Alma 6:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/6.3?lang=eng#p3); [Moroni 6:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.7?lang=eng#p7); [Doctrine and Covenants 20:83](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.83?lang=eng#p83)).
+In some membership councils, leaders may determine that it is best to withdraw a person’s Church membership for a time (see [Mosiah 26:36](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng&id=p36#p36); [Alma 6:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/6?lang=eng&id=p3#p3); [Moroni 6:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=eng&id=p7#p7); [Doctrine and Covenants 20:83](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p83#p83)).
 
 Withdrawing a person’s Church membership is required for murder (as defined in [32.6.1.1](32-repentance-and-membership-councils.md#32611-violent-acts-and-abuse)) and plural marriage (as explained in [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality)). It is almost always required for incest as explained in [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) and [38.6.10](38-church-policies-and-guidelines.md#38610-incest).
 
@@ -989,7 +991,7 @@ If a person’s Church membership privileges have been restricted or withdrawn, 
 
 The bishop or stake president’s role as a common judge does not end when a member has received membership restrictions or had his or her Church membership withdrawn. He continues to minister, as the person allows, so he or she may again enjoy the blessings of Church membership. The bishop regularly meets with the person and, when helpful and applicable, his or her spouse. The Savior taught the Nephites:
 
-“Ye shall not cast him out of … your places of worship, for unto such shall ye continue to minister; for ye know not but what they will return and repent, and come unto me with full purpose of heart, and I shall heal them; and ye shall be the means of bringing salvation unto them” ([3 Nephi 18:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18.32?lang=eng#p32)).
+“Ye shall not cast him out of … your places of worship, for unto such shall ye continue to minister; for ye know not but what they will return and repent, and come unto me with full purpose of heart, and I shall heal them; and ye shall be the means of bringing salvation unto them” ([3 Nephi 18:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=eng&id=p32#p32)).
 
 The time just after a person’s membership has been restricted or withdrawn is difficult and critical for his or her family. Leaders should be sensitive to these needs and encourage and assist family members.
 
@@ -1031,7 +1033,7 @@ The stake president submits an application to the First Presidency only if he re
 	2. Incest
 	3. Sexual abuse of a child or youth, sexual exploitation of a child or youth, or serious physical or emotional abuse of a child or youth by an adult or by a youth who is several years older
 	4. Involvement with child pornography when there is a legal conviction
-	5. Apostasy
+	5. Apostasy (see [32.6.3.2](32-repentance-and-membership-councils.md#32632-apostasy) for what constitutes apostasy)
 	6. Plural marriage
 	7. Committing a serious sin while holding a prominent Church position
 	8. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals))
@@ -1073,7 +1075,7 @@ The following chart indicates the appropriate level of Church activity for a per
 
 ### 32.17.2 Restoration of Blessings
 
-Persons who previously received the temple endowment and were readmitted by baptism and confirmation can receive their priesthood and temple blessings only through the ordinance of restoration of blessings (see [Doctrine and Covenants 109:21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109.21?lang=eng#p21)). They are not ordained to priesthood offices or endowed again. These blessings are restored through the ordinance. Brethren are restored to their former priesthood office, except the office of Seventy, bishop, or patriarch.
+Persons who previously received the temple endowment and were readmitted by baptism and confirmation can receive their priesthood and temple blessings only through the ordinance of restoration of blessings (see [Doctrine and Covenants 109:21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p21#p21)). They are not ordained to priesthood offices or endowed again. These blessings are restored through the ordinance. Brethren are restored to their former priesthood office, except the office of Seventy, bishop, or patriarch.
 
 Only the First Presidency can approve the performance of the ordinance of restoration of blessings. They will not consider an application for this ordinance sooner than one year after the person is readmitted by baptism and confirmation.
 

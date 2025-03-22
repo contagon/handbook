@@ -2,7 +2,7 @@
 
 ## 34.0 Introduction
 
-Tithes and offerings allow the Church to pursue God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). These funds are sacred. They represent the sacrifice and faith of members of the Church (see [Mark 12:41–44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12.41-44?lang=eng#p41)).
+Tithes and offerings allow the Church to pursue God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). These funds are sacred. They represent the sacrifice and faith of members of the Church (see [Mark 12:41–44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41)).
 
 Some of the uses of tithes and offerings in supporting the Lord’s work include:
 
@@ -12,7 +12,7 @@ Some of the uses of tithes and offerings in supporting the Lord’s work include
 * Supporting the programs of the Church, such as education and family history.
 * Providing food, shelter, and other necessities to people in need.
 
-Stake presidents and bishops have a sacred obligation to oversee Church funds (see [Doctrine and Covenants 72:9–10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/72.9-10?lang=eng#p9)). These funds should be used only by authorized members for authorized Church purposes. They must be carefully accounted for and protected.
+Stake presidents and bishops have a sacred obligation to oversee Church funds (see [Doctrine and Covenants 72:9–10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/72?lang=eng&id=p9-p10#p9)). These funds should be used only by authorized members for authorized Church purposes. They must be carefully accounted for and protected.
 
 ## 34.1 Stake Financial Leadership
 
@@ -92,15 +92,15 @@ Members are encouraged to make their contributions online where possible (see [d
 
 ### 34.3.1 Tithing
 
-Tithing is the donation of one-tenth of one’s income to God’s Church (see [Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119.3-4?lang=eng#p3); _interest_ is understood to mean income). All members who have income should pay tithing.
+Tithing is the donation of one-tenth of one’s income to God’s Church (see [Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3); _interest_ is understood to mean income). All members who have income should pay tithing.
 
-The Lord’s covenant people have lived the law of tithing since ancient times (see [Genesis 14:18–20](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/14.18-20?lang=eng#p18); [Leviticus 27:30–32](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/27.30-32?lang=eng#p30)). The Lord has said, “The tithing of my people … shall be a standing law unto them forever” ([Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119.3-4?lang=eng#p3)).
+The Lord’s covenant people have lived the law of tithing since ancient times (see [Genesis 14:18–20](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/14?lang=eng&id=p18-p20#p18); [Leviticus 27:30–32](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/27?lang=eng&id=p30-p32#p30)). The Lord has said, “The tithing of my people … shall be a standing law unto them forever” ([Doctrine and Covenants 119:3–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng&id=p3-p4#p3)).
 
-Tithes are holy to the Lord, and members honor Him by paying tithing. This is an expression of faith in God and His promises. Those who pay tithing receive this promise from the Lord: “Prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it” ([Malachi 3:10](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3.10?lang=eng#p10)).
+Tithes are holy to the Lord, and members honor Him by paying tithing. This is an expression of faith in God and His promises. Those who pay tithing receive this promise from the Lord: “Prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it” ([Malachi 3:10](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p10#p10)).
 
 #### 34.3.1.1 Use of Tithing Funds
 
-Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (see [Doctrine and Covenants 120](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/120?lang=eng)). Some of these purposes are outlined in [34.0](34-finances-and-audits.md#340-introduction).
+Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (see [Doctrine and Covenants 120](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/120?lang=eng)). Some of these purposes are outlined in [34.0](34-finances-and-audits.md#340-introduction).
 
 #### 34.3.1.2 Tithing Declaration
 
@@ -139,7 +139,7 @@ Contributions to the General Missionary Fund are used by the Church in its overa
 
 Stake presidents and bishops should send missionary funds that exceed reasonable stake and ward needs to the General Missionary Fund at Church headquarters or to the area office.
 
-For more information about missionary funds and financing missionary service, see [24.3.4](24.md#2434-finances).
+For more information about missionary funds and financing missionary service, see [24.3.4](24.md#2434-finances).
 
 ### 34.3.4 Additional Contributions
 
@@ -155,7 +155,7 @@ Philanthropies
 
 1450 North University Avenue
 
-Provo, UT 84604-6080
+Provo, UT 84604-6080
 
 Telephone: 1-801-356-5300 or 1-800-525-8074
 
@@ -191,7 +191,7 @@ Leaders should protect and never share their passwords (see [33.9.1.1](33-record
 
 ### 34.5.2 Receiving Tithing and Other Offerings
 
-The Lord has given bishops the sacred trust of receiving and accounting for the tithes and other offerings of the Saints (see [Doctrine and Covenants 42:30–33](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.30-33?lang=eng#p30); [119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng)). Only the bishop and his counselors may receive tithes and other offerings. Under no circumstances should their wives, other members of their families, clerks, or other ward members receive these contributions. The only exception is when Aaronic Priesthood holders are assigned to collect fast offerings (see [34.3.2](34-finances-and-audits.md#3432-fast-offerings)).
+The Lord has given bishops the sacred trust of receiving and accounting for the tithes and other offerings of the Saints (see [Doctrine and Covenants 42:30–33](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p30-p33#p30); [119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng)). Only the bishop and his counselors may receive tithes and other offerings. Under no circumstances should their wives, other members of their families, clerks, or other ward members receive these contributions. The only exception is when Aaronic Priesthood holders are assigned to collect fast offerings (see [34.3.2](34-finances-and-audits.md#3432-fast-offerings)).
 
 Checks should be made payable to The Church of Jesus Christ of Latter-day Saints. Money received by the bishopric should be recorded and deposited as soon as possible. Church leaders and members should not leave donations unattended.
 
@@ -372,7 +372,7 @@ The stake president and stake audit committee review all audits. After their rev
 
 ### 34.7.4 Area Auditors and Assistant Area Auditors
 
-The Area Presidency follows the guidelines in the Guide to the Area Audit Program when calling an area auditor or assistant area auditor.
+The Area Presidency follows the guidelines in the [Guide to the Area Audit Program](https://assets.churchofjesuschrist.org/29/ad/29ad9bf50ad011ec8ff1eeeeac1e0b12a0c0c4ee/guide_to_area_audit_program.pdf) when calling an area auditor or assistant area auditor.
 
 ### 34.7.5 Loss, Theft, Embezzlement, or Misappropriation of Church Funds
 
@@ -405,7 +405,7 @@ Tax Administration
 
 50 East North Temple Street, Room 2276
 
-Salt Lake City, UT 84150-0022
+Salt Lake City, UT 84150-0022
 
 Telephone: 1-801-240-4405 or 1-800-453-3860, extension 2-4405
 

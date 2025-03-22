@@ -7,6 +7,4 @@ God’s work of salvation and exaltation focuses on four divinely appointed resp
 * Make covenants with God as we receive the ordinances of salvation and exaltation.
 * Endure to the end by keeping those covenants.
 
-As we live the gospel and experience the influence of the Holy Ghost, we desire to help family members and others receive God’s blessings (see [1 Nephi 8:10–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8.10-12?lang=eng#p10)). We learn and teach the gospel of Jesus Christ at home and at church. We also seek to become self-reliant in providing for ourselves and our families, both spiritually and temporally.
-
 Living the gospel encompasses the other aspects of God’s work of salvation and exaltation. These include caring for those in need, inviting all to receive the gospel, and uniting families for eternity.

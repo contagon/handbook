@@ -2,21 +2,21 @@
 
 ## 25.0 Introduction
 
-Uniting families for eternity is part of the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). Temple and family history work is the means for uniting and sealing families for eternity (see [Matthew 16:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16.19?lang=eng#p19)). This work includes:
+Uniting families for eternity is part of God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). Temple and family history work is the means for uniting and sealing families for eternity (see [Matthew 16:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=eng&id=p19#p19)). This work includes:
 
-* Making covenants as we receive our own temple ordinances (see [Isaiah 55:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.3?lang=eng#p3); [Doctrine and Covenants 84:19–23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.19-23?lang=eng#p19)).
-* Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God (see [Malachi 4:5–6](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4.5-6?lang=eng#p5); [1 Corinthians 15:29](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15.29?lang=eng#p29); [Doctrine and Covenants 128:15–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128.15-18?lang=eng#p15)).
-* Going to the temple regularly, where possible, to worship God and perform ordinances for His children (see [Luke 24:52–53](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24.52-53?lang=eng#p52); [Doctrine and Covenants 109:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109.13-14?lang=eng#p13)).
+* Making covenants as we receive our own temple ordinances (see [Isaiah 55:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=eng&id=p3#p3); [Doctrine and Covenants 84:19–23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p19-p23#p19)).
+* Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God (see [Malachi 4:5–6](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=eng&id=p5-p6#p5); [1 Corinthians 15:29](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=eng&id=p29#p29); [Doctrine and Covenants 128:15–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=eng&id=p15-p18#p15)).
+* Going to the house of the Lord regularly, where possible, to worship God and perform ordinances for our ancestors (see [Luke 24:52–53](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=eng&id=p52-p53#p52); [Doctrine and Covenants 109:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p13-p14#p13)).
 
 The temple is the house of the Lord. Temple ordinances and covenants bless Heavenly Father’s children. Heavenly Father invites all of His children to qualify for and receive temple ordinances.
 
-This chapter guides Church leaders and members in temple and family history work. More information is available at “[Temples](https://www.churchofjesuschrist.org/study/manual/gospel-topics/temples?lang=eng)” and “[Family History](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+This chapter guides Church leaders and members in temple and family history work. More information is available at “[Temples](https://www.churchofjesuschrist.org/study/manual/gospel-topics/temples?lang=eng)” and “[Family History](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 ## 25.1 Member and Leader Participation in Temple and Family History Work
 
 Church members have the privilege and responsibility to help unite their families for eternity. They prepare themselves to make covenants as they receive temple ordinances, and they strive to keep those covenants. They also help family members understand, receive, and strive to keep temple covenants. Parents have the primary responsibility to help their children experience the blessings of temple and family history service for deceased family members.
 
-Church members are encouraged to identify their deceased relatives who have not received temple ordinances. Members then perform the ordinances on behalf of those relatives (see [Doctrine and Covenants 128:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128.18?lang=eng#p18)). In the spirit world, deceased individuals can choose to accept or reject the ordinances that have been performed for them.
+Church members are encouraged to identify their deceased relatives who have not received temple ordinances. Members then perform the ordinances on behalf of those relatives (see [Doctrine and Covenants 128:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=eng&id=p18#p18)). In the spirit world, deceased individuals can choose to accept or reject the ordinances that have been performed for them.
 
 Members also invite family and friends to learn about their ancestors and discover their stories.
 
@@ -63,6 +63,7 @@ The elders quorum and Relief Society presidencies lead the day-to-day temple and
 
 These leaders have the following responsibilities:
 
+* Ask a ward temple and family history consultant to help ward members who have recently received mission calls to find and prepare deceased ancestors’ names for temple ordinances.
 * Encourage individuals and families to learn the doctrine and blessings of temple and family history work.
 * Ensure that the doctrine and blessings of temple and family history work are taught at church.
 * Help members prepare to receive temple ordinances and make temple covenants.
@@ -86,7 +87,7 @@ The ward temple and family history leader supports the elders quorum presidency 
 * Help the ward council develop and implement the ward temple and family history plan (see [25.2.6](25-temple-and-family-history-work.md#2526-ward-temple-and-family-history-plan)).
 * Instruct ward temple and family history consultants. Coordinate their efforts to help members with temple and family history work.
 * Work with the ward mission leader and the missionaries to help those learning the gospel, new members, and returning members engage in temple and family history work.
-* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where applicable, assign ward temple and family history consultants to serve in the family history center (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-family-history-centers)).
+* [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where applicable, assign ward temple and family history consultants to serve in the FamilySearch center (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-familysearch-centers)).
 
 ### 25.2.4 Ward Temple and Family History Consultants
 
@@ -97,7 +98,7 @@ Consultants have the following responsibilities:
 * Help members experience the blessings of discovering their ancestors and performing temple ordinances on their behalf. These experiences are especially important for those learning the gospel, new and returning members, and those preparing to receive a recommend for proxy baptisms and confirmations.
 * Help members prepare to receive temple ordinances and make temple covenants.
 * Participate in temple and family history coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)).
-* Serve in a local family history center when assigned (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-family-history-centers)).
+* Serve in a local FamilySearch center when assigned (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-familysearch-centers)).
 
 ### 25.2.5 Ward Council
 
@@ -117,7 +118,7 @@ The elders quorum and Relief Society presidents help the ward council develop th
 
 Examples of what the plan might include are listed below:
 
-* Help members build their family trees on [FamilySearch.org](https://www.familysearch.org) or with the [FamilySearch Tree app](https://www.familysearch.org/blog/en/mobile) (see [25.4.2](25-temple-and-family-history-work.md#2542-familysearchorg-and-familysearch-apps)).
+* Help members build their family trees on [FamilySearch.org](https://www.familysearch.org) or with the [Family Tree app](https://www.familysearch.org/blog/en/mobile) (see [25.4.2](25-temple-and-family-history-work.md#2542-familysearchorg-and-familysearch-apps)).
 * Involve new and returning members, youth, and children in family history work.
 * Help specific members prepare to receive temple ordinances.
 
@@ -133,6 +134,8 @@ Others who are invited include:
 * An assistant in the priests quorum.
 * A presidency member of the oldest Young Women class.
 * Temple and family history consultants.
+
+All who attend, including the youth, counsel together as equal participants.
 
 The purpose of these meetings is to:
 
@@ -152,7 +155,7 @@ Ward council members prayerfully select members to invite to participate in each
 * Members returning to Church activity
 * Endowed members who have not renewed their temple recommends for an extended time
 
-The bishopric calls one or more temple preparation instructors. A husband and wife may be called. Lessons and instructions for organizing the course are in the [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/introduction?lang=eng). Participants are given copies of [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng). For personal study and lesson resources, see [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
+The bishopric calls one or more temple preparation instructors. Lessons and instructions for organizing the course are in [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/introduction?lang=eng). Participants are given copies of [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng). For personal study and lesson resources, see [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
 
 ## 25.3 Organizing Temple and Family History Work in the Stake
 
@@ -160,7 +163,7 @@ Stake leaders support ward leaders and members in their temple and family histor
 
 ### 25.3.1 Stake Presidency
 
-The stake president holds the keys for the work of salvation and exaltation in the stake. He and his counselors have the following responsibilities for the temple and family history aspect of that work:
+The stake president holds the keys for God’s work of salvation and exaltation in the stake. He and his counselors have the following responsibilities for the temple and family history aspect of that work:
 
 * Ensure that the doctrine and blessings of temple and family history work are taught regularly in stake meetings.
 * Help members prepare to make sacred covenants as they receive temple ordinances.
@@ -180,7 +183,7 @@ The stake adult leadership committee includes:
 
 These leaders instruct and support elders quorum and Relief Society presidencies in their responsibilities for temple and family history work (see [25.2.2](25-temple-and-family-history-work.md#2522-elders-quorum-and-relief-society-presidencies)). Instruction could take place in a group setting or individually. Ward temple and family history leaders may be invited to receive this instruction.
 
-For more about this committee’s meetings, see [29.3.9](29-meetings-in-the-church.md#2939-ao-stake-adult-leadership-committee-meeting).
+For more about this committee’s meetings, see [29.3.8](29-meetings-in-the-church.md#2938-ao-stake-adult-leadership-committee-meeting).
 
 ### 25.3.3 High Councilors
 
@@ -194,7 +197,7 @@ One or more high councilors may be assigned to lead these efforts. However, all 
 
 High councilors may help ward temple and family history leaders instruct ward temple and family history consultants. High councilors may be assisted by stake temple and family history consultants.
 
-The stake presidency may assign a high councilor to coordinate the stake’s efforts in indexing (see [25.4.3](25-temple-and-family-history-work.md#2543-indexing)). He or another high councilor may be assigned to oversee the work in family history centers (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-family-history-centers)).
+The stake presidency may assign a high councilor to coordinate the stake’s efforts in indexing (see [25.4.3](25-temple-and-family-history-work.md#2543-indexing)). He or another high councilor may be assigned to oversee the work in FamilySearch centers (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-familysearch-centers)).
 
 ### 25.3.4 Stake Relief Society Presidency
 
@@ -208,15 +211,15 @@ These consultants support high councilors and the stake Relief Society presidenc
 
 * Help teach and support members in ward temple and family history callings.
 * Help coordinate stake indexing efforts ([25.4.3](25-temple-and-family-history-work.md#2543-indexing)).
-* Serve in family history centers (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-family-history-centers)).
+* Serve in FamilySearch centers (see [25.3.6](25-temple-and-family-history-work.md#2536-ao-familysearch-centers)).
 
-### 25.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Family History Centers
+### 25.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) FamilySearch Centers
 
-If resources are available, the stake may organize one or more family history centers. These centers are to help visitors discover, gather information about, and unite both living and deceased family members. Anyone is welcome to use these centers.
+If resources are available, the stake may organize one or more FamilySearch centers. These centers are to help visitors discover, gather information about, and unite both living and deceased family members. Anyone is welcome to use these centers.
 
-The stake president assigns one stake temple and family history consultant to oversee efforts in each family history center. Each center is generally staffed by ward temple and family history consultants. Family history centers should be open at convenient times.
+The stake president assigns one stake temple and family history consultant to oversee efforts in each FamilySearch center. Each center is generally staffed by assigned stake and ward temple and family history consultants. FamilySearch centers should be open at convenient times.
 
-As an exception, large regional family history libraries are overseen by the Area Presidency.
+As an exception, some large FamilySearch centers are overseen by Area Presidencies.
 
 ### 25.3.7 Area Temple and Family History Advisers
 
@@ -241,9 +244,9 @@ Advisers may be assigned to help stake presidencies prepare members for worship 
 
 ### 25.4.1 My Family: Stories That Bring Us Together
 
-My Family: Stories That Bring Us Together helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
+[My Family: Stories That Bring Us Together](https://store.churchofjesuschrist.org/my-family-stories-that-bring-us-together/5638687353.p) helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
 
-The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/usa/en/my-family%3A-stories-that-bring-us-together-%282020-version%29).
+The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/my-family-stories-that-bring-us-together/5638687353.p).
 
 ### 25.4.2 FamilySearch.org and FamilySearch Apps
 
@@ -254,7 +257,7 @@ The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofj
 * Share and preserve family stories, photographs, and histories.
 * Prepare family names for temple ordinances.
 
-The [FamilySearch Tree app](https://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](https://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
+The [Family Tree app](https://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](https://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
 
 ### 25.4.3 Indexing
 
@@ -270,7 +273,7 @@ Anyone can participate in indexing. This can be a particularly fulfilling experi
 
 The stake presidency may assign a stake temple and family history consultant or a high councilor to coordinate this work.
 
-For more information, see “[Indexing Overview](https://www.familysearch.org/indexing)” on FamilySearch.org.
+For more information, see “[Indexing Overview](https://www.familysearch.org/getinvolved)” on FamilySearch.org.
 
 ## 25.5 Recommending and Calling Temple Workers
 
@@ -308,7 +311,13 @@ Temple ordinance workers help perform ordinances in the temple. To be recommende
 * Be dependable and in good health.
 * Not currently have an annotation on his or her membership record.
 
-If a person’s Church membership was formally restricted, the restrictions must have been removed for at least five years. If the person was endowed when membership was withdrawn or resigned, his or her blessings must have been restored at least five years earlier.
+In addition, the bishop ensures the following:
+
+* If a person’s membership was formally restricted, he or she may be recommended as an ordinance worker no sooner than five years after the restrictions were removed. (See [32.11.3](32-repentance-and-membership-councils.md#32113-formal-membership-restrictions) and [32.16.1](32-repentance-and-membership-councils.md#32161-membership-councils-to-remove-formal-restrictions-or-readmit-a-person).)
+* If an unendowed person’s membership was withdrawn, or if the person resigned membership, he or she may be recommended as an ordinance worker no sooner than five years after being readmitted to the Church. (See [32.11.4](32-repentance-and-membership-councils.md#32114-withdrawal-of-membership), [32.14.9](32-repentance-and-membership-councils.md#32149-requests-to-resign-membership), [32.16.1](32-repentance-and-membership-councils.md#32161-membership-councils-to-remove-formal-restrictions-or-readmit-a-person), and [32.16.2](32-repentance-and-membership-councils.md#32162-being-readmitted-after-resigning-church-membership).)
+* If an endowed person’s membership was withdrawn, or if the person resigned membership, he or she may be recommended as an ordinance worker no sooner than five years after receiving a restoration of blessings. (See [32.11.4](32-repentance-and-membership-councils.md#32114-withdrawal-of-membership), [32.14.9](32-repentance-and-membership-councils.md#32149-requests-to-resign-membership), and [32.17.2](32-repentance-and-membership-councils.md#32172-restoration-of-blessings).)
+
+If five years have not passed since the event indicated above, the member may generally be recommended as a temple volunteer if he or she meets the qualifications for that assignment.
 
 ### 25.5.3 Requirements for Temple Volunteers
 

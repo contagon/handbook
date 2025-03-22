@@ -2,7 +2,7 @@
 
 ## 20.1 Purposes
 
-Church activities bring Church members and others together as “fellowcitizens with the saints” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19)). Purposes for activities may include the following:
+Church activities bring Church members and others together as “fellowcitizens with the saints” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=eng&id=p19#p19)). Purposes for activities may include the following:
 
 * Build faith in Jesus Christ.
 * Provide fun and foster unity.
@@ -49,7 +49,7 @@ While gathering in activities can be a blessing, members should not be made to f
 
 ### 20.2.3 Standards
 
-Church activities should be uplifting and emphasize what is “virtuous, lovely, or of good report or praiseworthy” ([Articles of Faith 1:13](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.13?lang=eng#p13)). Activities may not include anything that is contrary to Church teachings. Activities may not include media or other entertainment that makes anything inappropriate seem acceptable.
+Church activities should be uplifting and emphasize what is “virtuous, lovely, or of good report or praiseworthy” ([Articles of Faith 1:13](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p13#p13)). Activities may not include anything that is contrary to Church teachings. Activities may not include media or other entertainment that makes anything inappropriate seem acceptable.
 
 Substances that are contrary to the Word of Wisdom are not permitted at Church activities or on Church premises. Persons who are under the influence of alcohol or other drugs may not participate in Church activities. If such a situation occurs, leaders respond compassionately.
 
@@ -170,7 +170,7 @@ Youth can also learn leadership skills as they help plan youth conferences.
 
 Ward youth conferences are planned and carried out by the ward youth council, under the direction of the bishopric (see [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting)). The bishopric obtains the stake presidency’s approval of plans for a ward youth conference.
 
-Stake youth conferences are planned and carried out by the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-ao-stake-youth-leadership-committee-meeting)). Youth should be invited to assist the committee as much as possible.
+Stake youth conferences are planned and carried out by the stake youth leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-ao-stake-youth-leadership-committee-meeting)). Youth should be invited to assist the committee as much as possible.
 
 Youth conferences are funded from the stake or ward budget. Members should not be asked to pay for youth conferences (see [20.6](20-activities.md#206-policies-and-guidelines-for-funding-activities)).
 
@@ -195,7 +195,7 @@ Activities held for any commercial or political purpose are not permitted (see [
 
 ### 20.5.2 Dances and Music
 
-In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see the For the Strength of Youth booklet).
+In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see [For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/05-light?lang=eng&id=p5#p5)).
 
 Leaders use the [Performance Contract](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/performance-contract.pdf) form when hiring a band, orchestra, or disc jockey. This contract helps ensure that conduct and music are appropriate for Church dances. Leaders make clear agreements in writing that commit those who provide music to follow Church standards at Church activities.
 
@@ -225,9 +225,9 @@ Church overnight activities for combined groups of young men and young women mus
 
 Male and female participants and leaders should have separate sleeping accommodations. However, a married couple may share the same room or tent. Each youth should have his or her own bed or sleeping bag.
 
-In most cases, a youth may not stay in the same tent or room as an adult unless the adult is his or her parent or guardian. An exception may be made if there are at least two adults in the tent or room who are the same sex as the youth.
+If adult leaders and youth share overnight facilities, such as a cabin or tent, there must be at least two adults in each facility, and they must be the same sex as the youth.
 
-If adult leaders and youth share other overnight facilities, such as a cabin, there must be at least two adults in each facility, and they must be the same sex as the youth.
+Youth may not stay in the same tent or room as an adult if there is only one adult present. However, a youth may stay alone in a tent or room with his or her parent or guardian.
 
 All Church overnight activities must include at least two adult leaders.
 
@@ -413,7 +413,7 @@ Leaders should plan well in advance to allow time to prepare the certificates.
 
 Children and youth may not participate in a Church activity without the permission of their parents or guardians. For Church activities that include an overnight stay, lengthy travel, or higher than ordinary risks, written consent is necessary. Some activities may require additional planning to reduce risks. Safety should always be an important consideration. See [20.7.6.1](20-activities.md#20761-safety-precautions).
 
-Parents and guardians give this consent by signing the [Permission and Medical Release form](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/parental-permission-medical-release.pdf). The person who leads the activity should have a signed form for each participant.
+Parents and guardians give this consent by signing the [Permission and Medical Release form](https://assets.churchofjesuschrist.org/ec/6a/ec6a32b2ded011eda8abeeeeac1eefc32321140e/pd60004035_000_interactive.pdf). The person who leads the activity should have a signed form for each participant.
 
 ### 20.7.5 Reports of Abuse
 
@@ -470,9 +470,9 @@ In some cases, the stake president or bishop may have questions about safety iss
 
 ### 20.7.7 Travel
 
-Travel for Church activities should be approved by the bishop or stake president. This travel should not place undue burdens on members. Long-distance travel for activities is discouraged.
+Travel for Church activities should be approved by the bishop or stake president. This travel should not place undue burdens on members.
 
-In some exceptional situations, a stake president or bishop may feel that long-distance travel for an activity is justified. He prayerfully considers the potential spiritual benefits of the activity, the cost, and the effect on families. If he approves such travel, members should not provide it at their own expense.
+Participants should not travel long distances (more than a few hours) for activities. Any exceptions require approval from the Area Presidency. If the Area Presidency approves such travel, members should not provide it at their own expense (see [20.6](20-activities.md#206-policies-and-guidelines-for-funding-activities)).
 
 Travel practices and the application of guidelines in this section should be consistent among units in the same area or coordinating council. Stake presidents may discuss and agree on travel practices during coordinating council meetings.
 
