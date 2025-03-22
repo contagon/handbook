@@ -2,7 +2,7 @@
 
 ## 33.0 Introduction
 
-The procedures in this chapter apply generally to units that use the Church’s online record-keeping tools, including [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org), [Member Tools](http://churchofjesuschrist.org/help/support/about-member-tools-application), and [Ward Directory and Map](https://directory.churchofjesuschrist.org). Units that do not have access to these tools should work with the Global Services Department or the area office.
+The procedures in this chapter apply generally to units that use the Church’s online record-keeping tools, including [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org), [Member Tools](https://churchofjesuschrist.org/help/support/about-member-tools-application), and [Ward Directory and Map](https://directory.churchofjesuschrist.org). Units that do not have access to these tools should work with the Global Services Department or the area office.
 
 Record keeping has always been important in the Lord’s Church. For example:
 
@@ -257,7 +257,7 @@ Sometimes a member has not lived in the same ward continuously for at least one 
 
 Under no circumstances may membership records be given or shown to anyone other than the bishop or a clerk.
 
-Members may view membership information for themselves and for any dependent children living at home on the [Member Tools app](http://churchofjesuschrist.org/help/support/about-member-tools-application). They may also request printed copies of their Individual Ordinance Summaries from the clerk. If errors are found, a clerk ensures that they are corrected on the membership records.
+Members may view membership information for themselves and for any dependent children living at home on the [Member Tools app](https://churchofjesuschrist.org/help/support/about-member-tools-application). They may also request printed copies of their Individual Ordinance Summaries from the clerk. If errors are found, a clerk ensures that they are corrected on the membership records.
 
 Instructions on how to create a membership record are available in [LCR](https://lcr.churchofjesuschrist.org).
 
@@ -393,7 +393,7 @@ See [33.6](33-records-and-reports.md#336-membership-records).
 
 ### 33.6.19 Audits of Membership Records
 
-Twice each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](http://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 15 and December 15 of each year.
+Twice each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](https://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 15 and December 15 of each year.
 
 ## 33.7 Historical Records
 

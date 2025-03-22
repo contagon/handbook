@@ -78,7 +78,7 @@ The elders quorum president oversees these activities. He may ask a counselor or
 
 ### 8.2.2 Caring for Those in Need
 
-As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
+As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies).
 
@@ -96,7 +96,7 @@ The elders quorum and Relief Society coordinate efforts to address short-term ne
 
 In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods. The bishop generally assigns the Relief Society president to meet with the members and fill out the order form. However, he may also assign the elders quorum president. A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
 
-For more information, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies) and “[Welfare Resources](http://lcr.churchofjesuschrist.org)” in Leader and Clerk Resources.
+For more information, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies) and “[Welfare Resources](https://lcr.churchofjesuschrist.org)” in Leader and Clerk Resources.
 
 #### 8.2.2.3 Long-Term Needs and Self-Reliance
 
@@ -178,7 +178,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the elders quorum (see [7.6.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number10-p29#title_number10)).
 * Lead the quorum’s efforts to participate in the work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21](21-ministering.md).
-* Under the direction of the bishop, counsel with adult members of the ward about matters other than those that are the bishop’s responsibility, such as worthiness, abuse, and approval to use fast-offering funds. See [CounselingResources.ChurchofJesusChrist.org](http://providentliving.churchofjesuschrist.org/leader/ministering-resources).
+* Under the direction of the bishop, counsel with adult members of the ward about matters other than those that are the bishop’s responsibility, such as worthiness, abuse, and approval to use fast-offering funds. See [CounselingResources.ChurchofJesusChrist.org](https://providentliving.churchofjesuschrist.org/leader/ministering-resources).
 * With the Relief Society presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](8-elders-quorum.md#823-inviting-all-to-receive-the-gospel) and [9.2.3](9-relief-society.md#923-inviting-all-to-receive-the-gospel)). Oversee the ward mission leader if one is called.
 * With the Relief Society presidency, help lead temple and family history work in the ward (see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity) and [9.2.4](9-relief-society.md#924-uniting-families-for-eternity)). Oversee the ward temple and family history leader if one is called.
 * Coordinate the elders quorum’s efforts to strengthen young adult brethren, both single and married.
@@ -188,7 +188,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * Plan and conduct quorum meetings.
 * Oversee elders quorum activities (see [8.2.1.3](8-elders-quorum.md#8213-activities)).
 * Help young men and prospective elders prepare to receive the Melchizedek Priesthood (see [8.4](8-elders-quorum.md#84-helping-prospective-elders-prepare-to-receive-the-melchizedek-priesthood)).
-* Oversee quorum records, reports, and finances (see [LCR.ChurchofJesusChrist.org](http://lcr.churchofjesuschrist.org)). A secretary may help (see [8.3.4](8-elders-quorum.md#834-secretary)).
+* Oversee quorum records, reports, and finances (see [LCR.ChurchofJesusChrist.org](https://lcr.churchofjesuschrist.org)). A secretary may help (see [8.3.4](8-elders-quorum.md#834-secretary)).
 
 The stake presidency and assigned members of the high council teach the elders quorum presidency about these responsibilities. They may do this during stake priesthood leadership meetings and quorum presidency meetings (see [29.3.3](29-meetings-in-the-church.md#2933-stake-priesthood-leadership-meeting)).
 
@@ -257,4 +257,4 @@ As soon as the bishop and stake president determine that a prospective elder is 
 
 ### 8.5.1 Members with Disabilities
 
-The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability) and [38.8.32](38-church-policies-and-guidelines.md#38832-members-with-disabilities).
+The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) and [38.8.32](38-church-policies-and-guidelines.md#38832-members-with-disabilities).

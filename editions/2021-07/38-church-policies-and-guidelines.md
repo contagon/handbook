@@ -604,7 +604,7 @@ A couple who desires to have a sealing restriction removed may seek interviews w
 
 #### 38.4.1.6 Sealing after Temple Marriage for Time Only
 
-Couples who were married in a temple for time only are not usually sealed at a later time. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. Such requests are considered only in exceptional circumstances. If a bishop and stake president feel that a cancellation may be justified, they may submit an application to the First Presidency using [LCR](http://lcr.churchofjesuschrist.org).
+Couples who were married in a temple for time only are not usually sealed at a later time. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. Such requests are considered only in exceptional circumstances. If a bishop and stake president feel that a cancellation may be justified, they may submit an application to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org).
 
 Time-only marriages in the temple are no longer performed (see [27.3.3](27-temple-ordinances-for-the-living.md#2733-marriage-in-a-temple-for-time-only)).
 
@@ -702,23 +702,23 @@ During the endowment and sealing ordinances, members put on additional ceremonia
 
 ### 38.5.2 Obtaining Temple Clothing and Garments
 
-Ward and stake leaders encourage endowed members to obtain their own temple clothing. Temple clothing and garments may be purchased from a Church Distribution store or at [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org). Stake and ward clerks may help members order the clothing.
+Ward and stake leaders encourage endowed members to obtain their own temple clothing. Temple clothing and garments may be purchased from a Church Distribution store or at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org). Stake and ward clerks may help members order the clothing.
 
-Some temples have clothing available for rent. If a temple does not have rental clothing, members need to bring temple clothing with them. See [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples) to learn whether a particular temple has rental clothing available.
+Some temples have clothing available for rent. If a temple does not have rental clothing, members need to bring temple clothing with them. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) to learn whether a particular temple has rental clothing available.
 
 Temples maintain a limited supply of temple clothing that full-time missionaries may use. There is no rental charge while they are in missionary training centers and when they are authorized to participate in temple ordinances while serving in the mission field. If needed, this clothing may be used by missionaries receiving their own endowment.
 
-For information about garment fabrics and styles, see [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org).
+For information about garment fabrics and styles, see [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
 ### 38.5.3 Garments and Temple Clothing for Members Who Have Disabilities or Allergies
 
-Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Garments and Sacred Clothing](http://store.churchofjesuschrist.org/clothing),” store.ChurchofJesusChrist.org).
+Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Garments and Sacred Clothing](https://store.churchofjesuschrist.org/clothing),” store.ChurchofJesusChrist.org).
 
-Shorter temple robes are available for members who are in wheelchairs or who have other needs (see [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/clothing)).
+Shorter temple robes are available for members who are in wheelchairs or who have other needs (see [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/clothing)).
 
 ### 38.5.4 Making Temple Aprons
 
-Members may make their own temple aprons if they use one of the approved apron kits. These kits are available from a Church Distribution store or from [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/heirloom-apron-embroidery-kit-85055655-1).
+Members may make their own temple aprons if they use one of the approved apron kits. These kits are available from a Church Distribution store or from [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/heirloom-apron-embroidery-kit-85055655-1).
 
 Members should not make other ceremonial temple clothing or temple garments.
 
@@ -768,7 +768,7 @@ Ceremonial temple clothing is placed on the body as instructed in the endowment.
 
 In some areas only a licensed funeral director or an employee of the director is allowed to handle a deceased body. In these cases, an endowed family member or an endowed person who is invited by the bishop or Relief Society president ensures that the clothing is properly placed on the body.
 
-Some countries require that deceased persons be dressed in biodegradable clothing when they are buried. Biodegradable temple clothing is available at [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org).
+Some countries require that deceased persons be dressed in biodegradable clothing when they are buried. Biodegradable temple clothing is available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
 In areas where temple clothing may be difficult to obtain in time for burial, stake presidents should keep on hand at least two complete sets of medium-sized clothing, one for a man and one for a woman.
 
@@ -800,7 +800,7 @@ Abuse is the mistreatment or neglect of others in a way that causes physical, se
 
 All members, especially parents and leaders, are encouraged to be alert and diligent and do all they can to protect children and others against abuse. If members become aware of instances of abuse, they report it to civil authorities and counsel with the bishop. Church leaders should take reports of abuse seriously and never disregard them.
 
-All adults who work with children or youth are to complete children and youth protection training within one month of being sustained (see [ProtectingChildren.ChurchofJesusChrist.org](http://protectingchildren.churchofjesuschrist.org)). They are to repeat the training every three years.
+All adults who work with children or youth are to complete children and youth protection training within one month of being sustained (see [ProtectingChildren.ChurchofJesusChrist.org](https://protectingchildren.churchofjesuschrist.org)). They are to repeat the training every three years.
 
 When abuse occurs, the first and immediate responsibility of Church leaders is to help those who have been abused and to protect vulnerable persons from future abuse. Leaders should not encourage a person to remain in a home or situation that is abusive or unsafe.
 
@@ -886,7 +886,7 @@ If a person abused a child or youth sexually or seriously abused a child or yout
 
 #### 38.6.2.6 Stake and Ward Councils
 
-In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](http://www.churchofjesuschrist.org/letters?clang=eng&id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
+In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](https://www.churchofjesuschrist.org/letters?clang=eng&id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
 
 Council members are also to complete children and youth protection training (see [38.6.2](38-church-policies-and-guidelines.md#3862-abuse)).
 
@@ -997,7 +997,7 @@ The Church condemns pornography in any form. Pornography use of any kind damages
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The Church provides the following resources to help people whose lives are affected by pornography:
 
 * [AddressingPornography.ChurchofJesusChrist.org](https://AddressingPornography.ChurchofJesusChrist.org)
-* [AddictionRecovery.ChurchofJesusChrist.org](http://AddictionRecovery.ChurchofJesusChrist.org)
+* [AddictionRecovery.ChurchofJesusChrist.org](https://AddictionRecovery.ChurchofJesusChrist.org)
 * Helping Those Who Struggle with Pornography (booklet)
 * [Let Virtue Garnish Thy Thoughts](https://www.churchofjesuschrist.org/study/manual/let-virtue-garnish-thy-thoughts?lang=eng) (booklet)
 
@@ -1028,7 +1028,7 @@ The circumstances of some faithful members do not allow them to receive the bles
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
 
 * “[Same-Sex Attraction](https://www.churchofjesuschrist.org/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Gospel Topics, topics.ChurchofJesusChrist.org
-* “[Same-Sex Attraction](http://www.churchofjesuschrist.org/topics/gay),” Life Help, ChurchofJesusChrist.org
+* “[Same-Sex Attraction](https://www.churchofjesuschrist.org/topics/gay),” Life Help, ChurchofJesusChrist.org
 
 In addition to the inspired help of Church leaders, members may benefit from professional counseling. Leaders may contact Family Services for assistance. See [31.2.6](31.md#3126-interviews-for-ordination-to-an-office-in-the-melchizedek-priesthood) for contact information.
 
@@ -1153,7 +1153,7 @@ If a member decides to change his or her preferred name or pronouns of address, 
 
 Circumstances vary greatly from unit to unit and person to person. Members and leaders counsel together and with the Lord. Area Presidencies will help local leaders sensitively address individual situations. Bishops counsel with the stake president. Stake presidents and mission presidents must seek counsel from the Area Presidency (see [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary) and [32.6.3.1](32-repentance-and-membership-councils.md#32631-other-action)).
 
-For further information on understanding and supporting transgender individuals, see “[Transgender](http://www.churchofjesuschrist.org/topics/transgender)” on ChurchofJesusChrist.org.
+For further information on understanding and supporting transgender individuals, see “[Transgender](https://www.churchofjesuschrist.org/topics/transgender)” on ChurchofJesusChrist.org.
 
 ## 38.7 Medical and Health Policies
 
@@ -1320,7 +1320,7 @@ In many other non-English languages, the Church has approved a non–Latter-day 
 
 The most reliable way to measure the accuracy of any biblical translation is not by comparing different texts but by comparison with the Book of Mormon and modern-day revelations.
 
-Printed copies of approved editions of the Bible are available from Church Distribution Services. Electronic text and audio recordings of Latter-day Saint editions are also available at [scriptures.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/scriptures).
+Printed copies of approved editions of the Bible are available from Church Distribution Services. Electronic text and audio recordings of Latter-day Saint editions are also available at [scriptures.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/scriptures).
 
 ### 38.8.6 Book of Mormon
 
@@ -1353,7 +1353,7 @@ The First Presidency encourages all members to read the Church magazines. The ma
 Leaders help members access the magazines as follows:
 
 * Help members subscribe to print magazines and renew their subscriptions.
-* Show members how to access magazine content on [ChurchofJesusChrist.org](http://churchofjesuschrist.org), the Gospel Library app, and the Gospel Living app. This digital content is free.
+* Show members how to access magazine content on [ChurchofJesusChrist.org](https://churchofjesuschrist.org), the Gospel Library app, and the Gospel Living app. This digital content is free.
 * Soon after new members are baptized, show them how to access Church magazines digitally. If they prefer a print magazine, give them a one-year subscription using unit budget funds.
 * Provide ongoing subscriptions to all children and youth who attend church without a parent or guardian. Use unit budget funds.
 
@@ -1361,7 +1361,7 @@ Bishops may call a magazine representative to help members access the magazines.
 
 The magazine representative, secretary, or clerk can also help gather faith-promoting experiences and testimonies from local members to share with the magazines.
 
-Subscriptions to the print magazines are available at [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/), the Global Services Department, and [Distribution Center retail stores](https://store.churchofjesuschrist.org/usa/en/store-locator). In some areas, units order on behalf of their members and distribute magazines at their meetinghouses. For more information, contact the Global Services Department or a distribution center store.
+Subscriptions to the print magazines are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/), the Global Services Department, and [Distribution Center retail stores](https://store.churchofjesuschrist.org/usa/en/store-locator). In some areas, units order on behalf of their members and distribute magazines at their meetinghouses. For more information, contact the Global Services Department or a distribution center store.
 
 ### 38.8.10 Church Name, Wordmark, and Symbol
 
@@ -1423,7 +1423,7 @@ Using a work in any of these ways without authorization from the copyright owner
 
 A user of a work should assume that it is protected by copyright. Published works usually include a copyright notice, such as “© 1959 by John Doe.” (For sound recordings, the symbol is ℗.) However, a copyright notice is not required for legal protection. Similarly, the fact that a publication is out of print or posted on the internet does not mean it is not copyrighted. Nor does it justify duplicating, distributing, performing, displaying, or making derivatives of it without permission.
 
-The Church’s Intellectual Property Office (IPO) assists in processing requests to use copyrighted Church materials or programs, including materials that are copyrighted by Intellectual Reserve, Inc. (IRI). IRI is a separate, nonprofit corporation that owns the intellectual property used by the Church. For information on requesting the use of Church-owned materials, see “[Terms of Use](http://www.churchofjesuschrist.org/legal/terms-of-use)” on ChurchofJesusChrist.org.
+The Church’s Intellectual Property Office (IPO) assists in processing requests to use copyrighted Church materials or programs, including materials that are copyrighted by Intellectual Reserve, Inc. (IRI). IRI is a separate, nonprofit corporation that owns the intellectual property used by the Church. For information on requesting the use of Church-owned materials, see “[Terms of Use](https://www.churchofjesuschrist.org/legal/terms-of-use)” on ChurchofJesusChrist.org.
 
 The following questions and answers may help members understand and abide by copyright laws when using copyrighted materials at church and at home. If members have questions that are not answered in these guidelines, they may contact the IPO:
 
@@ -1548,13 +1548,13 @@ Members may not create websites, blogs, or social media accounts on behalf of th
 * All content should be relevant for the intended audience and should be actively moderated.
 * The online resource should include contact information.
 * More than one administrator should be responsible for the online resource. This can provide continuity when a person’s calling or assignment changes. It also keeps one person from being burdened with updating and monitoring the resource.
-* Church-owned artwork, videos, music, or other materials may not be posted unless the use is clearly authorized by the [Terms of Use](http://www.churchofjesuschrist.org/legal/terms-of-use) of an official Church website or by the Church’s Intellectual Property Office. Copyrighted content from other sources should not be used unless the content owner has first given written permission. For more information about using copyrighted material, see [38.8.12](38-church-policies-and-guidelines.md#38812-copyrighted-materials).
+* Church-owned artwork, videos, music, or other materials may not be posted unless the use is clearly authorized by the [Terms of Use](https://www.churchofjesuschrist.org/legal/terms-of-use) of an official Church website or by the Church’s Intellectual Property Office. Copyrighted content from other sources should not be used unless the content owner has first given written permission. For more information about using copyrighted material, see [38.8.12](38-church-policies-and-guidelines.md#38812-copyrighted-materials).
 * When using images, videos, or personal information, consent from the content owner or the individuals involved is required. Consent may be obtained through a release form, a public announcement, a posted sign for a specific event, or written permission when needed. The country’s privacy laws should be followed.
 * Online resources should not duplicate tools and features that are already on ChurchofJesusChrist.org, Member Tools, or other Church resources.
 * Leaders and missionaries should coordinate to prevent duplicate communication.
 * Online resources should be retired when they are no longer needed. Important media (such as photos and videos) should be preserved in the ward or stake’s history.
 
-For additional guidelines, see [internet.ChurchofJesusChrist.org](http://internet.churchofjesuschrist.org).
+For additional guidelines, see [internet.ChurchofJesusChrist.org](https://internet.churchofjesuschrist.org).
 
 #### 38.8.21.3 Personal Internet Use
 
@@ -1637,7 +1637,7 @@ Leaders seek out and minister to members with disabilities who are living in gro
 
 #### 38.8.28.1 Increasing Awareness and Understanding
 
-Leaders, teachers, and other members seek to understand each individual who has a disability and his or her strengths and needs. They can increase their understanding by talking with the person and his or her family members. Resources are available at [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org).
+Leaders, teachers, and other members seek to understand each individual who has a disability and his or her strengths and needs. They can increase their understanding by talking with the person and his or her family members. Resources are available at [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org).
 
 #### 38.8.28.2 Giving Assistance
 
@@ -1647,7 +1647,7 @@ The bishopric or stake presidency may call a ward or stake disability specialist
 
 Leaders may also identify appropriate community resources that could help individuals who have disabilities and their families.
 
-For more information on assisting persons who have disabilities, see [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org). Leaders may also contact Family Services (where available; see [31.2.6](31.md#3126-interviews-for-ordination-to-an-office-in-the-melchizedek-priesthood) for contact information).
+For more information on assisting persons who have disabilities, see [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org). Leaders may also contact Family Services (where available; see [31.2.6](31.md#3126-interviews-for-ordination-to-an-office-in-the-melchizedek-priesthood) for contact information).
 
 Leaders and members should not attempt to explain why someone has a disability or why a family has a child with a disability. They should not suggest that a disability is a punishment from God (see [John 9:2–3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/9.2-3?lang=eng#p2)) or a special privilege.
 
@@ -1661,7 +1661,7 @@ Many members with disabilities can serve in nearly any Church assignment. Leader
 
 When considering Church assignments or callings for caregivers of people with disabilities, leaders carefully evaluate the circumstances of the caregivers.
 
-Leaders and teachers should include members with disabilities in meetings, classes, and activities as fully as possible. Lessons, talks, and teaching methods should be adapted to meet each person’s needs. For information about adapting lessons, see [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org).
+Leaders and teachers should include members with disabilities in meetings, classes, and activities as fully as possible. Lessons, talks, and teaching methods should be adapted to meet each person’s needs. For information about adapting lessons, see [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org).
 
 The bishopric may invite a ward member to help a person with a disability in a meeting or activity. For a class that includes a member with disabilities, the bishopric may call multiple teachers. The teachers work together to meet the needs of all class members.
 
@@ -1695,7 +1695,7 @@ _Disability activity leaders._ Adult members may be called as disability activit
 
 Disability activity leaders are called and set apart under the direction of the agent bishop or agent stake president. A stake president may also assign a high councilor to serve as a disability activity leader.
 
-Leaders serving those of any age with disabilities complete the training at [ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). For additional safety requirements for leaders, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability).
+Leaders serving those of any age with disabilities complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). For additional safety requirements for leaders, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability).
 
 When invited, disability activity leaders may attend stake or ward leadership meetings.
 
@@ -1705,9 +1705,9 @@ Some people may not be able to participate because of complex medical, physical,
 
 _Participation and safety standards._ At least two responsible adults must be present at all activities. The two adults could be two men, two women, or a married couple. Generally, more adults are needed to supervise activities for members with disabilities than are needed for other activities.
 
-Adults who help with activities complete the training at [ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). They must receive approval from their bishop before participating. For additional safety requirements, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability).
+Adults who help with activities complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). They must receive approval from their bishop before participating. For additional safety requirements, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability).
 
-If inappropriate behavior occurs, leaders’ immediate responsibility is to protect and help the vulnerable person. For information about responding to suspected abuse, see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line) and [abuse.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/get-help/abuse).
+If inappropriate behavior occurs, leaders’ immediate responsibility is to protect and help the vulnerable person. For information about responding to suspected abuse, see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line) and [abuse.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/get-help/abuse).
 
 #### 38.8.28.6 Interpreters for Members Who Are Deaf or Hard of Hearing
 
@@ -1733,7 +1733,7 @@ Leaders should respect the privacy of members with disabilities both during and 
 
 Bishops and stake presidents may determine whether to allow persons with disabilities to use trained service dogs in meetinghouses. Other types of animals, including emotional support animals (comfort pets), are generally not permitted in meetinghouses or at Church-sponsored events, except as specifically required by law. (In general in the United States, the Church is under no legal obligation to admit service dogs or emotional support animals to houses of worship.) Bishops and stake presidents make local decisions. They take into account the needs of persons with disabilities and the needs of others in the congregation.
 
-For additional guidelines on the use of service animals in Church facilities, see [27.1.3](27-temple-ordinances-for-the-living.md#2713-members-who-have-physical-disabilities) and [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org).
+For additional guidelines on the use of service animals in Church facilities, see [27.1.3](27-temple-ordinances-for-the-living.md#2713-members-who-have-physical-disabilities) and [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org).
 
 #### 38.8.28.9 Disability Specialist
 
@@ -1751,11 +1751,11 @@ The specialist can help members with disabilities and their caregivers share inf
 
 #### 38.8.28.10 Resources
 
-Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org). This website provides:
+Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org). This website provides:
 
 * Information to help increase understanding of the challenges faced by those who have disabilities.
 * Resources to help members who have disabilities and their families find comfort in the gospel of Jesus Christ.
-* Listings of Church materials in formats that are accessible to members with disabilities (see also [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org)).
+* Listings of Church materials in formats that are accessible to members with disabilities (see also [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org)).
 
 Questions may be addressed to:
 
@@ -2032,7 +2032,7 @@ Wards and branches at military installations are created using the procedures ou
 
 Generally a ward or branch is established, rather than a service member group, if there is a need to support both military members and their families. A ward or branch may also be established for military members without their families if there is a long-term need to provide Church services and programs for members attending basic or advanced training or on a remote assignment. The military does not normally allow Church members who are not associated with the military to belong to a ward or branch that uses installation facilities.
 
-If circumstances do not justify creating a ward or branch at a military installation, the stake or mission president may establish a service member group. A service member group is a small Church unit that holds Church meetings and looks after members. However, the group leader does not have priesthood keys, so he is not authorized to receive tithes and offerings, counsel members about serious sins, restrict membership privileges, or perform other duties that require keys. For information about service member groups, contact the Military Relations and Chaplain Services Division or visit [military.ChurchofJesusChrist.org](http://military.churchofjesuschrist.org).
+If circumstances do not justify creating a ward or branch at a military installation, the stake or mission president may establish a service member group. A service member group is a small Church unit that holds Church meetings and looks after members. However, the group leader does not have priesthood keys, so he is not authorized to receive tithes and offerings, counsel members about serious sins, restrict membership privileges, or perform other duties that require keys. For information about service member groups, contact the Military Relations and Chaplain Services Division or visit [military.ChurchofJesusChrist.org](https://military.churchofjesuschrist.org).
 
 Leaders of service member groups in isolated areas may obtain Church supplies and materials by contacting the Church’s Military Relations and Chaplain Services Division.
 

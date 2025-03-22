@@ -44,7 +44,7 @@ The Sunday School president may recommend members to serve as Sunday School teac
 
 Sunday School teachers get to know class members, including those who do not attend classes. Teachers support members in their efforts to learn and live the gospel of Jesus Christ.
 
-To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
+To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
 
 Sunday School teachers attend quarterly teacher council meetings (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)).
 
@@ -62,7 +62,7 @@ The Sunday School president organizes as many youth classes as are needed. Youth
 
 At least two responsible adults should be present in each youth class. The adults could be two men, two women, or a married couple. To meet this requirement, classes may need to be combined.
 
-All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
+All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
 
 ### 13.3.1 Small Branches
 
@@ -70,7 +70,7 @@ In a small branch, the Sunday School president may be the only Sunday School lea
 
 ### 13.3.2 Sunday School Classes for Specific Groups
 
-As needed, the Sunday School president may organize Sunday School classes for specific groups. The curriculum for these classes is [Come, Follow Me—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
+As needed, the Sunday School president may organize Sunday School classes for specific groups. The curriculum for these classes is [Come, Follow Me—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
 
 Groups that could benefit from their own Sunday School class include:
 
@@ -87,7 +87,7 @@ Teacher council meetings are held quarterly during the 50-minute class time on S
 
 The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng), or [teaching.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/manual/come-follow-me/teaching-in-the-saviors-way).
+For more information, see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng), or [teaching.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/manual/come-follow-me/teaching-in-the-saviors-way).
 
 ## 13.5 Improving Learning and Teaching in the Home
 
@@ -105,7 +105,7 @@ The responsibilities of the stake Sunday School president are outlined in [6.7.1
 
 ### 13.7.1 Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 13.7.2 Resource Center
 

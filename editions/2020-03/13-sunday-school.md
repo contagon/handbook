@@ -91,13 +91,13 @@ Stake Sunday School leadership meeting is generally held once a year, as explain
 
 Sunday School classes are held on the first and third Sundays of each month. They last 50 minutes. Classes are organized for adults and for youth. As needed, more than one class may be organized for adults. For more information about youth classes, see [13.4.1](13-sunday-school.md#1341-classes-for-youth).
 
-Teaching materials for adult and youth classes are found in [Come, Follow Me﻿—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
+Teaching materials for adult and youth classes are found in [Come, Follow Me﻿—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
 
-Before Sunday School classes begin, leaders from Young Women, Relief Society, and priesthood quorums may make brief announcements. Classes begin with a brief welcome and a reminder of the [Come, Follow Me﻿—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) home study materials for that day and the following week. The teacher uses the remainder of the class time for gospel instruction and discussion. Sunday School classes do not begin with a hymn or prayer, but they conclude with a prayer.
+Before Sunday School classes begin, leaders from Young Women, Relief Society, and priesthood quorums may make brief announcements. Classes begin with a brief welcome and a reminder of the [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) home study materials for that day and the following week. The teacher uses the remainder of the class time for gospel instruction and discussion. Sunday School classes do not begin with a hymn or prayer, but they conclude with a prayer.
 
 At the bishop’s discretion and based on local needs, optional courses may be taught outside of regular Sunday meetings. These courses include self-reliance, marriage and family relations, temple preparation, missionary preparation, priesthood preparation, and family history.
 
-More information about Sunday School classes can be found at [ComeFollowMe.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/manual/come-follow-me).
+More information about Sunday School classes can be found at [ComeFollowMe.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/manual/come-follow-me).
 
 ### 13.4.1 Classes for Youth
 
@@ -105,15 +105,15 @@ The Sunday School presidency generally organizes youth ages 11–18 into classes
 
 In youth classes, at least two responsible adults should be present. The two adults could be two men, two women, or a married couple. Where it may not be practical to have at least two adults in a classroom, leaders consider combining classes.
 
-All adults called to Sunday School presidencies or to teach youth Sunday School classes are to complete children and youth protection training ([ProtectingChildren.ChurchofJesusChrist.org](http://protectingchildren.ChurchofJesusChrist.org)) within one month after being sustained and every three years thereafter.
+All adults called to Sunday School presidencies or to teach youth Sunday School classes are to complete children and youth protection training ([ProtectingChildren.ChurchofJesusChrist.org](https://protectingchildren.ChurchofJesusChrist.org)) within one month after being sustained and every three years thereafter.
 
 ### 13.4.2 Class for Young Single Adults
 
-A ward may have a Sunday School class for young single adults. Teachers use the scriptures and [Come, Follow Me﻿—For Sunday School](http://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They give special emphasis to the needs of young single adults.
+A ward may have a Sunday School class for young single adults. Teachers use the scriptures and [Come, Follow Me﻿—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They give special emphasis to the needs of young single adults.
 
 ### 13.4.3 Helping Class Members with Disabilities
 
-For information about understanding, including, and teaching members who have disabilities, see [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities) and [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org).
+For information about understanding, including, and teaching members who have disabilities, see [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities) and [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org).
 
 ## 13.5 Improving Learning and Teaching in the Ward
 

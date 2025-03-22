@@ -137,7 +137,7 @@ Attention: Humanitarian Aid
 
 Salt Lake City, UT 84150-1521
 
-Online donations may be made by going to [donate.ldsphilanthropies.org](http://www.ldsphilanthropies.org/humanitarian-services).
+Online donations may be made by going to [donate.ldsphilanthropies.org](https://www.ldsphilanthropies.org/humanitarian-services).
 
 ### 34.4.5 Temple Construction Fund
 
@@ -167,7 +167,7 @@ Telephone: 1-801-356-5300 or 1-800-525-8074
 
 Email: [philanthropies@ChurchofJesusChrist.org](mailto:philanthropies@ChurchofJesusChrist.org)
 
-Online donations may be made at [ldsphilanthropies.org](http://give.ldsp.org).
+Online donations may be made at [ldsphilanthropies.org](https://give.ldsp.org).
 
 ### 34.4.8 In-Kind Donations, Including Tithing
 
@@ -404,7 +404,7 @@ When assigned by the stake audit committee, the stake clerk or the assistant sta
 
 ### 34.9.7 For More Information
 
-More information on audit committees, auditors, and audit procedures is available in the [Help Center](http://www.churchofjesuschrist.org/help/support) at ChurchofJesusChrist.org. Stake audit committees may direct questions to their assistant area auditor.
+More information on audit committees, auditors, and audit procedures is available in the [Help Center](https://www.churchofjesuschrist.org/help/support) at ChurchofJesusChrist.org. Stake audit committees may direct questions to their assistant area auditor.
 
 ## 34.10 Taxes
 

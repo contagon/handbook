@@ -139,7 +139,7 @@ Stake Relief Society leadership meeting is generally held once a year, as explai
 
 Relief Society meetings are held on the second and fourth Sundays of each month. They last 50 minutes. In these meetings, women learn doctrine and principles of the gospel that will help them increase their faith and personal righteousness, strengthen families and homes, and help those in need. A member of the Relief Society presidency conducts these meetings.
 
-Sunday Relief Society meetings begin with a brief welcome, a reminder of the [Come, Follow Me﻿—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) home study materials for that day and the following week, and any Relief Society business. The remainder of the meeting is used for gospel instruction and discussion.
+Sunday Relief Society meetings begin with a brief welcome, a reminder of the [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) home study materials for that day and the following week, and any Relief Society business. The remainder of the meeting is used for gospel instruction and discussion.
 
 Lessons in Sunday Relief Society meetings focus on messages from the most recent general conference.
 
@@ -310,7 +310,7 @@ Sisters who may have special needs include those who are ill, elderly, widowed, 
 
 Sisters who have these and other special challenges may come to the Relief Society president with their concerns. She should listen, offer love and encouragement, and maintain appropriate confidentiality. If she learns of possible concerns with worthiness or sensitive family matters, she refers the sisters to the bishop.
 
-For information about helping sisters with disabilities, see [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities) and [disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org).
+For information about helping sisters with disabilities, see [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities) and [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org).
 
 ### 9.10.2 Dress Standards
 

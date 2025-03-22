@@ -88,7 +88,7 @@ Clerks should hold the Melchizedek Priesthood and have a current temple recommen
 
 Church leaders teach members the principles of tithes and other offerings and encourage members to live these principles. People who are not members of the Church may also make contributions. However, only members of the Church may pay tithing.
 
-Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org)). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](34-finances-and-audits.md#3452-receiving-tithing-and-other-offerings)). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
+Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org)). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](34-finances-and-audits.md#3452-receiving-tithing-and-other-offerings)). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
 
 ### 34.3.1 Tithing
 
@@ -181,7 +181,7 @@ The amount of tithing and other offerings paid by a donor is confidential. Only 
 
 ## 34.5 Handling Church Funds
 
-The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](http://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
+The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
 ### 34.5.1 Companionship Principle
 
@@ -221,7 +221,7 @@ Members who are responsible for Church funds must never leave them in the meetin
 
 ### 34.5.6 Donation Statements
 
-Donor Statements of Contributions are available to all members at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org). Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org), from the local unit, or from the area office.
+Donor Statements of Contributions are available to all members at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org). Leaders should encourage members to regularly review their donor statements. Where applicable, official tax statements are also available at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org), from the local unit, or from the area office.
 
 ### 34.5.7 Managing Stake and Ward Payments
 
@@ -247,7 +247,7 @@ Stakes and wards may not open their own bank accounts or maintain a petty cash f
 
 #### 34.5.7.1 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Electronic Payments
 
-If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations at [donations.ChurchofJesusChrist.org](http://donations.churchofjesuschrist.org). The ward or stake should never keep physical or electronic copies of members’ bank account information details.
+If the stake or ward uses electronic payments, members are encouraged to enter their personal bank account details in the Expense Reimbursement Account section under Settings in Online Donations at [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org). The ward or stake should never keep physical or electronic copies of members’ bank account information details.
 
 #### 34.5.7.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Checks
 
@@ -395,7 +395,7 @@ The stake audit committee may assign the stake clerk or the assistant stake cler
 
 ### 34.7.7 For More Information
 
-For more information about audit committees, auditors, and audit procedures, see the [Help Center](http://www.churchofjesuschrist.org/help/support) at ChurchofJesusChrist.org. Stake audit committees may direct questions to the assistant area auditor.
+For more information about audit committees, auditors, and audit procedures, see the [Help Center](https://www.churchofjesuschrist.org/help/support) at ChurchofJesusChrist.org. Stake audit committees may direct questions to the assistant area auditor.
 
 ## 34.8 Taxes
 

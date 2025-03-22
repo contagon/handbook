@@ -71,7 +71,7 @@ The stake presidency plans the stake meetings listed in [29.3](29-meetings-in-th
 
 The stake president’s responsibilities for callings and releases are outlined in [chapter 30](30-callings-in-the-church.md). He may assign his counselors and high councilors to extend callings and releases as outlined in [30.8](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_p15#title_number13). The stake president personally extends the following callings. For some, he must first receive approval as noted.
 
-* _Counselors in the Stake Presidency._ When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
+* _Counselors in the Stake Presidency._ When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
 * _Stake Patriarch._ The stake president may interview, call, and ordain a patriarch after receiving approval from the Quorum of the Twelve Apostles. See [6.6.1](6-stake-leadership.md#661-calling-sustaining-and-ordaining-a-stake-patriarch).
 * _Bishops._ The stake president recommends brethren to be called as bishops. He also recommends their release. He submits recommendations through LCR. He may call, ordain, and set apart a bishop—or release a bishop—after receiving approval from the First Presidency. He also bestows the priesthood keys associated with this calling. See [30.7](30-callings-in-the-church.md#307-chart-of-callings).
 * _Elders Quorum Presidents._ The stake president calls and sets apart elders quorum presidents. He first consults with bishops. He also bestows the priesthood keys associated with this calling. See [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency).
@@ -116,7 +116,7 @@ There is also a communication council at the coordinating council level (see [29
 
 The communication council structure differs in the Utah Area. Area Seventies in the Utah Area can provide stake presidents with details about this structure.
 
-For information about communication callings, see  [GCN.ChurchofJesusChrist.org](http://publicaffairs.churchofjesuschrist.org) .
+For information about communication callings, see  [GCN.ChurchofJesusChrist.org](https://publicaffairs.churchofjesuschrist.org) .
 
 ### 6.2.2 Leading the Work of Salvation and Exaltation
 
@@ -298,7 +298,7 @@ The stake president interviews the patriarch at least twice a year. They discuss
 
 At least twice a year, the stake president reviews the blessings the patriarch has given. As needed, he may make general suggestions about the content of the patriarch’s blessings.
 
-The stake president ensures that copies of transcribed blessings are given promptly to recipients. He also ensures that all blessings are submitted to Church headquarters. Blessings are submitted through the [Patriarchal Blessing System](http://pb.churchofjesuschrist.org/pbrequest/#/) on ChurchofJesusChrist.org. Where this system is not accessible, blessings should be mailed to the following address at least once every six months:
+The stake president ensures that copies of transcribed blessings are given promptly to recipients. He also ensures that all blessings are submitted to Church headquarters. Blessings are submitted through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest/#/) on ChurchofJesusChrist.org. Where this system is not accessible, blessings should be mailed to the following address at least once every six months:
 
 Church History Library
 

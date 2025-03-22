@@ -200,7 +200,7 @@ See [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-an
 
 At least two adult supervisors must be present at all Church-sponsored activities attended by children, youth, and young single adults. Additional adults may be needed depending on the size of the group, the skill level of the group (for activities requiring certain skills), anticipated environmental conditions, and the overall degree of challenge of the activity. Parents should be encouraged to help.
 
-All adults participating in activities for children and youth are to complete children and youth protection training ([ProtectingChildren.ChurchofJesusChrist.org](http://protectingchildren.ChurchofJesusChrist.org)) before the activity.
+All adults participating in activities for children and youth are to complete children and youth protection training ([ProtectingChildren.ChurchofJesusChrist.org](https://protectingchildren.ChurchofJesusChrist.org)) before the activity.
 
 ### 20.6.3 Commercial or Political Activities
 
@@ -277,7 +277,7 @@ Telephone: 1-801-578-5650 or 1-800-777-1647
 
 Email: [churchactivity@dmba.com](mailto:churchactivity@dmba.com)
 
-Website: [www.dmba.com/churchactivity](http://www.dmba.com/churchactivity)
+Website: [www.dmba.com/churchactivity](https://www.dmba.com/churchactivity)
 
 #### 20.6.9.4 Personal Liability Insurance
 

@@ -120,7 +120,7 @@ Young single adults should frequently be called to serve together on service com
 
 Priesthood leaders may organize one or more home evening groups for young single adults who do not live with their parents and do not have children in their homes. If possible, priesthood leaders appoint a young single adult priesthood holder to lead each group. In stakes with few young single adults, stake leaders may organize home evening groups that cross ward boundaries. Home evening group leaders are accountable to assigned priesthood leaders. These groups are not referred to as families.
 
-Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
 
 #### 14.3.5.4 Sunday School Classes
 
@@ -176,7 +176,7 @@ Officers of conventional stakes and wards should cooperate fully when their memb
 
 The bishopric of a young single adult ward may organize home evening groups as outlined in [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward).
 
-Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](http://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
 
 ### 14.6.4 Ministering
 
@@ -218,4 +218,4 @@ Young single parents who have children at home normally remain in their conventi
 
 When needed, missionary couples (local Church-service missionaries or full-time missionaries) may be called to assist in retention and rescue efforts. They encourage service, build institute enrollment, assist with social activities, and mentor young single adults during this important stage of their lives.
 
-Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](http://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](http://www.churchofjesuschrist.org/csm).” See also [chapter 24](24.md).
+Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](https://www.churchofjesuschrist.org/csm).” See also [chapter 24](24.md).

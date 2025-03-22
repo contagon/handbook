@@ -155,7 +155,7 @@ The ward choir director recommends music to be sung by the choir, directs choir 
 
 The ward choir accompanist plays for choir rehearsals and for when the choir sings in sacrament meetings.
 
-For more information about conducting choirs, see the Conducting Course manual, pages [73–83](http://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
+For more information about conducting choirs, see the Conducting Course manual, pages [73–83](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
 
 #### 19.4.3.4 Primary Music Leader and Primary Pianist
 
@@ -202,7 +202,7 @@ The following resources may also be helpful:
 * A library of sheet music and music recordings for use at home and at church is available on the Sacred Music app and online at [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music). Listening to recordings can help members become more familiar with the hymns.
 * The interactive music player on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music/library/hymns) can help those seeking to learn new music or develop music skills.
 * The Basic Music Course can help members learn how to read and play music. It includes the Conducting Course Kit and Keyboard Course Kit. These resources can be purchased at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
-* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see [musicfund.ChurchofJesusChrist.org](http://musicfund.churchofjesuschrist.org).
+* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see [musicfund.ChurchofJesusChrist.org](https://musicfund.churchofjesuschrist.org).
 
 Stake and ward music coordinators may organize basic music training courses for music leaders, choir directors, or accompanists. Participants could include those who currently serve in music callings and other interested adults, youth, and children. Music coordinators or specialists may teach the courses. Music coordinators may also recommend qualified instructors to provide training.
 

@@ -44,7 +44,7 @@ Through His Church, the Lord has provided a way to care for the poor and needy. 
 
 The Lord has established the law of the fast and fast offerings to bless His people and to provide a way for them to serve those in need (see [Isaiah 58:6–12](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58.6-12?lang=eng#p6); [Malachi 3:8–12](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3.8-12?lang=eng#p8)). When members fast, they are asked to give to the Church a fast offering at least equal to the value of the food they would have eaten. If possible, they should be generous and give more. Blessings associated with the law of the fast include closeness to the Lord, increased spiritual strength, temporal well-being, greater compassion, and a stronger desire to serve.
 
-Some opportunities to care for those in need come through Church callings. Other opportunities are present in members’ homes, neighborhoods, and communities, such as those coordinated by JustServe (in the United States and Canada, see [JustServe.org](http://www.justserve.org/)). Members can also help the poor and needy of all faiths throughout the world by supporting the Church’s humanitarian efforts, by participating in disaster response through Helping Hands (where applicable), and by individual efforts to serve others in need.
+Some opportunities to care for those in need come through Church callings. Other opportunities are present in members’ homes, neighborhoods, and communities, such as those coordinated by JustServe (in the United States and Canada, see [JustServe.org](https://www.justserve.org/)). Members can also help the poor and needy of all faiths throughout the world by supporting the Church’s humanitarian efforts, by participating in disaster response through Helping Hands (where applicable), and by individual efforts to serve others in need.
 
 Providing in the Lord’s way humbles the rich, exalts the poor, and sanctifies both (see [Doctrine and Covenants 104:15–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/104.15-18?lang=eng#p15)). President J. Reuben Clark Jr. taught:
 
@@ -104,7 +104,7 @@ Many short-term problems are caused by long-term difficulties such as poor healt
 
 As elders quorum and Relief Society leaders become aware of long-term needs, they respond compassionately to help individuals and families. They use resources available in their organizations and in the ward. They pray for guidance to know how to provide assistance.
 
-To gain a better understanding of how to help, elders quorum and Relief Society leaders normally visit members who have welfare needs. They may use the [Self-Reliance Plan](http://www.churchofjesuschrist.org/topics/welfare/leader-resources/topics) or otherwise follow its principles to help members plan ways to respond to welfare needs.
+To gain a better understanding of how to help, elders quorum and Relief Society leaders normally visit members who have welfare needs. They may use the [Self-Reliance Plan](https://www.churchofjesuschrist.org/topics/welfare/leader-resources/topics) or otherwise follow its principles to help members plan ways to respond to welfare needs.
 
 As leaders help members respond to long-term needs, they counsel with the bishop. In some cases, elders quorum and Relief Society leaders work together.
 
@@ -228,7 +228,7 @@ When authorizing the use of fast offerings for the bishop or his immediate famil
 
 #### 22.5.2.2 Medical Expenses That Exceed Authorized Amounts
 
-The Church has specific amounts that are authorized for medical expenses. For guidelines and exceptions, see “[Medical Expenses That Exceed Authorized Amounts](http://www.churchofjesuschrist.org/help/support/finance/medical-fast-offering).”
+The Church has specific amounts that are authorized for medical expenses. For guidelines and exceptions, see “[Medical Expenses That Exceed Authorized Amounts](https://www.churchofjesuschrist.org/help/support/finance/medical-fast-offering).”
 
 #### 22.5.2.3 Other Special Medical Circumstances
 
@@ -345,7 +345,7 @@ The ward council compiles and maintains a list of meaningful work opportunities.
 
 #### 22.6.3.6 Other Guidelines
 
-Completing a [Self-Reliance Plan](http://www.churchofjesuschrist.org/topics/welfare/leader-resources/topics) may help the bishop determine what assistance to provide.
+Completing a [Self-Reliance Plan](https://www.churchofjesuschrist.org/topics/welfare/leader-resources/topics) may help the bishop determine what assistance to provide.
 
 The bishop should bear in mind that the temporal circumstances and needs of members vary from country to country. A family that might be considered needy in one location might not be considered so if they lived elsewhere. Also, members who are considered poor by some often do not view themselves as being poor.
 
@@ -410,7 +410,7 @@ In some parts of the world, the Church has established welfare operations such a
 
 #### 22.6.4.7 Perpetual Education Fund
 
-Where the Perpetual Education Fund is available, members in need can work with their bishop to qualify and apply for a loan that will help fund vocational or technical training. Requirements can be found on the priesthood endorsement form in [Leader and Clerk Resources](http://lcr.churchofjesuschrist.org/) or on the [Perpetual Education Fund website](http://www.churchofjesuschrist.org/self-reliance/pef-perpetual-education-fund).
+Where the Perpetual Education Fund is available, members in need can work with their bishop to qualify and apply for a loan that will help fund vocational or technical training. Requirements can be found on the priesthood endorsement form in [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org/) or on the [Perpetual Education Fund website](https://www.churchofjesuschrist.org/self-reliance/pef-perpetual-education-fund).
 
 ### 22.6.5 Non-Church Resources Available to Help the Poor
 

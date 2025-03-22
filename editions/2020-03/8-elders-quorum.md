@@ -260,7 +260,7 @@ Brethren who may have special needs include those who are ill, elderly, widowed,
 
 Brethren who have these and other special challenges may come to their elders quorum president with their concerns. He should listen, offer love and encouragement, and maintain confidentiality. If he learns of possible concerns with worthiness or sensitive family matters, he refers the person to the bishop.
 
-For information about helping brethren with disabilities, see [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities) and [disability.ChurchofJesusChrist.org](http://disability.ChurchofJesusChrist.org).
+For information about helping brethren with disabilities, see [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities) and [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org).
 
 ### 8.10.2 Offering Support at Times of Death
 

@@ -297,7 +297,7 @@ If members have food allergies or gluten intolerance, they discuss with a member
 
 Generally, bread must be broken as part of the sacrament ordinance. However, to ensure the health and safety of a particular member, that member may provide allergen-free bread or another broken bread-like substitute in a sealed plastic bag or cup. They give this to a priesthood holder to place on a separate tray. The bishopric helps those who pass the sacrament know which members to whom the allergen-free item should be passed.
 
-See [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
+See [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
 
 Although the sacrament is for members of the Church, nothing should be done to prevent others from partaking of it.
 
@@ -535,7 +535,7 @@ If a patriarchal blessing does not include a declaration of lineage, the patriar
 
 ### 18.17.2 Obtaining Copies of Patriarchal Blessings
 
-A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](http://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
+A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](https://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
 
 ### 18.17.3 More Information
 

@@ -40,7 +40,7 @@ When there are enough children, they are divided into classes based on their age
 | 9 | Valiant 9 |
 | 10 | Valiant 10 |
 
-Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a [certificate of advancement](http://lcr.churchofjesuschrist.org/records/certificates/primary-advancement). These certificates may be generated in Leader and Clerk Resources.
+Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a [certificate of advancement](https://lcr.churchofjesuschrist.org/records/certificates/primary-advancement). These certificates may be generated in Leader and Clerk Resources.
 
 In some circumstances, an 11-year-old may not be ready to leave Primary. The bishop, parents, and child counsel together about the timing.
 
@@ -85,7 +85,7 @@ Parents are responsible to teach their children the gospel and help them live it
 
 Leaders should be sensitive to children who lack family support for gospel living.
 
-Parents and leaders strive to be good examples to children. They mentor children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/)).
+Parents and leaders strive to be good examples to children. They mentor children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org/)).
 
 #### 12.2.1.2 Gospel Learning
 
@@ -135,7 +135,7 @@ Beginning in January of the year they turn 8, children may begin attending Prim
 
 Primary activity leaders plan service and activities that help accomplish the work of salvation and exaltation. Service and activities should build testimonies, strengthen families, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
-Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](http://safety.churchofjesuschrist.org/); see also [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting) in this handbook). At least two responsible adult leaders should be present at all activities (see [12.5.1](12-primary.md#1251-safeguarding-children)).
+Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org/); see also [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting) in this handbook). At least two responsible adult leaders should be present at all activities (see [12.5.1](12-primary.md#1251-safeguarding-children)).
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)The following guidelines may be adapted to local circumstances:
 
@@ -147,7 +147,7 @@ All supplies and activities, including optional day camps, are paid for by the w
 
 The bishopric ensures that the budget and activities for boys and girls in Primary are sufficient and equitable. Budget is allocated according to the number of children.
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/). See also [JustServe.org](http://www.justserve.org/), where available. These resources provide service and activity ideas.
+For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org/). See also [JustServe.org](https://www.justserve.org/), where available. These resources provide service and activity ideas.
 
 #### 12.2.1.4 Personal Development
 
@@ -155,11 +155,11 @@ In their efforts to become more like the Savior, children—beginning in the yea
 
 Beginning in the year they turn 8, children are encouraged to complete at least one goal in each of the four areas each year. They can use [Personal Development: Children’s Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-childrens-guidebook?lang=eng) to set and record goals.
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/).
+For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org/).
 
 ### 12.2.2 Caring for Those in Need
 
-Children should have regular opportunities to serve others in and with their families and during Primary activities. Ideas for service can be found at [ChildrenandYouth.ChurchofJesusChrist.org](http://childrenandyouth.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Where available, [JustServe.org](http://www.justserve.org/) suggests opportunities for service in the community.
+Children should have regular opportunities to serve others in and with their families and during Primary activities. Ideas for service can be found at [ChildrenandYouth.ChurchofJesusChrist.org](https://childrenandyouth.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Where available, [JustServe.org](https://www.justserve.org/) suggests opportunities for service in the community.
 
 ### 12.2.3 Inviting All to Receive the Gospel
 
@@ -180,9 +180,9 @@ Children can help unite families for eternity in many ways. Some of these ways a
 * Strive to be worthy to receive a limited-use temple recommend at the appropriate age.
 * Prepare to receive ordinances, including eternal marriage.
 * Learn about their extended families and ancestors (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf)).
-* Identify ancestors who need temple ordinances (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[FamilySearch.org](http://www.familysearch.org/)).
+* Identify ancestors who need temple ordinances (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[FamilySearch.org](https://www.familysearch.org/)).
 * Prepare to participate in baptisms and confirmations for the dead.
-* Participate in indexing with a family member (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
+* Participate in indexing with a family member (see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
 ## 12.3 Ward Primary Leadership
 
 ### 12.3.1 Bishopric
@@ -237,8 +237,8 @@ The following resources may be used:* [Come, Follow Me—For Primary](https://ww
 * [Instructions for Singing Time and the Children’s Sacrament Meeting Program](https://www.churchofjesuschrist.org/study/come-follow-me/primary?lang=eng)
 * [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook?lang=eng)
 * [Hymns](https://www.churchofjesuschrist.org/study/manual/hymns?lang=eng)
-* [Primary Music Collections](http://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
-* “[Primary Singing Time—Music Can Teach Doctrine](http://www.churchofjesuschrist.org/media-library/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
+* [Primary Music Collections](https://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
+* “[Primary Singing Time—Music Can Teach Doctrine](https://www.churchofjesuschrist.org/media-library/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
 
 The bishopric must approve the use of any other music in Primary.
 
@@ -284,7 +284,7 @@ The stake presidency assigns a high councilor to work with the stake Primary pre
 
 When adults are interacting with children in Church settings, at least two responsible adults should be present. It may be necessary to combine classes to make this possible.
 
-All adults who work with children must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://protectingchildren.churchofjesuschrist.org/)). They repeat the training every three years thereafter.
+All adults who work with children must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](https://protectingchildren.churchofjesuschrist.org/)). They repeat the training every three years thereafter.
 
 ### 12.5.2 Children Who Have Special Needs
 
@@ -294,7 +294,7 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-For more information, see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[disability.ChurchofJesusChrist.org](http://disability.churchofjesuschrist.org/) and [38.8.32](38-church-policies-and-guidelines.md#38832-members-with-disabilities).
+For more information, see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/) and [38.8.32](38-church-policies-and-guidelines.md#38832-members-with-disabilities).
 
 ### 12.5.3 Men Serving in Primary
 
@@ -316,4 +316,4 @@ When children begin the CTR 4 class, the Primary presidency or their Primary te
 
 At the beginning of each year, the bishop, one of his counselors, or the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the emblems of belonging and a copy of [Personal Development: Children’s Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-childrens-guidebook?lang=eng).
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/youth/childrenandyouth/discover/children-and-youth-emblems).
+For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/discover/children-and-youth-emblems).

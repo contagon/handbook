@@ -6,19 +6,19 @@ Seminaries and Institutes of Religion (S&I) assists parents and Church leaders i
 
 Seminary and institute programs are governed by policies established by the Church Board of Education, which is directed by the President of the Church. The stake presidency carries out these programs in the stake and wards. Stake and ward leaders regularly review the participation of their youth in seminary and institute programs.
 
-An [S&I representative](http://www.churchofjesuschrist.org/si/leader-resources/representatives) is assigned to each stake to help leaders administer S&I programs.
+An [S&I representative](https://www.churchofjesuschrist.org/si/leader-resources/representatives) is assigned to each stake to help leaders administer S&I programs.
 
 ## 15.1 Seminary
 
 Seminary is a four-year program in which youth study the gospel of Jesus Christ as found in the scriptures and the teachings of latter-day prophets. Seminary students are generally 14–18 years old.
 
-The bishopric, youth leaders, and quorum and class presidencies encourage every youth to participate fully in seminary. The bishopric encourages parents to register their children each year before seminary classes start. For more information, see [Seminary Registration](http://www.churchofjesuschrist.org/si/seminary/about/seminary-registration) on ChurchofJesusChrist.org.
+The bishopric, youth leaders, and quorum and class presidencies encourage every youth to participate fully in seminary. The bishopric encourages parents to register their children each year before seminary classes start. For more information, see [Seminary Registration](https://www.churchofjesuschrist.org/si/seminary/about/seminary-registration) on ChurchofJesusChrist.org.
 
 ### 15.1.1 Teachers
 
-[Seminary teachers](http://www.churchofjesuschrist.org/si/leader-resources/seminary-and-institute-teachers) should be Church members who have faith in the Lord Jesus Christ and a testimony of His restored gospel. They should live the principles they teach and work well with youth. When possible, teachers should be worthy of a temple recommend.
+[Seminary teachers](https://www.churchofjesuschrist.org/si/leader-resources/seminary-and-institute-teachers) should be Church members who have faith in the Lord Jesus Christ and a testimony of His restored gospel. They should live the principles they teach and work well with youth. When possible, teachers should be worthy of a temple recommend.
 
-A member of the stake presidency counsels with the bishop, stake supervisor, and S&I representative about potential seminary teachers. A member of the stake presidency or an assigned high councilor calls, sets apart, and releases stake seminary teachers and [stake supervisors](http://www.churchofjesuschrist.org/si/leader-resources/stake-supervisor). After the person has been called and set apart, the S&I representative trains and supports him or her.
+A member of the stake presidency counsels with the bishop, stake supervisor, and S&I representative about potential seminary teachers. A member of the stake presidency or an assigned high councilor calls, sets apart, and releases stake seminary teachers and [stake supervisors](https://www.churchofjesuschrist.org/si/leader-resources/stake-supervisor). After the person has been called and set apart, the S&I representative trains and supports him or her.
 
 To protect teachers and students, two adults should be present in the building or home where a seminary class is being taught. A team teacher may be called, or another responsible adult may be assigned to be present. The second adult could be the teacher’s spouse or the parent of a class member. He or she should be the same gender as the teacher, unless that person is an adult member of the teacher’s family. A teacher should never be alone in a classroom, building, or vehicle with a student unless the student is the teacher’s child.
 
@@ -48,7 +48,7 @@ Classes should not be held on Sunday. Exceptions require approval from the Churc
 
 A stake president may recommend to the local S&I representative changes to which seminary option the stake uses. The S&I representative takes the recommendation to the Seminaries and Institutes of Religion administration. Approval from the administration is necessary before implementing the change.
 
-A local board of education may be established where several stakes with seminary classes, home-study classes, or both are in close proximity and have common concerns and challenges (see [seminary.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/si/leader-resources/released-time-seminary)).
+A local board of education may be established where several stakes with seminary classes, home-study classes, or both are in close proximity and have common concerns and challenges (see [seminary.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/si/leader-resources/released-time-seminary)).
 
 ### 15.1.3 Buildings, Equipment, and Materials
 
@@ -74,7 +74,7 @@ Each year the stake holds a seminary graduation. This event is planned by a stak
 
 ### 15.1.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Released-Time Seminary
 
-In some areas of the United States and Canada, local laws allow students to leave school and attend seminary during school hours. The Church Board of Education approves where this type of seminary is used. For more information on released-time seminary, see [Released-Time Seminary](http://www.churchofjesuschrist.org/si/leader-resources/released-time-seminary) on ChurchofJesusChrist.org.
+In some areas of the United States and Canada, local laws allow students to leave school and attend seminary during school hours. The Church Board of Education approves where this type of seminary is used. For more information on released-time seminary, see [Released-Time Seminary](https://www.churchofjesuschrist.org/si/leader-resources/released-time-seminary) on ChurchofJesusChrist.org.
 
 ## 15.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Institute
 
@@ -82,7 +82,7 @@ Institute provides weekday gospel study classes that strengthen faith and testim
 
 Campus-based institute classes are not available in many areas. In these cases, stake presidents may establish stake-based institute classes. Priesthood leaders and S&I personnel coordinate the arrangements.
 
-Additional guidelines for establishing and operating stake-based institute classes, planning for facilities, calling [teachers](http://preview.churchofjesuschrist.org/si/leader-resources/seminary-and-institute-teachers), and recognizing student achievement are available at [Stake Institute](http://www.churchofjesuschrist.org/si/leader-resources/stake-institute) on ChurchofJesusChrist.org.
+Additional guidelines for establishing and operating stake-based institute classes, planning for facilities, calling [teachers](https://preview.churchofjesuschrist.org/si/leader-resources/seminary-and-institute-teachers), and recognizing student achievement are available at [Stake Institute](https://www.churchofjesuschrist.org/si/leader-resources/stake-institute) on ChurchofJesusChrist.org.
 
 ### 15.2.1 Other Religion Classes
 

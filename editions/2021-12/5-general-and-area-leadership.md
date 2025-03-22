@@ -117,7 +117,7 @@ Area Seventies work and counsel together with local Church leaders to help them 
 * Preside at coordinating council meetings (see [5.2.4](5-general-and-area-leadership.md#524-coordinating-council)).
 * Preside at stake conferences and instruct stake leaders.
 * Create or reorganize stakes, set apart new stake presidencies, and confer keys on the stake president.
-* Coordinate area-wide responsibilities, including activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), [JustServe.org](http://www.justserve.org) (where it is available), disaster recovery, or other assignments.
+* Coordinate area-wide responsibilities, including activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), [JustServe.org](https://www.justserve.org) (where it is available), disaster recovery, or other assignments.
 * Tour missions and instruct mission leaders and missionaries.
 * Serve as a counselor in the Area Presidency.
 

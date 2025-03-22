@@ -165,7 +165,7 @@ Service activities can focus on:
 * Strengthening new and returning members.
 * Humanitarian needs locally or elsewhere.
 
-Where it is available, [JustServe.org](http://www.justserve.org) suggests service opportunities for both individuals and groups.
+Where it is available, [JustServe.org](https://www.justserve.org) suggests service opportunities for both individuals and groups.
 
 #### 14.2.2.2 Ministering
 
@@ -187,9 +187,9 @@ As individuals and as groups, single members can help unite families for eternit
 * Serve as temple ordinance workers or volunteers (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
 * Participate in ordinances for the deceased.
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf)).
-* Identify ancestors who need temple ordinances (see [FamilySearch.org](http://www.familysearch.org)).
+* Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 * Serve as temple and family history consultants (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
-* Participate in indexing (see [FamilySearch.org/indexing](http://www.familysearch.org/indexing)).
+* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
 
 ## 14.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Young Single Adult Wards and Stakes and Single Adult Wards
 

@@ -99,7 +99,7 @@ The bishopric calls one or more teachers, who may be a husband and wife. Lessons
 
 ### 25.5.2 Access to Online Family History Resources
 
-[FamilySearch](http://www.familysearch.org) is the Church’s website for temple and family history work. It is a tool for the following activities:
+[FamilySearch](https://www.familysearch.org) is the Church’s website for temple and family history work. It is a tool for the following activities:
 
 * Searching historical documents and discovering ancestors
 * Documenting family relationships
@@ -130,13 +130,13 @@ The stake presidency may assign one or more high councilors to train the ward te
 
 ### 25.7.1 Indexing in the Stake
 
-Indexing is the process of entering information from a historical record into a searchable database on [FamilySearch](http://www.familysearch.org/). Those who index provide an important service. They make it possible for other people to discover their ancestors and perform temple ordinances on their behalf.
+Indexing is the process of entering information from a historical record into a searchable database on [FamilySearch](https://www.familysearch.org/). Those who index provide an important service. They make it possible for other people to discover their ancestors and perform temple ordinances on their behalf.
 
 Anyone can index. This includes youth, members who are homebound or less active, and people who are not Church members.
 
 If the stake presidency desires to encourage members to index, they may assign a stake temple and family history consultant to coordinate this work.
 
-For more information about indexing, see “[Indexing Overview](http://www.familysearch.org/indexing/)” on FamilySearch.org.
+For more information about indexing, see “[Indexing Overview](https://www.familysearch.org/indexing/)” on FamilySearch.org.
 
 ### 25.7.2 Family History Centers
 
@@ -160,9 +160,9 @@ Members who are called as temple workers normally commit to a standard shift of 
 
 Recommendations for prospective temple workers may come to a temple president from ward or stake leaders and other temple workers. The temple presidency, the matron, and assistants to the matron may also recommend members to be approved through the bishop and stake president.
 
-When a stake president or bishop identifies a member who he feels should be called as an ordinance worker or temple volunteer, he logs in to [ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/) and uses the Recommend Temple Worker tool. He reviews the requirements, and if he feels that the calling would be suitable, he completes the information and submits the recommendation. After the bishop and the stake president provide a recommendation, the information is sent to the temple president.
+When a stake president or bishop identifies a member who he feels should be called as an ordinance worker or temple volunteer, he logs in to [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/) and uses the Recommend Temple Worker tool. He reviews the requirements, and if he feels that the calling would be suitable, he completes the information and submits the recommendation. After the bishop and the stake president provide a recommendation, the information is sent to the temple president.
 
-A temple president may also submit the name of a member to be approved as an ordinance worker or temple volunteer. He submits the name to the bishop and stake president using the Recommend Temple Worker tool on [ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/). The bishop and stake president review the recommendation. If they feel it is appropriate, they approve it in the system, which returns the approved submission to the temple president.
+A temple president may also submit the name of a member to be approved as an ordinance worker or temple volunteer. He submits the name to the bishop and stake president using the Recommend Temple Worker tool on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/). The bishop and stake president review the recommendation. If they feel it is appropriate, they approve it in the system, which returns the approved submission to the temple president.
 
 After the temple president receives the approval, a member of the temple presidency interviews the person. When so inspired and as appropriate, he calls those who are able to serve and sets them apart. He or a staff member records the setting apart in the system. The Recommend Temple Worker tool includes a report that shows to each bishop and stake president the members from their ward or stake who are serving in the temple.
 

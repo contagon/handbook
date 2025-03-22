@@ -89,7 +89,7 @@ Ministering interviews do not need to be long to be effective. Their purposes ar
 
 Between interviews, ministering brothers and sisters communicate with leaders as needed. They may share confidential information directly with the bishop.
 
-Leaders use [Leader and Clerk Resources](http://lcr.churchofjesuschrist.org) to report ministering interviews.
+Leaders use [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org) to report ministering interviews.
 
 ## 21.4 Coordinating Ministering Efforts
 

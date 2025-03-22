@@ -118,7 +118,7 @@ The elders quorum and Relief Society presidents help the ward council develop th
 
 Examples of what the plan might include are listed below:
 
-* Help members build their family trees on [FamilySearch.org](http://www.familysearch.org) or with the [Family Tree app](http://www.familysearch.org/blog/en/mobile) (see [25.4.2](25-temple-and-family-history-work.md#2542-familysearchorg-and-familysearch-apps)).
+* Help members build their family trees on [FamilySearch.org](https://www.familysearch.org) or with the [Family Tree app](https://www.familysearch.org/blog/en/mobile) (see [25.4.2](25-temple-and-family-history-work.md#2542-familysearchorg-and-familysearch-apps)).
 * Involve new and returning members, youth, and children in family history work.
 * Help specific members prepare to receive temple ordinances.
 
@@ -155,7 +155,7 @@ Ward council members prayerfully select members to invite to participate in each
 * Members returning to Church activity
 * Endowed members who have not renewed their temple recommends for an extended time
 
-The bishopric calls one or more temple preparation instructors. Lessons and instructions for organizing the course are in [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/introduction?lang=eng). Participants are given copies of [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng). For personal study and lesson resources, see [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples).
+The bishopric calls one or more temple preparation instructors. Lessons and instructions for organizing the course are in [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/introduction?lang=eng). Participants are given copies of [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng). For personal study and lesson resources, see [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
 
 ## 25.3 Organizing Temple and Family History Work in the Stake
 
@@ -250,18 +250,18 @@ The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofj
 
 ### 25.4.2 FamilySearch.org and FamilySearch Apps
 
-[FamilySearch.org](http://www.familysearch.org) is the Church’s website for temple and family history work. It can help users:
+[FamilySearch.org](https://www.familysearch.org) is the Church’s website for temple and family history work. It can help users:
 
 * Build family tree connections and relationships.
 * Discover ancestors and their stories.
 * Share and preserve family stories, photographs, and histories.
 * Prepare family names for temple ordinances.
 
-The [Family Tree app](http://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](http://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
+The [Family Tree app](https://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](https://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
 
 ### 25.4.3 Indexing
 
-Indexing is the process of entering information from a written historical record into a searchable database on [FamilySearch.org](http://www.familysearch.org). Those who index make it possible for others to discover their ancestors more easily and perform temple ordinances on their behalf.
+Indexing is the process of entering information from a written historical record into a searchable database on [FamilySearch.org](https://www.familysearch.org). Those who index make it possible for others to discover their ancestors more easily and perform temple ordinances on their behalf.
 
 Anyone can participate in indexing. This can be a particularly fulfilling experience for the following:
 
@@ -286,17 +286,17 @@ Potential temple workers are identified in the following ways:
 * Members recommended by the temple president, the matron, or another temple leader
 * Members who are preparing for or have recently returned from missionary service (see chapter 24)
 
-The names of potential temple workers are submitted using the [Recommend Temple Worker tool](http://recommendtempleworker.churchofjesuschrist.org). This tool is available to bishops, stake presidents, and temple presidencies. The process for submitting names is outlined below.
+The names of potential temple workers are submitted using the [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org). This tool is available to bishops, stake presidents, and temple presidencies. The process for submitting names is outlined below.
 
-When members of a temple presidency identify a potential temple worker, they submit the person’s name to the bishop using the [Recommend Temple Worker tool](http://recommendtempleworker.churchofjesuschrist.org).
+When members of a temple presidency identify a potential temple worker, they submit the person’s name to the bishop using the [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org).
 
-When a bishop identifies a potential temple worker or receives a recommendation from a temple president, he counsels with the member about the opportunity to serve. He reviews the requirements for temple ordinance workers (see [25.5.2](25-temple-and-family-history-work.md#2552-requirements-for-temple-ordinance-workers)) or temple volunteers (see [25.5.3](25-temple-and-family-history-work.md#2553-requirements-for-temple-volunteers)). If both the bishop and the member feel the opportunity would be appropriate, the bishop completes and submits the recommendation using the [Recommend Temple Worker tool](http://recommendtempleworker.churchofjesuschrist.org). The member should understand that a submitted recommendation does not ensure that he or she will be called or assigned as a temple worker.
+When a bishop identifies a potential temple worker or receives a recommendation from a temple president, he counsels with the member about the opportunity to serve. He reviews the requirements for temple ordinance workers (see [25.5.2](25-temple-and-family-history-work.md#2552-requirements-for-temple-ordinance-workers)) or temple volunteers (see [25.5.3](25-temple-and-family-history-work.md#2553-requirements-for-temple-volunteers)). If both the bishop and the member feel the opportunity would be appropriate, the bishop completes and submits the recommendation using the [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org). The member should understand that a submitted recommendation does not ensure that he or she will be called or assigned as a temple worker.
 
-The recommendation is next reviewed by the stake president for members living in a stake. For members living in a district, the mission president reviews it. If the stake or mission president approves the recommendation, he submits it to the temple president for review using the [Recommend Temple Worker tool](http://recommendtempleworker.churchofjesuschrist.org).
+The recommendation is next reviewed by the stake president for members living in a stake. For members living in a district, the mission president reviews it. If the stake or mission president approves the recommendation, he submits it to the temple president for review using the [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org).
 
 Members who are called or assigned as temple workers normally commit to a regular time to serve in the temple each week. Leaders should avoid issuing additional callings that would interfere with members’ ability to serve in the temple.
 
-The [Recommend Temple Worker tool](http://recommendtempleworker.churchofjesuschrist.org) also shows bishops and stake presidents a list of all members from their wards or stakes who currently serve in the temple.
+The [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org) also shows bishops and stake presidents a list of all members from their wards or stakes who currently serve in the temple.
 
 ### 25.5.2 Requirements for Temple Ordinance Workers
 

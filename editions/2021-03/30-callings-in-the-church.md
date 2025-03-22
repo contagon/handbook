@@ -54,7 +54,7 @@ The Chart of Callings outlines who may extend each calling. After receiving the 
 
 A leader who extends a Church calling explains its purpose, importance, and responsibilities. He encourages the member to seek the Spirit of the Lord in fulfilling the calling. He tells the member the name of the person to whom he or she is directly accountable and emphasizes the need to support leaders. As needed, he outlines the meetings the person should attend and describes any resource materials that are available. He may identify special concerns or challenges of the calling and invite the member to ask questions about it.
 
-If the calling is to a position that includes working with children or youth, he explains that the member will need to complete children and youth protection training ([ProtectingChildren.ChurchofJesusChrist.org](http://protectingchildren.churchofjesuschrist.org)) within one month of being sustained and every three years thereafter.
+If the calling is to a position that includes working with children or youth, he explains that the member will need to complete children and youth protection training ([ProtectingChildren.ChurchofJesusChrist.org](https://protectingchildren.churchofjesuschrist.org)) within one month of being sustained and every three years thereafter.
 
 Leaders ensure that the manner in which they extend a calling is consistent with its sacred nature. Callings should be extended in a dignified, formal manner, not in a casual setting or manner.
 

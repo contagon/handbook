@@ -62,7 +62,7 @@ The Sunday School president organizes as many youth classes as are needed. Youth
 
 At least two responsible adults should be present in each youth class. The adults could be two men, two women, or a married couple. To meet this requirement, classes may need to be combined.
 
-All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
+All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth)). They repeat the training every three years thereafter.
 
 ### 13.3.1 Small Branches
 
@@ -107,7 +107,7 @@ The responsibilities of the stake Sunday School president are outlined in [6.7.1
 
 ### 13.7.1 Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 13.7.2 Resource Center
 

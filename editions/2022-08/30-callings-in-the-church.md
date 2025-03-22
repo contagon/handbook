@@ -132,7 +132,7 @@ The leader does not ask if anyone opposes.
 
 ## 30.7 Calling, Ordaining, and Setting Apart Bishops
 
-The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org). A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
+The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
 
 A bishop’s responsibilities are significant (see [7.1](7.md#71-the-bishop-and-his-counselors)). They require a man of integrity, moral cleanliness, spiritual maturity, and faithfulness to the Savior. The stake presidency seeks confirmation from the Spirit about whom to recommend. When recommending a man to serve as bishop, they carefully consider [1 Timothy 3:2–7](https://www.churchofjesuschrist.org/study/scriptures/nt/1-tim/3.2-7?lang=eng#p2). They do not ask for suggestions from ward members. Additional information about the qualifications of a bishop is given in [LCR](https://lcr.churchofjesuschrist.org).
 

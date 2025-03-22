@@ -22,7 +22,7 @@ Parents have the primary responsibility to help their children prepare to receiv
 
 Stake and ward leaders regularly encourage members to prepare to receive their own temple ordinances. Leaders also emphasize the importance of honoring temple covenants and remaining worthy of and having a temple recommend.
 
-Resources to help members prepare to receive temple ordinances are available at [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples).
+Resources to help members prepare to receive temple ordinances are available at [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
 
 Members who are preparing to receive their own endowment or to be sealed to a spouse are encouraged to participate in a temple preparation course (see [25.2.8](25-temple-and-family-history-work.md#2528-temple-preparation-course)).
 
@@ -35,17 +35,17 @@ For information about issuing temple recommends in these circumstances, see [26.
 
 ### 27.1.2 Scheduling Temple Ordinances
 
-Members who are planning to receive their own endowment or to be sealed should schedule the ordinance in advance with the temple they plan to attend. See [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples) for each temple’s contact information.
+Members who are planning to receive their own endowment or to be sealed should schedule the ordinance in advance with the temple they plan to attend. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
 
 ### 27.1.3 Members Who Have Physical Disabilities
 
-Worthy members who have physical disabilities may receive all temple ordinances (see [38.2.5](38-church-policies-and-guidelines.md#3825-ordinances-and-blessings-performed-by-and-for-those-who-have-physical-disabilities)). These members are encouraged to attend the temple with endowed relatives or friends of the same gender who can assist them. Those who assist must have a current temple recommend. If members cannot attend with a family member or friend, they may call the temple in advance to see what arrangements can be made. See [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples) for each temple’s contact information.
+Worthy members who have physical disabilities may receive all temple ordinances (see [38.2.5](38-church-policies-and-guidelines.md#3825-ordinances-and-blessings-performed-by-and-for-those-who-have-physical-disabilities)). These members are encouraged to attend the temple with endowed relatives or friends of the same gender who can assist them. Those who assist must have a current temple recommend. If members cannot attend with a family member or friend, they may call the temple in advance to see what arrangements can be made. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
 
 Service animals and emotional support animals are not allowed in temples. Stake presidents may contact the Temple Department at [TempleDepartment@ChurchofJesusChrist.org](mailto:TempleDepartment@ChurchofJesusChrist.org) if they have questions.
 
 ### 27.1.4 Translation or Interpretation Assistance
 
-If members need translation or interpretation assistance, they should contact the temple in advance to see if it is available. See [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples) for each temple’s contact information.
+If members need translation or interpretation assistance, they should contact the temple in advance to see if it is available. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
 
 ### 27.1.5 Clothing to Wear to a Temple
 
@@ -71,7 +71,7 @@ Members often have questions after receiving temple ordinances. Endowed family m
 
 Leaders also encourage members to seek answers to their questions through the inspiration of the Holy Ghost. In the temple, the Spirit can provide answers to many of the questions that members may have about their temple experience.
 
-Resources to help answer questions are available at [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples).
+Resources to help answer questions are available at [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
 
 ## 27.2 The Endowment
 

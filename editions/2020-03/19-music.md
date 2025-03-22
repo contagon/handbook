@@ -62,8 +62,8 @@ The guidelines in this chapter may be adapted according to local needs. For exam
 
 When no one can play the piano, the following resources may be useful:
 
-1. CDs of hymns and children’s songs are available on [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org).
-2. Hymns and children’s songs can be downloaded in MP3 format at [music.ChurchofJesusChrist.org](http://music.churchofjesuschrist.org).
+1. CDs of hymns and children’s songs are available on [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
+2. Hymns and children’s songs can be downloaded in MP3 format at [music.ChurchofJesusChrist.org](https://music.churchofjesuschrist.org).
 3. Some meetinghouses are equipped with digital pianos that have hymns programmed into them.
 
 Music training and keyboards may be available for those who serve in music callings or who may serve in the future (see [19.7](19-music.md#197-music-training)).
@@ -128,7 +128,7 @@ In a very small branch, a choir might consist of the entire congregation. In a l
 
 Church choirs are encouraged to use the hymnbook as their basic resource because the hymns teach the truths of the restored gospel. Hymn arrangements and other appropriate choral works may also be used (see [19.4.2](19-music.md#1942-guidelines-for-choosing-appropriate-music-for-church-worship-services)).
 
-Information about using the hymns for choirs is provided in Hymns, pages [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title15-figure3#title15). Additional information about conducting choirs is in the Conducting Course manual, pages [73–83](http://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
+Information about using the hymns for choirs is provided in Hymns, pages [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title15-figure3#title15). Additional information about conducting choirs is in the Conducting Course manual, pages [73–83](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
 
 Auditions are not held when organizing ward and stake choirs. Rehearsals usually do not exceed one hour.
 
@@ -185,7 +185,7 @@ Learning basic music skills allows members to use their talents to serve in the 
 
 An annual pattern of music training could include music conducting courses, training for choir directors, ward keyboard courses, and stake or ward organ training courses. Music chairmen may consult with priesthood leaders and recommend qualified instructors who could provide this training. If a stake music specialist is not called to provide training, ward choir directors could meet together to exchange ideas, or the stake presidency could request help from outside the stake.
 
-The Conducting Course Kit and the Keyboard Course Kit provide instruction in basic music skills. The [Conducting Course](http://www.churchofjesuschrist.org/music/conducting-music/conducting-course-book-and-audio-examples) manual also provides instruction for organizing and conducting choirs. These resources are available on [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org).
+The Conducting Course Kit and the Keyboard Course Kit provide instruction in basic music skills. The [Conducting Course](https://www.churchofjesuschrist.org/music/conducting-music/conducting-course-book-and-audio-examples) manual also provides instruction for organizing and conducting choirs. These resources are available on [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
 When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. No admittance fee should be charged for recitals.
 
@@ -199,7 +199,7 @@ Priesthood leaders and music leaders encourage Church members to use uplifting m
 
 “Teach your children to love the hymns. Sing them on the Sabbath, in home evening, during scripture study, at prayer time. Sing as you work, as you play, and as you travel together. Sing hymns as lullabies to build faith and testimony in your young ones” (Hymns, [x](https://www.churchofjesuschrist.org/study/manual/hymns/first-presidency-preface?lang=eng¶=8-p9#p8)).
 
-Members may use Church-produced recordings to accompany singing and to help them learn the hymns and Primary songs. These recordings are available on [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org). Members may also visit [music.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/music) to learn and listen to Church music, learn basic music skills, and find other helpful music resources.
+Members may use Church-produced recordings to accompany singing and to help them learn the hymns and Primary songs. These recordings are available on [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org). Members may also visit [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music) to learn and listen to Church music, learn basic music skills, and find other helpful music resources.
 
 Parents should encourage their children to receive instruction in musical skills, enabling them to use their talents to serve in the Church.
 
@@ -249,4 +249,4 @@ See [18.7.2](18-priesthood-ordinances-and-blessings.md#1872-baptismal-services).
 
 ## 19.10 Online Music Resources
 
-For additional resources, visit [music.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/music) and “[Music Callings](http://www.churchofjesuschrist.org/callings/music)” on ChurchofJesusChrist.org.
+For additional resources, visit [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music) and “[Music Callings](https://www.churchofjesuschrist.org/callings/music)” on ChurchofJesusChrist.org.

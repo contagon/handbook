@@ -115,7 +115,7 @@ The elders quorum and Relief Society presidents help the ward council develop th
 
 Examples of what the plan might include are listed below:
 
-* Help members build their family trees on [FamilySearch.org](http://www.familysearch.org) or with the [FamilySearch Tree app](http://www.familysearch.org/blog/en/mobile) (see [25.4.2](25-temple-and-family-history-work.md#2542-familysearchorg-and-familysearch-apps)).
+* Help members build their family trees on [FamilySearch.org](https://www.familysearch.org) or with the [FamilySearch Tree app](https://www.familysearch.org/blog/en/mobile) (see [25.4.2](25-temple-and-family-history-work.md#2542-familysearchorg-and-familysearch-apps)).
 * Involve new and returning members, youth, and children in family history work.
 * Help specific members prepare to receive temple ordinances.
 
@@ -150,7 +150,7 @@ Ward council members prayerfully select members to invite to participate in each
 * Members returning to Church activity
 * Endowed members who have not renewed their temple recommends for an extended time
 
-The bishopric calls one or more temple preparation instructors. A husband and wife may be called. Lessons and instructions for organizing the course are in the [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/introduction?lang=eng). Participants are given copies of [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng). For personal study and lesson resources, see [temples.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/temples).
+The bishopric calls one or more temple preparation instructors. A husband and wife may be called. Lessons and instructions for organizing the course are in the [Endowed from on High: Temple Preparation Seminar Teacher’s Manual](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/introduction?lang=eng). Participants are given copies of [Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/preparing-to-enter-the-holy-temple/preparing-to-enter-the-holy-temple?lang=eng). For personal study and lesson resources, see [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
 
 ## 25.3 Organizing Temple and Family History Work in the Stake
 
@@ -221,22 +221,22 @@ As an exception, large regional family history libraries are overseen by the Are
 
 My Family: Stories That Bring Us Together helps people discover relatives and ancestors and gather their stories. This booklet can also help members begin to prepare family names for temple ordinances.
 
-The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](http://store.churchofjesuschrist.org/usa/en/my-family%3A-stories-that-bring-us-together-%282020-version%29).
+The booklet can be downloaded at [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf). Physical copies can be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/usa/en/my-family%3A-stories-that-bring-us-together-%282020-version%29).
 
 ### 25.4.2 FamilySearch.org and FamilySearch Apps
 
-[FamilySearch.org](http://www.familysearch.org) is the Church’s website for temple and family history work. It can help users:
+[FamilySearch.org](https://www.familysearch.org) is the Church’s website for temple and family history work. It can help users:
 
 * Build family tree connections and relationships.
 * Discover ancestors and their stories.
 * Share and preserve family stories, photographs, and histories.
 * Prepare family names for temple ordinances.
 
-The [FamilySearch Tree app](http://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](http://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
+The [FamilySearch Tree app](https://www.familysearch.org/blog/en/mobile) and [FamilySearch Memories app](https://www.familysearch.org/blog/en/mobile) enable people to participate in temple and family history work from mobile devices.
 
 ### 25.4.3 Indexing
 
-Indexing is the process of entering information from a written historical record into a searchable database on [FamilySearch.org](http://www.familysearch.org). Those who index make it possible for others to discover their ancestors more easily and perform temple ordinances on their behalf.
+Indexing is the process of entering information from a written historical record into a searchable database on [FamilySearch.org](https://www.familysearch.org). Those who index make it possible for others to discover their ancestors more easily and perform temple ordinances on their behalf.
 
 Anyone can participate in indexing. This can be a particularly fulfilling experience for the following:
 
@@ -248,7 +248,7 @@ Anyone can participate in indexing. This can be a particularly fulfilling experi
 
 The stake presidency may assign a stake temple and family history consultant or a high councilor to coordinate this work.
 
-For more information, see “[Indexing Overview](http://www.familysearch.org/indexing)” on FamilySearch.org.
+For more information, see “[Indexing Overview](https://www.familysearch.org/indexing)” on FamilySearch.org.
 
 ## 25.5 Recommending and Calling Temple Workers
 
@@ -261,7 +261,7 @@ Potential temple workers are identified in the following ways:
 * Members recommended by the temple president, the matron, or another temple leader
 * Members who are preparing for or have recently returned from missionary service (see chapter 24)
 
-The names of potential temple workers are submitted using the [Recommend Temple Worker tool](http://recommendtempleworker.churchofjesuschrist.org). This tool is available to bishops, stake presidents, and temple presidencies. The process for submitting names is outlined below.
+The names of potential temple workers are submitted using the [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org). This tool is available to bishops, stake presidents, and temple presidencies. The process for submitting names is outlined below.
 
 When a temple presidency identifies a potential temple worker, they submit the person’s name to the bishop using the Recommend Temple Worker tool.
 

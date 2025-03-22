@@ -125,7 +125,7 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 
 ### 18.6.3 Child Record Form and Blessing Certificate
 
-Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
+Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
 
 The name on the membership record and certificate should match the birth certificate, civil birth registry, or current legal name.
 
@@ -263,9 +263,9 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
-Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](http://lcr.churchofjesuschrist.org).
+Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](https://lcr.churchofjesuschrist.org).
 
-When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Area Book Planner (ABP) app. After the baptism and confirmation, the missionaries record the information in ABP and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](http://lcr.churchofjesuschrist.org) and creates the membership record.
+When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Area Book Planner (ABP) app. After the baptism and confirmation, the missionaries record the information in ABP and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](https://lcr.churchofjesuschrist.org) and creates the membership record.
 
 After the membership record is created, a clerk prepares a Baptism and Confirmation Certificate. This certificate is signed by the bishop and given to the person.
 
@@ -311,7 +311,7 @@ If members have food allergies or gluten intolerance, they discuss with a member
 
 Generally, bread must be broken as part of the sacrament ordinance. However, to ensure the health and safety of a particular member, that member may provide allergen-free bread or another broken bread-like substitute in a sealed plastic bag or cup. They give this to a priesthood holder to place on a separate tray. The bishopric helps those who pass the sacrament know which members to whom the allergen-free item should be passed.
 
-See [disability.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
+See [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
 
 Although the sacrament is for members of the Church, nothing should be done to prevent others from partaking of it.
 
@@ -434,13 +434,13 @@ An ordination is an opportunity to give a blessing. Detailed counsel and instruc
 
 ### 18.10.6 Ordination Record and Certificate
 
-Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in [LCR](http://lcr.churchofjesuschrist.org) and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
+After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in [LCR](https://lcr.churchofjesuschrist.org) and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
 
-Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses [LCR](http://lcr.churchofjesuschrist.org) to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in [LCR](http://lcr.churchofjesuschrist.org) and prepares an ordination certificate.
+After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in [LCR](https://lcr.churchofjesuschrist.org) and prepares an ordination certificate.
 
 A person’s current legal name should be used on the ordination record and certificate.
 
@@ -618,7 +618,7 @@ If a patriarchal blessing does not include a declaration of lineage, the patriar
 
 ### 18.17.2 Obtaining Copies of Patriarchal Blessings
 
-A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](http://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
+A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](https://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
 
 ### 18.17.3 More Information
 
@@ -635,6 +635,6 @@ For information on the temple endowment and sealing ordinances, see [chapter 27
 | Patriarch | Stake presidency | Quorum of the Twelve Apostles | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve Apostles; or a member of the First Presidency or Quorum of the Twelve Apostles |
 | High priest | Bishop and stake presidency | Stake presidency and high council | Members in stake conference | Interviewed by the bishop and by the stake president or an assigned counselor; ordained under the direction of the stake president |
 | Elder | Bishop | Stake presidency and high council | Members in stake conference or district conference | Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents))<br/>Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
-| Bishop | Stake presidency, using [LCR](http://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
+| Bishop | Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
 | Priest | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop; ordained under the direction of the bishop |
 | Teacher or deacon | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop or an assigned counselor; ordained under the direction of the bishop |

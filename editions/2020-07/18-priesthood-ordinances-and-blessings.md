@@ -522,7 +522,7 @@ If a patriarchal blessing does not include a declaration of lineage, the patriar
 
 ### 18.17.2 Obtaining Copies of Patriarchal Blessings
 
-A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](http://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
+A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings](https://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
 
 ### 18.17.3 More Information
 

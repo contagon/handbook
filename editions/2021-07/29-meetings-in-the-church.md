@@ -452,7 +452,7 @@ Twice a month if feasible.
 The stake presidency plans and conducts high council meetings. These meetings may include:
 
 * Receiving instruction from the stake presidency on doctrine and assignments.
-* Counseling together about strengthening individuals and families in the stake. [Leader and Clerk Resources (LCR)](http://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members.
+* Counseling together about strengthening individuals and families in the stake. [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members.
 * Discussing how to help accomplish the work of salvation and exaltation in the stake.
 * Reporting on assignments.
 * Counseling with the stake presidency and sustaining their decisions to ordain brethren as elders and high priests.
@@ -488,11 +488,11 @@ Monthly if feasible.
 The stake president plans and conducts stake council meetings. In these meetings, council members may:
 
 * Receive instruction from the stake presidency on doctrine and on their assignments.
-* Counsel together about strengthening individuals and families in the stake. [LCR](http://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members.
+* Counsel together about strengthening individuals and families in the stake. [LCR](https://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members.
 * Discuss overall vision for the work of salvation and exaltation in the stake.
-* Discuss temporal needs of stake members and how to help them be self-reliant. Identify resources available in the community and stake. Examples may include local schools and [BYU–Pathway Worldwide](http://www.byupathway.org). (See [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources) and [22.13](22-providing-for-temporal-needs.md#2213-church-resources).)
+* Discuss temporal needs of stake members and how to help them be self-reliant. Identify resources available in the community and stake. Examples may include local schools and [BYU–Pathway Worldwide](https://www.byupathway.org). (See [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources) and [22.13](22-providing-for-temporal-needs.md#2213-church-resources).)
 * Develop and maintain a simple plan for the stake to respond to emergencies (see [22.9.1.3](22-providing-for-temporal-needs.md#22913-respond-to-emergencies)).
-* Plan ways for stake members to give service in the community (see [22.9.1](22-providing-for-temporal-needs.md#2291-stake-president-and-his-counselors)). Where available, [JustServe](http://lcr.churchofjesuschrist.org) suggests opportunities for community service.
+* Plan ways for stake members to give service in the community (see [22.9.1](22-providing-for-temporal-needs.md#2291-stake-president-and-his-counselors)). Where available, [JustServe](https://lcr.churchofjesuschrist.org) suggests opportunities for community service.
 * Report on stake organizations, activities, and programs.
 
 Sometimes a stake council meeting could immediately follow a brief high council meeting (see [29.3.7](29-meetings-in-the-church.md#2937-high-council-meeting)). This can help reduce the number of meetings for leaders to attend.
@@ -521,7 +521,7 @@ As needed.
 
 The stake adult leadership committee supports elders quorum and ward Relief Society presidencies in their work. Committee members give special emphasis to ward efforts to share the gospel, strengthen new and returning members, and participate in temple and family history work.
 
-In addition, this committee coordinates stake efforts related to welfare and self-reliance, including [JustServe](http://www.justserve.org) (where available) and BYU–Pathway Worldwide (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)).
+In addition, this committee coordinates stake efforts related to welfare and self-reliance, including [JustServe](https://www.justserve.org) (where available) and BYU–Pathway Worldwide (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)).
 
 The stake presidency plans and conducts meetings of the stake adult leadership committee. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the adult leadership committee could meet to continue a discussion about specific matters.
 
@@ -546,9 +546,9 @@ As needed.
 
 The stake youth leadership committee has the following responsibilities:
 
-* Plan service and activities for youth in the stake. These could include youth conferences, dances, devotionals, service projects, and multistake events. (For service ideas, see [JustServe](http://www.justserve.org), where available.) Youth should lead out in planning and carrying out these activities. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
+* Plan service and activities for youth in the stake. These could include youth conferences, dances, devotionals, service projects, and multistake events. (For service ideas, see [JustServe](https://www.justserve.org), where available.) Youth should lead out in planning and carrying out these activities. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
 * Plan ways to support For the Strength of Youth conferences.
-* Coordinate stake efforts related to the [Children and Youth program](http://childrenandyouth.churchofjesuschrist.org).
+* Coordinate stake efforts related to the [Children and Youth program](https://childrenandyouth.churchofjesuschrist.org).
 
 A member of the stake presidency plans and conducts meetings of the stake youth leadership committee. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
 

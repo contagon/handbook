@@ -108,7 +108,7 @@ Home evening is flexible according to members’ circumstances. It may be held o
 * Gospel study and instruction (the [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) materials may be used as desired).
 * Serving others.
 * Singing or playing hymns and Primary songs (see [chapter 19](19-music.md)).
-* Supporting family members in [Children and Youth development](http://childrenandyouth.churchofjesuschrist.org).
+* Supporting family members in [Children and Youth development](https://childrenandyouth.churchofjesuschrist.org).
 * A family council to set goals, resolve problems, and coordinate schedules.
 * Recreational activities.
 

@@ -2,7 +2,7 @@
 
 ## 33.0 Introduction
 
-The procedures in this chapter apply generally to units that use the Church’s online record-keeping tools, including [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org), [Member Tools](http://churchofjesuschrist.org/help/support/about-member-tools-application), and [Ward Directory and Map](https://directory.churchofjesuschrist.org). Units that do not have access to these tools should work with the Global Services Department or the area office.
+The procedures in this chapter apply generally to units that use the Church’s online record-keeping tools, including [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org), [Member Tools](https://churchofjesuschrist.org/help/support/about-member-tools-application), and [Ward Directory and Map](https://directory.churchofjesuschrist.org). Units that do not have access to these tools should work with the Global Services Department or the area office.
 
 Record keeping has always been important in the Lord’s Church. For example:
 
@@ -145,7 +145,7 @@ The ward clerk should become familiar with Church record-keeping tools (see [33.
 
 When compiling reports on member participation, the clerk works with secretaries to resolve minor problems. He discusses serious problems with the bishop.
 
-The ward clerk or an assistant ward clerk shows members how to view their membership information in the [Member Tools app](http://churchofjesuschrist.org/help/support/about-member-tools-application). He may also provide them with a printed copy if requested. Ward clerks encourage members to report any errors in their membership information.
+The ward clerk or an assistant ward clerk shows members how to view their membership information in the [Member Tools app](https://churchofjesuschrist.org/help/support/about-member-tools-application). He may also provide them with a printed copy if requested. Ward clerks encourage members to report any errors in their membership information.
 
 Other record-keeping duties may include:
 
@@ -264,7 +264,7 @@ Sometimes a member has not lived in the same ward continuously for at least one 
 
 Under no circumstances may membership records be given or shown to anyone other than the bishop or a clerk.
 
-Members may view membership information for themselves and for any dependent children living at home on the [Member Tools app](http://churchofjesuschrist.org/help/support/about-member-tools-application). They may also request printed copies of their Individual Ordinance Summaries from the clerk. If errors are found, a clerk ensures that they are corrected on the membership records.
+Members may view membership information for themselves and for any dependent children living at home on the [Member Tools app](https://churchofjesuschrist.org/help/support/about-member-tools-application). They may also request printed copies of their Individual Ordinance Summaries from the clerk. If errors are found, a clerk ensures that they are corrected on the membership records.
 
 Instructions on how to create a membership record are available in [LCR](https://lcr.churchofjesuschrist.org). Instructions on how to record a marriage or death are also available.
 
@@ -400,7 +400,7 @@ See [33.6](33-records-and-reports.md#336-membership-records).
 
 ### 33.6.19 Audits of Membership Records
 
-Each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](http://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 30 of each year.
+Each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](https://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 30 of each year.
 
 ## 33.7 Historical Records
 

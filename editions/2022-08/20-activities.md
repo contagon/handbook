@@ -63,7 +63,7 @@ The following sections provide examples of good activities.
 
 Service activities provide opportunities to show love for others, to feel the joy of helping them, and to improve communities.
 
-These activities can include visiting people who are sick or lonely, beautifying Church buildings and grounds, and participating in community projects. Where it is available, [JustServe.org](http://www.justserve.org) suggests community service opportunities.
+These activities can include visiting people who are sick or lonely, beautifying Church buildings and grounds, and participating in community projects. Where it is available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
 Service activities should follow safety guidelines (see [20.7.6.1](20-activities.md#20761-safety-precautions)).
 
@@ -357,7 +357,7 @@ Leaders ensure that the following safety policies and guidelines are observed in
 
 At least two adults must be present at all Church activities attended by children and youth. Additional adults may be needed depending on the size of the group, the skills required for the activity, or other factors. Parents are encouraged to help.
 
-All who work with children and youth must complete the children and youth protection training. See [ProtectingChildren.ChurchofJesusChrist.org](http://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth).
+All who work with children and youth must complete the children and youth protection training. See [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth).
 
 ### 20.7.2 Age Requirements for Participation in Youth Activities
 
@@ -395,7 +395,7 @@ Telephone: 1-801-578-5650 or 1-800-777-1647
 
 Email: [churchactivity@dmba.com](mailto:churchactivity@dmba.com)
 
-Website: [dmba.com/churchactivity](http://www.dmba.com/churchactivity)
+Website: [dmba.com/churchactivity](https://www.dmba.com/churchactivity)
 
 #### 20.7.3.5 Certificates of Insurance
 

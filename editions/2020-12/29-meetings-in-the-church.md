@@ -405,7 +405,7 @@ As part of this discussion, committee members may do the following:
 
 * Plan service and activities for youth in the stake. These could include youth conferences, dances, devotionals, and multistake events. Youth should lead out in planning and carrying out these activities as much as possible. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
 * Plan ways to support For the Strength of Youth conferences.
-* Coordinate stake efforts related to the [Children and Youth program](http://www.churchofjesuschrist.org/youth/childrenandyouth).
+* Coordinate stake efforts related to the [Children and Youth program](https://www.churchofjesuschrist.org/youth/childrenandyouth).
 
 Meetings of this committee could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
 

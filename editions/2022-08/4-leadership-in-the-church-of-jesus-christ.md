@@ -107,7 +107,7 @@ Make long-term plans for your organization. Keep an annual calendar. Focus on en
 
 ### 4.2.8 Evaluating Your Efforts
 
-Regularly review your responsibilities and spiritual growth as a leader. Consider also the growth of those you lead. Unit, priesthood quorum, and other organization leaders can review the key indicators, the quarterly report, and other reports in [Leader and Clerk Resources](http://lcr.churchofjesuschrist.org) to see where there is progress and where there is potential for growth.
+Regularly review your responsibilities and spiritual growth as a leader. Consider also the growth of those you lead. Unit, priesthood quorum, and other organization leaders can review the key indicators, the quarterly report, and other reports in [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org) to see where there is progress and where there is potential for growth.
 
 Your success as a leader is measured primarily by your commitment to helping God’s children become faithful disciples of Jesus Christ. Because all people have agency, some may choose to depart from the covenant path. At times this may discourage you, but as you turn to the Lord, He will lift and comfort you (see [Alma 26:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26.27?lang=eng#p27)). You can know that the Lord is pleased with your efforts as you feel the Spirit working through you.
 
