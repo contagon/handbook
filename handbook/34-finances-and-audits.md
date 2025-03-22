@@ -88,7 +88,7 @@ Clerks should hold the Melchizedek Priesthood and have a current temple recommen
 
 Church leaders teach members the principles of tithes and other offerings and encourage members to live these principles. People who are not members of the Church may also make contributions. However, only members of the Church may pay tithing.
 
-Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org)). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](34-finances-and-audits.md#3452-receiving-tithing-and-other-offerings)).
+Members are encouraged to make their contributions online where possible (see [donations.ChurchofJesusChrist.org](https://donations.churchofjesuschrist.org)). Members may also give their contributions and a completed Tithing and Other Offerings form to the bishop or one of his counselors (see [34.5.2](34-finances-and-audits.md#3452-receiving-tithing-and-other-offerings)). If members use a check, it should be payable to The Church of Jesus Christ of Latter-day Saints.
 
 ### 34.3.1 Tithing
 
@@ -165,7 +165,7 @@ Email: [philanthropies@ChurchofJesusChrist.org](mailto:philanthropies@churchofje
 
 The Church normally discourages making in-kind contributions (non-monetary) as tithing and other offerings. It is preferable for members to dispose of the property themselves and then pay tithing and other donations monetarily. However, in-kind donations may be accepted in certain cases. Such donations may be a common practice in some areas of the world.
 
-The Church accepts (1) stocks, bonds, or other securities that are immediately marketable and (2) some marketable real estate. Members should email [donationsinkind@churchofjesuschrist.org](mailto:donationsinkind@churchofjesuschrist.org) for instructions on how to initiate these in-kind donations. If members want to contribute other items, the stake president contacts Church headquarters or the area office for approval before authorizing the bishop to accept them.
+The Church accepts (1) stocks, bonds, or other securities that are immediately marketable and (2) some marketable real estate. Members should email [DonationsInKind@ChurchofJesusChrist.org](mailto:donationsinkind@churchofjesuschrist.org) for instructions on how to initiate these in-kind donations. If members want to contribute other items, the stake president contacts Church headquarters or the area office for approval before authorizing the bishop to accept them.
 
 Receipts to members who make in-kind donations are issued only by Church headquarters or the area office.
 
@@ -181,7 +181,7 @@ The amount of tithing and other offerings paid by a donor is confidential. Only 
 
 ## 34.5 Handling Church Funds
 
-The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks are encouraged to review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
+The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
 ### 34.5.1 Companionship Principle
 
@@ -193,7 +193,7 @@ Leaders should protect and never share their passwords (see [33.9.1.1](33-record
 
 The Lord has given bishops the sacred trust of receiving and accounting for the tithes and other offerings of the Saints (see [Doctrine and Covenants 42:30–33](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p30-p33#p30); [119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119?lang=eng)). Only the bishop and his counselors may receive tithes and other offerings. Under no circumstances should their wives, other members of their families, clerks, or other ward members receive these contributions. The only exception is when Aaronic Priesthood holders are assigned to collect fast offerings (see [34.3.2](34-finances-and-audits.md#3432-fast-offerings)).
 
-Checks should be made payable to The Church of Jesus Christ of Latter-day Saints. Money received by the bishopric should be recorded and deposited as soon as possible. Church leaders and members should not leave donations unattended.
+Church leaders and members should not leave donations unattended.
 
 ### 34.5.3 Verifying and Recording Tithing and Other Offerings
 

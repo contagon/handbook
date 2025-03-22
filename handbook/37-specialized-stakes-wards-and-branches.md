@@ -10,9 +10,16 @@ For support in the United States and Canada, call 1-801-240-1007. Outside the Un
 
 ## 37.1 Language Wards and Branches
 
-A stake president may propose creating a language ward or branch for stake members (1) who do not speak the local native language or (2) who use sign language.
+A stake president may propose creating a language ward or branch for stake members who:
+
+* Speak a language other than the language of their unit.
+* Use sign language.
+
+Where there are not enough members in one of these circumstances to create a separate branch, a stake president may propose creating a group (see [37.7](37-specialized-stakes-wards-and-branches.md#377-groups-in-stakes-missions-and-areas)).
 
 A stake president may also propose creating a language ward or branch that includes members from one or more neighboring stakes. The stake presidents involved plan and coordinate the recommendation. One of the participating stakes will be responsible for the ward or branch.
+
+A mission president may propose creating a language branch or group to address these same circumstances (see [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) and [37.7](37-specialized-stakes-wards-and-branches.md#377-groups-in-stakes-missions-and-areas)).
 
 Minimum Requirements to Create a Language Ward or Branch in a Stake
 
@@ -41,11 +48,18 @@ See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing
 
 ## 37.2 Young Single Adult Wards and Branches in a Geographic Stake
 
-A stake president may propose creating a young single adult ward or branch (for members ages 18–30) if the stake has enough active young single adults who would like to attend. The following should be considered:
+A stake president may propose creating a young single adult ward or branch (for members ages 18–35) if the stake has enough active young single adults who would like to attend. The following should be considered:
 
 * The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 * The effect on the geographic units from which the young single adult unit will draw members.
 * The travel time and expense required of young single adults and leaders.
+
+In areas where it can be supported, stake presidents may request creating two young single adult units for members of the following ages:
+
+* 18–25
+* 26–35
+
+Generally, the two young single adult units for members in these age ranges will serve the same geographic area. The units will overlay each other on the map.
 
 Stake presidents may also propose creating a ward or branch that includes members from one or more neighboring stakes. Stake presidents should consider whether multistake activities would meet the needs of young single adults better than creating a ward or branch. One of the participating stakes will be responsible for the ward or branch.
 
@@ -64,12 +78,13 @@ See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-
 
 ### 37.2.1 Membership in a Young Single Adult Ward or Branch in a Geographic Stake
 
-* Members must be young single adults (ages 18–30) who live within the boundaries of the young single adult ward or branch.
+* Members must be young single adults (ages 18–35) who live within the boundaries of the young single adult ward or branch.
 * Young single adults may choose to be members of the young single adult unit or their geographic unit.
 * Each person’s membership record should be in the unit he or she is attending.
 * If the stake president feels that it would help a less-active young single adult in his stake, he may approve transferring the membership record from the geographic unit to the young single adult unit. When the less-active member becomes active, he or she may choose to attend the young single adult unit or the geographic unit.
-* Young single adult parents (ages 18–30) who have children at home remain in their geographic unit. The parents may attend the activities of the young single adult unit.
-* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards) for single adult members ages 31–45.
+* Young single adult parents (ages 18–35) who have children at home remain in their geographic unit. The parents may attend the activities of the young single adult unit.
+* Members do not attend a young single adult unit when they marry or reach age 36. See [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards) for single adult members ages 36–45.
+* Young single adults who attend a unit for those ages 18–25 would move to a unit for those ages 26–35 when they reach age 26.
 
 ### 37.2.2 Leadership in a Young Single Adult Ward or Branch in a Geographic Stake
 
@@ -81,6 +96,13 @@ See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-
 ## 37.3 Young Single Adult Stakes and Their Wards and Branches
 
 Where large numbers of young single adults live in one area, usually near universities or colleges, one or more young single adult stakes may be organized.
+
+In areas where it can be supported, stake presidents may request creating two young single adult units for members of the following ages:
+
+* 18–25
+* 26–35
+
+Generally, the two young single adult units for members in these age ranges will serve the same geographic area. The units will overlay each other on the map.
 
 Minimum Requirements to Create a Young Single Adult Stake, Ward, or Branch
 
@@ -100,12 +122,13 @@ See [36.4.1](36-creating-changing-and-naming-new-units.md#3641-naming-stakes-and
 
 ### 37.3.1 Membership in a Young Single Adult Stake and Its Wards or Branches
 
-* Members must be young single adults (ages 18–30) who live within the boundaries of the young single adult ward or branch.
+* Members must be young single adults (ages 18–35) who live within the boundaries of the young single adult ward or branch.
 * All active and less-active young single adults within the stake boundaries who are not living at home with their parents are members of the young single adult stake unless they choose to attend their geographic unit.
 * Young single adults who live at home with their parents may choose to be members of the young single adult unit or their geographic unit.
 * Each person’s membership record should be in the unit he or she is attending.
-* Young single adult parents (ages 18–30) who have children at home remain in their geographic unit. The parents may attend the activities of the young single adult unit.
-* Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards) for single adult members (ages 31–45).
+* Young single adult parents (ages 18–35) who have children at home remain in their geographic unit. The parents may attend the activities of the young single adult unit.
+* Members do not attend a young single adult unit when they marry or reach age 36. See [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards) for single adult members (ages 36–45).
+* Young single adults who attend a unit for those ages 18–25 would move to a unit for those ages 26–35 when they reach age 26.
 
 ### 37.3.2 Leadership in a Young Single Adult Stake and Its Wards or Branches
 
@@ -139,7 +162,7 @@ See [37.3.2](37-specialized-stakes-wards-and-branches.md#3732-leadership-in-a-yo
 
 ## 37.5 Single Adult Wards
 
-Generally, single adult members (ages 31–45) are best served in geographic units. As an exception, a stake president may suggest creating a single adult ward.
+Generally, single adult members (ages 36–45) are best served in geographic units. As an exception, a stake president may suggest creating a single adult ward.
 
 A stake president may also suggest creating a single adult ward with members from one or more neighboring stakes. The stake presidents involved plan and coordinate the recommendation. One of the participating stakes will be responsible for the ward.
 
@@ -153,11 +176,11 @@ See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-
 
 ### 37.5.1 Membership in a Single Adult Ward
 
-* Members must be single adults (ages 31–45) who live within the boundaries of the single adult ward.
+* Members must be single adults (ages 36–45) who live within the boundaries of the single adult ward.
 * Single adults may choose to be members of the single adult ward or their geographic unit.
 * Each person’s membership record should be in the unit he or she is attending.
-* Single adult parents (ages 31–45) who have children at home remain in their geographic unit. The parents may attend the activities of the single adult ward.
-* Members do not attend a single adult ward when they marry or reach the age of 46.
+* Single adult parents (ages 36–45) who have children at home remain in their geographic unit. The parents may attend the activities of the single adult ward.
+* Members do not attend a single adult ward when they marry or reach age 46.
 
 ### 37.5.2 Leadership in a Single Adult Ward
 
@@ -180,7 +203,7 @@ See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-
 Groups are small authorized gatherings of members overseen by a bishop, branch president, or mission president. The stake or mission president may recommend creating a group in the following circumstances:
 
 * Travel for its potential members to meet with a ward or branch is difficult.
-* A small number of members speak a language that is different from those in the ward or branch.
+* A small number of members speak a language other than the language of their unit, including sign language.
 * Members in the military are best served by being in a group (see [38.9.4](38-church-policies-and-guidelines.md#3894-church-units-for-service-members)).
 
 To propose creating a group, the stake or mission president submits a request to the Area Presidency. Only the Area Presidency can approve the request.

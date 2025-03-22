@@ -33,7 +33,7 @@ Nursery lasts the entire time scheduled for Primary. For more information, see [
 
 ### 12.1.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Classes
 
-Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) curriculum. On fifth Sundays, teachers are encouraged to use “[Preparing Children for a Lifetime on God’s Covenant Path](https://www.churchofjesuschrist.org/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng).”
+Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) curriculum. On fifth Sundays, teachers are encouraged to use “[Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path](https://www.churchofjesuschrist.org/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng).”
 
 Primary classes are organized by age and the number of teachers available. Units with fewer children or teachers may combine two or more age-groups into one class. In larger units, Primary leaders may form more than one class for an age-group and more than one nursery.
 
@@ -190,7 +190,7 @@ Children can help unite families for eternity in many ways. Some of these ways a
 * Honor their parents and set an example of Christlike living in their home.
 * Prepare to have their own eternal family.
 * Strive to be worthy to receive a temple recommend at the appropriate age.
-* Prepare to receive ordinances, including eternal marriage.
+* Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 * Prepare to participate in baptisms and confirmations for the dead.
@@ -258,11 +258,11 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly study of the scriptures as outlined in [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The following resources may be used:
 
 * [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng)
-* [Instructions for Singing Time and the Children’s Sacrament Meeting Program](https://www.churchofjesuschrist.org/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation/instructions-for-singing-time?lang=eng)
+* Instructions for Singing Time and the Children’s Sacrament Meeting Program
 * [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook?lang=eng)
 * [Hymns](https://www.churchofjesuschrist.org/study/manual/hymns?lang=eng)
 * [Primary Music Collections](https://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
-* “[Primary Singing Time—Music Can Teach Doctrine](https://www.churchofjesuschrist.org/media-library/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
+* “[Primary Singing Time—Music Can Teach Doctrine](https://www.churchofjesuschrist.org/media/video/2018-06-1100-primary-singing-time-music-can-teach-doctrine)” (MediaLibrary.ChurchofJesusChrist.org)
 
 The bishopric must approve the use of any other music in Primary.
 
@@ -287,7 +287,7 @@ It is a sacred privilege to teach children. Jesus Christ taught, “Behold your 
 
 The Primary presidency recommends to the bishopric men and women to serve as Primary teachers and nursery leaders. The bishopric considers these recommendations and extends the callings. These members are called to teach and minister to specific age-groups of children.
 
-Primary teachers teach from [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) (ages 3–11). On fifth Sundays, they are encouraged to teach lessons from “[Preparing Your Children for a Lifetime on God’s Covenant Path](https://www.churchofjesuschrist.org/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng).”
+Primary teachers teach from [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) (ages 3–11). On fifth Sundays, they are encouraged to teach lessons from “[Appendix B: For Primary—Preparing Your Children for a Lifetime on God’s Covenant Path](https://www.churchofjesuschrist.org/study/manual/for-primary-preparing-children-for-a-lifetime-on-gods-covenant-path?lang=eng).”
 
 Nursery leaders teach from [Behold Your Little Ones](https://www.churchofjesuschrist.org/study/manual/behold-your-little-ones-nursery-manual?lang=eng).
 

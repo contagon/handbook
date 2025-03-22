@@ -85,9 +85,9 @@ Ward leaders are responsible for improving learning and teaching in their organi
 
 Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng) is the main resource for these meetings.
 
-The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
+The ward council oversees and schedules teacher council meetings. A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “[For Leaders—Helping Teachers Succeed](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in  Teaching in the Savior’s Way (pages 38–40).
+For more information, see “[For Leaders—Helping Teachers Succeed](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in Teaching in the Savior’s Way (pages 38–40).
 
 ## 13.5 Improving Learning and Teaching in the Home
 

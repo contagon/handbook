@@ -410,9 +410,9 @@ The stake president reports one of the following in [Leader and Clerk Resources]
 
 If the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, the First Presidency generally directs that his or her membership record will be annotated. “Leader” is defined as a person holding a prominent Church position, as well as counselors, clerks, and branch presidencies. When repentance is complete, a stake president may request removal of the annotation (see [32.14.5](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations) and [34.7.5](34-finances-and-audits.md#3475-loss-theft-embezzlement-or-misappropriation-of-church-funds)). An annotation does not mean a membership council or other action has occurred.
 
-#### 32.6.3.4 Transgender Individuals
+#### 32.6.3.4 Individuals Who Identify as Transgender
 
-Bishops and stake presidents working with persons who identify as transgender should follow the guidelines in [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals).
+Bishops and stake presidents working with persons who identify as transgender should follow the guidelines in [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).
 
 ### 32.6.4 When a Membership Council Is Not Normally Necessary
 
@@ -931,14 +931,15 @@ As authorized by the First Presidency, Church headquarters annotates a person’
 	3. Involvement with child pornography as outlined in [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography)
 	4. Plural marriage
 	5. Adult sexual predatory behavior
-	6. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals))
-	7. Embezzling Church funds or stealing Church property (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds))
-	8. Church welfare abuse
-	9. Threatening behavior (such as sexual, violent, or financial) or conduct that harms the Church
+	6. Embezzling Church funds or stealing Church property (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds))
+	7. Church welfare abuse
+	8. Threatening behavior (such as sexual, violent, or financial) or conduct that harms the Church
 2. The bishop and stake president submit written notification that the person:
 
-	1. Has admitted to or has been convicted of a crime involving one of the actions listed above.
-	2. Has been found liable in a civil action of fraud or other illegal acts involving one of the actions listed above.
+	1. Has admitted to one of the actions listed above.
+	2. Has been convicted of a crime involving one of the actions listed above.
+	3. Has been found liable in a civil action of fraud or other illegal acts involving one of the actions listed above.
+3. Because some priesthood ordinances are based on gender, the bishop and stake president submit a request to annotate the record of someone who has intentionally transitioned away from his or her biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender)).
 
 When a bishop receives an annotated membership record, he follows the instructions in the annotation.
 
@@ -995,7 +996,7 @@ The bishop or stake president’s role as a common judge does not end when a mem
 
 The time just after a person’s membership has been restricted or withdrawn is difficult and critical for his or her family. Leaders should be sensitive to these needs and encourage and assist family members.
 
-The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals under membership restrictions may benefit from participating in indexing (see [25.4.3](25-temple-and-family-history-work.md#2543-indexing)).
+The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals under membership restrictions may benefit from participating in indexing (see [25.4.3](25-temple-and-family-history-work.md#2543-family-history-volunteer-activities)).
 
 If the person moves from the ward, the bishop informs the new bishop and explains what still needs to occur before Church membership restrictions can be removed. If the person’s membership was withdrawn from the Church or the person resigned membership, the bishop makes this same contact if the person has consented to be assisted by Church leaders.
 
@@ -1036,7 +1037,7 @@ The stake president submits an application to the First Presidency only if he re
 	5. Apostasy (see [32.6.3.2](32-repentance-and-membership-councils.md#32632-apostasy) for what constitutes apostasy)
 	6. Plural marriage
 	7. Committing a serious sin while holding a prominent Church position
-	8. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals))
+	8. Transgender—actions to intentionally transition away from a person’s biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender))
 	9. Embezzling Church funds or property
 10. _Give written notice of the decision._ The bishop or stake president ensures that the person receives prompt written notice of the decision and its effects.
 11. _Baptize and confirm._ If a person’s Church membership was withdrawn in the initial council, he or she must be baptized and confirmed again. If First Presidency approval is necessary, these ordinances may be performed only after this approval is received. A Baptism and Confirmation Certificate is not created (see [32.14.4](32-repentance-and-membership-councils.md#32144-records-after-readmission-to-the-church)).
