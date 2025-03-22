@@ -76,7 +76,7 @@ The Relief Society president oversees these activities. She may ask a counselor 
 
 As followers of Jesus Christ, sisters have a responsibility to reach out in love to those in need. Individually and as a Relief Society, they seek ways to serve others in the ward and community. Where available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
-For more information about how members of the Relief Society and elders quorum care for those in need, see [22.2.4](22-providing-for-temporal-needs.md#2224-elders-quorum-and-relief-society).
+For more information about how members of the Relief Society and elders quorum care for those in need, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies).
 
 #### 9.2.2.1 Ministering
 
@@ -88,25 +88,25 @@ Ministering sisters seek to understand and respond to the needs of those they se
 
 When needed, ministering sisters ask the Relief Society presidency for help. The presidency may recommend calling a service coordinator to organize these efforts (see [9.3.4](9-relief-society.md#934-additional-callings)).
 
-The Relief Society and elders quorum coordinate efforts to address short-term needs (see [22.2.4.1](22-providing-for-temporal-needs.md#22241-short-term-welfare-needs)). The bishop may provide fast-offering assistance if needed.
+The Relief Society and elders quorum coordinate efforts to address short-term needs (see [22.3.2](22-providing-for-temporal-needs.md#2232-help-members-assess-and-address-short-term-needs)). The bishop may provide fast-offering assistance if needed.
 
 In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods. The bishop generally assigns the Relief Society president to meet with the members and fill out the order form. However, he may also assign the elders quorum president. A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
 
-For more information, see [22.6.4.3](22-providing-for-temporal-needs.md#22643-relief-society-president) and “[Welfare Resources](https://lcr.churchofjesuschrist.org)” in Leader and Clerk Resources.
+For more information, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies) and “[Welfare Resources](https://lcr.churchofjesuschrist.org)” in Leader and Clerk Resources.
 
 #### 9.2.2.3 Long-Term Needs and Self-Reliance
 
 Under the bishop’s direction, the Relief Society and elders quorum presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22](22-providing-for-temporal-needs.md) and “[Self-Reliance](https://www.churchofjesuschrist.org/study/life-help/self-reliance?lang=eng)” in the Gospel Library app.
 
-If a person or family needs assistance, the Relief Society and elders quorum presidents counsel together under the direction of the bishop about how to help (see [22.6.3](22-providing-for-temporal-needs.md#2263-principles-and-guidelines-for-rendering-assistance)).
+If a person or family needs assistance, the Relief Society and elders quorum presidents counsel together under the direction of the bishop about how to help (see [22.4](22-providing-for-temporal-needs.md#224-principles-for-providing-church-assistance)).
 
-The Relief Society president, elders quorum president, or another leader helps the person or family develop a [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf). Ministering sisters or brothers can also help with the plan. Often, other members of the Relief Society or elders quorum have skills or experience that can help. All who assist treat information with confidentiality. For more information, see [22.2.4.2](22-providing-for-temporal-needs.md#22242-long-term-welfare-needs) and [22.2.4.5](22-providing-for-temporal-needs.md#22245-seeking-service-from-the-elders-quorum-relief-society-and-others).
+The Relief Society president, elders quorum president, or another leader helps the person or family develop a [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf). Ministering sisters or brothers can also help with the plan. Often, other members of the Relief Society or elders quorum have skills or experience that can help. All who assist treat information with confidentiality. For more information, see [22.3.3](22-providing-for-temporal-needs.md#2233-help-members-build-long-term-self-reliance) and [22.8](22-providing-for-temporal-needs.md#228-role-of-the-ward-youth-council).
 
 #### 9.2.2.4 When a Ward Member Dies
 
 When a ward member dies, Relief Society and elders quorum presidencies offer comfort and assistance. Under the direction of the bishop, they can help with the funeral.
 
-If possible, deceased members who were endowed are buried in temple clothing. The bishop may ask the Relief Society president to assign an endowed sister to dress or oversee the dressing of a deceased endowed sister. For more information, see [27.3.9](27-temple-ordinances-for-the-living.md#2739-temple-burial-clothing).
+If possible, deceased members who were endowed are buried or cremated in temple clothing. The body of a woman may be dressed by her husband or by an endowed female family member. If a family member is not available or would prefer not to do the dressing, the bishop may ask the Relief Society president to invite an endowed sister to dress the body or oversee the dressing. For more information, see [38.5.8](38-church-policies-and-guidelines.md#3858-temple-burial-clothing).
 
 Relief Society and elders quorum presidencies, ministering brothers and sisters, and others continue to offer comfort and assistance after the funeral.
 
@@ -118,7 +118,7 @@ In presidency and Relief Society meetings, the Relief Society presidency discuss
 
 The Relief Society president assigns a member of the presidency to help lead member missionary work in the ward. She works with the assigned member of the elders quorum presidency to coordinate these efforts (see [23.1.1](23.md#2311-love)).
 
-The assigned member of the Relief Society presidency participates in brief, informal discussions to coordinate inviting all to receive the blessings of the gospel. These discussions are held weekly. They are led by the assigned member of the elders quorum presidency and the ward mission leader (if called). They also include ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
+The assigned member of the Relief Society presidency participates in coordination meetings to coordinate inviting all to receive the blessings of the gospel. The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. They also include ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
 
 ### 9.2.4 Uniting Families for Eternity
 
@@ -131,9 +131,9 @@ In presidency and Relief Society meetings, the Relief Society presidency discuss
 
 The presidency encourages sisters to learn about their family history and about temple covenants and ordinances. They also encourage sisters to attend the temple regularly where possible.
 
-The Relief Society president assigns a member of the presidency to help lead temple and family history work in the ward. She works with the assigned member of the elders quorum presidency to coordinate these efforts (see [25.4.1](25-temple-and-family-history-work.md#2541-elders-quorum-presidency-and-ward-temple-and-family-history-leader)).
+The Relief Society president assigns a member of the presidency to help lead temple and family history work in the ward. She works with the assigned member of the elders quorum presidency to coordinate these efforts (see [25.2.2](25-temple-and-family-history-work.md#2522-elders-quorum-and-relief-society-presidencies)).
 
-The assigned member of the Relief Society presidency participates in brief, informal discussions to coordinate temple and family history work. These discussions are held regularly. They are led by the assigned member of the elders quorum presidency and the ward temple and family history leader (if called). They also include an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
+The assigned member of the Relief Society presidency participates in coordination meetings to coordinate temple and family history work. These meetings are held regularly. The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)). They also include an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
 ## 9.3 Relief Society Leaders
 
@@ -161,8 +161,8 @@ The Relief Society president has the following responsibilities. Her counselors 
 * Lead the Relief Society’s efforts to participate in the work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Organize and oversee the service of ministering sisters. Coordinate ministering assignments with the elders quorum presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21](21-ministering.md).
 * Under the direction of the bishop, counsel with adult members of the ward about matters other than those that are the bishop’s responsibility, such as worthiness, abuse, and approval to use fast-offering funds. See [CounselingResources.ChurchofJesusChrist.org](https://providentliving.churchofjesuschrist.org/leader/ministering-resources).
-* With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [9.2.3](9-relief-society.md#923-inviting-all-to-receive-the-gospel)).
-* With the elders quorum presidency, help lead temple and family history work in the ward (see [9.2.4](9-relief-society.md#924-uniting-families-for-eternity)).
+* With the elders quorum presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](8-elders-quorum.md#823-inviting-all-to-receive-the-gospel) and [9.2.3](9-relief-society.md#923-inviting-all-to-receive-the-gospel)).
+* With the elders quorum presidency, help lead temple and family history work in the ward (see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity) and [9.2.4](9-relief-society.md#924-uniting-families-for-eternity)).
 * Coordinate the Relief Society’s efforts to strengthen young adult sisters in the ward, both single and married (see [14.3.3.2](14-single-members.md#14332-elders-quorum-and-relief-society-counselors-assigned-to-young-single-adults)).
 * Meet with each member of Relief Society individually at least once a year. Discuss the well-being of the sister and her family.
 * Teach sisters their covenant responsibilities.
@@ -197,7 +197,7 @@ The secretary’s responsibilities could include the following:
 
 * Prepare agendas for presidency meetings and Relief Society meetings.
 * Take notes in meetings and keep track of assignments.
-* Schedule ministering interviews (see [21.4](21-ministering.md#214-ministering-interviews)).
+* Schedule ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)).
 * Prepare and submit quarterly reports of attendance and the number of ministering interviews held.
 * Help prepare an annual budget and keep track of expenses (see [34.7](34-finances-and-audits.md#347-budget-and-expenditures)).
 ### 9.3.4 Additional Callings
@@ -220,19 +220,19 @@ The Relief Society presidency works with young women, their parents, and Young W
 
 Leaders also provide ongoing opportunities for young women and Relief Society sisters to develop relationships. Serving together as ministering sisters is one valuable way to make connections.
 
-Leaders help young women understand their covenant responsibilities. When it would be helpful to have a young woman minister to a particular sister, she may be assigned as a ministering sister when she is willing, able, and mature. She may be assigned beginning in the year she turns 14. Young women serve as companions to Relief Society sisters (see [21.3](21-ministering.md#213-organizing-ministering-to-meet-local-needs)).
+Leaders help young women understand their covenant responsibilities. When it would be helpful to have a young woman minister to a particular sister, she may be assigned as a ministering sister when she is willing, able, and mature. She may be assigned beginning in the year she turns 14. Young women serve as companions to Relief Society sisters (see [21.2.2](21-ministering.md#2122-ministering-assignments-for-youth)).
 
-When young adults join Relief Society, the Relief Society presidency gives them opportunities to serve and share their strengths. The presidency also helps them prepare to make and keep sacred temple covenants (see [27.1](27-temple-ordinances-for-the-living.md#271-preparing-to-receive-temple-ordinances)).
+When young adults join Relief Society, the Relief Society presidency gives them opportunities to serve and share their strengths. The presidency also helps them prepare to make and keep sacred temple covenants (see [27.1.1](27-temple-ordinances-for-the-living.md#2711-preparing-to-receive-temple-ordinances)).
 
 ## 9.5 Stake Relief Society Leaders
 
-The stake president calls and sets apart a woman to serve as the stake Relief Society president. If a stake is large enough, she recommends one or two women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Relief Society presidency and secretary, see [5.4.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number20-p100#title_number20) and [5.4.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number21-p88#title_number21).
+The stake president calls and sets apart a woman to serve as the stake Relief Society president. If a stake is large enough, she recommends one or two women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Relief Society presidency and secretary, see [5.7.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number32-p252#title_number32) and [5.7.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number38-p268#title_number38).
 
 The stake president meets regularly (usually monthly) with the stake Relief Society president or presidency. They counsel together about the work of salvation and exaltation. They also discuss (1) the progress and needs of sisters in the stake and (2) Relief Society meetings, instruction, and activities.
 
-The stake presidency assigns a high councilor to work with the stake Relief Society presidency (see [5.3.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number17-p65#title_number17)).
+The stake presidency assigns a high councilor to work with the stake Relief Society presidency (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)).
 
-The stake Relief Society presidency instructs ward Relief Society presidencies in their responsibilities for missionary work and temple and family history work. They do this under the direction of the stake presidency. High councilors are assigned to assist. See [23.1](23.md#231-share-the-gospel) and [25.4](25-temple-and-family-history-work.md#254-organizing-temple-and-family-history-work-in-the-ward).
+The stake Relief Society presidency instructs ward Relief Society presidencies in their responsibilities for missionary work and temple and family history work. They do this under the direction of the stake presidency. High councilors are assigned to assist. See [23.1](23.md#231-share-the-gospel) and [25.2](25-temple-and-family-history-work.md#252-organizing-temple-and-family-history-work-in-the-ward).
 
 If the stake has a young single adult committee, a member of the stake Relief Society presidency serves on it (see [14.3.2](14-single-members.md#1432-stake-young-single-adult-committee)).
 
@@ -240,7 +240,7 @@ If the stake has a young single adult committee, a member of the stake Relief So
 
 ### 9.6.1 Members with Disabilities
 
-The Relief Society presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) and [38.8.31](38-church-policies-and-guidelines.md#38831-members-with-disabilities).
+The Relief Society presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) and [38.8.32](38-church-policies-and-guidelines.md#38832-members-with-disabilities).
 
 ### 9.6.2 Literacy
 

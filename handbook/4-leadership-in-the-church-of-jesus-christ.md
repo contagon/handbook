@@ -44,7 +44,7 @@ Teach from the scriptures and the words of latter-day prophets (see [Doctrine an
 
 Seek the influence of the Spirit as you prepare and teach. The Holy Ghost carries the truth unto the hearts and minds of those you teach (see [2 Nephi 33:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/33.1?lang=eng#p1)).
 
-Teach members to devote themselves to studying the gospel both personally and with their families. 
+Teach members to devote themselves to studying the gospel both personally and with their families.
 
 If you lead a Church unit, priesthood quorum, or other organization, ensure that the teaching is edifying and doctrinally correct.
 
@@ -66,7 +66,7 @@ The Lord directs the leaders of His Church to counsel together to receive knowle
 
 In councils, leaders meet under the direction of presiding officers to discuss ways to help individuals and families. They prayerfully seek to know God’s will (see [Doctrine and Covenants 41:2–3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/41.2-3?lang=eng#p2)). Guided by the Holy Ghost, they work together to determine effective ways to serve members of their organizations.
 
-As a Church leader, seek to build unity among those you serve, helping them be “of one heart and one mind” ([Moses 7:18](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7.18?lang=eng#p18)). If you are part of a council or presidency, build unity by counseling together, sharing honest feelings and ideas, and listening (see [Doctrine and Covenants 88:122](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.122?lang=eng#p122); see also [chapter 7](7.md)).
+As a Church leader, seek to build unity among those you serve, helping them be “of one heart and one mind” ([Moses 7:18](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7.18?lang=eng#p18)). If you are part of a council or presidency, build unity by counseling together, sharing honest feelings and ideas, and listening (see [Doctrine and Covenants 88:122](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.122?lang=eng#p122); see also [chapter 7](7.md) in this handbook).
 
 If you are a council member, unite to support and sustain the decisions of the person who presides in the council.
 

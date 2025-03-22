@@ -18,7 +18,13 @@ The priesthood includes the authority to administer gospel ordinances that are n
 * Temple endowment
 * Temple sealing
 
-The ordinances of salvation and exaltation are not performed for persons who have intellectual disabilities that make them not accountable and unable to make covenants with God. Nor are these ordinances performed for children who die before age 8. These persons are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.10?lang=eng#p10); see also [Moroni 8:8–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8.8-12?lang=eng#p8)).
+For information about performing these ordinances for those with intellectual disabilities, see the following:
+
+* For baptism and confirmation ([38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities) and [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-with-intellectual-disabilities))
+* For ordination to an office in the Melchizedek Priesthood ([38.2.5.4](38-church-policies-and-guidelines.md#38254-other-circumstances))
+* For the temple endowment and sealing ([27.2.1.3](27-temple-ordinances-for-the-living.md#27213-members-who-have-intellectual-disabilities) and [27.3.1.2](27-temple-ordinances-for-the-living.md#27312-members-who-have-intellectual-disabilities))
+
+If a child who was born in the covenant dies before age 8, no ordinances are needed or performed. If the child was not born in the covenant, the only ordinance he or she needs is to be sealed to parents. Because of the Savior’s Atonement, all children who die before age 8 are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.10?lang=eng#p10); see also [Moroni 8:8–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8.8-12?lang=eng#p8)).
 
 ## 18.2 Other Ordinances and Blessings
 
@@ -49,8 +55,8 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of
 
 | Ordinance | Who Holds Keys |
 | --- | --- |
-| Baptism | Bishop (for 8-year-old children who are members of record)Mission president (for converts) |
-| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children who are members of record)Mission president (for converts) |
+| Baptism | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)Mission president (for converts) |
+| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)Mission president (for converts) |
 | Conferral of the Melchizedek Priesthood and ordination to an office (for men) | Stake president |
 | Temple endowment | Bishop and stake president |
 | Temple sealing | Bishop and stake president |
@@ -62,7 +68,7 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 | Naming and blessing children | Bishop |
 | The sacrament | Bishop |
 | Conferral of the Aaronic Priesthood and ordination to an office (for young men and men) | Bishop |
-| Setting apart members to serve in callings | See the “Chart of Callings” (30.7) |
+| Setting apart members to serve in callings | See the Chart of Callings ([30.7](30-callings-in-the-church.md#307-chart-of-callings)) |
 | Consecrating oil | Approval not needed |
 | Administering to the sick | Approval not needed |
 | Blessings of comfort and counsel, including father’s blessings | Approval not needed |
@@ -72,7 +78,7 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 
 ## 18.4 Ordinances for Minor Children
 
-A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.26](38-church-policies-and-guidelines.md#38826-legal-counsel-for-church-matters)).
+A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.27](38-church-policies-and-guidelines.md#38827-legal-counsel-for-church-matters)).
 
 For guidelines about baptizing and confirming minor children, see [38.2.3.6](38-church-policies-and-guidelines.md#38236-minors).
 
@@ -122,12 +128,15 @@ Baptism by immersion in water by one having authority is necessary for a person 
 
 #### 18.7.1.1 Children Who Are Members of Record
 
-The bishop holds the priesthood keys for baptizing 8-year-old children who are members of record in a ward. These children should be baptized and confirmed on or as soon after their 8th birthday as is reasonable (see [Doctrine and Covenants 68:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68.27?lang=eng#p27)). These are children for whom Church membership records already exist (see [33.6.2](33-records-and-reports.md#3362-members-of-record)). When they reach age 8, the bishop makes sure they have every opportunity to accept the gospel and be baptized and confirmed.
+The bishop holds the priesthood keys for baptizing 8-year-old members of record in a ward. These children should be baptized and confirmed on or as soon after their 8th birthday as is reasonable (see [Doctrine and Covenants 68:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68.27?lang=eng#p27)). These are children for whom Church membership records already exist (see [33.6.2](33-records-and-reports.md#3362-members-of-record)). When they reach age 8, the bishop makes sure they have every opportunity to accept the gospel and be baptized and confirmed.
+
+For information about baptizing and confirming a person who has an intellectual disability, see [38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities) and [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-with-intellectual-disabilities).
 
 The bishop or an assigned counselor conducts interviews for the baptism and confirmation of:
 
 * Children age 8 who are members of record.
 * Children age 8 who are not members of record but have at least one parent or guardian who is a member.
+* Members of record ages 9 and older whose baptism was delayed due to intellectual disabilities.
 
 Instructions for interviews are provided in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews). For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
@@ -137,7 +146,7 @@ Bishops give special attention to 7-year-old children in the ward, ensuring that
 
 The mission president holds the priesthood keys for baptizing converts in a mission. Convert baptisms are defined as baptisms of:
 
-* Persons ages 9 and older who have never been baptized and confirmed.
+* Persons ages 9 and older who have never been baptized and confirmed. See [18.7.1.1](18-priesthood-ordinances-and-blessings.md#18711-children-who-are-members-of-record) for an exception for those with intellectual disabilities.
 * Children ages 8 and older whose parents (1) are not members or (2) are being baptized and confirmed at the same time as the children.
 
 Full-time missionaries interview converts for baptism and confirmation. Instructions are provided in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews). For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
@@ -240,7 +249,7 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 6. Closes in the name of Jesus Christ.
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
-Before a child who is a member of record is interviewed for baptism, a clerk uses LCR to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). he bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in LCR.
+Before a child who is a member of record is interviewed for baptism, a clerk uses LCR to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in LCR.
 
 When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record except for the information about confirmation. At the baptismal service, the missionaries give this form to the bishop or one of his counselors. After the confirmation, the bishop, a counselor, or a clerk completes the confirmation information and gives two copies of the form to the missionaries. The missionaries send one copy to the mission office so a membership record can be created.
 
@@ -284,7 +293,11 @@ The passing of the sacrament should be natural and not overly formal. For exampl
 
 The congregation sings a sacrament hymn while the bread is being broken. Vocal solos or instrumental music should not replace this hymn. No music should be played during the passing of the sacrament or immediately after.
 
-If members have gluten intolerance, they discuss with a member of the bishopric what adaptations to make for the sacrament. Members may provide allergen-free bread or another broken bread-like substitute in a sealed plastic bag or cup. They give this to a priesthood holder to place on a separate tray. The bishopric helps those who pass the sacrament know which members to whom the allergen-free item should be passed. The bishopric may modify the procedure as necessary.
+If members have food allergies or gluten intolerance, they discuss with a member of the bishopric what adaptations to make for the sacrament. As needed, the bishopric may modify the procedure for administering the sacrament to them.
+
+Generally, bread must be broken as part of the sacrament ordinance. However, to ensure the health and safety of a particular member, that member may provide allergen-free bread or another broken bread-like substitute in a sealed plastic bag or cup. They give this to a priesthood holder to place on a separate tray. The bishopric helps those who pass the sacrament know which members to whom the allergen-free item should be passed.
+
+See [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) for guidelines about food allergies.
 
 Although the sacrament is for members of the Church, nothing should be done to prevent others from partaking of it.
 
@@ -361,7 +374,7 @@ A person’s current legal name should be used on the ordination record and cert
 
 ## 18.11 Setting Apart Members to Serve in Callings
 
-Members who are called and sustained to most Church positions should be set apart to serve in that position (see [3.4.3.1](3-priesthood-principles.md#3431-setting-apart); [John 15:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15.16?lang=eng#p16); [Doctrine and Covenants 42:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.11?lang=eng#p11)). During the setting apart, the person is given (1) authority to act in the calling and (2) words of blessing as guided by the Spirit.
+Members who are called and sustained to most Church positions should be set apart to serve in that position (see [John 15:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15.16?lang=eng#p16); [Doctrine and Covenants 42:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.11?lang=eng#p11); see also [3.4.3.1](3-priesthood-principles.md#3431-setting-apart) in this handbook). During the setting apart, the person is given (1) authority to act in the calling and (2) words of blessing as guided by the Spirit.
 
 Stake presidents, bishops, and quorum presidents receive keys of presidency when they are set apart (see [3.4.1.1](3-priesthood-principles.md#3411-those-who-hold-priesthood-keys)). However, the word _keys_ should not be used when setting apart members to serve in other callings, including counselors in presidencies.
 

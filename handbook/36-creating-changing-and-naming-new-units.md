@@ -26,7 +26,7 @@ Districts are created from branches in a mission or an existing stake. There is 
 
 A district must have the level of strength needed for a stake for at least six months before a mission president can propose making it a stake.
 
-Boundaries of a stake or district follow the boundaries of the units that are within it. To propose changing stake or district boundaries or transferring a unit to a neighboring stake or district, the stake or mission presidents involved plan and coordinate the recommendation. 
+Boundaries of a stake or district follow the boundaries of the units that are within it. To propose changing stake or district boundaries or transferring a unit to a neighboring stake or district, the stake or mission presidents involved plan and coordinate the recommendation.
 
 A stake or mission president starts a new proposal at “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).” If he cannot use the online system, he can download paper forms by clicking on the link.
 
@@ -90,7 +90,7 @@ If a unit name needs to be changed because of a boundary realignment, the stake 
 
 Only the First Presidency can approve these proposals.
 
-Area Presidencies may approve proposals to create and name new branches in missions (see 36.3).
+Area Presidencies may approve proposals to create and name new branches in missions (see [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions)).
 
 ### 36.4.1 Naming Stakes and Districts
 
@@ -155,7 +155,7 @@ Stake or mission presidents notify Church headquarters or their area office afte
 
 ## 36.6 Basic Unit Program
 
-The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see 37.7 for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in small branches or groups where any of the following conditions apply:
+The Church has developed the Basic Unit Program for use by some small branches or small authorized gatherings of members, known as groups (see [37.7](37-specialized-stakes-wards-and-branches.md#377-groups-in-stakes-missions-and-areas) for more information on groups). An Area Presidency may authorize the use of the Basic Unit Program in small branches or groups where any of the following conditions apply:
 
 * The Church is in its beginning stages.
 * Members are scattered geographically.

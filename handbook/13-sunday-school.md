@@ -13,17 +13,17 @@ The Sunday School helps accomplish the work of salvation and exaltation. It does
 
 The bishopric oversees the Sunday School. Usually the bishop assigns one of his counselors to fulfill this responsibility under his direction.
 
-This assigned counselor meets with the Sunday School president regularly. They counsel about the needs of the Sunday School, how it is accomplishing its purpose, and the responsibilities outlined in [13.2.2](13-sunday-school.md#1322-sunday-school-president).
+This assigned counselor meets with the Sunday School president regularly. They counsel about the needs of the Sunday School, how it is accomplishing its purpose, and the responsibilities outlined in [13.2.2.2](13-sunday-school.md#13222-responsibilities).
 
 ### 13.2.2 Sunday School President
 
 #### 13.2.2.1 Calling a Sunday School President
 
-The bishop calls and sets apart a Melchizedek Priesthood holder to be the ward Sunday School president. They discuss whether counselors should be called. If counselors are needed, and if there are enough men to serve in these positions, the Sunday School president may recommend one or two counselors. If the bishopric approves, a member of the bishopric calls them and sets them apart.
+The bishop calls and sets apart a Melchizedek Priesthood holder to be the ward Sunday School president. They discuss whether counselors should be called. If counselors are needed, and if there are enough men to serve in these positions, the Sunday School president may recommend one or two counselors. If the bishopric approves, a member of the bishopric calls them.
 
 A member of the bishopric presents Sunday School presidency members in sacrament meeting for a sustaining vote of ward members. A member of the bishopric also sets them apart.
 
-In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance, if desired.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance, if desired.
 
 #### 13.2.2.2 Responsibilities
 
@@ -95,7 +95,7 @@ The ward council may organize teacher council meetings for parents to help them 
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also assigns a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [5.4.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number20-p100#title_number20) and [5.4.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number25-p111#title_number25). If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [5.7.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number32-p252#title_number32) and [5.7.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number38-p268#title_number38). If counselors are called, they assist him.
 
 ## 13.7 Additional Guidelines
 

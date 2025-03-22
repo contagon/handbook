@@ -15,7 +15,7 @@ Heavenly Father provided the plan of happiness to enable us to enjoy all His ble
 
 God’s Work and Glory
 
-“For behold, this is my work and my glory﻿—to bring to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.39?lang=eng#p39)).
+“For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.39?lang=eng#p39)).
 
 We cannot obtain immortality and eternal life without God’s help. In this life, we are subject to sin and death, which separate us from Heavenly Father and prevent us from becoming more like Him.
 
@@ -69,7 +69,7 @@ Uniting families for eternity includes:
 * Going to the temple regularly, where possible, to worship God and perform ordinances for His children.
 ## 1.3 The Purpose of the Church
 
-Jesus Christ established His Church to enable individuals and families to do the work of salvation and exaltation (see [Ephesians 4:11–13](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4.11-13?lang=eng#p11); see also [section 2.2](2-supporting-individuals-and-families.md#22-the-work-of-salvation-and-exaltation-in-the-home)). To help accomplish this divine purpose, the Church and its leaders provide:
+Jesus Christ established His Church to enable individuals and families to do the work of salvation and exaltation (see [Ephesians 4:11–13](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4.11-13?lang=eng#p11); see also [2.2](2-supporting-individuals-and-families.md#22-the-work-of-salvation-and-exaltation-in-the-home) in this handbook). To help accomplish this divine purpose, the Church and its leaders provide:
 
 * Priesthood authority and keys.
 * Covenants and ordinances.
@@ -81,11 +81,11 @@ Jesus Christ established His Church to enable individuals and families to do the
 
 ### 1.3.1 Priesthood Authority and Keys
 
-Through the priesthood, God accomplishes the work of salvation and exaltation. The priesthood authority and keys needed to direct God’s work on earth were restored to the Prophet Joseph Smith (see [Doctrine and Covenants 110:11–16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110.11-16?lang=eng#p11); [112:30](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/112.30?lang=eng#p30); see also [3.1](3-priesthood-principles.md#31-restoration-of-the-priesthood)). These keys are held by Church leaders today. They call and authorize others to assist in God’s work (see [Doctrine and Covenants 107:8, 65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,65-67?lang=eng#p8)).
+Through the priesthood, God accomplishes the work of salvation and exaltation. The priesthood authority and keys needed to direct God’s work on earth were restored to the Prophet Joseph Smith (see [Doctrine and Covenants 110:11–16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110.11-16?lang=eng#p11); [112:30](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/112.30?lang=eng#p30); see also [3.1](3-priesthood-principles.md#31-restoration-of-the-priesthood) in this handbook). These keys are held by Church leaders today. They call and authorize others to assist in God’s work (see [Doctrine and Covenants 107:8, 65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,65-67?lang=eng#p8)).
 
 ### 1.3.2 Covenants and Ordinances
 
-In Heavenly Father’s plan, we make covenants as we receive the ordinances of salvation and exaltation, such as baptism (see [John 3:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.5?lang=eng#p5); see also [chapter 18](18-priesthood-ordinances-and-blessings.md)). These covenants and ordinances are essential for us to become more like God and return to dwell in His presence (see [Doctrine and Covenants 84:19–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.19-22?lang=eng#p19)).
+In Heavenly Father’s plan, we make covenants as we receive the ordinances of salvation and exaltation, such as baptism (see [John 3:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.5?lang=eng#p5); see also [chapter 18](18-priesthood-ordinances-and-blessings.md) in this handbook). These covenants and ordinances are essential for us to become more like God and return to dwell in His presence (see [Doctrine and Covenants 84:19–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.19-22?lang=eng#p19)).
 
 ### 1.3.3 Prophetic Direction
 
@@ -97,7 +97,7 @@ Under the direction of the Lord’s prophets and apostles, the Church provides a
 
 ### 1.3.5 Gospel Learning and Teaching Support
 
-The Church supports individuals and families in their responsibility to learn the truths of the gospel and teach these truths to family members and others (see [Doctrine and Covenants 88:77–78, 118](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.77-78,118?lang=eng#p77); see also [2.2.3](2-supporting-individuals-and-families.md#223-gospel-study-and-learning-at-home)).
+The Church supports individuals and families in their responsibility to learn the truths of the gospel and teach these truths to family members and others (see [Doctrine and Covenants 88:77–78, 118](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.77-78,118?lang=eng#p77); see also [2.2.3](2-supporting-individuals-and-families.md#223-gospel-study-and-learning-at-home) in this handbook).
 
 ### 1.3.6 Service and Leadership Opportunities
 

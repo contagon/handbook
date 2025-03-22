@@ -95,15 +95,15 @@ Instructions for tithing settlement are provided by Church headquarters or the a
 
 ### 34.4.2 Fast Offerings
 
-Church leaders encourage members to live the law of the fast. Typically this includes (1) fasting each fast Sunday for two consecutive meals and (2) giving a fast offering that is at least the equivalent value of the meals not eaten. Members are encouraged to be generous and give much more than the value of two meals if they are able.
+Church leaders encourage members to live the law of the fast. A fast day typically includes praying, going without food and drink for a 24-hour period (if physically able), and giving a generous fast offering.
 
-Where a ward is geographically concentrated and where safety conditions permit, the bishop may direct Aaronic Priesthood holders, especially deacons, to contact member households each month to give members the opportunity to contribute fast offerings. Even if members do not contribute, priesthood holders should continue to give them the opportunity to do so. If distances or other circumstances make it necessary, the bishop may limit or eliminate fast-offering collections from homes.
+A fast offering is a donation to help those in need. When members fast, they are invited to give an offering that is at least equal to the value of the meals not eaten. Members are encouraged to be generous and give more than the value of these meals if they can.
 
-Priesthood holders should go in pairs when gathering fast offerings. Melchizedek Priesthood holders may accompany Aaronic Priesthood holders if necessary.
+In wards that are geographically concentrated, the bishop may direct Aaronic Priesthood holders to visit members each month and invite them to contribute fast offerings. In making this decision, the bishop considers the number of Aaronic Priesthood holders available, their safety, and the blessing to members who might not otherwise contribute.
 
-Members should not give other contributions, such as tithing, to those who collect fast offerings.
+Priesthood holders should go in pairs when gathering fast offerings. Those who gather fast offerings deliver them promptly to a member of the bishopric.
 
-Those who gather fast offerings deliver them promptly to a member of the bishopric.
+Members should not give other contributions, such as tithing or other offerings, to those who gather fast offerings.
 
 Some members may choose to contribute fast offerings by using the envelopes for tithing and other offerings and giving them directly to the bishopric.
 
@@ -111,7 +111,7 @@ Members should contribute fast offerings without designating how the funds shoul
 
 Mission and temple presidents contribute fast offerings to the ward where their membership records are located.
 
-Guidelines for using fast-offering funds are provided in [22.2.4](22-providing-for-temporal-needs.md#2224-elders-quorum-and-relief-society).
+Guidelines for using fast-offering funds are provided in [22.5.2](22-providing-for-temporal-needs.md#2252-policies-on-using-fast-offerings).
 
 ### 34.4.3 Missionary Funds
 
@@ -119,7 +119,7 @@ Contributions to the ward missionary fund are used primarily to meet the contrib
 
 Contributions to the General Missionary Fund are used by the Church in its overall missionary efforts.
 
-Stake presidents and bishops should send missionary funds that exceed reasonable stake and ward needs to the General Missionary Fund at Church headquarters or the assigned area office. Bishops or individuals may contact the Global Service Center (1-855-537-4357) for further information about contributions to the General Missionary Fund.
+Stake presidents and bishops should send missionary funds that exceed reasonable stake and ward needs to the General Missionary Fund at Church headquarters or the assigned area office. Bishops or individuals may contact the Global Service Department (1-855-537-4357) for further information about contributions to the General Missionary Fund.
 
 For additional information about missionary funds and financing missionary service, see [24.6](24.md#246-service-away-from-home).
 
@@ -151,7 +151,7 @@ The Perpetual Education Fund program assists worthy young adults who need help i
 
 Those who desire to contribute to this fund may use the Tithing and Other Offerings form. The ward remits these contributions according to instructions from Church headquarters or the assigned area office.
 
-For more information about the Perpetual Education Fund, see [22.6.4.7](22-providing-for-temporal-needs.md#22647-perpetual-education-fund).
+For more information about the Perpetual Education Fund, see [22.13](22-providing-for-temporal-needs.md#2213-church-resources).
 
 ### 34.4.7 Philanthropies
 
@@ -366,11 +366,17 @@ See [20.6.8](20-activities.md#2068-fundraising-activities).
 
 ### 34.9.1 Stake Audit Committee
 
-The stake president appoints a stake audit committee consisting of one of his counselors as chairman and two other stake members who understand financial matters. The counselor who serves as chairman generally should not sign checks or otherwise be involved in stake financial record keeping. Committee members should not be stake auditors and should not perform stake or ward financial record keeping.
+The stake president appoints a stake audit committee. This committee consists of one of his counselors as chairman and two other stake members who understand or can be trained in financial matters. These brothers or sisters should hold current temple recommends.
+
+The counselor who serves as chairman generally should not sign checks or otherwise be involved in stake financial record keeping.
+
+Committee members should not be stake auditors and should not perform stake or ward financial record keeping.
+
+A man and a woman should not be alone together while performing audits.
 
 ### 34.9.2 Stake Auditors
 
-The stake president or his counselor who is chairman of the stake audit committee calls at least two stake auditors. These auditors should be trustworthy brethren who hold current temple recommends. If possible, they should be experienced in accounting or auditing. They should be approved by the stake presidency and high council, but they are not sustained and are not usually set apart.
+The stake president or his counselor who is chairman of the stake audit committee calls at least two stake auditors. These brothers and sisters should hold current temple recommends. If possible, they should be experienced in accounting or auditing. They should be approved by the stake presidency and high council. However, they are not sustained and are not usually set apart.
 
 High councilors may also serve as stake auditors. However, the stake clerk and assistant stake clerks may not be called as auditors. Those who serve as auditors may also hold other callings.
 
@@ -389,7 +395,7 @@ The Area Presidency calls an area auditor as a member of the Area Audit Committe
 The primary responsibilities of area auditors and assistant area auditors are to:
 
 * Provide training on audits and financial policies to priesthood leaders, clerks, audit committees, and stake auditors.
-* Follow up on missing audits unresolved audit exceptions.
+* Follow up on missing audits and unresolved audit exceptions.
 * Encourage financial oversight by leaders and clerks.
 * Perform special audits as assigned.
 ### 34.9.5 Loss, Theft, Embezzlement, or Misappropriation of Church Funds

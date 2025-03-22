@@ -57,9 +57,9 @@ The stake president supervises the work of the stake patriarch. He develops a cl
 
 #### 6.2.1.4 Councils, Committees, and Meetings
 
-The stake president leads the high council and the stake council. He also leads the stake adult leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-stake-aaronic-priesthood–young-women-committee-meeting)). He assigns his counselors to oversee the following:
+The stake president leads the high council and the stake council. He also leads the stake adult leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-stake-adult-leadership-committee-meeting)). He assigns his counselors to oversee the following:
 
-* Stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-bishops-welfare-council-meeting))
+* Stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting))
 * Stake young single adult committee
 * Stake single adult committee (where organized)
 
@@ -129,13 +129,13 @@ The stake president strengthens families. He encourages them to pray and learn t
 In addition to helping members live the gospel, the stake president oversees other aspects of the work of salvation and exaltation. For example, he:
 
 * Helps brethren prepare to receive the Melchizedek Priesthood (see [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices)).
-* Leads efforts to care for those in need in the stake (see [22.9.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number88-p244#title_number88)).
+* Leads efforts to care for those in need in the stake (see [22.9.1](22-providing-for-temporal-needs.md#2291-stake-president-and-his-counselors)).
 * Oversees missionary work in the stake and encourages members to share the gospel (see [23.4](23.md#234-stake-leaders)).
 * Oversees efforts to strengthen new members in the stake (see [23.4](23.md#234-stake-leaders)).
 * Interviews candidates for missionary service (see [24.4.2](24.md#2442-interviews-and-recommendation-forms)).
-* Oversees temple and family history work in the stake (see [25.3.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number16-p88#title_number16)).
-* Helps members prepare to receive temple ordinances (see [27.1](27-temple-ordinances-for-the-living.md#271-preparing-to-receive-temple-ordinances)).
-* With the stake Relief Society presidency, instructs and supports elders quorum and ward Relief Society presidencies in their responsibilities for missionary work (see [23.5.2](23.md#2352-elders-quorum-and-relief-society-presidencies)) and temple and family history work (see [25.3.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number16-p88#title_number16)).
+* Oversees temple and family history work in the stake (see [25.3.1](25-temple-and-family-history-work.md#2531-stake-presidency)).
+* Helps members prepare to receive temple ordinances (see [27.1](27-temple-ordinances-for-the-living.md#271-receiving-temple-ordinances)).
+* With the stake Relief Society presidency, instructs and supports elders quorum and ward Relief Society presidencies in their responsibilities for missionary work (see [23.5.2](23.md#2352-elders-quorum-and-relief-society-presidencies)) and temple and family history work (see [25.3.1](25-temple-and-family-history-work.md#2531-stake-presidency)).
 ### 6.2.3 Common Judge
 
 The stake president is the common judge in the stake (see [Doctrine and Covenants 107:71–74](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.71-74?lang=eng#p71)). In this role, he has the following responsibilities:
@@ -163,7 +163,7 @@ In each member district, a Melchizedek Priesthood holder is called as the distri
 * With the mission president’s approval, he can ordain elders and set apart branch presidents (see [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office) and [18.11](18-priesthood-ordinances-and-blessings.md#1811-setting-apart-members-to-serve-in-callings)). However, he cannot ordain patriarchs, high priests, or bishops.
 * He does not recommend or set apart missionaries.
 * He does not release full-time missionaries. However, he may participate with a member of the mission presidency in the release interview. If travel or time constraints make it very difficult for a member of the mission presidency to release a specific missionary, the mission president may authorize the district president to do so (see [24.8.2](24.md#2482-missionary-release-interview)).
-* He does not conduct temple recommend interviews or sign temple recommends (see [26.3.1](26-temple-recommends.md#2631-newly-baptized-members)).
+* He does not conduct temple recommend interviews or sign temple recommends (see [26.3.1](26-temple-recommends.md#2631-temple-recommend-interviews-for-members-in-wards-and-branches)).
 * He does not convene a membership council unless authorized by the mission president (see [32.9.5](32-repentance-and-membership-councils.md#3295-district-or-branch-president-in-a-mission)).
 * He does not usually deal directly with the Area Presidency. Instead, he works through the mission presidency.
 
@@ -181,7 +181,7 @@ The executive secretary has the following responsibilities:
 * Serve as a member of the stake council and attend high council meetings. As directed by the stake presidency, follow up on assignments made in these meetings.
 * Coordinate stake business between the stake presidency, high council, and other stake leaders.
 * Schedule appointments for the stake presidency.
-* Advise the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, help coordinate Church orientation for stake members who are entering the military (see [38.9.1](38-church-policies-and-guidelines.md#3891-calling-sustaining-and-ordaining-a-stake-patriarch) and [38.9.3](38-church-policies-and-guidelines.md#3893-instructing-a-newly-called-stake-patriarch)).
+* Advise the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, help coordinate Church orientation for stake members who are entering the military (see [38.9.1](38-church-policies-and-guidelines.md#3891-stake-military-relations-leadership) and [38.9.3](38-church-policies-and-guidelines.md#3893-pre–military-service-church-orientation)).
 * Orient new ward executive secretaries soon after they are called. Provide ongoing instruction as needed.
 
 One or two assistant stake executive secretaries may be called as needed. They are called and set apart by a member of the stake presidency. These brethren should be worthy of a temple recommend.
@@ -208,7 +208,7 @@ High councilors who are assigned to elders quorums meet regularly with quorum le
 
 * Learn of their needs.
 * Offer support.
-* Teach them their responsibilities, including those for missionary work (see [23.5.2](23.md#2352-elders-quorum-and-relief-society-presidencies)) and temple and family history work (see [25.3.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number18-p96#title_number18)).
+* Teach them their responsibilities, including those for missionary work (see [23.5.2](23.md#2352-elders-quorum-and-relief-society-presidencies)) and temple and family history work (see [25.3.3](25-temple-and-family-history-work.md#2533-high-councilors)).
 * Communicate information from the stake presidency.
 * Discuss how to help members of the quorum who need their next ordinance. This information is available to elders quorum leaders on LCR.
 
@@ -240,9 +240,9 @@ All high councilors serve on the stake council.
 
 In limited situations, high councilors participate in stake membership councils (see [32.9.2](32-repentance-and-membership-councils.md#3292-high-council)).
 
-The stake presidency assigns high councilors to serve on other committees. For example, high councilors who are assigned to work with elders quorums serve on the stake adult leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-stake-aaronic-priesthood–young-women-committee-meeting)).
+The stake presidency assigns high councilors to serve on other committees. For example, high councilors who are assigned to work with elders quorums serve on the stake adult leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-stake-adult-leadership-committee-meeting)).
 
-High councilors with assignments relating to Aaronic Priesthood quorums, the Young Women, and the Primary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-bishops-welfare-council-meeting)). The high councilor who serves as the stake Sunday School president may also serve on this committee.
+High councilors with assignments relating to Aaronic Priesthood quorums, the Young Women, and the Primary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)). The high councilor who serves as the stake Sunday School president may also serve on this committee.
 
 ### 6.5.3 Serve as Stake Organization Leaders
 
@@ -353,9 +353,9 @@ Members of these presidencies have the following responsibilities:
 
 The stake Relief Society presidency has the following additional responsibilities:
 
-* Serve on the stake adult leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-stake-aaronic-priesthood–young-women-committee-meeting)). If a secretary is called, she is also invited.
+* Serve on the stake adult leadership committee (see [29.3.9](29-meetings-in-the-church.md#2939-stake-adult-leadership-committee-meeting)). If a secretary is called, she is also invited.
 * Teach ward Relief Society presidents the principles of ministering and caring for those in need. Help them understand their role in helping bishops with temporal and self-reliance matters.
-* Teach ward Relief Society presidencies about their responsibilities for missionary work (see [23.5.2](23.md#2352-elders-quorum-and-relief-society-presidencies)) and temple and family history work (see [25.3.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng¶=title_number19-p101#title_number19)).
+* Teach ward Relief Society presidencies about their responsibilities for missionary work (see [23.5.2](23.md#2352-elders-quorum-and-relief-society-presidencies)) and temple and family history work (see [25.3.4](25-temple-and-family-history-work.md#2534-stake-relief-society-presidency)).
 * Strengthen young single adult sisters in the stake. If the stake has a young single adult committee, a member of the presidency serves on it (see [14.3.2](14-single-members.md#1432-stake-young-single-adult-committee)).
 * Coordinate stake Relief Society efforts during emergencies.
 
@@ -365,7 +365,7 @@ The stake Relief Society presidency has the following additional responsibilitie
 
 The stake Young Women presidency has the following additional responsibilities:
 
-* Serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-bishops-welfare-council-meeting)). If a secretary is called, she is also invited.
+* Serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)). If a secretary is called, she is also invited.
 * Under the direction of the stake presidency, plan and coordinate stake Young Women activities and camps.
 #### 6.7.1.3 Additional Stake Primary Presidency Responsibilities
 
@@ -377,7 +377,7 @@ The stake Sunday School presidency has the following additional responsibilities
 
 * Serve as specialists in the stake’s efforts to improve gospel learning and teaching.
 * Coordinate resource centers in the stake where applicable (see [13.7.2](13-sunday-school.md#1372-resource-center)).
-* Serve on the stake youth leadership committee if invited (see [29.3.10](29-meetings-in-the-church.md#29310-stake-bishops-welfare-council-meeting)).
+* Serve on the stake youth leadership committee if invited (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)).
 ### 6.7.2 Stake Young Men Presidency
 
 The stake presidency assigns a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may serve as his counselors.
@@ -389,7 +389,7 @@ The stake Young Men presidency has the following responsibilities:
 * Serve on the stake council (president only, unless his counselors are high councilors). Participate in efforts to build faith and strengthen individuals and families in the stake.
 * Serve as a resource to bishoprics in their responsibilities for Aaronic Priesthood brethren. This could include helping them understand their duties for Aaronic Priesthood quorums, as directed by the stake president.
 * Counsel together regularly in their own presidency meetings. Communicate regularly with the member of the stake presidency who has responsibility for their service.
-* Serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-bishops-welfare-council-meeting)). If a secretary is called, he is also invited.
+* Serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)). If a secretary is called, he is also invited.
 * Under the direction of the stake presidency, plan and coordinate stake Aaronic Priesthood activities and camps.
 * Speak in sacrament meetings and other settings when invited by the stake presidency.
 * Attend coordinating council meetings when invited by the Area Seventy (see [29.4](29-meetings-in-the-church.md#294-visual-aids-and-audiovisual-materials-in-church-meetings)).
@@ -411,4 +411,4 @@ The stake presidency may call and set apart specialists as needed for purposes s
 
 * Activities (see [20.3.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/20-activities?lang=eng¶=title_number27-p143#title_number27))
 * Music (see [19.5.4](19-music.md#1954-stake-music-specialists))
-* Welfare and self-reliance (see [22.9.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng¶=title_number94-p261#title_number94))
+* Welfare and self-reliance (see [22.9.4](22-providing-for-temporal-needs.md#2294-aostake-welfare-and-self-reliance-specialists))

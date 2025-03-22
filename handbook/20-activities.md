@@ -137,7 +137,7 @@ The Area Presidency may assign Area Seventies or stake presidents to be chairmen
 
 Funding for most multistake activities comes from the budget funds of the participating stakes. Funding for larger activities, such as cultural celebrations associated with temple dedications, may come from area or Church headquarters budgets when approved.
 
-Stake, multistake, and area activities should comply with Church standards and with Church travel policies (see [20.2.4](20-activities.md#2024-standards); [20.6.24](20-activities.md#20624-travel)). These activities require effective leadership, careful planning, and adequate resources.
+Stake, multistake, and area activities should comply with Church standards and with Church travel policies (see [20.2.4](20-activities.md#2024-standards) and [20.6.24](20-activities.md#20624-travel)). These activities require effective leadership, careful planning, and adequate resources.
 
 ### 20.3.2 Stake Activities Committee
 
@@ -170,7 +170,7 @@ The purposes of youth conferences are to help youth build faith in Jesus Christ,
 
 Ward youth conferences are planned and carried out by the ward youth council, under the direction of the bishopric. The bishopric obtains the stake presidency’s approval of plans for a ward youth conference.
 
-Stake youth conferences are planned and carried out by the stake Aaronic Priesthood–Young Women committee, under the direction of the stake presidency. Youth should take the lead in planning stake youth conferences with the support of adult leaders. The stake presidency may invite youth to attend the committee’s meetings as needed.
+Stake youth conferences are planned and carried out by the stake youth leadership committee, under the direction of the stake presidency. Youth should take the lead in planning stake youth conferences with the support of adult leaders. The stake presidency may invite youth to attend the committee’s meetings as needed.
 
 Youth conferences are to be funded from the stake or ward budget. Members should not be asked to pay for youth conferences.
 
@@ -178,7 +178,7 @@ As leaders and youth plan a youth conference, they should observe the policies i
 
 * Select a gospel theme, such as a scripture, that will inspire the youth and help them understand the expectations of the conference. The annual youth theme could be used as the youth conference theme. The bishopric or stake presidency should approve the theme.
 * Plan activities such as devotionals, group meetings, learning experiences, and service projects that are consistent with the theme.
-* Obtain approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. Speakers who primarily entertain, with only casual reference to the gospel, should not be selected. Nor should speakers who would have to travel long distances be selected. See [38.8.22](38-church-policies-and-guidelines.md#38822-guest-speakers-or-instructors) for other guidelines concerning speakers.
+* Obtain approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. Speakers who primarily entertain, with only casual reference to the gospel, should not be selected. Nor should speakers who would have to travel long distances be selected. See [38.8.23](38-church-policies-and-guidelines.md#38823-guest-speakers-or-instructors) for other guidelines concerning speakers.
 * Avoid scheduling events for Sunday that are not appropriate for the Sabbath day. Testimony meetings, bishopric youth discussions, or similar meetings are permitted. However, sacrament meetings are not to be held﻿—and the sacrament is not to be administered﻿—outside the boundaries of the ward or stake where the priesthood leaders preside. Any exceptions must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
 * Ensure that adequate adult supervision is present at all times (see [20.6.2](20-activities.md#2062-adult-supervision)).
 
@@ -352,9 +352,9 @@ When Church facilities are inadequate for a stake or multistake activity, facili
 
 Local units may be asked to show evidence of liability insurance when renting or using facilities that are not owned by the Church. The bishop or stake president may obtain a certificate showing evidence of insurance from the Risk Management Division at Church headquarters or from the area office. Requests should include the name and address of the requester (normally the owner of the facility), a description and location of the facility, the liability limits required, and other pertinent information. Leaders should plan well in advance to allow time to prepare and mail the certificates.
 
-### 20.6.18 Reports of Abuse
+### 20.6.18 Reports of Misconduct
 
-If a leader becomes aware of physical, sexual, or emotional abuse of someone during a Church activity, he or she should contact the bishop immediately. Instructions for bishops are provided in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line).
+If a leader becomes aware of physical, sexual, or emotional misconduct of someone during a Church activity, he or she should contact the bishop immediately. Instructions for bishops are provided in [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line).
 
 ### 20.6.19 Sabbath-Day Observance
 
