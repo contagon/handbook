@@ -43,7 +43,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8?lang=eng#p8)). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.18?lang=eng#p18)). “All other authorities or offices in the church are appendages to this priesthood” ([Doctrine and Covenants 107:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.5?lang=eng#p5)).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also chapter 5 in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also [chapter 7](7.md) in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also [chapter 6](6-stake-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also [chapter 7](7.md) in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](8-elders-quorum.md#81-purpose-and-organization).
 
@@ -102,7 +102,7 @@ Under the direction of those who hold priesthood keys, the Aaronic Priesthood an
 
 Each man in the Church of Jesus Christ should strive to be worthy to receive and use the Melchizedek Priesthood to serve others. When a man receives this priesthood, he makes a covenant to faithfully fulfill his priesthood responsibilities. He also receives from God an oath, or promise, of eternal blessings (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.33-44?lang=eng#p33); see also Guide to the Scriptures, “[Oath and Covenant of the Priesthood](https://www.churchofjesuschrist.org/study/scriptures/gs/oath-and-covenant-of-the-priesthood?lang=eng)”).
 
-For more information about priesthood conferral and ordination, see [8.1.1](8-elders-quorum.md#811-purpose), [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood), [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office), and [38.2.5](38-church-policies-and-guidelines.md#3825-conferring-the-priesthood-and-ordaining-to-an-office).
+For more information about priesthood conferral and ordination, see [8.1.1](8-elders-quorum.md#811-purpose), [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood), [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office), and [38.2.5](38-church-policies-and-guidelines.md#3825-ordinances-and-blessings-performed-by-and-for-those-who-have-physical-disabilities).
 
 ### 3.4.3 Delegation of Priesthood Authority to Serve in the Church
 
@@ -179,7 +179,7 @@ Ordinances have symbolic meaning that point individuals to Heavenly Father and J
 
 Each ordinance allows individuals to receive rich spiritual blessings. The Lord revealed, “In the ordinances [of the priesthood], the power of godliness is manifest” ([Doctrine and Covenants 84:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.20?lang=eng#p20)). Ordinances of salvation and exaltation are essential for eternal life. For more information, see [18.1](18-priesthood-ordinances-and-blessings.md#181-ordinances-of-salvation-and-exaltation).
 
-Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the dead, see [chapter 28](28.md).
+Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [chapter 28](28.md).
 
 ## 3.6 The Priesthood and the Home
 

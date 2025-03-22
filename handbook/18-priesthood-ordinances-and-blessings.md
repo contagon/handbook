@@ -1,4 +1,4 @@
-# 18. Priesthood Ordinances and Blessings
+# 18. Performing Priesthood Ordinances and Blessings
 
 ## 18.0 Introduction
 
@@ -6,7 +6,7 @@ Ordinances and blessings are sacred acts performed by the authority of the pries
 
 Ordinances and blessings are to be performed with faith in Heavenly Father and Jesus Christ and according to the guidance of the Holy Ghost. Leaders ensure that they are performed with proper approval (where necessary), with the required priesthood authority, in the proper way, and by worthy participants (see [18.3](18-priesthood-ordinances-and-blessings.md#183-participation-in-an-ordinance-or-blessing)).
 
-For policies on priesthood ordinances and blessings, see [38.2](38-church-policies-and-guidelines.md#382-ordinances-and-blessings-policies).
+For policies on priesthood ordinances and blessings, see [38.2](38-church-policies-and-guidelines.md#382-policies-for-ordinances-and-blessings).
 
 ## 18.1 Ordinances of Salvation and Exaltation
 
@@ -20,8 +20,8 @@ The priesthood includes the authority to administer gospel ordinances that are n
 
 For information about performing these ordinances for those with intellectual disabilities, see the following:
 
-* For baptism and confirmation ([38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities) and [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-with-intellectual-disabilities))
-* For ordination to an office in the Melchizedek Priesthood ([38.2.5.4](38-church-policies-and-guidelines.md#38254-other-circumstances))
+* For baptism and confirmation ([38.2.8.1](38-church-policies-and-guidelines.md#38281-persons-with-intellectual-disabilities))
+* For ordination to an office in the Melchizedek Priesthood ([38.2.9.7](38-church-policies-and-guidelines.md#38297-brethren-who-have-intellectual-disabilities))
 * For the temple endowment and sealing ([27.2.1.3](27-temple-ordinances-for-the-living.md#27213-members-who-have-intellectual-disabilities) and [27.3.1.2](27-temple-ordinances-for-the-living.md#27312-members-who-have-intellectual-disabilities))
 
 If a child who was born in the covenant dies before age 8, no ordinances are needed or performed. If the child was not born in the covenant, the only ordinance he or she needs is to be sealed to parents. Because of the Savior’s Atonement, all children who die before age 8 are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.10?lang=eng#p10); see also [Moroni 8:8–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8.8-12?lang=eng#p8)).
@@ -57,8 +57,8 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of
 
 | Ordinance | Who Holds Keys |
 | --- | --- |
-| Baptism | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)Mission president (for converts) |
-| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)Mission president (for converts) |
+| Baptism | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)<br/>Mission president (for converts) |
+| Confirmation and gift of the Holy Ghost | Bishop (for 8-year-old children and for members of record ages 9 and older whose baptism was delayed due to intellectual disabilities)<br/>Mission president (for converts) |
 | Conferral of the Melchizedek Priesthood and ordination to an office (for men) | Stake president |
 | Temple endowment | Bishop and stake president |
 | Temple sealing | Bishop and stake president |
@@ -80,21 +80,23 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 
 ## 18.4 Ordinances for Minor Children
 
-A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.24](38-church-policies-and-guidelines.md#38824-legal-counsel-for-church-matters)).
+A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.22](38-church-policies-and-guidelines.md#38822-legal-counsel-for-church-matters)).
 
-For guidelines about baptizing and confirming minor children, see [38.2.3.6](38-church-policies-and-guidelines.md#38236-minors).
+For guidelines about baptizing and confirming minor children, see [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors).
 
 ## 18.5 Ordinances Performed for and by Persons Who Have Disabilities
 
-See [38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities) and [38.2.1.9](38-church-policies-and-guidelines.md#38219-ordinances-and-blessings-performed-by-and-for-persons-who-have-physical-disabilities).
+See [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-have-intellectual-disabilities) and [38.2.5](38-church-policies-and-guidelines.md#3825-ordinances-and-blessings-performed-by-and-for-those-who-have-physical-disabilities).
 
 ## 18.6 Naming and Blessing Children
 
 “Every member of the church of Christ having children is to bring them unto the elders before the church, who are to lay their hands upon them in the name of Jesus Christ, and bless them in his name” ([Doctrine and Covenants 20:70](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.70?lang=eng#p70)).
 
-Children are typically named and blessed during fast and testimony meeting in the ward where their parents reside. If the parents do not reside together, the ordinance is usually performed in the ward where the child will primarily live.
+Children are typically named and blessed during fast and testimony meeting in the ward where their parents reside. This is true regardless of whether the child’s parents are married. If the parents do not reside together, the ordinance is usually performed in the ward where the child will primarily live.
 
-Exceptions to the typical place of the child’s blessing must be approved by the bishop. Possible exceptions include blessings not on fast Sunday, especially in wards with many new babies; blessings in another ward where the child’s grandparents or many family members live; and blessings in the home.
+Exceptions to the typical time and place of a child’s blessing must be approved by the bishop. Possible exceptions include blessings not on fast Sunday, especially in wards with many new babies, and blessings in another ward where the child’s grandparents or many family members live. The bishop may also authorize Melchizedek Priesthood holders to bless the child in the home. A member of the bishopric presides.
+
+For information about naming and blessing children in special circumstances, see [38.2.7](38-church-policies-and-guidelines.md#3827-naming-and-blessing-children).
 
 ### 18.6.1 Who Gives the Blessing
 
@@ -116,15 +118,18 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 4. Addresses the child.
 5. Gives a blessing to the child as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
+
 ### 18.6.3 Child Record Form and Blessing Certificate
 
-Before a child is blessed, a clerk uses Leader and Clerk Resources (LCR) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
+Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
 
 The name on the membership record and certificate should match the birth certificate, civil birth registry, or current legal name.
 
 ## 18.7 Baptism
 
-Baptism by immersion in water by one having authority is necessary for a person to become a member of the Church and receive the Holy Ghost. All who seek exaltation must follow the example of the Savior by receiving these ordinances. (See [Matthew 3:13–17](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/3.13-17?lang=eng#p13); [John 3:3–7](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.3-7?lang=eng#p3); [Acts 2:37–38](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/2.37-38?lang=eng#p37); [2 Nephi 31:5–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31.5-10?lang=eng#p5).)
+Baptism by immersion in water by one having authority is necessary for a person to become a member of the Church and receive the Holy Ghost. All who seek exaltation must follow the example of the Savior by receiving these ordinances. (See [Matthew 3:13–17](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/3.13-17?lang=eng#p13); [John 3:3–7](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.3-7?lang=eng#p3); [Acts 2:37–38](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/2.37-38?lang=eng#p37); [2 Nephi 31:5–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31.5-21?lang=eng#p5).)
+
+For information about baptism in special circumstances, see [38.2.8](38-church-policies-and-guidelines.md#3828-baptism-and-confirmation).
 
 ### 18.7.1 Approval for a Person to Be Baptized and Confirmed
 
@@ -132,26 +137,19 @@ Baptism by immersion in water by one having authority is necessary for a person 
 
 The bishop holds the priesthood keys for baptizing 8-year-old members of record in a ward. These children should be baptized and confirmed on or as soon after their 8th birthday as is reasonable (see [Doctrine and Covenants 68:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68.27?lang=eng#p27)). These are children for whom Church membership records already exist (see [33.6.2](33-records-and-reports.md#3362-members-of-record)). When they reach age 8, the bishop makes sure they have every opportunity to accept the gospel and be baptized and confirmed.
 
-For information about baptizing and confirming a person who has an intellectual disability, see [38.2.1.8](38-church-policies-and-guidelines.md#38218-ordinances-for-persons-who-have-intellectual-disabilities) and [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-with-intellectual-disabilities).
+For information about baptizing and confirming a person who has an intellectual disability, see [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-have-intellectual-disabilities) and [38.2.8.1](38-church-policies-and-guidelines.md#38281-persons-with-intellectual-disabilities).
 
-The bishop or an assigned counselor conducts interviews for the baptism and confirmation of:
+The bishop or an assigned counselor interviews children of record for baptism and confirmation. Instructions are in [31.2.3.1](31.md#31231-children-who-are-members-of-record).
 
-* Children age 8 who are members of record.
-* Children age 8 who are not members of record but have at least one parent or guardian who is a member.
-* Members of record ages 9 and older whose baptism was delayed due to intellectual disabilities.
-
-Instructions for interviews are provided in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews). For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
+For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
 Bishops give special attention to 7-year-old children in the ward, ensuring that their parents, their Primary leaders and teachers, and those who minister to their families help them prepare for baptism and confirmation. Elders quorum and Relief Society leaders also encourage parents to prepare their children for these ordinances.
 
 #### 18.7.1.2 Converts
 
-The mission president holds the priesthood keys for baptizing converts in a mission. Convert baptisms are defined as baptisms of:
+The mission president holds the priesthood keys for baptizing converts in a mission. For this reason, full-time missionaries interview converts for baptism and confirmation. Instructions are in [31.2.3.2](31.md#31232-converts).
 
-* Persons ages 9 and older who have never been baptized and confirmed. See [18.7.1.1](18-priesthood-ordinances-and-blessings.md#18711-children-who-are-members-of-record) for an exception for those with intellectual disabilities.
-* Children ages 8 and older whose parents (1) are not members or (2) are being baptized and confirmed at the same time as the children.
-
-Full-time missionaries interview converts for baptism and confirmation. Instructions are provided in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews). For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
+For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
 ### 18.7.2 Baptismal Services
 
@@ -164,7 +162,7 @@ A baptismal service should be simple, brief, and spiritually uplifting. It may i
 5. A musical selection
 6. The baptism
 7. A time of reverence while those who participated in the baptism change into dry clothes (hymns or Primary songs may be played or sung during this time)
-8. The confirmation of 8-year-old members of record; the confirmation of converts if determined by the bishop (see [38.2.3.2](38-church-policies-and-guidelines.md#38232-converts))
+8. The confirmation of 8-year-old members of record; the confirmation of converts if determined by the bishop (see [18.8](18-priesthood-ordinances-and-blessings.md#188-confirmation-and-gift-of-the-holy-ghost))
 9. Bearing of testimonies by new converts, if desired
 10. A closing hymn and prayer
 11. Postlude music
@@ -175,9 +173,9 @@ When a baptismal service for these children involves more than one ward, a membe
 
 Members should not request individual times for the baptism of a child. Nor should they prescribe the content of the service.
 
-Baptismal services for converts should be scheduled as soon as they have met the qualifications in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews). Baptism of a family member should not be delayed until a father can receive the priesthood and perform the baptism himself.
+Baptismal services for converts should be scheduled as soon as they have met the qualifications in [31.2.3.2](31.md#31232-converts). Baptism of a family member should not be delayed until a father can receive the priesthood and perform the baptism himself.
 
-Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts.
+Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts. They coordinate with the full-time missionaries.
 
 ### 18.7.3 Who Performs the Ordinance
 
@@ -217,17 +215,22 @@ To perform the ordinance of baptism, a priest or Melchizedek Priesthood holder:
 4. States the person’s full name and says, “Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen” ([Doctrine and Covenants 20:73](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.73?lang=eng#p73)).
 5. Has the person hold his or her nose with the right hand (for convenience); then places his right hand high on the person’s back and immerses the person completely, including clothing. Immersion is easier if the person bends his or her knees.
 6. Helps the person to come up out of the water.
+
 ### 18.7.8 Baptism Record
 
 For information about making a record of a baptism, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
 ## 18.8 Confirmation and Gift of the Holy Ghost
 
-After a person is baptized, he or she is confirmed a member of the Church and receives the Holy Ghost by the laying on of hands (see [Doctrine and Covenants 20:41](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.41?lang=eng#p41); [Acts 19:1–7](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/19.1-7?lang=eng#p1)). The person becomes a member of the Church after both of these ordinances are completed and properly recorded (see [John 3:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.5?lang=eng#p5); [Doctrine and Covenants 33:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/33.11?lang=eng#p11); [3 Nephi 27:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27.20?lang=eng#p20)).
+After a person is baptized, he or she is confirmed a member of the Church and receives the Holy Ghost by the laying on of hands (see [Doctrine and Covenants 20:41](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.41?lang=eng#p41); [Acts 19:1–6](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/19.1-6?lang=eng#p1)). The person becomes a member of the Church after both of these ordinances are completed and properly recorded (see [John 3:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.5?lang=eng#p5); [Doctrine and Covenants 33:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/33.11?lang=eng#p11); [3 Nephi 27:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27.20?lang=eng#p20)).
 
-The bishop holds the priesthood keys for confirming 8-year-old members of record in a ward. The mission president holds the keys for confirming converts in a mission (for a definition of a convert baptism, see [18.7.1.2](18-priesthood-ordinances-and-blessings.md#18712-converts)). However, the bishop oversees this ordinance for 8-year-old children of record and for converts.
+For information about confirmation in special circumstances, see [38.2.8](38-church-policies-and-guidelines.md#3828-baptism-and-confirmation).
 
-Eight-year-old children are typically confirmed on the day they are baptized. Converts are typically confirmed in any sacrament meeting in the ward where they live, preferably on the Sunday after their baptism. However, the bishop may grant exceptions for converts to be confirmed at the baptismal service as explained in [38.2.3.2](38-church-policies-and-guidelines.md#38232-converts). Bishops should follow the guidelines in [29.2.1.1](29-meetings-in-the-church.md#29211-planning-sacrament-meeting) when introducing new members.
+The bishop holds the priesthood keys for confirming 8-year-old members of record in his ward. The mission president holds the keys for confirming converts (for a definition of a convert baptism, see [31.2.3.2](31.md#31232-converts)).
+
+The bishop oversees the performance of confirmations. Eight-year-old children are typically confirmed on the day they are baptized. Converts are typically confirmed in any sacrament meeting in the ward where they live, preferably on the Sunday after their baptism. However, the bishop can allow the confirmation to take place at the baptismal service as an exception.
+
+A member of the bishopric follows the guidelines in [29.2.1.1](29-meetings-in-the-church.md#29211-planning-sacrament-meeting) when introducing new members.
 
 ### 18.8.1 Who Performs the Ordinance
 
@@ -249,11 +252,12 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 4. States “receive the Holy Ghost” (not “receive the gift of the Holy Ghost”).
 5. Gives words of blessing as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
+
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
-Before a child who is a member of record is interviewed for baptism, a clerk uses LCR to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in LCR.
+Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](https://lcr.churchofjesuschrist.org).
 
-When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record except for the information about confirmation. At the baptismal service, the missionaries give this form to the bishop or one of his counselors. After the confirmation, the bishop, a counselor, or a clerk completes the confirmation information and gives two copies of the form to the missionaries. The missionaries send one copy to the mission office so a membership record can be created.
+When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Area Book Planner (ABP) app. After the baptism and confirmation, the missionaries record the information in ABP and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR](https://lcr.churchofjesuschrist.org) and creates the membership record.
 
 After the membership record is created, a clerk prepares a Baptism and Confirmation Certificate. This certificate is signed by the bishop and given to the person.
 
@@ -317,11 +321,47 @@ Although the sacrament is for members of the Church, nothing should be done to p
 10. After the prayer, priesthood holders reverently pass the water to the members. The presiding leader receives it first, after which there is no set order.
 11. When the water has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those who blessed the sacrament place a cloth over the trays, and those who blessed and passed the sacrament reverently take their seats.
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
+
 ## 18.10 Conferring the Priesthood and Ordaining to an Office
 
-There are two divisions of the priesthood: the Aaronic and Melchizedek (see [3.3](3-priesthood-principles.md#33-melchizedek-priesthood-and-aaronic-priesthood); [Doctrine and Covenants 107:1, 6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.1,6?lang=eng#p1)). When the priesthood is conferred on a person, he is also ordained to an office in that priesthood. After either of these priesthoods has been conferred, a man need only be ordained to other offices in that priesthood.
+There are two divisions of the priesthood: the Aaronic and Melchizedek (see [3.3](3-priesthood-principles.md#33-melchizedek-priesthood-and-aaronic-priesthood); [Doctrine and Covenants 107:1, 6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.1,6?lang=eng#p1)). When the priesthood is conferred on a person, he is also ordained to an office in that priesthood. After either of these priesthoods has been conferred, a man needs only to be ordained to other offices in that priesthood.
+
+For information about priesthood ordinations in special circumstances, see [38.2.9](38-church-policies-and-guidelines.md#3829-priesthood-ordination).
+
+### 18.10.1 Melchizedek Priesthood
 
 The stake president holds the priesthood keys for conferring the Melchizedek Priesthood and ordaining to the offices of elder and high priest. However, the bishop usually provides recommendations for these ordinations.
+
+#### 18.10.1.1 Elders
+
+Worthy brethren may receive the Melchizedek Priesthood and be ordained elders when they are 18 years old or older. Based on individual circumstances, the bishop determines whether a young man should be recommended to be ordained an elder soon after his 18th birthday or remain with the priests quorum longer. These circumstances include a young man’s:
+
+* Testimony and maturity.
+* School graduation.
+* Desire to continue with peers.
+* College attendance.
+
+In making this decision, the bishop consults first with the young man and his parents or guardians. Worthy men should be ordained elders by age 19 or before they leave home to attend college, serve a full-time mission, serve in the military, or accept full-time employment.
+
+Recently baptized men ages 18 and older are ordained elders after they have:
+
+* Received the Aaronic Priesthood and served as priests.
+* Developed sufficient understanding of the gospel.
+* Demonstrated their worthiness.
+
+No specific time as a Church member is required.
+
+#### 18.10.1.2 High Priests
+
+Men are ordained high priests when they are called to a stake presidency, high council, or bishopric. They may also be ordained at other times as determined by the stake president through prayerful consideration and inspiration.
+
+#### 18.10.1.3 Interviewing and Sustaining
+
+With the approval of the stake presidency, the bishop interviews the brother as instructed on the Melchizedek Priesthood Ordination Record. Then a member of the stake presidency also interviews him. With approval from the mission president, the district president may interview a brother to be ordained an elder (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)). For instructions about these interviews, see [31.2.6](31.md#3126-interviews-for-ordination-to-an-office-in-the-melchizedek-priesthood).
+
+After the interview, the stake presidency asks the high council to sustain the decision to ordain the brother. A member of the stake presidency presents him for sustaining in the general session of stake conference (see [18.10.3](18-priesthood-ordinances-and-blessings.md#18103-presenting-a-member-to-be-sustained-before-he-is-ordained)). With approval from the mission president, a district president may present a brother for sustaining to be ordained an elder (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)).
+
+### 18.10.2 Aaronic Priesthood
 
 The bishop holds the priesthood keys for conferring the Aaronic Priesthood and ordaining to the offices of deacon, teacher, and priest. Worthy brethren are typically ordained to these offices at the following ages, but not earlier:
 
@@ -329,11 +369,33 @@ The bishop holds the priesthood keys for conferring the Aaronic Priesthood and o
 * Teacher at the beginning of the year they turn 14
 * Priest at the beginning of the year they turn 16
 
-Instructions for recommending a person for ordination and presenting him for a sustaining vote are given in [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices) and [38.2.5.2](38-church-policies-and-guidelines.md#38252-aaronic-priesthood-offices).
+The bishop or an assigned counselor interviews those who are to be ordained deacons or teachers to determine if they are spiritually prepared. The bishop interviews brethren who are to be ordained priests.
 
-### 18.10.1 Who Performs the Ordinance
+Before interviewing a young man for priesthood ordination, a member of the bishopric obtains permission from the young man’s parents or guardians. If the parents are divorced, he obtains permission from the parent(s) with legal custody.
 
-The stake president or a Melchizedek Priesthood holder under his direction may ordain a man to the office of elder. Only Melchizedek Priesthood holders may stand in the circle.
+If the brother is found worthy in an interview, a member of the bishopric presents him for sustaining in sacrament meeting (see [18.10.3](18-priesthood-ordinances-and-blessings.md#18103-presenting-a-member-to-be-sustained-before-he-is-ordained)).
+
+For information about ordaining recently baptized brethren, see [38.2.9.1](38-church-policies-and-guidelines.md#38291-new-members).
+
+### 18.10.3 Presenting a Member to Be Sustained before He Is Ordained
+
+After a brother has been interviewed and found worthy to be ordained to a priesthood office, he is presented for sustaining (see [Doctrine and Covenants 20:65, 67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.65,67?lang=eng#p65)). Brethren to be ordained elders or high priests are presented by a stake presidency member in the general session of stake conference (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents) for instructions for district presidents). Brethren to be ordained deacons, teachers, or priests are presented by a bishopric member in sacrament meeting.
+
+The person who conducts the sustaining asks the brother to stand. He announces the proposal to confer the Aaronic or Melchizedek Priesthood (if needed) and to ordain the brother to the priesthood office. He then invites the members to sustain the proposal. For example, to present a brother to be ordained an elder, he could use words like these:
+
+“We propose that [name] receive the Melchizedek Priesthood and be ordained an elder. Those in favor may show it by the uplifted hand. [Pause briefly.] Those opposed, if any, may also show it. [Pause briefly.]”
+
+The person who is being presented should participate in the sustaining. If more than one person is being presented, they may be sustained as a group.
+
+If a member in good standing opposes the ordination, the presiding leader or another assigned priesthood leader meets with him or her in private after the meeting. The leader seeks to understand why the member is opposed. He learns if the member knows of conduct that could disqualify the person from being ordained to the priesthood office.
+
+Only members in good standing may participate in the sustaining. However, if a member not in good standing or a person who is not a member opposes the action, the bishop or stake president may hear his or her concern in private outside of the meeting.
+
+In some cases, a brother may need to be ordained an elder or high priest before he can be presented in stake conference. When this happens, he is presented in his ward sacrament meeting for sustaining. He is then presented in the next stake conference to ratify the ordination (adapting the process for sustaining, described above). This includes giving stake members an opportunity to sustain or oppose the action.
+
+### 18.10.4 Who Performs the Ordinance
+
+The stake president or a Melchizedek Priesthood holder under his direction may ordain a man to the office of elder. With approval from the mission president, the district president or someone under his direction may perform the ordination (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents)). Only Melchizedek Priesthood holders may stand in the circle.
 
 The stake president or a high priest under his direction may ordain a man to the office of high priest. Only high priests may stand in the circle.
 
@@ -347,12 +409,12 @@ A bishop may allow a father who is a priest or a Melchizedek Priesthood holder t
 
 To act as voice in this ordinance, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
 
-### 18.10.2 Instructions
+### 18.10.5 Instructions
 
 To confer the priesthood and ordain a person to a priesthood office, one or more authorized priesthood holders place their hands lightly on the person’s head. Then the one acting as voice:
 
 1. Calls the person by his full name.
-2. States the authority he holds to perform the ordinance (Aaronic or Melchizedek Priesthood).
+2. States the authority he personally holds to perform the ordinance (either the Aaronic or Melchizedek Priesthood).
 3. Confers the Aaronic or Melchizedek Priesthood, unless it has already been conferred.
 4. Ordains the person to an office in the Aaronic or Melchizedek Priesthood and bestows the rights, powers, and authority of that office. (Priesthood keys are not bestowed when conferring the priesthood or ordaining to an office, except when ordaining a bishop.)
 5. Gives words of blessing as guided by the Spirit.
@@ -362,15 +424,15 @@ To ordain a person to a priesthood office after he has already had the appropria
 
 An ordination is an opportunity to give a blessing. Detailed counsel and instruction about a person’s duties are given before and after the ordination. They should not be the focus of the blessing. It is not necessary to have prayers, testimonies, or instruction when someone is ordained.
 
-### 18.10.3 Ordination Record and Certificate
+### 18.10.6 Ordination Record and Certificate
 
-Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses LCR to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in LCR and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
+After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in [LCR](https://lcr.churchofjesuschrist.org) and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
 
-Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses LCR to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in LCR and prepares an ordination certificate.
+After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in [LCR](https://lcr.churchofjesuschrist.org) and prepares an ordination certificate.
 
 A person’s current legal name should be used on the ordination record and certificate.
 
@@ -407,7 +469,9 @@ A setting apart is not a formal meeting with prayers or testimonies. Nor is it a
 
 Melchizedek Priesthood holders must consecrate olive oil before it is used to anoint the sick or afflicted (see [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5.14?lang=eng#p14)). No other oil may be used.
 
-Oil vials are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/).Members should not consume consecrated oil or apply it on afflicted parts of the body.
+Oil vials are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/).
+
+Members should not consume consecrated oil or apply it on afflicted parts of the body.
 
 ### 18.12.1 Who Performs the Ordinance
 
@@ -476,6 +540,7 @@ To give a blessing of comfort and counsel or a father’s blessing, one or more 
 2. States that the blessing is being performed by the authority of the Melchizedek Priesthood.
 3. Gives words of blessing, comfort, and counsel as guided by the Spirit.
 4. Closes in the name of Jesus Christ.
+
 ## 18.15 Dedicating Homes
 
 Church members may have their homes dedicated by the authority of the Melchizedek Priesthood. Homes do not need to be owned or free of debt to be dedicated. Unlike Church buildings, homes are not consecrated to the Lord.
@@ -486,6 +551,7 @@ A home is dedicated by a Melchizedek Priesthood holder. If there is not a Melchi
 
 * A family may invite a close friend, relative, or ministering brother who holds the Melchizedek Priesthood to dedicate the home. The person does not need to seek approval from a priesthood leader.
 * A family might gather and offer a prayer as guided by the Spirit. The prayer could include the elements mentioned in [18.15.2, number 3](18-priesthood-ordinances-and-blessings.md#18152-instructions).
+
 ### 18.15.2 Instructions
 
 To dedicate a home, a Melchizedek Priesthood holder:
@@ -494,6 +560,7 @@ To dedicate a home, a Melchizedek Priesthood holder:
 2. States that he is acting by the authority of the Melchizedek Priesthood.
 3. Dedicates the home as a sacred place where the Holy Spirit can reside and gives other words as guided by the Spirit. For example, he might bless the home to be a place where family members can worship, find safety from the world, grow spiritually, and prepare for eternal family relationships.
 4. Closes in the name of Jesus Christ.
+
 ## 18.16 Dedicating Graves
 
 ### 18.16.1 Who Dedicates the Grave
@@ -519,9 +586,15 @@ If a Church member’s body is cremated, the presiding leader uses his judgment 
 
 ## 18.17 Patriarchal Blessings
 
-Every worthy, baptized member is entitled to receive a patriarchal blessing, which provides inspired direction from Heavenly Father (see [Genesis 48:14](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/48.14?lang=eng#p14); [49](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng); [2 Nephi 4:3–11](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4.3-11?lang=eng#p3)). Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings.
+Every worthy, baptized member is entitled to receive a patriarchal blessing, which provides inspired direction from Heavenly Father (see [Genesis 48:14–16](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/48.14-16?lang=eng#p14); [49](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng); [2 Nephi 4:3–11](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4.3-11?lang=eng#p3)). Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings.
 
 The bishop or an assigned counselor interviews members who desire to receive a patriarchal blessing. If the member is worthy, the interviewer prepares a Patriarchal Blessing Recommend. He submits it through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest/) on ChurchofJesusChrist.org.
+
+The person who issues a Patriarchal Blessing Recommend ensures that the member is mature enough to understand the significance and sacred nature of the blessing. Ideally the member should be young enough that many important decisions in life are still ahead. However, older adults are also encouraged to receive their patriarchal blessings. Priesthood leaders should not establish a minimum age for a member to receive a patriarchal blessing.
+
+A new convert should understand the basic doctrine of the gospel before receiving a patriarchal blessing.
+
+For information about patriarchal blessings in special circumstances, see [38.2.10](38-church-policies-and-guidelines.md#38210-patriarchal-blessings).
 
 ### 18.17.1 Receiving a Patriarchal Blessing
 
@@ -541,8 +614,19 @@ A person who has received a patriarchal blessing should carefully safeguard the 
 
 ### 18.17.3 More Information
 
-For more information about patriarchal blessings, see [38.2.12](38-church-policies-and-guidelines.md#38212-patriarchal-blessings) and “[Patriarchal Blessings](https://www.churchofjesuschrist.org/study/manual/gospel-topics/patriarchal-blessings?lang=eng).”
+For more information about patriarchal blessings, see [38.2.10](38-church-policies-and-guidelines.md#38210-patriarchal-blessings) and “[Patriarchal Blessings](https://www.churchofjesuschrist.org/study/manual/gospel-topics/patriarchal-blessings?lang=eng).”
 
 ## 18.18 Temple Endowment and Sealing
 
 For information on the temple endowment and sealing ordinances, see [chapter 27](27-temple-ordinances-for-the-living.md).
+
+## 18.19 Chart of Ordinations
+
+| Office | Recommended by | Approved by | Sustained by | Interviewed and ordained by |
+| --- | --- | --- | --- | --- |
+| Patriarch | Stake presidency | Quorum of the Twelve Apostles | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve Apostles; or a member of the First Presidency or Quorum of the Twelve Apostles |
+| High priest | Bishop and stake presidency | Stake presidency and high council | Members in stake conference | Interviewed by the bishop and by the stake president or an assigned counselor; ordained under the direction of the stake president |
+| Elder | Bishop | Stake presidency and high council | Members in stake conference or district conference | Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents))<br/>Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
+| Bishop | Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
+| Priest | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop; ordained under the direction of the bishop |
+| Teacher or deacon | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop or an assigned counselor; ordained under the direction of the bishop |

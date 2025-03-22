@@ -9,6 +9,7 @@ Much of the work of salvation and exaltation is accomplished through the family.
 * The role of the family in God’s plan.
 * The work of salvation and exaltation in the home.
 * The relationship between the home and the Church.
+
 ## 2.1 The Role of the Family in God’s Plan
 
 The family is ordained of God and is central to His plan. Each of us “is a beloved spirit son or daughter of heavenly parents [with] a divine nature and destiny (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng¶=2#p2),” ChurchofJesusChrist.org). We are part of their family. We lived with them before we were born on earth.
@@ -90,6 +91,7 @@ God has commanded His children to “remember the sabbath day, to keep it holy�
 * Family history.
 * Joyful family time.
 * Other appropriate gatherings.
+
 ### 2.2.3 Gospel Study and Learning at Home
 
 Gospel teaching and learning are home-centered and Church-supported. Church leaders encourage all members to study the gospel at home on the Sabbath day and throughout the week. Gospel study at home strengthens individuals and families. It deepens conversion to Heavenly Father and the Lord Jesus Christ.
@@ -101,6 +103,7 @@ Individuals and families seek inspiration as they choose to study what will best
 * The Book of Mormon and other scriptures.
 * General conference messages.
 * Church magazines and other edifying content.
+
 ### 2.2.4 Home Evening and Other Activities
 
 Latter-day prophets have counseled Church members to hold a weekly home evening. This is a sacred time for individuals and families to learn the gospel, strengthen testimonies, build unity, and enjoy one another.

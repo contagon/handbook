@@ -40,6 +40,7 @@ Leaders are responsible for teaching and learning in their organizations. Some o
 * As needed, recommend names to the bishopric of ward members to call as teachers in their organizations, following the guidelines in [30.1](30-callings-in-the-church.md#301-determining-whom-to-call).
 * Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, [38](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/appendix/orienting-new-teachers-a-responsibility-of-priesthood-and-auxiliary-leaders?lang=eng)).
 * Give ongoing support to the teachers in their organizations. Talk to the teachers regularly about their efforts to build faith in the people they teach. If needed, ask the Sunday School president for help.
+
 ## 17.4 Teacher Council Meetings
 
 In teacher council meetings, teachers counsel together about principles of Christlike teaching. They also counsel about how to improve gospel learning and teaching. They use [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/contents?lang=eng) as a resource.

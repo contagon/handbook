@@ -9,6 +9,7 @@ This handbook will help you learn principles of Christlike service and understan
 * God’s plan of happiness.
 * The work of salvation and exaltation.
 * The purpose of The Church of Jesus Christ of Latter-day Saints.
+
 ## 1.1 God’s Plan of Happiness
 
 Heavenly Father provided the plan of happiness to enable us to enjoy all His blessings. His work and glory is to “bring to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.39?lang=eng#p39)). Immortality is to live forever with a resurrected physical body. Eternal life, or exaltation, is to become like God and live in His presence eternally as families.
@@ -37,6 +38,7 @@ We come unto Christ and assist in God’s work by:
 * Caring for those in need.
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
+
 This handbook will help you understand these four aspects of God’s work. The Holy Ghost will guide you as you do your part in fulfilling them (see [2 Nephi 32:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32.5?lang=eng#p5)).
 
 ### 1.2.1 Living the Gospel of Jesus Christ
@@ -54,12 +56,14 @@ Caring for those in need includes:
 * Serving and ministering to individuals, families, and communities.
 * Sharing resources, including Church assistance, with those in need.
 * Helping others become self-reliant.
+
 ### 1.2.3 Inviting All to Receive the Gospel
 
 Inviting all to receive the gospel includes:
 
 * Participating in missionary work and serving as missionaries.
 * Helping new and returning Church members progress along the covenant path.
+
 ### 1.2.4 Uniting Families for Eternity
 
 Uniting families for eternity includes:
@@ -67,6 +71,7 @@ Uniting families for eternity includes:
 * Making covenants as we receive our own temple ordinances.
 * Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God.
 * Going to the temple regularly, where possible, to worship God and perform ordinances for His children.
+
 ## 1.3 The Purpose of the Church
 
 Jesus Christ established His Church to enable individuals and families to do the work of salvation and exaltation (see [Ephesians 4:11–13](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4.11-13?lang=eng#p11); see also [2.2](2-supporting-individuals-and-families.md#22-the-work-of-salvation-and-exaltation-in-the-home) in this handbook). To help accomplish this divine purpose, the Church and its leaders provide:

@@ -90,6 +90,7 @@ Members of these councils and committees are assigned by the First Presidency. T
 * General Authority Seventies.
 * Members of the Presiding Bishopric.
 * Members of the Relief Society, Young Women, or Primary General Presidencies.
+
 ## 5.2 Area Leadership
 
 The Church is organized into geographic areas covering the entire world. This section summarizes the leadership of the Church in these areas.
@@ -116,7 +117,7 @@ Area Seventies work and counsel together with local Church leaders to help them 
 * Preside at coordinating council meetings (see [5.2.4](5-general-and-area-leadership.md#524-coordinating-council)).
 * Preside at stake conferences and instruct stake leaders.
 * Create or reorganize stakes, set apart new stake presidencies, and confer keys on the stake president.
-* Coordinate area-wide responsibilities, including activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), [JustServe](https://www.justserve.org) (where available), disaster recovery, or other assignments.
+* Coordinate area-wide responsibilities, including activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), [JustServe.org](https://www.justserve.org) (where it is available), disaster recovery, or other assignments.
 * Tour missions and instruct mission leaders and missionaries.
 * Serve as a counselor in the Area Presidency.
 
@@ -132,6 +133,7 @@ The purposes of area council meetings include:
 * Counseling about the progress of the work of salvation and exaltation in the area.
 * Assessing the progress of area-specific initiatives.
 * Attending to other area matters.
+
 ### 5.2.4 Coordinating Council
 
 The Area Presidency establishes coordinating councils. Each council includes specified stakes and missions in an area. The Area Presidency assigns an Area Seventy to lead each council.
@@ -152,12 +154,13 @@ In these meetings, participants:
 * Coordinate the work of salvation and exaltation.
 * Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
 * Instruct and edify one another.
-* Coordinate multistake matters. These matters may include activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), efforts to build self-reliance and give community service (see [22.10.1](22-providing-for-temporal-needs.md#22101-aoresources-coordinated-by-the-stake)), emergency response efforts (see [22.9.1.3](22-providing-for-temporal-needs.md#22913-respond-to-emergencies)), and finances and audits (see [34.9](34-finances-and-audits.md#349-audits)).
+* Coordinate multistake matters. These matters may include activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), efforts to build self-reliance and give community service (see [22.10.1](22-providing-for-temporal-needs.md#22101-ao-resources-coordinated-by-the-stake)), emergency response efforts (see [22.9.1.3](22-providing-for-temporal-needs.md#22913-respond-to-emergencies)), and finances and audits (see [34.7](34-finances-and-audits.md#347-audits)).
+
 ### 5.2.5 Area Callings
 
 The Area Presidency may call members to serve in area callings to assist the Area Presidency in their responsibilities. Those serving in these positions are called and set apart by a member of the Area Presidency or an assigned Area Seventy. They are not sustained.
 
-Examples of area callings may include area executive secretary, area auditor, area communications director, and area organization adviser.
+Examples of area callings may include area executive secretary, area auditor, area communications director, area temple and family history adviser, and area organization adviser.
 
 #### 5.2.5.1 Area Organization Advisers
 

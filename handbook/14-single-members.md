@@ -2,222 +2,266 @@
 
 ## 14.0 Introduction
 
-Men and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. Worthy single members should be given opportunities to hold leadership and teaching positions as directed by the Spirit. The leadership positions include ward and stake organization presidencies, elders quorum presidencies, bishopric counselors, high councilors, and stake presidency counselors.
+The Savior invites all to come unto Him and belong to His Church (see [2 Nephi 26:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.24?lang=eng#p24)). Men and women who have not yet married or who are divorced or widowed make up a significant portion of Church membership. It is important for all to find hope through the Atonement of Jesus Christ (see [Ether 12:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12.4?lang=eng#p4)). The following eternal truths can help develop such hope:
 
-Leaders support single members by helping them draw near to the Lord, strengthen their testimonies, and take responsibility for their own spiritual, social, and temporal well-being.
+* Scriptures and latter-day prophets confirm that everyone who is faithful in keeping gospel covenants will have the opportunity for exaltation.
+* The precise time and manner in which the blessings of exaltation are bestowed have not all been revealed. But they are nonetheless assured (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
+* Waiting upon the Lord implies continued obedience and spiritual progress toward Him (see [Isaiah 64:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/64.4?lang=eng#p4)).
+* God offers eternal life to all of His children. All who qualify for the Savior’s gracious gift of forgiveness and live His commandments will receive eternal life. (See [Mosiah 26:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.30?lang=eng#p30); [Moroni 6:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.8?lang=eng#p8).)
+* Confidence in these assurances is rooted in faith in Jesus Christ. By His grace, all things pertaining to mortality are set right (see [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7.11-13?lang=eng#p11)).
 
-In caring for single members, leaders seek to strengthen family life, not compete with it or detract from it. They teach and testify of the importance of marriage and parenthood. Even when young single adults are not living with their parents, Church leaders encourage them to honor and nourish their relationships with their parents. Leaders also support single parents in their efforts to teach and nurture their children.
+The Lord needs all members to help in the work of salvation in their wards and stakes (see [1 Corinthians 12:12–27](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12.12-27?lang=eng#p12)). As directed by the Spirit, single members are called to leadership and teaching positions. Leadership callings may include serving in the following positions:
 
-Single members are divided into two groups: single adults (ages 31 and older) and young single adults (ages 18–30).
+* Ward and stake organization presidencies
+* Elders quorum presidencies
+* Bishopric counselors
+* High councilors
+* Stake presidency counselors
 
-## 14.1 Caring for Single Adult Members (Ages 31 and Older)
+In this chapter:
 
-Leaders encourage single members ages 31 and older to participate in the regular activities and programs of their conventional stakes and wards. These stakes and wards can provide a full range of Church experiences and can offer opportunities to serve, teach, lead, and associate with people of all ages. Conventional wards can also reinforce the important role of the family and the home in the gospel plan. As an exception, stake presidents may recommend the creation of a single adult ward for single adults ages 31–45 according to the guidelines in [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards).
+* “Single members” refers to all adult members of the Church who are not currently married.
+* “Young single adults” refers to those ages 18–30.
+* “Single adults” refers to those ages 31 and older.
 
-Leaders should make special efforts to understand and address the needs of single adults. Leaders should recognize that single adults’ circumstances and interests are varied. Leaders should also be sensitive that single adults sometimes feel out of place when they attend family-oriented activities and classes.
+## 14.1 Single Members in Geographic Units
 
-### 14.1.1 Stake Single Adult Leadership
+Most single members attend a geographic unit with members of all ages. They have opportunities to serve, teach, lead, and associate with people in many circumstances.
 
-The stake presidency seeks to understand the needs of single adults and to provide ways to address those needs. The stake presidency may determine that single adults in the stake need opportunities to come together for service, gospel learning, and sociality beyond what their wards provide.
+### 14.1.1 Stake Leadership
 
-The stake president may assign one of his counselors to oversee the work with single adults in the stake. The stake president may also assign a high councilor to assist in this work. The same member of the stake presidency and the same high councilor may be assigned to work with young single adults as well.
+#### 14.1.1.1 Stake Presidency
 
-### 14.1.2 Stake Single Adult Committee
+The involvement of the stake presidency is particularly important in engaging single members in the work of salvation and exaltation.
 
-The stake presidency may organize a stake single adult committee. A counselor in the stake presidency presides over this committee. The committee also includes a high councilor, a member of the stake Relief Society presidency, and several single adults. Normally this committee is organized separately from the stake young single adult committee.
+The stake president may assign one of his counselors and a high councilor to serve with single adults. He may also assign a counselor and a high councilor to serve with young single adults. The same counselor and high councilor could be assigned to both groups.
 
-The committee meets as needed. Committee members may plan ways to give single adults opportunities to come together for service, gospel learning, and sociality beyond their wards.
+The stake presidency pays particular attention to young single adults—as they do all members of the rising generation.
 
-### 14.1.3 Multistake Activities
+The stake presidency determines whether activities for young single adults should take place at the ward level, the stake level, or some combination of both. Activities for single adults take place at the stake and multistake level. (See [chapter 20](20-activities.md).)
 
-When multistake activities can provide single adults with needed opportunities for service, leadership, and social interaction, Area Seventies work with stake presidents to establish committees to plan and organize such activities.
+When the number of single members in a location is sufficient, stake presidents may recommend organizing a young single adult ward or a single adult ward (see [14.3](14-single-members.md#143-ao-young-single-adult-wards-and-stakes-and-single-adult-wards)).
 
-### 14.1.4 Participation in Single Adult Activities
+A stake (or a group of adjacent stakes) may not have enough single members to create a young single adult or single adult ward. In this situation, the Area Presidency may authorize a stake president to invite all of these members to be members of a designated geographic ward. This allows single adults or young single adults to serve and worship together. The Area Presidency counsels with their assigned member of the Presidency of the Seventy and the Quorum of the Twelve.
 
-Participation in single adult activities is limited to single adult members, assigned Church officers, and single adult nonmembers who are willing to abide by Church standards. A person who is separated from his or her spouse or is seeking a divorce may not participate until the divorce decree has become final according to law.
+#### 14.1.1.2 Stake Single Adult and Young Single Adult Committees
 
-### 14.1.5 Home Evening and Gospel Study
+Single members serve God’s children by engaging in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). To help them do so, the stake presidency may create a single adult committee (ages 31 and older). They may also create a young single adult committee (ages 18–30). These committees report regularly in stake council meetings. Members of these committees may be invited to attend stake council meetings as needed.
 
-Bishoprics may organize one or more home evening groups for single adults who do not have children in the home and do not live with their parents. These groups are not referred to as families.
+A counselor in the stake presidency leads each committee. The committees are made up of a few single adults or a few young single adults from each ward. They also include a high councilor and a member of the stake Relief Society presidency.
 
-Informally and as organized by participants, single adults may gather to strengthen one another through gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities. The committees meet as needed.
 
-## 14.2 Caring for Young Single Adult Members (Ages 18–30)
+Young single adult committees coordinate with campus institute programs, where available.
 
-Stake and ward leaders work continually to identify, locate, and shepherd young single adults in the following ways:
+Normally the single adult and young single adult committees function separately from one another.
 
-* They help young single adults find and fellowship those in their age-group who are less active in the Church.
-* They create opportunities for young single adults to associate together in meaningful service, gospel learning, and social activities. A central purpose of these activities is to help young single adults find marriage partners and prepare to marry in the temple and raise righteous families.
-* They support young single adults in fulfilling worthy personal goals and in making decisions about marriage, education, careers, and finances.
-* They ensure that each young single adult has a copy of [True to the Faith: A Gospel Reference](https://www.churchofjesuschrist.org/study/manual/true-to-the-faith?lang=eng). Young single adults are encouraged to use the book as a resource as they study gospel principles, prepare talks, teach classes, and answer questions about the Church.
-## 14.3 Young Single Adults in Conventional Stakes and Wards
+### 14.1.2 Ward Leadership
 
-### 14.3.1 Stake Leadership
+#### 14.1.2.1 Bishopric
 
-The leadership of the stake presidency is particularly important in the effort to care for young single adults. Young single adults are highly mobile. They may be unevenly distributed across the wards in the stake, and they may be difficult to locate. Because of these challenges, opportunities for social interaction, gospel learning, and service are often most effective at the stake or multistake level.
+The bishopric is key to engaging single members in the work of salvation and exaltation. They work with the ward council to identify meaningful callings and assignments for single members. They recognize and strive to help meet the needs of single parents.
 
-In his regular interview with each bishop, the stake president asks for a report on the progress of young single adults in the bishop’s ward.
+Generally, the bishopric supports single members as they support all members of the elders quorum and Relief Society. However, because of their foremost responsibility to the rising generation, the bishopric also does the following:
 
-The stake president assigns one of his counselors to oversee the work with young single adults in the stake. The stake president also assigns a high councilor to assist in this work.
+* A member of the bishopric meets with each young single adult at least once a year.
+* The bishopric receives regular updates on the well-being of young single adults. The elders quorum president and Relief Society president discuss the needs of young single adults in ward council meeting. The leaders of the young single adult committee may be invited to attend.
+* The bishopric may organize a ward young single adult committee (see [14.1.2.4](14-single-members.md#14124-ward-young-single-adult-committee)). (Single adult committees for those ages 31 and older are organized at the stake level.)
 
-Stake leaders prayerfully consider what programs and activities will best serve the needs of the young single adults in the stake. A variety of options are listed in [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward).
+#### 14.1.2.2 Elders Quorum and Relief Society Presidency Members Assigned to Young Single Adults
 
-While most young single adults live in conventional wards (many with their parents), priesthood leaders may recommend the organization of a young single adult ward when the circumstances make this desirable (see [14.4](14-single-members.md#144-young-single-adult-wards)).
+The elders quorum and Relief Society presidents may each assign a member of their presidencies to serve with young single adults. These presidency members learn of the strengths of young single adults and help meet their needs.
 
-### 14.3.2 Stake Young Single Adult Committee
+The elders quorum president and Relief Society president may report on these efforts in ward council meeting. The leaders of the young single adult committee may be invited to attend.
 
-A counselor in the stake presidency presides over the stake young single adult committee. This committee also includes the high councilor assigned to young single adults, a member of the stake Relief Society presidency, a couple called to serve as young single adult advisers, and the young single adult leaders from each ward. If wards do not have young single adult leaders, other worthy young single adults are called to serve on the committee. Normally the committee is organized separately from the stake single adult committee.
+These presidency members are part of the ward young single adult committee if one is organized.
 
-The committee meets as needed. Committee members may plan ways to give young single adults opportunities to come together for service, gospel learning (see [chapter 17](17-teaching-the-gospel.md)), and sociality beyond their wards (see [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward)). As they plan young single adult activities, they maintain a focus on spiritual growth and service, not just social experiences. In areas where campus institute programs are not accessible, this committee may serve needs that would ordinarily be met by the institute advisory council.
+#### 14.1.2.3 Young Single Adult Leaders
 
-The committee helps ensure that ward young single adult committees are functioning well in the wards where they are established.
+In a ward with many young single adults, the bishopric may call a young single adult man and woman as young single adult leaders. Their responsibilities include:
 
-### 14.3.3 Ward Leadership
+* Helping young single adults participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)).
+* Leading the ward young single adult committee if one is formed.
+* Meeting regularly with the elders quorum presidency and Relief Society presidency. In these meetings, they discuss the strengths of young single adults and how to help meet their needs. They also focus on ministering to young single adults.
+* Serving on the stake young single adult committee when assigned.
+* Attending ward council meetings when invited.
 
-#### 14.3.3.1 Bishopric
+#### 14.1.2.4 Ward Young Single Adult Committee
 
-The bishop’s foremost responsibility is to the rising generation in the ward, including young single adults. A strong relationship with the bishop and his counselors can help young single adults build greater faith in Jesus Christ and deeper connection to His gospel.
+Some wards have many young single adults. In these wards, the bishop may feel that the young single adult leaders could be assisted by a ward young single adult committee. (Single adult committees are organized at the stake level. See [14.1.1.2](14-single-members.md#14112-stake-single-adult-and-young-single-adult-committees).)
 
-To understand and address the needs of young single adults in the ward, a bishopric member interviews each young single adult at least annually. The bishopric works with the ward council to find meaningful callings for all young single adults. The bishopric may also organize a ward young single adult committee.
+Committee members include:
 
-A counselor in the bishopric oversees the young single adults in the ward. He receives regular reports from the counselors in the elders quorum and Relief Society presidencies who are assigned to work with young single adults in the ward. He may report on specific young single adults in ward council meeting.
+* Ward young single adult leaders.
+* Additional young single adults invited by the bishopric.
+* The members of the elders quorum and Relief Society presidencies assigned to young single adults.
 
-#### 14.3.3.2 Elders Quorum and Relief Society Counselors Assigned to Young Single Adults
+## 14.2 Participating in the Work of Salvation and Exaltation
 
-The elders quorum president and Relief Society president each assign a counselor to lead out in their organization’s effort to care for young single adults. These counselors periodically visit with young single adults to provide encouragement and help. They provide the assigned bishopric counselor with information about young single adults based on ministering interviews and their own visits. They also report to the elders quorum president or Relief Society president. The elders quorum president and Relief Society president may report on these efforts in ward council meeting.
+God invites all to come unto Christ and participate in the work of salvation and exaltation by:
 
-#### 14.3.3.3 Young Single Adult Leaders
+* Living the gospel of Jesus Christ.
+* Caring for those in need.
+* Inviting all to receive the gospel.
+* Uniting families for eternity.
 
-In a ward with a sufficient number of young single adults, the bishopric may call a young single adult brother and a young single adult sister to serve as young single adult leaders. These leaders report to a counselor in the bishopric. They also serve on the ward young single adult committee if one is formed. They meet with the elders quorum presidency or Relief Society presidency regularly to ensure that assignments to serve as ministering brothers and sisters help meet the needs of young single adults. They may be assigned to serve on the stake young single adult committee.
+Single members engage in this work at home and at church. They participate in elders quorums and Relief Societies. They serve in callings and assignments, including ministering. Wards and stakes may plan optional activities that are specifically for single members who choose to participate (see [14.2.1.3](14-single-members.md#14213-activities)).
 
-#### 14.3.3.4 Young Single Adult Advisers
+### 14.2.1 Living the Gospel of Jesus Christ
 
-The bishopric may call a married couple or single adults as ward young single adult advisers. These advisers are usually age 30 or older. They report to a counselor in the bishopric. They serve on the ward young single adult committee if one is formed. They may also be assigned to serve on the stake young single adult committee. They help young single adults have opportunities to gather for friendship, service, and gospel learning.
+#### 14.2.1.1 Home Evening and Gospel Study
 
-### 14.3.4 Ward Young Single Adult Committee
+Leaders or members who desire to participate may organize one or more home evening groups for single adults and other groups for young single adults. Generally, those who participate do not have children at home. In stakes with few single members, home evening groups may cross ward boundaries.
 
-In a ward with a significant number of young single adults, the stake president and bishop may feel that a ward young single adult committee is needed. A counselor in the bishopric presides over the committee. Committee members include the elders quorum and Relief Society counselors assigned to young single adults, the young single adult leaders, and the young single adult advisers.
+In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/study/come-follow-me/individuals-and-families?lang=eng) may be a resource.
 
-This committee meets as needed. Committee members discuss ways to help young single adults participate in service, leadership, gospel learning, and social activities. They also find and fellowship less-active young single adults.
+All young single adults are encouraged to enroll in institute (see [15.2](15-seminaries-and-institutes.md#152-ao-institute)).
 
-### 14.3.5 Meetings, Classes, and Activities (Stake and Ward)
+#### 14.2.1.2 Sunday School Classes
 
-Young single adults should be offered a variety of gospel learning, service, cultural, and social activities. These activities can take place at the ward, stake, or multistake level. These activities may include temple visits, priesthood or temple preparation courses, missionary work, community service, choirs, cultural events, dances, and sports.
+Under the direction of the bishop, the ward Sunday School president may organize a Sunday School class for young single adults (see [13.3.2](13-sunday-school.md#1332-sunday-school-classes-for-specific-groups)).
 
-The stake presidency establishes meetings, classes, and activities that will best meet the needs of young single adult members. The stake young single adult committee and ward leaders support the stake presidency in these efforts. The stake presidency also determines whether activities should take place at the ward level, the stake level, or some combination of both.
+#### 14.2.1.3 Activities
 
-Young single adult activities should comply with the policies and guidelines in [chapter 20](20-activities.md). Participation in these activities is limited to young single adult members, assigned Church officers, and young single adult nonmembers who are willing to abide by Church standards. A person who is separated from his or her spouse or is seeking a divorce may not participate until the divorce decree has become final according to law.
+Under the direction of ward or stake leaders, young single adults may plan and participate in activities specifically for them. These activities can take place at the ward or stake level. Examples could include:
 
-In planning young single adult activities, ward and stake leaders may consider the following options.
+* Temple visits.
+* Family history work.
+* Sharing the gospel.
+* Community service.
+* Music and cultural events.
+* Sports.
 
-#### 14.3.5.1 Finding and Inviting
+Under the direction of stake leaders, single adults may plan similar activities at the stake level.
 
-Because many young single adults change residence frequently, the stake may periodically organize activities designed to find and fellowship young single adults in the stake. These activities may be done in connection with efforts of neighboring stakes. Active young single adults are the most valuable resource in such efforts, guided by ward and stake young single adult committees. Institute personnel may also assist at times.
+Area Seventies may work with stake presidents to create committees to plan multistake activities for single members.
 
-#### 14.3.5.2 Young Single Adult Service Committees
+Funding for activities comes from stake or ward budgets. When multistake or area activities are held, leaders ensure a fair allocation of funding among stakes.
 
-Young single adults should frequently be called to serve together on service committees. These committees report to a ward or stake leader assigned by the bishopric or by the ward or stake young single adult committee. Local leaders determine the nature of the committees’ service. The service often focuses on Church programs such as welfare, family history, public outreach (communication), missionary work, activation efforts among young single adults, or support for Church facilities or projects. This service may also focus on humanitarian needs locally or elsewhere. Service committees provide opportunities to develop friendships and meet potential marriage partners. They also teach leadership and social skills.
+Funding for activities should be consistent with the policies in [20.2.6](20-activities.md#2026-funding-for-activities). As an exception, members may pay some costs when multistake or area events are held. Leaders ensure that all can participate.
 
-#### 14.3.5.3 Home Evening and Gospel Study
+For additional activity guidelines, see [20.2](20-activities.md#202-planning-activities) and [20.3](20-activities.md#203-stake-multistake-and-area-activities).
 
-Priesthood leaders may organize one or more home evening groups for young single adults who do not live with their parents and do not have children in their homes. If possible, priesthood leaders appoint a young single adult priesthood holder to lead each group. In stakes with few young single adults, stake leaders may organize home evening groups that cross ward boundaries. Home evening group leaders are accountable to assigned priesthood leaders. These groups are not referred to as families.
+### 14.2.2 Caring for Those in Need
 
-Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+#### 14.2.2.1 Service
 
-#### 14.3.5.4 Sunday School Classes
+Like all disciples of Jesus Christ, single members have regular opportunities to serve others individually and as groups. Community service is among the foremost ways that young single adults are spiritually strengthened.
 
-Wards with enough young single adults may have a separate Sunday School class for young single adults (see [13.3.2](13-sunday-school.md#1332-sunday-school-classes-for-specific-groups)).
+Service activities can focus on:
 
-#### 14.3.5.5 Weekday Gospel Study Classes
+* Welfare and self-reliance.
+* Family history.
+* Community outreach.
+* Sharing the gospel.
+* Strengthening new and returning members.
+* Humanitarian needs locally or elsewhere.
 
-All young single adults are encouraged to enroll in institute classes (see [15.2](15-seminaries-and-institutes.md#152-aoinstitute)).
+Where it is available, [JustServe.org](https://www.justserve.org) suggests service opportunities for both individuals and groups.
 
-If institute classes are not available, local leaders may contact the Seminaries and Institutes of Religion area office for assistance. As needed, local leaders may organize other group opportunities for weekday gospel study.
+#### 14.2.2.2 Ministering
 
-### 14.3.6 Multistake and Area Activities
+Each single brother is assigned ministering brothers. Each single sister is assigned ministering sisters and ministering brothers. Assignments are made to individuals, not to groups or apartments. (See [chapter 21](21-ministering.md).)
 
-Multistake and area activities can give young single adults opportunities for social interaction, leadership, and service without leaving the ecclesiastical care of their bishops.
+### 14.2.3 Inviting All to Receive the Gospel
 
-Area Seventies work with stake presidents to establish multistake committees to organize such activities. These Area Seventies work under the direction of the Area Presidency. Multistake committees should include young single adult leaders.
+Single members have an opportunity to invite all to receive the blessings of the gospel of Jesus Christ. They do this by sharing the gospel, strengthening new and returning members, and reaching out to those who are not participating. (See [chapter 23](23.md).)
 
-Multistake committees should plan activities that are varied, simple, and inexpensive and that allow for ample social interaction. These committees coordinate with young single adult wards and institutes of religion to achieve an appropriate balance of activities and to avoid duplication and scheduling conflicts.
+Some young single adults move frequently. Young single adults may periodically organize activities to find and welcome other young single adults in the stake. These activities may also be done with neighboring stakes.
 
-For additional guidelines on organizing these activities, see [20.3](20-activities.md#203-stake-multistake-and-area-activities).
+Young single adults may be particularly helpful in teaching with and supporting full-time missionaries.
 
-### 14.3.7 Funding for Activities
+### 14.2.4 Uniting Families for Eternity
 
-Normally, funding for young single adult activities comes from the stake or ward budget. When multistake or area activities are held, the responsible priesthood leader ensures a fair allocation of funding among the stakes.
+As individuals and as groups, single members can help unite families for eternity. For example, they might:
 
-Funding for activities should be consistent with the policies in [20.2.6](20-activities.md#2026-funding-for-activities). As an exception, when large multistake or area events are held, young single adults may occasionally be asked to pay some costs themselves. However, leaders should ensure that all young single adults have the opportunity to participate without incurring unreasonable personal costs.
+* Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](27-temple-ordinances-for-the-living.md#2722-deciding-when-to-receive-the-endowment)).
+* Serve as temple ordinance workers or volunteers (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
+* Participate in ordinances for the deceased.
+* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf)).
+* Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
+* Serve as temple and family history consultants (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
+* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
 
-## 14.4 Young Single Adult Wards
+## 14.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Young Single Adult Wards and Stakes and Single Adult Wards
 
-Where local circumstances and the number of young single adult members make it desirable, priesthood leaders may recommend the creation of a young single adult ward according to the guidelines in [37.2](37-specialized-stakes-wards-and-branches.md#372-young-single-adult-wards-and-branches-in-a-conventional-stake).
+Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](37-specialized-stakes-wards-and-branches.md).
 
-Eligible members may, in consultation with their parents, choose to be members of the young single adult ward or to remain in their conventional ward. The stake president may authorize the young single adult ward to find and fellowship other young single adult members of the stake who are less active. Those who become active may then choose to belong to the young single adult ward or to their conventional ward.
+* A young single adult ward for those ages 18–30 (see [37.2](37-specialized-stakes-wards-and-branches.md#372-young-single-adult-wards-and-branches-in-a-geographic-stake))
+* A young single adult stake for those ages 18–30 (see [37.3](37-specialized-stakes-wards-and-branches.md#373-young-single-adult-stakes-and-their-wards-and-branches))
+* A single adult ward for those ages 31–45 (see [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards))
 
-With approval from the stake president, the bishop of a young single adult ward may organize a second Relief Society for young single adult women and a second elders quorum for young single adult men to provide additional opportunities for young single adults to serve and associate with each other.
+These units use the regular program of the Church as much as possible. They follow the instructions in this handbook.
 
-Membership in a young single adult ward is temporary. Leaders help young single adults prepare to return to a conventional ward when they marry or reach age 31. This transition should provide sufficient time and communication to help the bishop of the conventional ward plan for a calling that helps each transitioning young single adult feel welcome and needed.
+Eligible members may choose to be members of the young single adult ward or the single adult ward, where available. Or they can choose to be members of their geographic ward.
 
-## 14.5 Young Single Adult Stakes
+Membership in a young single adult ward or a single adult ward is temporary:
 
-Priesthood leaders may recommend the creation of a young single adult stake according to the guidelines in [37.3](37-specialized-stakes-wards-and-branches.md#373-young-single-adult-stakes-and-their-wards-and-branches). That section also provides guidelines for membership and leadership in these stakes.
+* When a single member marries, he or she becomes a member of a geographic ward.
+* When a member of a young single adult ward reaches age 31, he or she becomes a member of a single adult ward (if one exists where he or she lives) or a geographic ward.
+* When a member of a single adult ward reaches age 46, he or she becomes a member of a geographic ward.
 
-## 14.6 Guidelines and Policies for Young Single Adult Wards and Stakes
+When transitioning between wards, the member and his or her leaders communicate with the leaders of the geographic ward. Leaders of the new ward assign ministering brothers and sisters. They plan for a calling or assignment that helps the member feel welcome and engaged in the work of the ward.
 
-### 14.6.1 Church Programs
+## 14.4 Additional Guidelines and Policies
 
-Young single adult wards use the regular program of the Church as much as possible. Stake presidents and bishops of young single adult stakes and wards follow the principles and instructions in this handbook. This includes instructions for welfare assistance, finances, and budget.
+### 14.4.1 Gathering Places
 
-### 14.6.2 Cooperation When Members Are Called to Serve in Young Single Adult Units
+A gathering place is a designated location where young single adults and their friends can gather for fellowship and to participate in any of the following:
 
-Officers of conventional stakes and wards should cooperate fully when their members are requested by authorized priesthood leaders to serve as leaders in young single adult stakes and wards. However, these stake and ward officers should consult with the authorized priesthood leaders if they feel that a member’s current Church responsibilities or family circumstances would make such a calling unwise or inappropriate.
+* Gospel learning, including institute
+* Self-reliance courses, educational opportunities, and support groups
+* Service and activities
+* Sharing the gospel and community outreach
+* Temple and family history work
+* Other Church programs
 
-### 14.6.3 Home Evening and Gospel Study
+All designated gathering places must be approved by the Area Presidency. Gathering places are overseen by stake presidents and bishops. They are established in existing Church facilities, such as a meetinghouse or institute building. Stake presidents who desire to establish a gathering place for young single adults should contact the Area Presidency.
 
-The bishopric of a young single adult ward may organize home evening groups as outlined in [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward).
+### 14.4.2 Monday Nights
 
-Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+As an exception, young single adult wards and single adult wards may hold activities on Monday nights, including in Church buildings (see [20.5.3](20-activities.md#2053-monday-nights)).
 
-### 14.6.4 Ministering
+### 14.4.3 Additional Elders Quorums and Relief Societies
 
-In a young single adult ward, each brother is assigned ministering brothers. Each sister is assigned ministering sisters and ministering brothers.
+With approval from the stake president, the bishop of a ward for single members may organize more than one Relief Society and elders quorum. (See [8.1.3](8-elders-quorum.md#813-ao-adapting-to-local-needs) and [9.1.3](9-relief-society.md#913-ao-adapting-to-local-needs).)
 
-### 14.6.5 Membership Records of Leaders
+### 14.4.4 Members Called to Serve in Units for Single Members
 
-The membership records of young single adult ward bishopric members and their families normally remain in their home wards. The same is true for those who serve in the stake presidency, on the high council, or in the stake Relief Society presidency of a young single adult stake. These leaders and their families pay tithing and offerings through their home wards. They also go to their home ward and stake leaders to be interviewed for temple recommends.
+Only the bishop and the stake president in units for single members need to be called from a geographic ward. As directed by the Spirit, many other callings can be filled by those in the unit for single members.
 
-### 14.6.6 Membership Records of Young Single Adults
+Those called away from their geographic ward to serve in a unit for single members usually serve no more than three to five years in these units. This time period includes cumulative service in different callings.
 
-The membership records of young single adults should be in the wards where they are members. Leaders and clerks take special care to keep records current. To avoid delays and to avoid losing track of records or people, clerks may also keep an unofficial record for young single adults who move frequently.
+Leaders of geographic stakes should be supportive when members are considered to serve in units for single members. However, leaders counsel together to understand members’ circumstances.
 
-### 14.6.7 Missionary Recommendations
+Callings may be extended to individuals or to couples. In some cases, one spouse may need to remain in a geographic ward while the other serves in a ward for single members.
 
-For information about missionary recommendations, stake presidents and bishops may refer to chapter 24.
+The membership records of bishops and their families normally remain in their geographic ward while they serve in wards for single members. The same is true for those who serve in the stake presidency or bishopric, on the high council, or in the stake Relief Society presidency if these members are called to serve outside of their geographic ward. These members and their families pay tithing and offerings in their geographic ward. They also go to their geographic ward and stake leaders for temple recommend interviews.
 
-### 14.6.8 Priesthood Ordinations
+### 14.4.5 School Breaks
 
-See [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office).
+If possible, young single adult wards function during school breaks. Multiple young single adult wards may meet together if needed. In such cases, wards keep separate records, reports of attendance, and finances.
 
-### 14.6.9 School Breaks
+### 14.4.6 Interviews in Young Single Adult Wards and Stakes
 
-If possible, young single adult wards should continue to function during school breaks. A young single adult ward that has few members during school breaks may meet with an adjacent young single adult ward. In such a circumstance, the wards keep separate records, reports of attendance, and finances.
+In most cases, the stake president interviews members who are:
 
-### 14.6.10 Temple Recommends
+* Receiving their own endowment.
+* Being sealed to a spouse.
+* Being recommended to receive the Melchizedek Priesthood.
+* Being recommended to serve missions.
 
-In most cases, the stake president interviews members who are receiving their own endowment and members who are planning to be married in a temple. As an exception, in a young single adult stake, the stake president may authorize his counselors to interview those who are receiving their own endowment or being married in a temple.
+As an exception, the stake president of a young single adult stake may authorize his counselors to conduct some of these interviews.
 
-### 14.6.11 Tenure of Service
+In large young single adult wards, bishops may authorize counselors to conduct interviews for members who are:
 
-Normally, brethren who are called to serve in the stake presidency, on the high council, or in the bishopric of a young single adult stake or ward serve no more than three to five years in callings that keep them away from their home wards. This limitation includes cumulative service in different callings.
+* Receiving their own endowment.
+* Being sealed to a spouse. (See [26.3.1](26-temple-recommends.md#2631-temple-recommend-interviews-for-members-in-wards-and-branches).)
 
-### 14.6.12 Young Single Parents
+### 14.4.7 Participation in Activities for Single Members
 
-Young single parents who have children at home normally remain in their conventional ward so the children will have the benefit of Primary and youth programs. However, the parents may attend the activities of the young single adult ward.
+A person who is separated from his or her spouse or is seeking a divorce participates in a geographic ward. He or she may attend a ward or activities for single members when his or her divorce decree is final.
 
-## 14.7 Use of Senior Couple Missionaries with Young Single Adults
+### 14.4.8 Single Parents
 
-When needed, missionary couples (local Church-service missionaries or full-time missionaries) may be called to assist in retention and rescue efforts. They encourage service, build institute enrollment, assist with social activities, and mentor young single adults during this important stage of their lives.
-
-Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](https://www.churchofjesuschrist.org/csm).” See also chapter 24.
+Members and leaders recognize and strive to help meet the specific needs of single parents. Single parents with children at home normally attend their geographic ward. Doing so allows the children to be active in Primary and youth organizations. Single parents may attend the activities of a young single adult or single adult ward.
