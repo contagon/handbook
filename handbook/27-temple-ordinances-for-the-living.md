@@ -24,7 +24,7 @@ Stake and ward leaders regularly encourage members to prepare to receive their o
 
 Resources to help members prepare to receive temple ordinances are available at [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples).
 
-Members who are preparing to receive their own endowment or to be sealed to a spouse are encouraged to participate in a temple preparation course (see [25.3.1](25-temple-and-family-history-work.md#2531-stake-presidency)).
+Members who are preparing to receive their own endowment or to be sealed to a spouse are encouraged to participate in a temple preparation course (see [25.2.8](25-temple-and-family-history-work.md#2528-temple-preparation-course)).
 
 Members meet with their bishop and stake president to obtain a recommend for living ordinances when they are:
 
@@ -64,6 +64,7 @@ Children must have adult supervision if they are on temple grounds. Temple worke
 
 * If they are being sealed to parents
 * If they are observing the sealing of their living siblings, stepsiblings, or half siblings to their parents
+
 ### 27.1.7 Meeting with Members After They Receive Temple Ordinances
 
 Members often have questions after receiving temple ordinances. Endowed family members, the bishop, other ward leaders, and ministering brothers and sisters may meet with members to discuss their temple experience.

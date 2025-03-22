@@ -78,7 +78,7 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 
 ## 18.4 Ordinances for Minor Children
 
-A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.27](38-church-policies-and-guidelines.md#38827-legal-counsel-for-church-matters)).
+A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.24](38-church-policies-and-guidelines.md#38824-legal-counsel-for-church-matters)).
 
 For guidelines about baptizing and confirming minor children, see [38.2.3.6](38-church-policies-and-guidelines.md#38236-minors).
 
@@ -175,7 +175,7 @@ Members should not request individual times for the baptism of a child. Nor shou
 
 Baptismal services for converts should be scheduled as soon as they have met the qualifications in [38.2.3.3](38-church-policies-and-guidelines.md#38233-baptism-and-confirmation-interviews). Baptism of a family member should not be delayed until a father can receive the priesthood and perform the baptism himself.
 
-Under the direction of the bishopric, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts.
+Under the bishopric’s guidance, the ward mission leader (if one is called) or the member of the elders quorum presidency who leads missionary work in the ward plans and conducts baptismal services for converts.
 
 ### 18.7.3 Who Performs the Ordinance
 
@@ -225,7 +225,7 @@ After a person is baptized, he or she is confirmed a member of the Church and re
 
 The bishop holds the priesthood keys for confirming 8-year-old members of record in a ward. The mission president holds the keys for confirming converts in a mission (for a definition of a convert baptism, see [18.7.1.2](18-priesthood-ordinances-and-blessings.md#18712-converts)). However, the bishop oversees this ordinance for 8-year-old children of record and for converts.
 
-Eight-year-old children are typically confirmed on the day they are baptized. Converts are typically confirmed in any sacrament meeting in the ward where they live, preferably on the Sunday after their baptism. However, the bishop may grant exceptions for converts to be confirmed at the baptismal service as explained in [38.2.3.2](38-church-policies-and-guidelines.md#38232-converts). Bishops should follow the guidelines in [29.2.2.8](29-meetings-in-the-church.md#29228-introducing-new-members) when introducing new members.
+Eight-year-old children are typically confirmed on the day they are baptized. Converts are typically confirmed in any sacrament meeting in the ward where they live, preferably on the Sunday after their baptism. However, the bishop may grant exceptions for converts to be confirmed at the baptismal service as explained in [38.2.3.2](38-church-policies-and-guidelines.md#38232-converts). Bishops should follow the guidelines in [29.2.1.1](29-meetings-in-the-church.md#29211-planning-sacrament-meeting) when introducing new members.
 
 ### 18.8.1 Who Performs the Ordinance
 

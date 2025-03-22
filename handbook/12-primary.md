@@ -276,7 +276,7 @@ The stake presidency calls an adult woman to serve as stake Primary president. I
 
 A counselor in the stake presidency has responsibility for Primary in the stake. He also has responsibility for the work of the stake Primary presidency. He also instructs bishops in their responsibilities for Primary.
 
-The stake presidency assigns a high councilor to work with the stake Primary presidency (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)). He serves on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)).
+The stake presidency assigns a high councilor to work with the stake Primary presidency (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)). He serves on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-aostake-youth-leadership-committee-meeting)).
 
 ## 12.5 Additional Guidelines and Policies
 
@@ -294,7 +294,7 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-For more information, see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/) and [38.8.32](38-church-policies-and-guidelines.md#38832-members-with-disabilities).
+For more information, see [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/) and [38.8.28](38-church-policies-and-guidelines.md#38828-members-with-disabilities).
 
 ### 12.5.3 Men Serving in Primary
 

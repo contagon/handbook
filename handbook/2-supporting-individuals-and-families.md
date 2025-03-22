@@ -37,7 +37,7 @@ One of the requirements for obtaining eternal life is for a man and a woman to e
 
 God has commanded husbands and wives to cleave to each other (see [Genesis 2:24](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/2.24?lang=eng#p24); [Doctrine and Covenants 42:22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.22?lang=eng#p22)). In this context, the word _cleave_ means to be completely devoted and faithful to someone. Married couples cleave together by loving and serving each other.
 
-Cleaving also includes total fidelity between husband and wife. Physical intimacy between husband and wife is intended to be beautiful and sacred. It is ordained of God for the creation of children and for the expression of love between husband and wife. Tenderness and respect﻿—not selfishness﻿—should guide their intimate relationship.
+Cleaving also includes total fidelity between husband and wife. Physical intimacy between husband and wife is intended to be beautiful and sacred. It is ordained of God for the creation of children and for the expression of love between husband and wife. Tenderness and respect—not selfishness—should guide their intimate relationship.
 
 God has commanded that sexual intimacy is to be reserved for marriage between a man and a woman. Remaining sexually pure before marriage and faithful within marriage helps individuals be truly happy and avoid spiritual, emotional, and physical harm. Parents and Church leaders are encouraged to do all they can to reinforce this teaching. (See [38.6.5](38-church-policies-and-guidelines.md#3865-chastity-and-fidelity).)
 
@@ -92,7 +92,7 @@ God has commanded His children to “remember the sabbath day, to keep it holy�
 
 Gospel teaching and learning are home-centered and Church-supported. Church leaders encourage all members to study the gospel at home on the Sabbath day and throughout the week. Gospel study at home strengthens individuals and families. It deepens conversion to Heavenly Father and the Lord Jesus Christ.
 
-A study of the scriptures as outlined in [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) is the suggested course of gospel study at home. [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me) aligns lessons in Primary, Sunday School, Young Women, Aaronic Priesthood quorums, and seminary with gospel study in the home.
+A study of the scriptures as outlined in [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) is the suggested course of gospel study at home. [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me) aligns lessons in Primary, Sunday School, Young Women, Aaronic Priesthood quorums, and seminary with gospel study in the home.
 
 Individuals and families seek inspiration as they choose to study what will best meet their needs. In addition to the scripture passages suggested in [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me), they might prayerfully consider studying:
 

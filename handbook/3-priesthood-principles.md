@@ -43,7 +43,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8?lang=eng#p8)). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.18?lang=eng#p18)). “All other authorities or offices in the church are appendages to this priesthood” ([Doctrine and Covenants 107:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.5?lang=eng#p5)).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also [chapter 5](5-general-and-area-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also [chapter 6](6-stake-leadership.md) in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also [chapter 5](5-general-and-area-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also chapter 6 in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](8-elders-quorum.md#81-purpose-and-organization).
 
@@ -150,7 +150,7 @@ Some Church callings include a responsibility to preside. For information about 
 
 ## 3.5 Priesthood Power
 
-Priesthood power is the power by which God blesses His children. God’s priesthood power flows to all members of the Church﻿—female and male﻿—as they keep the covenants they have made with Him. Members make these covenants as they receive priesthood ordinances. (See [Doctrine and Covenants 84:19–20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.19-20?lang=eng#p19).)
+Priesthood power is the power by which God blesses His children. God’s priesthood power flows to all members of the Church—female and male—as they keep the covenants they have made with Him. Members make these covenants as they receive priesthood ordinances. (See [Doctrine and Covenants 84:19–20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.19-20?lang=eng#p19).)
 
 The blessings of priesthood power that members can receive include:
 
@@ -183,7 +183,7 @@ Living individuals receive the ordinances of salvation and exaltation for themse
 
 ## 3.6 The Priesthood and the Home
 
-All Church members who keep their covenants﻿—women, men, and children﻿—are blessed with God’s priesthood power in their homes to strengthen themselves and their families (see [3.5](3-priesthood-principles.md#35-priesthood-power)). This power will assist members in doing God’s work of salvation and exaltation in their personal lives and families (see [2.2](2-supporting-individuals-and-families.md#22-the-work-of-salvation-and-exaltation-in-the-home)).
+All Church members who keep their covenants—women, men, and children—are blessed with God’s priesthood power in their homes to strengthen themselves and their families (see [3.5](3-priesthood-principles.md#35-priesthood-power)). This power will assist members in doing God’s work of salvation and exaltation in their personal lives and families (see [2.2](2-supporting-individuals-and-families.md#22-the-work-of-salvation-and-exaltation-in-the-home)).
 
 Men who hold the Melchizedek Priesthood can give priesthood blessings to family members to provide direction, healing, and comfort. When needed, Church members can also seek these blessings from extended family members, ministering brothers, or local Church leaders. For more information about priesthood blessings, see [18.13](18-priesthood-ordinances-and-blessings.md#1813-administering-to-the-sick) and [18.14](18-priesthood-ordinances-and-blessings.md#1814-blessings-of-comfort-and-counsel-including-fathers-blessings).
 
