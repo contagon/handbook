@@ -54,20 +54,24 @@ In some areas of the United States and Canada, local laws allow students to leav
 
 ## 15.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Institute
 
-Institute provides weekday gospel study classes that strengthen faith and testimony in Jesus Christ and His restored gospel. Stake leaders ensure that institute is available for all young single adults ages 18–30.
+Institute provides weekday gospel study classes that strengthen faith and testimony in Jesus Christ and His restored gospel. Stake leaders ensure that institute is available for all young adults ages 18–35.
 
-All young single adults are encouraged to attend institute classes, whether they are attending school or not. They may attend campus-based institute classes (if available). They may also attend online institute classes or stake-based classes.
+All young single adults ages 18–35 should be encouraged to attend institute classes, whether they are attending school or not. Married young adults are also welcome to attend.
+
+Classes are divided by ages 18–25 and 26–35 unless the number of participants is insufficient.
+
+BYU Pathway students, including those over 35, are required to attend institute. Pathway students ages 18–35 may choose to attend online or in-person classes. Students over 35 should attend online classes.
 
 See [Stake Institute](https://www.churchofjesuschrist.org/si/leader-resources/stake-institute) for guidelines on the following:
 
 * Establishing and operating stake-based institute classes
 * Planning for facilities
-* Calling [teachers](https://preview.churchofjesuschrist.org/si/leader-resources/seminary-and-institute-teachers)
+* Calling [teachers](https://www.churchofjesuschrist.org/si/leader-resources/seminary-and-institute-teachers)
 * Recognizing student achievement
 
 ### 15.2.1 Other Religion Classes
 
-Stake presidencies may desire to provide religion classes for adults ages 31 years and older. These classes are not a function of S&I and are not called institute classes. However, institute curriculum materials may be used for them.
+Stake presidencies may desire to provide religion classes for adults ages 36 years and older. These classes are not a function of S&I and are not called institute classes. However, institute curriculum materials may be used for them.
 
 ## 15.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Church Schools and Church Educational System
 

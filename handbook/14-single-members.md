@@ -74,7 +74,7 @@ Generally, the bishopric supports single members as they support all members of 
 
 * A member of the bishopric meets with each young single adult at least once a year.
 * The bishopric receives regular updates on the well-being of young single adults. The elders quorum president and Relief Society president discuss the needs of young single adults in ward council meeting. The leaders of the young single adult committee may be invited to attend.
-* The bishopric may organize a ward young single adult committee (see [14.1.2.4](14-single-members.md#14124-ward-young-single-adult-committee)). (Single adult committees for those ages 31 and older are organized at the stake level.)
+* The bishopric may organize a ward young single adult committee (see [14.1.2.4](14-single-members.md#14124-ward-young-single-adult-committee)). (Single adult committees for those ages 36 and older are organized at the stake level.)
 
 #### 14.1.2.2 Elders Quorum and Relief Society Presidency Members Assigned to Young Single Adults
 
@@ -184,7 +184,7 @@ Young single adults may be particularly helpful in teaching with and supporting 
 As individuals and as groups, single members can help unite families for eternity. For example, they might:
 
 * Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](27-temple-ordinances-for-the-living.md#2722-deciding-when-to-receive-the-endowment)).
-* Serve as temple ordinance workers or volunteers (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
+* Serve as temple workers (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
 * Participate in ordinances for the deceased.
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).

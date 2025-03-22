@@ -46,12 +46,12 @@ When there are enough children, they are divided into classes based on their age
 | 4 | CTR 4 |
 | 5 | CTR 5 |
 | 6 | CTR 6 |
-| 7 | CTR 7 |
+| 7 | Valiant 7 |
 | 8 | Valiant 8 |
 | 9 | Valiant 9 |
 | 10 | Valiant 10 |
 
-Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a [certificate of advancement](https://lcr.churchofjesuschrist.org/records/certificates/primary-advancement). These certificates may be generated in Leader and Clerk Resources.
+Children generally advance from Primary into Young Women or the deacons quorum in January of the year they turn 12. They may receive a [certificate of advancement](https://www.churchofjesuschrist.org/tools/help/prepare-ordinance-certificates). These certificates may be generated in Leader and Clerk Resources.
 
 In some circumstances, an 11-year-old may not be ready to leave Primary. The bishop, parents, and child counsel together about the timing.
 
@@ -65,7 +65,7 @@ Singing time is different from class time. During singing time, children learn a
 
 The Primary presidency and music leader select songs for each month to reinforce gospel principles the children are learning in their classes and at home. Songs that reinforce these principles are also suggested in [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng).
 
-For more information, see “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation](https://www.churchofjesuschrist.org/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng).” See also [12.1.6](12-primary.md#1216-childrens-sacrament-meeting-presentation) and [12.3.4](12-primary.md#1234-music-leader-and-pianist) in this handbook.
+For more information, see “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation](https://www.churchofjesuschrist.org/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng)” in Come, Follow Me. See also [12.1.6](12-primary.md#1216-childrens-sacrament-meeting-presentation) and [12.3.4](12-primary.md#1234-music-leader-and-pianist) in this handbook.
 
 ### 12.1.6 Children’s Sacrament Meeting Presentation
 
@@ -138,21 +138,29 @@ Primary meetings for children ages 3–11 are held every Sunday for 50 minutes 
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In wards with many children, Primary leaders may divide children into two groups. One group is in classes while the other group is in singing time. Then the two groups change places. Leaders adjust the time as needed.
 
-Nursery for children ages 18 months to 3 years lasts 50 minutes. [Behold Your Little Ones](https://www.churchofjesuschrist.org/study/manual/behold-your-little-ones-nursery-manual?lang=eng) provides a suggested schedule. Children may start attending nursery when they are 18 months old.
+Nursery for children ages 18 months to 3 years lasts 50 minutes. The following schedule may be used. Leaders adjust it according to the needs of the children.
+
+| Part of Meeting | Length |
+| --- | --- |
+| Welcome by nursery leader and opening prayer by nursery child, if possible | 5 minutes |
+| Activity (snack, play with simple toys and games, read, and so on) | 25 minutes |
+| Lesson from [Behold Your Little Ones](https://www.churchofjesuschrist.org/study/manual/behold-your-little-ones-nursery-manual?lang=eng) nursery manual | 10 minutes |
+| Singing time | 10 minutes |
+| Closing prayer |  |
 
 #### 12.2.1.3 Service and Activities
 
-Beginning in January of the year they turn 8, children may begin attending Primary activities. For general activity guidelines, see [chapter 20](20-activities.md).
+_Activities for All Children._ Primary presidencies may occasionally hold activities for all children ages 3 to 11. These activities help children participate in God’s work of salvation and exaltation. Activities should be fun and engaging. They build testimonies, strengthen families, and foster personal growth. For general activity guidelines, see [chapter 20](20-activities.md).
 
-Primary activity leaders plan service and activities that help children participate in God’s work of salvation and exaltation. Service and activities should be fun and engaging. They build testimonies, strengthen families, and foster personal growth.
+Primary presidencies may also organize an annual community service activity. Where possible, this activity focuses on serving children. Valiant-age children can help plan it. The activity provides children an opportunity to invite friends and ward members to join in community service.
 
-Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org); see also [20.7](20-activities.md#207-safety-policies-and-guidelines-for-activities) in this handbook). At least two responsible adult leaders should be present at all activities (see [12.5.1](12-primary.md#1251-safeguarding-children)).
+_Valiant Activities._ Beginning in January of the year they turn 8, children may begin attending Valiant activities. Most Valiant activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org); see also [20.7](20-activities.md#207-safety-policies-and-guidelines-for-activities) in this handbook). At least two responsible adult leaders must be present at all activities (see [12.5.1](12-primary.md#1251-safeguarding-children)).
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The following guidelines may be adapted to local circumstances:
 
-* Primary activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
+* Valiant activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
 * Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.
-* Leaders may choose to plan and hold annual day camps for Primary children ages 8–11. Primary activities, including day camps, do not include overnight stays.
+* Leaders may choose to plan and hold annual day camps for these children. Valiant activities, including day camps, do not include overnight stays.
 
 All supplies and activities, including day camps, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -231,7 +239,7 @@ The Primary president has the following additional responsibilities. Her counsel
 * Help plan baptismal services for children of record when asked (see [18.7.2](18-priesthood-ordinances-and-blessings.md#1872-baptismal-services)).
 * Plan and conduct the opening of Sunday Primary meetings.
 * Minister to individual children, teachers, and leaders in Primary.
-* Teach Primary leaders and teachers their responsibilities and support them in those responsibilities by orienting them to their callings (see Teaching in the Savior’s Way [2016], [38](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)).
+* Teach Primary leaders and teachers their responsibilities and support them in those responsibilities by orienting them to their callings (see Teaching in the Savior’s Way [2016], [38](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)).
 * Help Primary leaders and teachers during class time, singing time, and transitions.
 * Visit Primary classes and arrange for teachers to attend teacher council meetings.
 * Help introduce the Children and Youth program to children turning 8 and to their parents. This could occur in their homes or their Primary class (see [12.5.7](12-primary.md#1257-introducing-the-children-and-youth-program)).
@@ -258,7 +266,7 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly study of the scriptures as outlined in [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The following resources may be used:
 
 * [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng)
-* Instructions for Singing Time and the Children’s Sacrament Meeting Program
+* [Instructions for Singing Time and the Children’s Sacrament Meeting Program](https://www.churchofjesuschrist.org/study/manual/instructions-for-singing-time-and-the-childrens-sacrament-meeting-presentation?lang=eng)
 * [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook?lang=eng)
 * [Hymns](https://www.churchofjesuschrist.org/study/manual/hymns?lang=eng)
 * [Primary Music Collections](https://www.churchofjesuschrist.org/callings/primary-organization/gospel-learning/singing-time/music) on ChurchofJesusChrist.org
@@ -301,11 +309,11 @@ Primary teachers and nursery leaders stay with the children throughout Primary, 
 
 Teachers and nursery leaders attend quarterly teacher council meetings (see [13.4](13-sunday-school.md#134-improving-learning-and-teaching-in-the-ward)).
 
-### 12.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Activity Leaders
+### 12.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Valiant Activity Leaders
 
-Primary activity leaders minister to children as they plan service and activities beginning in January of the year children turn 8 (see [12.2.1.3](12-primary.md#12213-service-and-activities)). Service and activities focus on God’s work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.
+Valiant activity leaders minister to children as they plan service and activities beginning in January of the year children turn 8 (see [12.2.1.3](12-primary.md#12213-service-and-activities)). Service and activities focus on God’s work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.
 
-Primary activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). (See [12.5.1](12-primary.md#1251-safeguarding-children).)
+Valiant activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at [ProtectingChildren.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health/protecting-children-and-youth). (See [12.5.1](12-primary.md#1251-safeguarding-children).)
 
 ## 12.4 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Primary Leaders
 
@@ -331,11 +339,11 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For more information, see [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For more information, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 12.5.3 Men Serving in Primary
 
-The bishopric and Primary presidency should remember the positive influence of worthy men serving in Primary. Men may serve as teachers, nursery leaders, music leaders and pianists, and Primary activity leaders.
+The bishopric and Primary presidency should remember the positive influence of worthy men serving in Primary. Men may serve as teachers, nursery leaders, music leaders and pianists, and Valiant activity leaders.
 
 ### 12.5.4 Restroom Safety
 
@@ -351,6 +359,6 @@ When children begin the CTR 4 class, the Primary presidency and their Primary t
 
 ### 12.5.7 Introducing the Children and Youth Program
 
-At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the [emblems of belonging](https://www.churchofjesuschrist.org/youth/childrenandyouth/emblems) and a copy of [Personal Development: Children’s Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-childrens-guidebook?lang=eng). These resources are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/units-and-callings-3074457345616678802-1/children-and-youth/emblems-of-belonging).
+At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the [emblems of belonging](https://www.churchofjesuschrist.org/youth/childrenandyouth/emblems) and a copy of [Personal Development: Children’s Guidebook](https://www.churchofjesuschrist.org/study/manual/personal-development-childrens-guidebook?lang=eng). These resources are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/top-cat/units-and-callings/children-and-youth/emblems-of-belonging/5637160411.c).
 
 For more information, see [ChildrenandYouth.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth).

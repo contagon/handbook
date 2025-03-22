@@ -32,6 +32,10 @@ Some wards have a very large number of active Melchizedek Priesthood holders. Fo
 
 ## 8.2 Participating in God’s Work of Salvation and Exaltation
 
+3:42
+
+Efforts Magnified as Presidencies Work Together
+
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
@@ -78,13 +82,17 @@ For more information, see “[To Sit in Council](https://www.churchofjesuschrist
 
 #### 8.2.1.3 Activities
 
-Elders quorum presidencies may plan activities. The president oversees activities. He may ask a counselor or another quorum member to take the lead in planning and carrying them out (see [8.3.5](8-elders-quorum.md#835-additional-callings)). Presidencies discuss activities with the bishop as part of their planning.
+Elders quorum presidencies may plan activities. The president oversees activities. He may ask a counselor or another quorum member to take the lead in planning and carrying them out (see [8.3.5](8-elders-quorum.md#835-additional-callings-and-assignments)). Presidencies discuss activities with the bishop as part of their planning.
 
 Activities should strengthen quorum members’ desires to make and keep covenants and give them opportunities to gather and serve together. Activities should help accomplish the purposes of elders quorums (see [8.1](8-elders-quorum.md#81-purpose-and-organization) and [8.1.1](8-elders-quorum.md#811-purpose)).
 
 ### 8.2.2 Caring for Those in Need
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
+
+2:43
+
+How to Care for Those in Need
 
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies).
 
@@ -96,7 +104,7 @@ Ministering is caring for others as the Savior would. Members of the elders quor
 
 Ministering brothers seek to understand and respond to the needs of those they serve. Members may need short-term assistance at times of illness, births, deaths, job loss, and other circumstances.
 
-When needed, ministering brothers ask the elders quorum presidency for help. With the bishop’s approval, the presidency may call a service coordinator to organize these efforts (see [8.3.5](8-elders-quorum.md#835-additional-callings)).
+When needed, ministering brothers ask the elders quorum presidency for help. With the bishop’s approval, the presidency may call a service coordinator to organize these efforts (see [8.3.5](8-elders-quorum.md#835-additional-callings-and-assignments)).
 
 The elders quorum and Relief Society coordinate efforts to address short-term needs (see [22.3.2](22-providing-for-temporal-needs.md#2232-help-members-assess-and-address-short-term-needs)). The bishop may provide fast-offering assistance if needed.
 
@@ -106,7 +114,7 @@ For more information, see [22.6.2](22-providing-for-temporal-needs.md#2262-relie
 
 #### 8.2.2.3 Long-Term Needs and Self-Reliance
 
-As coordinated by the bishop, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22](22-providing-for-temporal-needs.md) and “[Self-Reliance](https://www.churchofjesuschrist.org/study/life-help/self-reliance?lang=eng)” in the Gospel Library app.
+As coordinated by the bishop, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22](22-providing-for-temporal-needs.md) and “[Self-Reliance](https://www.churchofjesuschrist.org/study/books-and-lessons/self-reliance-resources?lang=eng)” in the Gospel Library app.
 
 If a person or family needs assistance, the elders quorum and Relief Society presidents counsel together, as coordinated by the bishop, about how to help (see [22.4](22-providing-for-temporal-needs.md#224-principles-for-providing-church-assistance)).
 
@@ -151,6 +159,10 @@ This member of the elders quorum presidency may fulfill the role of the ward tem
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
+2:49
+
+Helping Members Gain the Vision
+
 ## 8.3 Elders Quorum Leaders
 
 ### 8.3.1 Stake Presidency and Bishop
@@ -175,7 +187,7 @@ All recommendations for calling members of elders quorum presidencies require th
 
 A member of the stake presidency presents members of the elders quorum presidency in a sacrament meeting for sustaining. The stake presidency may also assign a high councilor to do this.
 
-A member of the elders quorum presidency presents brethren who are called to other quorum callings for sustaining in a quorum meeting (see [8.3.4](8-elders-quorum.md#834-secretary) and [8.3.5](8-elders-quorum.md#835-additional-callings)).
+A member of the elders quorum presidency presents brethren who are called to other quorum callings for sustaining in a quorum meeting (see [8.3.4](8-elders-quorum.md#834-secretary) and [8.3.5](8-elders-quorum.md#835-additional-callings-and-assignments)).
 
 The stake president sets apart the elders quorum president and confers on him the keys of his calling. For more information about priesthood keys, see [3.4.1](3-priesthood-principles.md#341-priesthood-keys). A member of the stake presidency or high council sets apart the counselors.
 
@@ -228,10 +240,10 @@ The secretary’s responsibilities could include the following:
 * Prepare agendas for presidency meetings and quorum meetings.
 * Take notes in meetings and keep track of assignments.
 * Schedule ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)).
-* Prepare and submit quarterly reports of attendance and the number of ministering interviews held.
+* Prepare and submit quarterly reports of attendance and the number of ministering interviews held. Attendance reports should include brethren serving in Primary and Young Men.
 * Help prepare an annual budget and keep track of expenses.
 
-### 8.3.5 Additional Callings
+### 8.3.5 Additional Callings and Assignments
 
 The following additional callings may be helpful. The bishop and elders quorum president discuss whether they are needed.
 

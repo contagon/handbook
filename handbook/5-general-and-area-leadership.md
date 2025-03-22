@@ -44,7 +44,7 @@ _General Authority Seventies._ General Authority Seventies are called by the Fir
 
 General Authority Seventies serve full-time in the Church. They are generally released in the year they turn 70 years old and are granted emeritus status. Although they retain the office of Seventy, they no longer preside in meetings.
 
-_Quorums of the Seventy._ Members of the Seventy, including Area Seventies, are organized into quorums. The Presidency of the Seventy presides over these quorums. The number of members of the Seventy and quorums of Seventy may increase with the growth of the Church. (See [Doctrine and Covenants 107:95–96](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p95-p96#p95); [124:138–39](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=eng&id=p138-p39#p138)).
+_Quorums of the Seventy._ Members of the Seventy, including Area Seventies, are organized into quorums. The Presidency of the Seventy presides over these quorums. The number of members of the Seventy and quorums of Seventy may increase with the growth of the Church. (See [Doctrine and Covenants 107:95–96](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p95-p96#p95); [124:138–39](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=eng&id=p138-p139#p138)).
 
 #### 5.1.1.3 Presiding Bishopric
 

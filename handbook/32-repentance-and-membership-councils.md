@@ -110,6 +110,10 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 “And how great is his joy in the soul that repenteth!”
 
+6:18
+
+How to Care for Sin-burdened Members with Love
+
 ## 32.4 Confession, Confidentiality, and Reporting to Government Authorities
 
 ### 32.4.1 Confession
@@ -324,7 +328,7 @@ The Lord’s law of chastity is abstinence from sexual relations outside of a le
 
 The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p15-p16#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
-See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property. See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud.
+See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property. See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud. See [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data) for misuse of personal data.
 
 #### 32.6.2.4 Violations of Trust
 
@@ -335,7 +339,7 @@ A membership council may be necessary if a member:
 
 In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
-See [32.6.1.4](32-repentance-and-membership-councils.md#32614-violations-of-trust) for when a council is required. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property.
+See [32.6.1.4](32-repentance-and-membership-councils.md#32614-violations-of-trust) for when a council is required. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property. See [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data) for misuse of personal data.
 
 #### 32.6.2.5 Some Other Acts
 
@@ -357,8 +361,8 @@ When a Membership Council Is Required or May Be Necessary
 | --- | --- | --- |
 | Violent Acts and Abuse | • Murder<br/>• Rape<br/>• Sexual assault conviction<br/>• Child or youth abuse<br/>• Violent predatory behavior | • Attempted murder<br/>• Sexual abuse, including assault and harassment (see [38.6.18](38-church-policies-and-guidelines.md#38618-sexual-abuse-rape-and-other-forms-of-sexual-assault) for when a council is required)<br/>• Abuse of a spouse or another adult (see [38.6.2.4](38-church-policies-and-guidelines.md#38624-abuse-of-a-spouse-or-another-adult) for when a council is required) |
 | Sexual Immorality | • Incest<br/>• Child pornography<br/>• Plural marriage<br/>• Sexual predatory behavior | • Adultery, fornication, same-sex relations, and all other sexual relations outside of a legal marriage between a man and a woman, including sexual encounters online or over the phone<br/>• Cohabitation, civil unions and partnerships, and same-sex marriage<br/>• Intensive or compulsive use of pornography that has caused significant harm to a member’s marriage or family |
-| Fraudulent Acts | • Financial predatory behavior, such as fraud and similar activities (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property) | • Robbery, burglary, theft, or embezzlement (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property)<br/>• Perjury |
-| Violations of Trust | • Serious sin while holding a prominent Church position | • Serious sin while holding a position of authority or trust in the Church or the community (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property)<br/>• Serious sin that is widely known |
+| Fraudulent Acts | • Financial predatory behavior, such as fraud and similar activities (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property) | • Robbery, burglary, theft, or embezzlement (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property; see [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data) if a member was involved in the misuse of personal data)<br/>• Perjury |
+| Violations of Trust | • Serious sin while holding a prominent Church position | • Serious sin while holding a position of authority or trust in the Church or the community (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property; see [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data) if a member was involved in the misuse of personal data)<br/>• Serious sin that is widely known |
 | Some Other Acts | • Most felony convictions | • Abortion (unless an exception in [38.6.1](38-church-policies-and-guidelines.md#3861-abortion) applies)<br/>• Pattern of serious sins<br/>• Deliberate abandonment of family responsibilities, including nonpayment of child support and alimony<br/>• Sale of illegal drugs<br/>• Other serious criminal acts |
 
 ### 32.6.3 When the Stake President Counsels with the Area Presidency about Whether a Membership Council or Other Action Is Necessary
@@ -410,7 +414,21 @@ The stake president reports one of the following in [Leader and Clerk Resources]
 
 If the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, the First Presidency generally directs that his or her membership record will be annotated. “Leader” is defined as a person holding a prominent Church position, as well as counselors, clerks, and branch presidencies. When repentance is complete, a stake president may request removal of the annotation (see [32.14.5](32-repentance-and-membership-councils.md#32145-membership-records-with-annotations) and [34.7.5](34-finances-and-audits.md#3475-loss-theft-embezzlement-or-misappropriation-of-church-funds)). An annotation does not mean a membership council or other action has occurred.
 
-#### 32.6.3.4 Individuals Who Identify as Transgender
+#### 32.6.3.4 Misuse of Personal Data
+
+Misuse of personal data includes deliberately entering false information in Church records or intentionally using or sharing personal data for non-Church purposes. If a person with access to Church systems has misused personal data, promptly notify the Data Privacy Office at [DataPrivacyOfficer@ChurchofJesusChrist.org](mailto:DataPrivacyOfficer@ChurchofJesusChrist.org).
+
+In serious cases, the stake president may counsel with the Area Presidency about whether a membership council or other action is necessary. Leaders consider:
+
+* The action taken with the personal data.
+* Whether the misuse of personal data was a one-time event or a repetition.
+* Whether rectifying steps have been taken.
+* The person’s level of remorse.
+* The position held by the member (see [32.6.1.4](32-repentance-and-membership-councils.md#32614-violations-of-trust) for members holding a prominent Church position).
+
+In some cases, the First Presidency may direct that the membership record of a person who has misused personal data be annotated. This would prevent him or her from holding callings with privileged access to personal data.
+
+#### 32.6.3.5 Individuals Who Identify as Transgender
 
 Bishops and stake presidents working with persons who identify as transgender should follow the guidelines in [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).
 
@@ -996,7 +1014,7 @@ The bishop or stake president’s role as a common judge does not end when a mem
 
 The time just after a person’s membership has been restricted or withdrawn is difficult and critical for his or her family. Leaders should be sensitive to these needs and encourage and assist family members.
 
-The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals under membership restrictions may benefit from participating in indexing (see [25.4.3](25-temple-and-family-history-work.md#2543-family-history-volunteer-activities)).
+The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals with membership restrictions may benefit from volunteering in one of the ways shown under the “[Get Involved](https://www.familysearch.org/getinvolved)” tab in FamilySearch.org.
 
 If the person moves from the ward, the bishop informs the new bishop and explains what still needs to occur before Church membership restrictions can be removed. If the person’s membership was withdrawn from the Church or the person resigned membership, the bishop makes this same contact if the person has consented to be assisted by Church leaders.
 

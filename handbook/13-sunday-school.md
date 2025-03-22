@@ -34,7 +34,7 @@ The Sunday School president has the following responsibilities. If he has counse
 * Oversee efforts to improve gospel learning and teaching at home and at church.
 * Organize Sunday School classes, with the bishopric’s approval (see [13.3](13-sunday-school.md#133-sunday-school-classes)). Recommend to the bishopric adult members to serve as Sunday School teachers.
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng). Encourage them to study [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng).
-* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [38–39](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)).
+* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [38–39](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)).
 * Encourage teachers to reach out to members who do not attend classes.
 * Work with teachers to keep attendance records. Report attendance quarterly to the ward clerk or in [LCR](https://lcr.churchofjesuschrist.org) or Member Tools. A secretary, if called, can help with this responsibility.
 
@@ -81,13 +81,13 @@ Groups that could benefit from their own Sunday School class include:
 
 ## 13.4 Improving Learning and Teaching in the Ward
 
-Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [40](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng&id=title8-p24#title8)). They can ask the ward Sunday School president for help if needed.
+Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [40](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)). They can ask the ward Sunday School president for help if needed.
 
 Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022?lang=eng) is the main resource for these meetings.
 
 The ward council oversees and schedules teacher council meetings. A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see “[For Leaders—Helping Teachers Succeed](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/16-helping-teachers-succeed?lang=eng)” in Teaching in the Savior’s Way (pages 38–40).
+For more information, see “[For Leaders—Helping Teachers Succeed](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/18-for-leaders-orienting-and-supporting-teachers?lang=eng)” in Teaching in the Savior’s Way (pages 38–40).
 
 ## 13.5 Improving Learning and Teaching in the Home
 
