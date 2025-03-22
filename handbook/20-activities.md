@@ -178,7 +178,7 @@ As leaders and youth plan a youth conference, they should observe the policies i
 
 * Select a gospel theme, such as a scripture, that will inspire the youth and help them understand the expectations of the conference. The Church’s annual youth theme could be used as the conference theme. The bishopric or stake presidency should approve the theme.
 * Plan activities that are consistent with the theme.
-* Obtain the approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. See [38.8.17](38-church-policies-and-guidelines.md#38817-guest-speakers-or-instructors) for other guidelines concerning speakers.
+* Obtain the approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. See [38.8.18](38-church-policies-and-guidelines.md#38818-guest-speakers-or-instructors) for other guidelines concerning speakers.
 * If an event is planned for Sunday, it should be appropriate for the Sabbath day. Testimony meetings, discussions with the bishopric, or similar meetings are permitted. However, sacrament meetings are not to be held—and the sacrament is not to be administered—outside of meetinghouses in the ward or stake. Any exceptions must be for a Church-sponsored activity and must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
 * Ensure adequate adult supervision at all times (see [20.7.1](20-activities.md#2071-adult-supervision)).
 * Follow all safety guidelines in [20.7.6](20-activities.md#2076-safety-precautions-accident-response-and-accident-reporting).
@@ -497,7 +497,7 @@ Leaders ensure that the following policies and guidelines are observed when admi
 
 ### 20.8.1 Copyrighted Materials
 
-See [38.8.10](38-church-policies-and-guidelines.md#38810-copyrighted-materials).
+See [38.8.11](38-church-policies-and-guidelines.md#38811-copyrighted-materials).
 
 ### 20.8.2 Renting Non-Church Facilities for Activities
 

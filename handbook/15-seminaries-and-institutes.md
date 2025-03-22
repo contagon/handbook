@@ -20,7 +20,7 @@ The bishopric, youth leaders, and quorum and class presidencies encourage every 
 
 A member of the stake presidency counsels with the bishop, stake supervisor, and S&I representative about potential seminary teachers. A member of the stake presidency or an assigned high councilor calls, sets apart, and releases stake seminary teachers and [stake supervisors](https://www.churchofjesuschrist.org/si/leader-resources/stake-supervisor). After the person has been called and set apart, the S&I representative trains and supports him or her.
 
-To protect teachers and students, two adults should be present in the building or home where a seminary class is being taught. A team teacher may be called, or another responsible adult may be assigned to be present. The second adult could be the teacher’s spouse or the parent of a class member. He or she should be the same gender as the teacher, unless that person is an adult member of the teacher’s family. A teacher should never be alone in a classroom, building, or vehicle with a student unless the student is the teacher’s child.
+To protect teachers and students, two adults should be present in the building or home where a seminary class is being taught. An additional teacher may be called, or another responsible adult may be assigned to be present. The second adult could be the teacher’s spouse or the parent of a class member. He or she should be the same gender as the teacher, unless that person is an adult member of the teacher’s family. A teacher should never be alone in a classroom, building, or vehicle with a student unless the student is the teacher’s child.
 
 ### 15.1.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Seminary Options
 

@@ -77,7 +77,7 @@ Before the meeting starts, members of the congregation prepare spiritually for t
 
 #### 29.2.1.4 Selecting Speakers
 
-The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.17](38-church-policies-and-guidelines.md#38817-guest-speakers-or-instructors)). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
+The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.18](38-church-policies-and-guidelines.md#38818-guest-speakers-or-instructors)). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
 
 The bishopric extends invitations to speak well in advance of the meeting. Speakers bear testimony of Jesus Christ and teach His gospel using the scriptures (see [Doctrine and Covenants 42:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.12?lang=eng#p12); [52:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/52.9?lang=eng#p9)). Messages should build faith and be consistent with the sacred nature of the sacrament.
 
@@ -480,6 +480,7 @@ Participants
 * High council.
 * Stake clerk and executive secretary.
 * Stake Relief Society, Young Women, and Primary presidents (the stake Young Men and Sunday School presidents are present as members of the high council).
+* Stake young single adult leaders and single adult leaders (if called).
 
 The stake president may invite others to attend as needed.
 
@@ -583,7 +584,7 @@ To understand principles that guide council meetings in the Church, all council 
 
 ### 29.3.12 Other Stake Meetings
 
-Meetings of the stake single adult committee and stake young single adult committee are described in [14.1.1.2](14-single-members.md#14112-stake-single-adult-and-young-single-adult-committees).
+Meetings of the stake single adult committee and stake young single adult committee are described in [14.1.1.2](14-single-members.md#14112-stake-young-single-adult-and-single-adult-committees).
 
 ## 29.4 Coordinating Council Meetings
 

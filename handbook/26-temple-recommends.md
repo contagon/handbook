@@ -177,7 +177,7 @@ If the returned missionary does not have a Church calling, the bishop and stake 
 
 If a member has not lived in the same ward continuously for at least one year, the bishop reviews the member’s record to verify that it does not include a notation about Church membership restrictions.
 
-The bishop or an assigned counselor contacts the prior bishop before conducting a temple recommend interview. If a counselor contacts the prior bishop and learns that there is confidential information, he ends the conversation. He informs his bishop to contact the prior bishop before an interview.
+The bishop or an assigned counselor contacts the prior bishop before conducting a temple recommend interview. If a counselor learns that there is confidential information, he ends the conversation. He informs his bishop to contact the prior bishop before an interview.
 
 ### 26.5.5 After Divorce, Separation, or Annulment
 

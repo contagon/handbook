@@ -234,13 +234,13 @@ The stake president meets regularly (usually monthly) with the stake Relief Soci
 
 The stake Relief Society presidency instructs ward Relief Society presidencies in their responsibilities for missionary work and temple and family history work. They do this under the direction of the stake presidency. High councilors are assigned to assist. See [23.1](23.md#231-share-the-gospel) and [25.2](25-temple-and-family-history-work.md#252-organizing-temple-and-family-history-work-in-the-ward).
 
-If the stake has a young single adult committee, a member of the stake Relief Society presidency serves on it. The same is true if the stake has a single adult committee. (See [14.1.1.2](14-single-members.md#14112-stake-single-adult-and-young-single-adult-committees).)
+If the stake has a young single adult committee, a member of the stake Relief Society presidency serves on it. The same is true if the stake has a single adult committee. (See [14.1.1.2](14-single-members.md#14112-stake-young-single-adult-and-single-adult-committees).)
 
 ## 9.6 Additional Guidelines and Policies
 
 ### 9.6.1 Members with Disabilities
 
-The Relief Society presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) and [38.8.26](38-church-policies-and-guidelines.md#38826-members-with-disabilities).
+The Relief Society presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 9.6.2 Literacy
 

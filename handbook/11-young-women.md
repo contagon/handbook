@@ -92,7 +92,7 @@ _Annual Activities._ In addition to regular youth activities, young women may al
 * [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 * At least one activity emphasizing the standards in [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
-_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/dating?lang=eng¶=4#p4)).
+_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/dating?lang=eng&para=4#p4)).
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -301,7 +301,7 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### 11.6.2 Young Women with Disabilities
 
-Class presidencies give special care to young women who have disabilities. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For information about helping these young women, see [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/).
+Class presidencies give special care to young women who have disabilities. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) For information about helping these young women, see [disability.ChurchofJesusChrist.org](https://disability.churchofjesuschrist.org/); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 11.6.3 Children and Youth Emblems
 

@@ -34,7 +34,7 @@ Most single members attend a geographic unit with members of all ages. They have
 
 The involvement of the stake presidency is particularly important in engaging single members in the work of salvation and exaltation.
 
-The stake president may assign one of his counselors and a high councilor to serve with single adults. He may also assign a counselor and a high councilor to serve with young single adults. The same counselor and high councilor could be assigned to both groups.
+The stake president may assign one of his counselors and a high councilor to support single adults. He may also assign a counselor and a high councilor to support young single adults. He may also ask the stake Relief Society president to assign a presidency member to support single adults and young single adults. The same leaders could be assigned to both groups.
 
 The stake presidency pays particular attention to young single adults—as they do all members of the rising generation.
 
@@ -44,13 +44,21 @@ When the number of single members in a location is sufficient, stake presidents 
 
 A stake (or a group of adjacent stakes) may not have enough single members to create a young single adult or single adult ward. In this situation, the Area Presidency may authorize a stake president to invite all of these members to be members of a designated geographic ward. This allows single adults or young single adults to serve and worship together. The Area Presidency counsels with their assigned member of the Presidency of the Seventy and the Quorum of the Twelve.
 
-#### 14.1.1.2 Stake Single Adult and Young Single Adult Committees
+#### 14.1.1.2 Stake Young Single Adult and Single Adult Committees
 
-Single members serve God’s children by engaging in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). To help them do so, the stake presidency may create a single adult committee (ages 31 and older). They may also create a young single adult committee (ages 18–30). These committees report regularly in stake council meetings. Members of these committees may be invited to attend stake council meetings as needed.
+Single members serve God’s children by engaging in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
 
-A counselor in the stake presidency leads each committee. The committees are made up of a few single adults or a few young single adults from each ward. They also include a high councilor and a member of the stake Relief Society presidency.
+A young single adult man and young single adult woman are called to lead the committee. They serve on the stake council.
 
-Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities. The committees meet as needed.
+If there are not enough young single adults to form a committee in a stake, a group of neighboring stakes may create a committee with the approval of the Area Presidency.
+
+The stake presidency may also create a single adult committee. It is made up of a few single adults from each ward. A single adult man and single adult woman are called to lead the committee. They serve on the stake council.
+
+If there are not enough single adults to form a committee in a stake, a group of neighboring stakes may create a committee with the approval of the Area Presidency.
+
+Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities. 
+
+The committees meet as needed. The assigned member of the stake presidency and stake Relief Society presidency and the assigned high councilor may attend these meetings to provide support.
 
 Young single adult committees coordinate with campus institute programs, where available.
 
@@ -70,31 +78,31 @@ Generally, the bishopric supports single members as they support all members of 
 
 #### 14.1.2.2 Elders Quorum and Relief Society Presidency Members Assigned to Young Single Adults
 
-The elders quorum and Relief Society presidents may each assign a member of their presidencies to serve with young single adults. These presidency members learn of the strengths of young single adults and help meet their needs.
+The elders quorum and Relief Society presidents may each assign a member of their presidencies to support young single adults. These presidency members learn of the strengths of young single adults and help meet their needs.
 
-The elders quorum president and Relief Society president may report on these efforts in ward council meeting. The leaders of the young single adult committee may be invited to attend.
+The elders quorum president and Relief Society president may report on these efforts in ward council meeting. If there is a ward young single adult committee, the leaders of this committee are invited to attend and report on their efforts.
 
-These presidency members are part of the ward young single adult committee if one is organized.
+These presidency members support the ward young single adult committee if one is organized (see [14.1.2.4](14-single-members.md#14124-ward-young-single-adult-committee)).
 
 #### 14.1.2.3 Young Single Adult Leaders
 
 In a ward with many young single adults, the bishopric may call a young single adult man and woman as young single adult leaders. Their responsibilities include:
 
 * Helping young single adults participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)).
+* Serving on the stake young single adult committee.
 * Leading the ward young single adult committee if one is formed.
 * Meeting regularly with the elders quorum presidency and Relief Society presidency. In these meetings, they discuss the strengths of young single adults and how to help meet their needs. They also focus on ministering to young single adults.
-* Serving on the stake young single adult committee when assigned.
 * Attending ward council meetings when invited.
 
 #### 14.1.2.4 Ward Young Single Adult Committee
 
-Some wards have many young single adults. In these wards, the bishop may feel that the young single adult leaders could be assisted by a ward young single adult committee. (Single adult committees are organized at the stake level. See [14.1.1.2](14-single-members.md#14112-stake-single-adult-and-young-single-adult-committees).)
+Some wards have many young single adults. In these wards, the bishop may feel that the young single adult leaders could be assisted by a ward young single adult committee. (Single adult committees are organized at the stake level. See [14.1.1.2](14-single-members.md#14112-stake-young-single-adult-and-single-adult-committees).)
 
 Committee members include:
 
 * Ward young single adult leaders.
 * Additional young single adults invited by the bishopric.
-* The members of the elders quorum and Relief Society presidencies assigned to young single adults.
+* The members of the elders quorum and Relief Society presidencies assigned to support young single adults.
 
 ## 14.2 Participating in the Work of Salvation and Exaltation
 
