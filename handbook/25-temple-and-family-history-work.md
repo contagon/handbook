@@ -11,7 +11,7 @@ Leaders teach members about the responsibilities and blessings of temple and fam
 * They teach members to participate in family history work by identifying their ancestral family members, requesting temple ordinances for them if needed, and providing these ordinances in the temple themselves if possible.
 * They help members understand that they should not request that temple ordinances be performed for any unrelated person without the approval of the person’s closest living relative. Leaders also help members understand that they should not make such requests for famous people who are not related to them or for people whose information has been gathered from unapproved indexing projects.
 
-For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number129-p235#title_number129).
+For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity).
 
 ## 25.2 Bishop and His Counselors
 
@@ -43,7 +43,7 @@ In ward council meetings, leaders consider matters relating to temple and family
 
 The bishop may assign the elders quorum presidency to coordinate temple and family history work for the ward council. The Relief Society presidency may work closely with the elders quorum presidency and the temple and family history leader (if called) to encourage temple and family history work in the ward.
 
-For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number129-p235#title_number129).
+For information about calling a ward temple and family history leader or having a member of the elders quorum presidency fill that role, see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity).
 
 The Melchizedek Priesthood holder who serves in the role of ward temple and family history leader has the following responsibilities:
 

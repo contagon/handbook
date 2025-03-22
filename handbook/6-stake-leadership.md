@@ -41,7 +41,7 @@ _Stake High Priests Quorum._ The stake president is the president of the stake h
 
 Members of the high priests quorum attend elders quorum meetings in their ward if they are not assigned elsewhere. See [29.3.5](29-meetings-in-the-church.md#2935-stake-presidency-meeting) for information about the stake high priests quorum meeting.
 
-_Elders Quorums._ The stake presidency has responsibility for elders quorums (see [8.3.3.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number130-p241#title_number130)).
+_Elders Quorums._ The stake presidency has responsibility for elders quorums (see [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency)).
 
 _Melchizedek Priesthood Ordinations._ The stake president oversees the conferral of the Melchizedek Priesthood. He also oversees ordinations to the offices of elder and high priest (see [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices)).
 
@@ -74,7 +74,7 @@ The stake president’s responsibilities for callings and releases are outlined 
 * _Counselors in the Stake Presidency._ When a new stake president is called, the presiding General Authority or Area Seventy calls and sets apart his counselors, who are recommended by the new stake president. When a counselor needs to be released or called in an existing stake presidency, the stake president submits a recommendation through [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). He may interview, call, and set apart a counselor—or release a counselor—after receiving approval from the First Presidency.
 * _Stake Patriarch._ The stake president may interview, call, and ordain a patriarch after receiving approval from the Quorum of the Twelve Apostles. See [6.6.1](6-stake-leadership.md#661-calling-sustaining-and-ordaining-a-stake-patriarch).
 * _Bishops._ The stake president recommends brethren to be called as bishops. He also recommends their release. He submits recommendations through LCR. He may call, ordain, and set apart a bishop—or release a bishop—after receiving approval from the First Presidency. He also bestows the priesthood keys associated with this calling. See [30.7](30-callings-in-the-church.md#307-chart-of-callings).
-* _Elders Quorum Presidents._ The stake president calls and sets apart elders quorum presidents. He first consults with bishops. He also bestows the priesthood keys associated with this calling. See [8.3.3.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng¶=title_number130-p241#title_number130).
+* _Elders Quorum Presidents._ The stake president calls and sets apart elders quorum presidents. He first consults with bishops. He also bestows the priesthood keys associated with this calling. See [8.3.3.1](8-elders-quorum.md#8331-calling-an-elders-quorum-presidency).
 * _Stake Relief Society President._ The stake president calls and sets apart the stake Relief Society president.
 
 Stake presidents who are not able to use LCR should contact the area office to make recommendations when needed.
@@ -376,7 +376,7 @@ The stake Young Women presidency has the following additional responsibilities:
 The stake Sunday School presidency has the following additional responsibilities:
 
 * Serve as specialists in the stake’s efforts to improve gospel learning and teaching.
-* Coordinate resource centers in the stake where applicable (see [13.7.2](13-sunday-school.md#1372-high-councilor-assigned-to-the-stake-sunday-school)).
+* Coordinate resource centers in the stake where applicable (see [13.7.2](13-sunday-school.md#1372-resource-center)).
 * Serve on the stake youth leadership committee if invited (see [29.3.10](29-meetings-in-the-church.md#29310-stake-bishops-welfare-council-meeting)).
 ### 6.7.2 Stake Young Men Presidency
 

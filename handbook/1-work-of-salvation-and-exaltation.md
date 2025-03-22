@@ -46,6 +46,7 @@ Living the gospel of Jesus Christ includes:
 * Exercising faith in Christ, repenting daily, making covenants with God as we receive the ordinances of salvation and exaltation, and enduring to the end by keeping those covenants (see [3.5.1](3-priesthood-principles.md#351-covenants)).
 * Learning and teaching the gospel of Jesus Christ at home and at church.
 * Becoming self-reliant in providing for ourselves and our families, both spiritually and temporally.
+
 ### 1.2.2 Caring for Those in Need
 
 Caring for those in need includes:

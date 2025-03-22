@@ -45,7 +45,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also [chapter 5](5-general-and-area-leadership.md)). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also [chapter 6](6-stake-leadership.md)).
 
-For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1.1](8-elders-quorum.md#811-melchizedek-priesthood-offices-and-duties).
+For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](8-elders-quorum.md#81-purpose-and-organization).
 
 ### 3.3.2 Aaronic Priesthood
 
@@ -98,11 +98,11 @@ All who serve in the Church are set apart or assigned under the direction of one
 
 ### 3.4.2 Priesthood Conferral and Ordination
 
-Under the direction of those who hold priesthood keys, the Aaronic Priesthood and the Melchizedek Priesthood are conferred on worthy male members of the Church (see [Doctrine and Covenants 84:14–17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.14-17?lang=eng#p14)). After the appropriate priesthood is conferred, the person is ordained to an office in that priesthood, such as deacon or elder. A priesthood holder exercises the priesthood according to the rights and duties of that office (see [Doctrine and Covenants 107:99](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)).
+Under the direction of those who hold priesthood keys, the Aaronic Priesthood and the Melchizedek Priesthood are conferred on worthy male Church members (see [Doctrine and Covenants 84:14–17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.14-17?lang=eng#p14)). After the appropriate priesthood is conferred, the person is ordained to an office in that priesthood, such as deacon or elder. A priesthood holder exercises the priesthood according to the rights and duties of that office (see [Doctrine and Covenants 107:99](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)).
 
 Each man in the Church of Jesus Christ should strive to be worthy to receive and use the Melchizedek Priesthood to serve others. When a man receives this priesthood, he makes a covenant to faithfully fulfill his priesthood responsibilities. He also receives from God an oath, or promise, of eternal blessings (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.33-44?lang=eng#p33); see also Guide to the Scriptures, “[Oath and Covenant of the Priesthood](https://www.churchofjesuschrist.org/study/scriptures/gs/oath-and-covenant-of-the-priesthood?lang=eng)”).
 
-For more information about priesthood conferral and ordination, see [8.6.2](8-elders-quorum.md#862-helping-prospective-elders-prepare-to-receive-the-melchizedek-priesthood), [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood), [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office), and [38.2.5](38-church-policies-and-guidelines.md#3825-conferring-the-priesthood-and-ordaining-to-an-office).
+For more information about priesthood conferral and ordination, see [8.1.1](8-elders-quorum.md#811-purpose), [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood), [18.10](18-priesthood-ordinances-and-blessings.md#1810-conferring-the-priesthood-and-ordaining-to-an-office), and [38.2.5](38-church-policies-and-guidelines.md#3825-conferring-the-priesthood-and-ordaining-to-an-office).
 
 ### 3.4.3 Delegation of Priesthood Authority to Serve in the Church
 
