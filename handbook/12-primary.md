@@ -13,7 +13,7 @@ Primary helps children:
 * Learn and live the gospel of Jesus Christ.
 * Feel, recognize, and act on the influence of the Holy Ghost.
 * Prepare for, make, and keep sacred covenants.
-* Participate in the work of salvation and exaltation.
+* Participate in God’s work of salvation and exaltation.
 
 ### 12.1.2 Primary Theme
 
@@ -67,7 +67,7 @@ At least two people should be called for each nursery class. If the nursery lead
 
 Nursery lasts the entire time scheduled for Primary. For more information, see [12.1.3](12-primary.md#1213-ao-classes) and [12.3.5](12-primary.md#1235-teachers-and-nursery-leaders).
 
-## 12.2 Participating in the Work of Salvation and Exaltation
+## 12.2 Participating in God’s Work of Salvation and Exaltation
 
 God invites all to come unto Christ and assist in His work by:
 
@@ -76,7 +76,7 @@ God invites all to come unto Christ and assist in His work by:
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
 
-Primary helps children, families, leaders, and teachers accomplish this work. For more information about the work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
+Primary helps children, families, leaders, and teachers participate in this work. For more information about God’s work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
 
 ### 12.2.1 Living the Gospel of Jesus Christ
 
@@ -140,7 +140,7 @@ See [Temple and Priesthood Preparation](https://lds.org/callings/primary/temple-
 
 Beginning in January of the year they turn 8, children may begin attending Primary activities. For general activity guidelines, see [chapter 20](20-activities.md).
 
-Primary activity leaders plan service and activities that help accomplish the work of salvation and exaltation. Service and activities should build testimonies, strengthen families, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
+Primary activity leaders plan service and activities that help children participate in God’s work of salvation and exaltation. Service and activities should build testimonies, strengthen families, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
 Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org/); see also [20.7](20-activities.md#207-safety-policies-and-guidelines-for-activities) in this handbook). At least two responsible adult leaders should be present at all activities (see [12.5.1](12-primary.md#1251-safeguarding-children)).
 
@@ -148,9 +148,9 @@ Primary activities are held at times other than Sundays or Monday evenings. Adul
 
 * Primary activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
 * Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.
-* Leaders may choose to plan and hold annual day camps for Primary children ages 8–11. Such camps are optional. Primary activities, including day camps, do not include overnight stays.
+* Leaders may choose to plan and hold annual day camps for Primary children ages 8–11. Primary activities, including day camps, do not include overnight stays.
 
-All supplies and activities, including optional day camps, are paid for by the ward budget. Travel and expenses should not be excessive.
+All supplies and activities, including day camps, are paid for by the ward budget. Travel and expenses should not be excessive.
 
 The bishopric ensures that the budget and activities for boys and girls in Primary are sufficient and equitable. Budget is allocated according to the number of children.
 
@@ -239,7 +239,7 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 
 * Help the Primary presidency prepare agendas for presidency meetings. She attends these meetings, takes notes, and keeps track of assignments.
 * Work closely with teachers and leaders to keep accurate attendance records.
-* Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary
+* Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary.
 * Make sure the Primary presidency is aware of:
 
 	+ New children and visitors.
@@ -293,7 +293,7 @@ Teachers and nursery leaders attend quarterly teacher council meetings (see [13.
 
 ### 12.3.6 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Activity Leaders
 
-Primary activity leaders minister to children as they plan service and activities beginning in January of the year children turn 8 (see [12.2.1.3](12-primary.md#12213-service-and-activities)). Service and activities focus on the work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.
+Primary activity leaders minister to children as they plan service and activities beginning in January of the year children turn 8 (see [12.2.1.3](12-primary.md#12213-service-and-activities)). Service and activities focus on God’s work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.
 
 Primary activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at ProtectingChildren.ChurchofJesusChrist.org. (See [12.5.1](12-primary.md#1251-safeguarding-children).)
 
@@ -303,7 +303,7 @@ The stake presidency calls an adult woman to serve as stake Primary president. I
 
 A counselor in the stake presidency has responsibility for Primary in the stake. He also has responsibility for the work of the stake Primary presidency. He also instructs bishops in their responsibilities for Primary.
 
-The stake presidency assigns a high councilor to work with the stake Primary presidency (see [6.5](6-stake-leadership.md#65-high-council)). He serves on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-ao-stake-youth-leadership-committee-meeting)).
+The stake presidency assigns a high councilor to work with the stake Primary presidency (see [6.5](6-stake-leadership.md#65-high-council)).
 
 ## 12.5 Additional Guidelines and Policies
 

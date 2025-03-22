@@ -2,7 +2,7 @@
 
 ## 13.1 Purpose
 
-The Sunday School helps accomplish the work of salvation and exaltation. It does this by helping God’s children learn and live the gospel of Jesus Christ. Sunday School leaders, teachers, and classes:
+The Sunday School helps accomplish God’s work of salvation and exaltation. It does this by helping God’s children learn and live the gospel of Jesus Christ. Sunday School leaders, teachers, and classes:
 
 * Strengthen faith in Heavenly Father and Jesus Christ by teaching “the doctrine of the kingdom” ([Doctrine and Covenants 88:77](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.77?lang=eng#p77)).
 * Support home-centered and Church-supported gospel learning and teaching.
@@ -36,6 +36,7 @@ The Sunday School president has the following responsibilities. If he has counse
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng). Encourage them to study [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng).
 * Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng)).
 * Encourage teachers to reach out to members who do not attend classes.
+* Work with teachers to keep attendance records. Report attendance quarterly to the ward clerk or in [LCR](https://lcr.churchofjesuschrist.org) or Member Tools. A secretary, if called, can help with this responsibility.
 
 ### 13.2.3 Sunday School Teachers
 
@@ -49,7 +50,7 @@ Sunday School teachers attend quarterly teacher council meetings (see [17.4](17-
 
 ## 13.3 Sunday School Classes
 
-Sunday School classes are held on the first and third Sundays of the month. They last 50 minutes.
+Sunday School classes are held on the first and third Sundays of the month. They last 50 minutes. Classes begin and end with a prayer.
 
 With the bishopric’s approval, the Sunday School president organizes classes for adults and youth. If he has counselors, they assist him.
 
@@ -108,7 +109,7 @@ Sunday School teachers give special care to class members who have disabilities.
 
 ### 13.7.2 Resource Center
 
-Some meetinghouses have a resource center (library) to help members learn and teach the gospel. The ward Sunday School president oversees the resource center. Wards that share a meetinghouse also share the resource center. Seminary and institute classes and family history centers share the resource center with the wards.
+Some meetinghouses have a resource center (library) to help members learn and teach the gospel. The ward Sunday School president oversees the resource center. Wards that share a meetinghouse also share the resource center. Seminary and institute classes and FamilySearch centers share the resource center with the wards.
 
 In meetinghouses that have a resource center, the bishopric calls a resource center specialist. The Sunday School president may recommend someone to call. Or the bishopric could ask a member of the Sunday School presidency to be the specialist. This person:
 

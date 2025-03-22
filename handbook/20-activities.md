@@ -8,7 +8,7 @@ Church activities bring Church members and others together as “fellowcitizens 
 * Provide fun and foster unity.
 * Provide opportunities for personal growth.
 * Strengthen individuals and families.
-* Help members participate in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+* Help members participate in God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 Some examples of Church activities include:
 
@@ -191,11 +191,11 @@ Leaders ensure that the following policies and guidelines are observed in select
 
 ### 20.5.1 Commercial or Political Activities
 
-Activities held for any commercial or political purpose are not permitted (see [35.5.2](35.md#3552-building-uses-that-are-not-allowed)).
+Activities held for any commercial or political purpose are not permitted (see [35.5.6.1](35.md#35561-commercial-uses) and [35.5.6.3](35.md#35563-political-purposes)).
 
 ### 20.5.2 Dances and Music
 
-In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see the [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/music-and-dancing?lang=eng) booklet).
+In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see the For the Strength of Youth booklet).
 
 Leaders use the [Performance Contract](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/performance-contract.pdf) form when hiring a band, orchestra, or disc jockey. This contract helps ensure that conduct and music are appropriate for Church dances. Leaders make clear agreements in writing that commit those who provide music to follow Church standards at Church activities.
 
@@ -303,9 +303,8 @@ Members should not provide materials, supplies, rental or admission fees, or lon
 
 If the ward or stake budget does not have enough funds for the activities listed below, leaders may ask participants to pay for part or all of them:
 
-* One annual extended Aaronic Priesthood camp or similar activity.
-* One annual extended Young Women camp or similar activity.
-* One annual day camp or similar activity for Primary children ages 8 through 11.
+* One annual extended Aaronic Priesthood camp or similar activity
+* One annual extended Young Women camp or similar activity
 
 The expenses or travel for an annual camp should not be excessive. Lack of personal funds should not keep a member from participating.
 
@@ -327,7 +326,7 @@ Equipment and supplies that are purchased with ward budget funds or money raised
 
 Expenses for stake and ward activities are usually paid with budget funds. However, a stake president or bishop may authorize one fundraising event each year for the following purposes only:
 
-* To help pay for the activities listed in [20.6.2](20-activities.md#2062-funding-for-youth-camps).
+* To help pay for the activities listed in [20.6.2](20-activities.md#2062-funding-for-youth-camps) and [20.6.3](20-activities.md#2063-funding-for-fsy-conferences).
 * To help buy equipment that the unit needs for annual camps as outlined in [20.6.4](20-activities.md#2064-funding-for-equipment-and-supplies).
 
 If a fundraiser is held, it should provide a meaningful value or service.

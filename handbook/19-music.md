@@ -63,7 +63,7 @@ Music for stake conference usually includes congregational hymn singing and othe
 
 The chapel may occasionally be used for cultural arts events that include secular music, such as concerts, recitals, and other presentations. While applause is discouraged in worship services, it may be appropriate for these events.
 
-Local priesthood leaders answer questions about cultural activities held in the chapel. See [35.5](35.md#355-policies-on-using-church-property) for information about the appropriate use of meetinghouses.
+Local priesthood leaders answer questions about cultural activities held in the chapel. See [35.5](35.md#355-policies-on-using-church-meetinghouses) for information about the appropriate use of meetinghouses.
 
 ### 19.3.6 Musical Instruments
 
@@ -216,10 +216,10 @@ A supply of hymnbooks is provided to new meetinghouses. Additional hymnbooks, ch
 
 ### 19.7.2 Use of Meetinghouse Instruments for Practice, Private Instruction, and Recitals
 
-When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. This authorization is an exception as described in [35.5.2.1](35.md#35521-commercial-uses). No admittance fee should be charged for recitals.
+When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. This authorization is an exception as described in [35.5.6.1](35.md#35561-commercial-uses). No admittance fee should be charged for recitals.
 
 ### 19.7.3 Community Choirs
 
 Long-term community choirs directed by and consisting primarily of Church members are not sponsored by the Church. These choirs should not use references to the Church in their names.
 
-If the stake presidency approves, community choirs may use Church buildings for rehearsals and performances. They should follow Church standards and policies related to meetinghouses (see [35.5](35.md#355-policies-on-using-church-property)).
+If the stake presidency approves, community choirs may use Church buildings for rehearsals and performances. They should follow Church standards and policies related to meetinghouses (see [35.5](35.md#355-policies-on-using-church-meetinghouses)).

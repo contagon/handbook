@@ -1,13 +1,13 @@
-# 2. Supporting Individuals and Families in the Work of Salvation and Exaltation
+# 2. Supporting Individuals and Families in God’s Work of Salvation and Exaltation
 
 ## 2.0 Introduction
 
-As a leader in the Church of Jesus Christ, you support individuals and families in accomplishing God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)). The ultimate purpose of this work is to help all of God’s children receive the blessings of eternal life and a fulness of joy.
+As a leader in the Church of Jesus Christ, you support individuals and families in accomplishing God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). The ultimate purpose of this work is to help all of God’s children receive the blessings of eternal life and a fulness of joy.
 
-Much of the work of salvation and exaltation is accomplished through the family. For all Church members, this work is centered in the home. This chapter will help you gain a vision of:
+Much of God’s work of salvation and exaltation is accomplished through the family. For all Church members, this work is centered in the home. This chapter will help you gain a vision of:
 
 * The role of the family in God’s plan.
-* The work of salvation and exaltation in the home.
+* God’s work of salvation and exaltation in the home.
 * The relationship between the home and the Church.
 
 ## 2.1 The Role of the Family in God’s Plan
@@ -20,7 +20,7 @@ In this life, many people have limited opportunities for loving family relations
 
 Heavenly Father’s plan of happiness ensures that all His children will have the opportunity to accept His gospel and receive His greatest blessings (see [Doctrine and Covenants 137:7–10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.7-10?lang=eng#p7)). All who make and keep covenants with God can experience joy and “peace in this world, and eternal life in the world to come” ([Doctrine and Covenants 59:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59.23?lang=eng#p23); see also [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
 
-God’s promise of eternal life includes eternal marriage, children, and all other blessings of an eternal family. This promise applies to those who are not currently married or are without family in the Church (see [38.1.4](38-church-policies-and-guidelines.md#3814-unmarried-member-participation-and-blessings)). Although the precise time and manner in which the blessings of exaltation are received is not known, these blessings are assured to those who strive to live as disciples of Jesus Christ.
+God’s promise of eternal life includes eternal marriage, children, and all other blessings of an eternal family. This promise applies to those who are not currently married or are without family in the Church (see [38.1.4](38-church-policies-and-guidelines.md#3814-unmarried-member-participation-and-blessings)). These blessings are assured to all who strive to live as disciples of Jesus Christ.
 
 ### 2.1.1 Eternal Families
 
@@ -30,7 +30,7 @@ Each person may fulfill a number of roles in an eternal family. All family roles
 
 An additional aspect of establishing eternal families is performing ordinances in the temple that allow members to be sealed to their deceased ancestors.
 
-With an understanding of God’s plan, members seek the blessings of an eternal family. This includes preparing to become a worthy, loving spouse and parent.
+With an understanding of God’s plan, members seek the blessings of an eternal family.
 
 ### 2.1.2 Husband and Wife
 
@@ -50,7 +50,7 @@ Adam and Eve set an example for husbands and wives. They worked, prayed, and wor
 
 ### 2.1.3 Parents and Children
 
-Before God’s children can receive “immortality and eternal life,” they must receive a mortal body ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.39?lang=eng#p39)). God’s first commandment to Adam and Eve as husband and wife was to have children (see [Genesis 1:28](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1.28?lang=eng#p28)). Latter-day prophets have taught that “God’s commandment for His children to multiply and replenish the earth remains in force” (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&para=4#p4)”; see also [Doctrine and Covenants 49:16–17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49.16-17?lang=eng#p16)).
+God’s first commandment to Adam and Eve as husband and wife was to have children (see [Genesis 1:28](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1.28?lang=eng#p28)). Latter-day prophets have taught that “God’s commandment for His children to multiply and replenish the earth remains in force” (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&para=4#p4)”; see also [Doctrine and Covenants 49:16–17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49.16-17?lang=eng#p16)).
 
 It is a sacred privilege and responsibility for a husband and wife to care for the children they are able to bear or adopt. Adoptive parents have the same blessings and responsibilities as biological parents.
 
@@ -64,22 +64,17 @@ Presiding in the family is the responsibility to help lead family members back t
 
 “Mothers are primarily responsible for the nurture of their children” (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&para=7#p7)”). To nurture means to nourish, teach, and support, following the example of the Savior (see [3 Nephi 10:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/10.4?lang=eng#p4)). In unity with her husband, a mother helps her family learn gospel truths and develop faith in Heavenly Father and Jesus Christ. Together they foster an environment of love in the family.
 
-“In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners” (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&para=7#p7)”). They prayerfully counsel together and with the Lord. They make decisions together in unity and love, with full participation of both.
+“In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners” (“[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&para=7#p7)”). They prayerfully counsel together and with the Lord.
 
-## 2.2 The Work of Salvation and Exaltation in the Home
+## 2.2 God’s Work of Salvation and Exaltation in the Home
 
-The First Presidency said, “The home is the basis of a righteous life” (First Presidency letter, Feb. 11, 1999). In their homes, individuals and families engage in the work of salvation and exaltation. This work consists of four divinely appointed responsibilities:
+The First Presidency said, “The home is the basis of a righteous life” (First Presidency letter, Feb. 11, 1999). In their homes, individuals and families engage in helping God accomplish His work of salvation and exaltation.
 
-* Living the gospel of Jesus Christ (see [1.2.1](1-work-of-salvation-and-exaltation.md#121-living-the-gospel-of-jesus-christ))
-* Caring for those in need (see [1.2.2](1-work-of-salvation-and-exaltation.md#122-caring-for-those-in-need))
-* Inviting all to receive the gospel (see [1.2.3](1-work-of-salvation-and-exaltation.md#123-inviting-all-to-receive-the-gospel))
-* Uniting families for eternity (see [1.2.4](1-work-of-salvation-and-exaltation.md#124-uniting-families-for-eternity))
-
-To support members in doing the work of salvation and exaltation at home, Church leaders encourage them to establish a home where the Spirit is present. They also encourage members to honor the Sabbath day, study and learn the gospel at home, and hold weekly home evening. Leaders give special emphasis to supporting individuals who may lack assistance or encouragement from family members.
+To support members in doing God’s work of salvation and exaltation at home, Church leaders encourage them to establish a home where the Spirit is present. They also encourage members to honor the Sabbath day, study and learn the gospel at home, and hold weekly home evening. Leaders give special emphasis to supporting individuals who may lack assistance or encouragement from family members.
 
 ### 2.2.1 A Home Where the Spirit Is Present
 
-Church members are encouraged to make their homes a place of spiritual strength and joy. They can invite the Spirit of the Lord into their homes through simple efforts. Every home can be a “house of prayer, a house of fasting, a house of faith, a house of learning, a house of glory, a house of order, a house of God” ([Doctrine and Covenants 88:119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.119?lang=eng#p119)).
+Church members are encouraged to make their homes a place of spiritual strength and joy. They can invite the Spirit of the Lord into their homes through simple efforts.
 
 ### 2.2.2 Sabbath Observance
 
@@ -96,7 +91,7 @@ God has commanded His children to “remember the sabbath day, to keep it holy�
 
 Gospel teaching and learning are home-centered and Church-supported. Church leaders encourage all members to study the gospel at home on the Sabbath day and throughout the week. Gospel study at home strengthens individuals and families. It deepens conversion to Heavenly Father and the Lord Jesus Christ.
 
-A study of the scriptures as outlined in [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) is the suggested course of gospel study at home. [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me) aligns lessons in Primary, Sunday School, Young Women, Aaronic Priesthood quorums, and seminary with gospel study in the home.
+A study of the scriptures as outlined in [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) is the suggested course of gospel study at home.
 
 Individuals and families seek inspiration as they choose to study what will best meet their needs. In addition to the scripture passages suggested in [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me), they might prayerfully consider studying:
 
@@ -119,31 +114,21 @@ Home evening is flexible according to members’ circumstances. It may be held o
 
 Single members and others can gather in groups outside the normal Sabbath worship services to participate in home evening and strengthen one another through gospel study. [Come, Follow Me](https://www.churchofjesuschrist.org/manual/come-follow-me) may be a resource for those who desire to study together.
 
-Leaders give special attention to helping those who are new to holding home evening and studying the gospel.
-
-In addition to home evening, leaders encourage families to prioritize time together throughout the week. This could include sharing meals, working and serving together, and recreational activities.
-
 To provide time for families to be together, leaders should keep Monday evenings free from Church meetings and activities.
 
-Leaders encourage members to be consistent in holding home evening and spending time together as families (see [Doctrine and Covenants 64:33](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64.33?lang=eng#p33)).
+Leaders encourage members to be consistent in holding home evening and spending time together as families (see [Doctrine and Covenants 64:33](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64.33?lang=eng#p33)). This could include sharing meals, working and serving together, and recreational activities.
 
 ### 2.2.5 Supporting Individuals
 
-Church leaders assist members who lack family support. Members who may need additional support include:
-
-* Children, youth, and adults whose families are not actively participating in Church meetings and activities.
-* Single adults of all ages, including single parents and widowed members.
-
-Leaders help these members and their families have opportunities for fellowship, wholesome social experiences, and spiritual growth. Leaders encourage and assist them in their efforts to learn and live the gospel of Jesus Christ. Leaders also give them opportunities to serve in the Church.
+Church leaders assist members who need additional support. Leaders help these members and their families have opportunities for fellowship, wholesome social experiences, and spiritual growth. Leaders encourage and assist them in their efforts to learn and live the gospel of Jesus Christ. Leaders also give them opportunities to serve in the Church.
 
 ## 2.3 The Relationship between the Home and the Church
 
-The work of salvation and exaltation is centered in the home and supported by the Church. The following principles apply in the relationship between the home and the Church.
+God’s work of salvation and exaltation is centered in the home and supported by the Church. The following principles apply in the relationship between the home and the Church.
 
 * Leaders and teachers honor the role of parents and assist them. Leaders and teachers establish and maintain effective communication with parents.
-* Leaders seek to ensure that Church meetings, activities, and programs support individuals and families in doing the work of salvation and exaltation in their homes.
 * Some Church meetings are essential in each ward or branch. These include sacrament meeting and the classes and quorum meetings held on the Sabbath. Many other meetings, activities, and programs are not essential. Leaders organize them as needed to help meet the needs of individuals and families. Leaders take into account local circumstances and resources.
 * Individuals and families consider their circumstances when making decisions about participating in Church programs that are not essential.
-* Church service and participation entail a measure of sacrifice. The Lord will bless members as they serve and sacrifice in His Church. However, the amount of time given to Church service should not detract from members’ ability to fulfill their responsibilities at home, at work, and elsewhere. Leaders and members should not be overwhelmed with too many Church responsibilities. Nor should they be asked to make excessive sacrifices to support Church programs or activities.
+* The Lord will bless members as they serve and sacrifice in His Church. However, the amount of time given to Church service should not detract from members’ ability to fulfill their responsibilities at home, at work, and elsewhere. Leaders and members should not be overwhelmed with too many Church responsibilities. Nor should they be asked to make excessive sacrifices to support Church programs or activities.
 
 As members follow these principles and the promptings of the Spirit, Heavenly Father will bless their efforts.

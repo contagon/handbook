@@ -4,7 +4,7 @@
 
 A stake president may propose creating specialized stakes, wards, and branches to serve members as outlined in this chapter. For information about creating specialized units in a mission, see [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions).
 
-A stake president starts a new proposal at [Boundary and Leadership Proposals](https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcr.churchofjesuschrist.org%2Fboundary-proposals&data=02%7C01%7Ctaylorjd%40ChurchofJesusChrist.org%7C3d6cf8d1679e42d4e40608d79934b729%7C61e6eeb35fd74aaaae3c61e8deb09b79%7C0%7C0%7C637146323993393054&sdata=UdWOsK31dFGcOOaodhSI%2BBq4HSwLIkfuISPu%2BsgBa5Q%3D&reserved=0). If he cannot use the online system, he can download paper forms by clicking on the link. Only the First Presidency can approve the proposal.
+A stake president starts a new proposal at [Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals). If he cannot use the online system, he can download paper forms by clicking on the link. Only the First Presidency can approve the proposal.
 
 For support in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
 
@@ -43,7 +43,7 @@ See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing
 
 A stake president may propose creating a young single adult ward or branch (for members ages 18–30) if the stake has enough active young single adults who would like to attend. The following should be considered:
 
-* The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+* The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 * The effect on the geographic units from which the young single adult unit will draw members.
 * The travel time and expense required of young single adults and leaders.
 

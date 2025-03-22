@@ -8,7 +8,7 @@ The Young Women organization helps God’s children prepare to return to His pre
 
 The Young Women organization helps young women make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel.
 
-The purpose of a Young Women class is to help young women work together to accomplish the work of salvation and exaltation. In their classes, young women serve others, fulfill covenant responsibilities, build unity, and learn and live doctrine.
+The purpose of a Young Women class is to help young women work together to participate in God’s work of salvation and exaltation. In their classes, young women serve others, fulfill covenant responsibilities, build unity, and learn and live doctrine.
 
 ### 11.1.2 Young Women Theme
 
@@ -32,7 +32,7 @@ Bishoprics and adult Young Women leaders prayerfully decide how to organize clas
 
 Classes are referred to by the unifying title of “Young Women.” If a ward has more than one class, age-groups are used to distinguish classes.
 
-## 11.2 Participating in the Work of Salvation and Exaltation
+## 11.2 Participating in God’s Work of Salvation and Exaltation
 
 God invites all to come unto Christ and assist in His work by:
 
@@ -41,7 +41,7 @@ God invites all to come unto Christ and assist in His work by:
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
 
-Class presidencies, supported by adult leaders, counsel together about how to accomplish this work. For more information about the work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
+Class presidencies, supported by adult leaders, counsel together about how to help accomplish this work. For more information about God’s work of salvation and exaltation, study [chapter 1](1-work-of-salvation-and-exaltation.md).
 
 ### 11.2.1 Living the Gospel of Jesus Christ
 
@@ -61,11 +61,11 @@ Parents and leaders strive to be good examples to the youth. They mentor youth i
 
 Young Women leaders and class presidencies encourage young women and their families to learn the gospel at home. Leaders study the gospel and share with the young women what they learn. They invite class members to share at church what they are learning at home.
 
-Young Women classes meet on Sundays to strengthen faith, build unity, strengthen families and homes, and make plans to accomplish the work of salvation and exaltation. Class presidencies, supported by adult leaders, plan Sunday meetings.
+Young Women classes meet on Sundays to strengthen faith, build unity, strengthen families and homes, and make plans to participate in God’s work of salvation and exaltation. Class presidencies, supported by adult leaders, plan Sunday meetings.
 
-Class meetings are held on the second and fourth Sundays of the month. They last 50 minutes. A member of the class presidency conducts. She leads the class in reciting the theme and counseling together about assignments and other matters.
+Class meetings are held on the second and fourth Sundays of the month. They last 50 minutes. Meetings begin with a prayer. A member of the class presidency conducts. She leads the class in reciting the theme and counseling together about assignments and other matters.
 
-A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)).
+A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)). Meetings should end with a prayer.
 
 If a ward has more than one Young Women class, they meet separately. However, they may meet together when there is a special need. Young women and young men may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
@@ -73,7 +73,7 @@ Young women are encouraged to participate in seminary (see [15.1](15-seminaries-
 
 #### 11.2.1.3 Service and Activities
 
-Class presidencies, supported by adult leaders, plan service and activities. These should help accomplish the work of salvation and exaltation. Service and activities should build testimonies, strengthen families, foster class unity, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
+Class presidencies, supported by adult leaders, plan service and activities. These should help accomplish God’s work of salvation and exaltation. Service and activities should build testimonies, strengthen families, foster class unity, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Most youth activities are held at times other than on Sundays or Monday evenings. They are usually held weekly. In some areas, distance, safety, or other factors make weekly activities impractical. In these areas, activities may be held less often, but they should generally be held at least monthly. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Activities can be planned on the [Sample Service and Activity Planner](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Activity-Sample-Planner7.pdf), available on ChurchofJesusChrist.org.
 
@@ -92,7 +92,7 @@ _Annual Activities._ In addition to regular youth activities, young women may al
 * [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 * At least one activity emphasizing the standards in [For the Strength of Youth](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
-_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth/dating?lang=eng&para=4#p4)).
+_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -192,6 +192,7 @@ If the unit is large enough, the Young Women president recommends to the bishop 
 
 * Help the Young Women presidency prepare agendas for presidency meetings. She attends these meetings, takes notes, and keeps track of assignments.
 * Instruct class secretaries and help them keep attendance records.
+* Using [LCR](https://lcr.churchofjesuschrist.org), work with the Relief Society secretary to keep attendance records for adult sisters serving in Young Women.
 * Help the Young Women presidency prepare a budget and account for expenses.
 
 ### 11.3.4 Class Presidency and Secretary
@@ -214,7 +215,7 @@ Shortly after class presidencies are set apart, a member of the bishopric should
 
 Class presidents serve on the ward youth council (see [11.3.4.4](11-young-women.md#11344-ward-youth-council)). Class presidencies also have the following responsibilities:
 
-* Lead the class’s efforts to participate in the work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
+* Lead the class’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Get to know and serve each young woman, including those who do not attend class meetings. Be aware of their needs and circumstances.
 * Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.5.7](23.md#2357-coordination-meetings)).
 * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)).
@@ -230,7 +231,7 @@ Members of the Young Women presidency regularly teach class presidencies about t
 
 Young Women class presidencies meet regularly. The class president conducts these meetings. The adult Young Women leaders assigned to support the class presidency also attend. During these meetings, leaders counsel together and seek revelation about the Lord’s will for their class. The agenda could include discussion of the following items:
 
-* Accomplishing the work of salvation and exaltation
+* Helping accomplish God’s work of salvation and exaltation
 * Serving class members, with special attention to supporting new members and reaching out to less-active members
 * Reaching out to those of other faiths and beliefs
 * Planning class meetings, service, and activities
@@ -240,7 +241,7 @@ Young Women class presidencies meet regularly. The class president conducts thes
 
 #### 11.3.4.4 Ward Youth Council
 
-The purpose of the ward youth council is to help the youth bring others to Jesus Christ and to help accomplish the work of salvation and exaltation.
+The purpose of the ward youth council is to help the youth bring others to Jesus Christ and to help accomplish God’s work of salvation and exaltation.
 
 The bishop presides over the ward youth council. This council’s members include:
 
@@ -287,7 +288,9 @@ A member of the stake presidency calls an adult woman to serve as the stake Youn
 
 A counselor in the stake presidency has responsibility for the Young Women organization in the stake. He also has responsibility for the work of the stake Young Women presidency. He also instructs bishops in their responsibilities for young women.
 
-The stake presidency assigns a high councilor to work with the stake Young Women presidency (see [6.5](6-stake-leadership.md#65-high-council)). This high councilor and the Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-ao-stake-youth-leadership-committee-meeting)).
+The stake presidency assigns a high councilor to work with the stake Young Women presidency (see [6.5](6-stake-leadership.md#65-high-council)).
+
+The stake Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-ao-stake-youth-leadership-committee-meeting)).
 
 ## 11.6 Additional Guidelines and Policies
 

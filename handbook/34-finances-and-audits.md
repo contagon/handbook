@@ -2,7 +2,7 @@
 
 ## 34.0 Introduction
 
-Tithes and offerings allow the Church to pursue the Lord’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)). These funds are sacred. They represent the sacrifice and faith of members of the Church (see [Mark 12:41–44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12.41-44?lang=eng#p41)).
+Tithes and offerings allow the Church to pursue God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). These funds are sacred. They represent the sacrifice and faith of members of the Church (see [Mark 12:41–44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12.41-44?lang=eng#p41)).
 
 Some of the uses of tithes and offerings in supporting the Lord’s work include:
 
@@ -165,7 +165,7 @@ Email: [philanthropies@ChurchofJesusChrist.org](mailto:philanthropies@churchofje
 
 The Church normally discourages making in-kind contributions (non-monetary) as tithing and other offerings. It is preferable for members to dispose of the property themselves and then pay tithing and other donations monetarily. However, in-kind donations may be accepted in certain cases. Such donations may be a common practice in some areas of the world.
 
-The Church accepts (1) stocks, bonds, or other securities that are immediately marketable and (2) some marketable real estate. If members want to contribute these or other items, the stake president contacts Church headquarters or the area office for approval before authorizing the bishop to accept them.
+The Church accepts (1) stocks, bonds, or other securities that are immediately marketable and (2) some marketable real estate. Members should email [donationsinkind@churchofjesuschrist.org](mailto:donationsinkind@churchofjesuschrist.org) for instructions on how to initiate these in-kind donations. If members want to contribute other items, the stake president contacts Church headquarters or the area office for approval before authorizing the bishop to accept them.
 
 Receipts to members who make in-kind donations are issued only by Church headquarters or the area office.
 
@@ -358,7 +358,7 @@ High councilors may also serve as stake auditors. However, the stake clerk and a
 
 ### 34.7.3 The Financial Audit
 
-Stake auditors audit financial records of the stake, wards, and family history centers twice each year. They also audit the financial records of recreational properties once each year. These are opportunities to encourage, support, and kindly train those who have been called to handle the funds of the Lord’s Church.
+Stake auditors audit financial records of the stake, wards, and FamilySearch centers twice each year. They also audit the financial records of recreational properties once each year. These are opportunities to encourage, support, and kindly train those who have been called to handle the funds of the Lord’s Church.
 
 Auditors ensure that:
 
@@ -413,7 +413,7 @@ Priesthood leaders outside the United States and Canada contact the area office 
 
 ### 34.8.1 Tax-Exempt Status
 
-The Church is normally exempt from paying sales, property, income, and other taxes because it is a religious organization. Church buildings and other properties are to be used for the purposes of worship, religious instruction, and other Church-related activities. Stake and ward leaders ensure that Church facilities are not used for political, business, or investment purposes as outlined in the various examples in [35.5.2](35.md#3552-building-uses-that-are-not-allowed). To do so would violate laws that permit tax exemption of Church property.
+The Church is normally exempt from paying sales, property, income, and other taxes because it is a religious organization. Church buildings and other properties are to be used for the purposes of worship, religious instruction, and other Church-related activities. Stake and ward leaders ensure that Church facilities are not used for political, business, or investment purposes as outlined in the examples in [35.5.6.1](35.md#35561-commercial-uses) and [35.5.6.3](35.md#35563-political-purposes). To do so would violate laws that permit tax exemption of Church property.
 
 It is important that stake and ward leaders follow these guidelines to preserve the Church’s tax-exempt status. If one stake or ward misuses the Church’s tax-exempt status, other Church units could be affected.
 
