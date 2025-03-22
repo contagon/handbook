@@ -101,11 +101,11 @@ class HandbookDownloader:
 
         print(f"{filename}")
 
-        url = self.find_link(date, page)
+        url, delay = self.find_link(date, page)
         if url is None:
             return
         response = requests.get(url)
-        sleep(const.WAYBACK_DELAY)
+        sleep(delay)
         soup = BeautifulSoup(response.content, "html.parser")
         print("----Downloaded")
 
@@ -131,7 +131,7 @@ class HandbookDownloader:
 
         if curr_date == const.DATES[-1]:
             print("----Current version, no need for wayback machine")
-            return url
+            return url, 0.1
 
         # use wayback api to find closest snapshot
         next_date = const.DATES[const.DATES.index(curr_date) + 1]
@@ -160,7 +160,10 @@ class HandbookDownloader:
 
             if curr_date < down_date and down_date < next_date:
                 print(f"----Found snapshot {down_date.strftime('%Y-%m-%d')}")
-                return f"https://web.archive.org/web/{down_date.strftime('%Y%m%d%H%M%S')}id_/{url}"
+                return (
+                    f"https://web.archive.org/web/{down_date.strftime('%Y%m%d%H%M%S')}id_/{url}",
+                    const.WAYBACK_DELAY,
+                )
 
         print("----No snapshot found, skipping")
-        return None
+        return None, None

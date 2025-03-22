@@ -1,4 +1,5 @@
 version = 1
+revision = 1
 requires-python = ">=3.8"
 
 [[package]]
@@ -149,7 +150,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "markdownify", specifier = ">=0.13.1" },
+    { name = "markdownify", specifier = "<1.0" },
     { name = "requests", specifier = ">=2.32.3" },
 ]
 
