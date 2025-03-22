@@ -1,7 +1,7 @@
-from scraper.downloader import HandbookDownloader
-from scraper.sanitizer import LinkSanitizer
-from scraper.filler import FillMissing
-from scraper import const
+from handbook.downloader import HandbookDownloader
+from handbook.sanitizer import LinkSanitizer
+from handbook.filler import FillMissing
+from handbook import const
 import argparse
 from pathlib import Path
 

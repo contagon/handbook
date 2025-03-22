@@ -7,7 +7,7 @@ For those not familiar with the Church of Jesus Christ, I recommend you check ou
 The easiest way to visualize changes is via the links below. Removed text from previous editions will be shown in red on the left, and the new version with changes in green on the right.
 
 | Edition | Compare to Previous                                                    | Compare to Current                                                     |
-|---------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 2024-08 | [Link](https://github.com/contagon/handbook/compare/2024-05...2024-08) | NA                                                                     |
 | 2024-05 | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-05) | [Link](https://github.com/contagon/handbook/compare/2024-05...2024-08) |
 | 2023-08 | [Link](https://github.com/contagon/handbook/compare/2022-08...2023-08) | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-08) |
@@ -35,4 +35,6 @@ Please feel free to open an issue/pull request/etc if you have any questions or 
 
 ## Running the Scraper
 
-If you feel like running this yourself, python package requirements are found in `requirements.txt` - additionally I ran it all with python 3.10. Getting all the editions can be done via running `run.sh`, individual downloading/sanitizing/copying missing can be done via the cli interface in `run.py`. Making the diff branch is done via `branch.sh`.
+If you feel like running this yourself, python package requirements are found in the `pyproject.toml` and ran using an activated `uv` python venv. Getting all the editions can be done via running `run.sh`, individual downloading/sanitizing/copying missing can be done via the cli interface in `run.py`. Making the diff branch is done via `branch.sh`.
+
+To add a new version, simply add the new date to the `src/handbook/const.py` file and run!
