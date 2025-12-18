@@ -20,7 +20,7 @@ class FillMissing:
 
     def save_missing(self, file: str = "missing.txt"):
         # Save the missing files
-        with open(self.dir / file, "w") as f:
+        with open(self.dir / file, "w", encoding="utf8") as f:
             for filename in self.missing:
                 f.write(f"{filename}\n")
 
