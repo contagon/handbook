@@ -2,9 +2,9 @@
 
 ## 26.0 Introduction
 
-Entering the temple is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.
+Entering the house of the Lord is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.
 
-Church leaders make every effort to see that all who enter the temple are worthy to do so (see [Psalm 24:3–5](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24.3-5?lang=eng#p3)). Authorized priesthood leaders conduct temple recommend interviews and issue temple recommends to members who answer the interview questions appropriately and sincerely (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends)). The Lord promises that if those who enter the temple are clean, His presence will be there (see [Doctrine and Covenants 97:15–16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97.15-16?lang=eng#p15)).
+Church leaders make every effort to see that all who enter the house of the Lord are worthy to do so (see [Psalm 24:3–5](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24.3-5?lang=eng#p3)). Authorized priesthood leaders conduct temple recommend interviews and issue temple recommends to members who answer the interview questions appropriately and sincerely (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends)). The Lord promises that if those who enter His house are clean, His presence will be there (see [Doctrine and Covenants 97:15–16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97.15-16?lang=eng#p15)).
 
 Members must have a current temple recommend to enter a temple. Children younger than age 8 who are being sealed to their parents or observing the sealing of their siblings to their parents do not need a recommend (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
 
@@ -26,17 +26,13 @@ Priesthood leaders who are authorized to have temple recommend books should care
 
 Priesthood leaders also ensure that unauthorized individuals do not have access to temple recommend information in [LCR](https://lcr.churchofjesuschrist.org).
 
-### 26.2.2 Disposal of Expired Temple Recommends
-
-Stake and mission presidency members request old temple recommends when they interview members for a new recommend. They destroy the old recommends.
-
-### 26.2.3 Lost or Stolen Recommends
+### 26.2.2 Lost or Stolen Recommends
 
 The bishop asks members to notify him as soon as possible if their recommend is lost or stolen. He or an assigned counselor or clerk uses [LCR](https://lcr.churchofjesuschrist.org) to cancel the recommend as soon as possible. If this system is not available, the bishop contacts the temple office to have the recommend canceled.
 
-Soon after canceling the lost or stolen recommend, the bishop or an assigned counselor conducts a temple recommend interview with the member to issue a new recommend.
+The bishop or an assigned counselor then conducts a temple recommend interview with the member. If the member is worthy, the bishop or assigned counselor either reprints the recommend or issues a new one.
 
-### 26.2.4 Recommend Holders Who Are Not Living the Standards of Worthiness
+### 26.2.3 Recommend Holders Who Are Not Living the Standards of Worthiness
 
 If the bishop determines that a member who has a current recommend is not living the standards of worthiness (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends)), he requests the recommend from the member. He uses [LCR](https://lcr.churchofjesuschrist.org) to cancel the recommend. If this system is not available, the bishop contacts the temple office to have the recommend canceled.
 
@@ -44,13 +40,7 @@ If the bishop determines that a member who has a current recommend is not living
 
 Authorized priesthood leaders conduct interviews before a member can receive a temple recommend. Instructions are in [LCR](https://lcr.churchofjesuschrist.org). Priesthood leaders should issue a recommend only if the member answers the temple recommend questions appropriately.
 
-Temple recommend interviews allow members to demonstrate that they have a testimony and are striving to obey God’s commandments and follow His prophets. Priesthood leaders also affirm, through the interview, that the member is worthy.
-
-Temple recommend interviews should not be rushed. They should be private. However, the person being interviewed may invite another adult to be present. A youth may invite a parent or another adult to be present during an interview for a recommend.
-
-Priesthood leaders should not add any requirements to those that are outlined in the temple recommend book. Nor should they remove any requirements. However, when issuing recommends to youth, leaders adapt the questions to the age and circumstances of the youth.
-
-Sometimes members have questions during a temple recommend interview. The priesthood leader may explain basic gospel principles. He may also help members understand the temple recommend questions if needed. However, he should not present his personal beliefs, preferences, or interpretations as Church doctrine or policy.
+Temple recommend interviews allow members to demonstrate that they have a testimony and are striving to obey God’s commandments and follow His prophets. Priesthood leaders also affirm, through the interview, that the member is worthy. See 26.3.3 for additional information about conducting temple recommend interviews.
 
 In stakes, a member of the stake presidency or a stake clerk activates the temple recommend in [LCR](https://lcr.churchofjesuschrist.org) after it is issued. In districts, a member of the mission presidency or a mission clerk activates the recommend. Recommends for proxy baptisms and confirmations are activated when they are printed by a member of the bishopric or by the branch president. He uses [LCR](https://lcr.churchofjesuschrist.org) to print the recommends.
 
@@ -67,7 +57,7 @@ In urgent cases when the bishop is unavailable, he may authorize one of his coun
 
 In large young single adult wards, bishops may authorize experienced counselors to conduct these interviews.
 
-Before issuing a recommend in any of the situations listed above, the bishop reviews the member’s record to verify that it does not include a notation about Church membership restrictions. For members receiving their own endowment or being sealed to a spouse, he also ensures that:
+Before issuing a recommend in the situations listed above, the bishop reviews the member’s record to verify that it does not include a notation about Church membership restrictions. For members receiving their own endowment or being sealed to a spouse, he also ensures that:
 
 * The person’s baptism and confirmation are recorded on the membership record.
 * Brethren have received the Melchizedek Priesthood.
@@ -92,6 +82,58 @@ In a young single adult stake, the stake president may authorize his counselors 
 Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a temple president may interview the person and sign the recommend. Before conducting the interview, he confers with the stake or mission president. The bishop, an authorized counselor, or the branch president should have already interviewed the member and signed the recommend.
 
 This policy also applies to members in the military who are in isolated areas. They should first be interviewed by the bishop of their home ward or the unit that supports their duty station.
+
+### 26.3.3 Conducting a Temple Recommend Interview
+
+The temple is the house of the Lord. Entering the temple and participating in ordinances there is a sacred privilege. This privilege is reserved for those who are spiritually prepared and striving to live the Lord’s standards, as determined by authorized priesthood leaders.
+
+To make this determination, priesthood leaders interview the member using the questions below. Leaders should not add or remove any requirements. However, they may adapt the questions to the age and circumstances of the member.
+
+Sometimes members have questions during a temple recommend interview. The priesthood leader may explain basic gospel principles. He may also help members understand the temple recommend questions if needed. However, he should not present his personal beliefs, preferences, or interpretations as Church doctrine or policy.
+
+Temple recommend interviews should not be rushed. They should be private. However, the person being interviewed may invite a spouse, parent, or another adult to be present.
+
+#### 26.3.3.1 Temple Recommend Interview Questions
+
+1. Do you have faith in and a testimony of God, the Eternal Father; His Son, Jesus Christ; and the Holy Ghost?
+2. Do you have a testimony of the Atonement of Jesus Christ and of His role as your Savior and Redeemer?
+3. Do you have a testimony of the Restoration of the gospel of Jesus Christ?
+4. Do you sustain the President of The Church of Jesus Christ of Latter-day Saints as the prophet, seer, and revelator and as the only person on the earth authorized to exercise all priesthood keys?
+
+Do you sustain the members of the First Presidency and the Quorum of the Twelve Apostles as prophets, seers, and revelators?
+
+Do you sustain the other General Authorities and local leaders of the Church?
+5. The Lord has said that all things are to be “done in cleanliness” before Him ([Doctrine and Covenants 42:41](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.41?lang=eng#p41)).
+
+Do you strive for moral cleanliness in your thoughts and behavior?
+
+Do you obey the law of chastity?
+6. Do you follow the teachings of the Church of Jesus Christ in your private and public behavior with members of your family and others?
+7. Do you support or promote any teachings, practices, or doctrine contrary to those of The Church of Jesus Christ of Latter-day Saints?
+8. Do you strive to keep the Sabbath day holy, both at home and at church; attend your meetings; prepare for and worthily partake of the sacrament; and live your life in harmony with the laws and commandments of the gospel?
+9. Do you strive to be honest in all that you do?
+10. Are you a full-tithe payer?
+
+For new members seeking a recommend to perform proxy baptisms and confirmations: Are you willing to obey the commandment to pay tithing?
+11. Do you understand and obey the Word of Wisdom?
+12. Do you have any financial or other obligations to a former spouse or to children?
+
+If yes, are you current in meeting those obligations?
+13. Do you keep the covenants that you made in the temple, including wearing the temple garment as instructed in the endowment? (Read the “Wearing the Temple Garment” statement below to each member.)
+14. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
+15. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
+
+#### 26.3.3.2 Wearing the Temple Garment
+
+The temple garment is a reminder of covenants made in the temple and, when worn properly throughout life, will serve as a protection against temptation and evil. The garment should be worn beneath the outer clothing. It should not be removed for activities that can reasonably be done while wearing the garment, and it should not be modified to accommodate different styles of clothing. Endowed members should seek the guidance of the Holy Spirit to answer personal questions about wearing the garment.
+
+It is a sacred privilege to wear the garment and doing so is an outward expression of an inner commitment to follow the Savior Jesus Christ.
+
+If members have questions about wearing the garment, refer them to [38.5.5](38-church-policies-and-guidelines.md#3855-wearing-and-caring-for-the-garment).
+
+#### 26.3.3.3 Additional Direction
+
+The priesthood leader emphasizes to the member the need to safeguard his or her recommend. It must never be loaned and should be reported immediately to the issuer if lost or stolen.
 
 ## 26.4 Issuing Temple Recommends to Unendowed Members
 

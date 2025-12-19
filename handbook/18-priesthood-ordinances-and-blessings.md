@@ -80,9 +80,13 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 
 ## 18.4 Ordinances for Minor Children
 
-A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.23](38-church-policies-and-guidelines.md#38823-legal-counsel-for-church-matters)).
+Guidelines for obtaining approval from parents or guardians for a minor child to receive the following ordinances and blessings are provided in the sections listed below:
 
-For guidelines about baptizing and confirming minor children, see [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors).
+* For naming and blessing: [38.2.7.2](38-church-policies-and-guidelines.md#38272-children-whose-parents-are-not-married-including-divorced) and [38.2.7.3](38-church-policies-and-guidelines.md#38273-children-whose-parents-are-not-members-of-the-church)
+* For baptism and confirmation: [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors)
+* For ordination to a priesthood office: [38.2.9.2](38-church-policies-and-guidelines.md#38292-young-men-whose-parents-are-not-married-including-divorced)
+
+For questions about the legal rights of parents or guardians, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.23](38-church-policies-and-guidelines.md#38823-legal-counsel-for-church-matters)).
 
 ## 18.5 Ordinances Performed for and by Persons Who Have Disabilities
 
@@ -102,7 +106,7 @@ For information about naming and blessing children in special circumstances, see
 
 The ordinance of naming and blessing a child is performed by Melchizedek Priesthood holders, in conformity with [Doctrine and Covenants 20:70](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.70?lang=eng#p70). Priesthood leaders inform members of this before their children are named and blessed. Leaders should make every effort to avoid embarrassment or offense to individuals or families.
 
-A person or family who desires that a child receive a name and a blessing coordinates the ordinance with the bishop. He holds the priesthood keys for naming and blessing children in the ward.
+A person or family who desires that a child receive a name and a blessing coordinates the ordinance with the bishop. He holds the priesthood keys for naming and blessing children in the ward.
 
 A bishop may allow a father who holds the Melchizedek Priesthood to name and bless his child even if the father is not fully temple worthy (see [18.3](18-priesthood-ordinances-and-blessings.md#183-participation-in-an-ordinance-or-blessing)). Bishops encourage fathers to prepare themselves to bless their own children.
 
@@ -151,6 +155,10 @@ The mission president holds the priesthood keys for baptizing converts in a miss
 
 For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
+#### 18.7.1.3 Children Whose Parents Are Not Married (Including Divorced)
+
+For guidelines about baptizing and confirming minor children, see [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors).
+
 ### 18.7.2 Baptismal Services
 
 A baptismal service should be simple, brief, and spiritually uplifting. It may include the following:
@@ -167,11 +175,9 @@ A baptismal service should be simple, brief, and spiritually uplifting. It may i
 10. A closing hymn and prayer
 11. Postlude music
 
-When a baptismal service for 8-year-old children who are members of record involves only one ward, a member of the bishopric plans and conducts it. He may ask Primary leaders to help with planning.
+When a child of record is preparing to be baptized, a member of the bishopric and Primary presidency counsel with the family to plan and schedule a baptismal service. A member of the bishopric conducts the service. If more than one child will be baptized in the same month, they could share a baptismal service.
 
-When a baptismal service for these children involves more than one ward, a member of the stake presidency or an assigned high councilor plans and conducts it. He may ask Primary leaders to help with planning. A member of the bishopric from each ward with a child being baptized should attend.
-
-Members should not request individual times for the baptism of a child. Nor should they prescribe the content of the service.
+In stakes with many children of record, children from multiple wards may share the same baptismal service. In such cases, a member of the stake presidency or stake Primary presidency or a high councilor counsels with families of children being baptized to plan and schedule baptismal services. A member of the stake presidency or an assigned high councilor conducts the service. Wards or families may meet separately for a portion of the service so that each child is recognized individually. This could be, for example, for the baptismal ordinance, the confirmation, or a talk by a ward or family member. A member of the bishopric conducts that part of the service.
 
 Baptismal services for converts should be scheduled as soon as they have met the qualifications in [31.2.3.2](31.md#31232-converts). Baptism of a family member should not be delayed until a father can receive the priesthood and perform the baptism himself.
 
@@ -317,7 +323,7 @@ Although the sacrament is for members of the Church, nothing should be done to p
 6. After the prayer, priesthood holders reverently pass the bread to the members. The presiding leader receives it first, after which there is no set order. Once a tray is handed to members, they may pass it to one another.
 7. Members partake with their right hand when possible.
 8. When the bread has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those blessing the sacrament place a cloth over the bread trays and uncover the water trays.
-9. The person blessing the water kneels and says the sacrament prayer for the water (see [Doctrine and Covenants 20:79](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.79?lang=eng#p79)). He substitutes the word _water_ for _wine._
+9. The person blessing the water kneels and says the sacrament prayer for the water (see [Doctrine and Covenants 20:79](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.79?lang=eng#p79)). He uses the word _water_ instead of _wine_.
 10. After the prayer, priesthood holders reverently pass the water to the members. The presiding leader receives it first, after which there is no set order.
 11. When the water has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those who blessed the sacrament place a cloth over the trays, and those who blessed and passed the sacrament reverently take their seats.
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
@@ -371,7 +377,7 @@ The bishop holds the priesthood keys for conferring the Aaronic Priesthood and o
 
 The bishop or an assigned counselor interviews those who are to be ordained deacons or teachers to determine if they are spiritually prepared. The bishop interviews brethren who are to be ordained priests.
 
-Before interviewing a young man for priesthood ordination, a member of the bishopric obtains permission from the young man’s parents or guardians. If the parents are divorced, he obtains permission from the parent(s) with legal custody.
+Before interviewing a young man for priesthood ordination, the bishop obtains verbal permission from the parents or guardians. Permission is not required from a parent or guardian who has no legal basis for opposing the action.
 
 If the brother is found worthy in an interview, a member of the bishopric presents him for sustaining in sacrament meeting (see [18.10.3](18-priesthood-ordinances-and-blessings.md#18103-presenting-a-member-to-be-sustained-before-he-is-ordained)).
 
@@ -446,7 +452,7 @@ For information about calling, ordaining, and setting apart bishops, see [30.7](
 
 ### 18.11.1 Who Performs the Setting Apart
 
-A setting apart is performed by a Melchizedek Priesthood holder. He must receive approval from the leader who holds the appropriate priesthood keys. Those who are authorized to perform a setting apart are indicated in [30.8](30-callings-in-the-church.md#308-chart-of-callings). An elder should not act as voice or stand in the circle when a man is set apart to an office that requires him to be a high priest.
+A setting apart is performed by a Melchizedek Priesthood holder. He must receive approval from the leader who holds the appropriate priesthood keys. Those who are authorized to perform a setting apart are indicated in [30.8](30-callings-in-the-church.md#308-chart-of-callings). An elder should not act as voice or stand in the circle when a man is set apart to a calling that requires the man to be a high priest.
 
 Under the direction of the presiding leader, one or more Melchizedek Priesthood holders may participate in a setting apart. Presidents are set apart before their counselors.
 

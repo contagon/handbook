@@ -332,9 +332,11 @@ See [24.6.2.8](24.md#24628-membership-records-and-tithing).
 
 ### 33.6.7 Records of Young Single Adults
 
-Young single adults between the ages of 18 and 30 may choose to be members of either their geographic ward or a YSA ward if one is established in their area. If they choose a YSA ward, they attend the ward assigned to the boundaries in which they live. They also inform the bishop of their geographic ward for his awareness. The membership record is kept in the ward they attend.
+Young single adults between the ages of 18 and 30 may choose to be members of either their geographic ward or a YSA ward if one is established in their area. If they choose a YSA ward, they attend the ward assigned to the boundaries in which they live. They also inform the bishop of their geographic ward. The membership record is kept in the ward they attend.
 
-These principles also apply to single adults between the ages of 31 and 45 who choose to be members of a single adult ward.
+These principles also apply to single adults between the ages of 31 and 45 who choose to be members of a single adult ward.
+
+If a young single adult plans to attend a ward temporarily (for example, while attending school), the membership record is kept in the ward he or she attends. With the member’s permission, the clerk of the ward where the member’s family lives may create an out-of-unit record for him or her (see [33.6.5](33-records-and-reports.md#3365-out-of-unit-member-records)).
 
 ### 33.6.8 Records of Members Who Live in Hospitals or Care Facilities
 
@@ -394,7 +396,7 @@ See [chapter 18](18-priesthood-ordinances-and-blessings.md).
 
 ### 33.6.18 Recording and Correcting Civil Information
 
-See 33.6.
+See [33.6](33-records-and-reports.md#336-membership-records).
 
 ### 33.6.19 Audits of Membership Records
 
@@ -413,7 +415,9 @@ Each unit in the Church is to document all the important matters concerning the 
 
 Keeping a history is a spiritual work that will strengthen the faith of those who write and read it. Documenting stories throughout the year will improve the quality of the history.
 
-The stake clerk or an assistant stake clerk prepares the stake’s history. The stake presidency may also call a history specialist to help. The bishopric follows a similar approach for the ward. Instructions are available at [Stake, District, and Mission Annual Histories](https://www.churchofjesuschrist.org/callings/church-history-adviser/training/stake-district-and-mission-annual-histories-leaders-and-clerks-guide) on ChurchofJesusChrist.org.
+Stake and ward priesthood and organization leaders contribute stories using the [Unit History tool](https://unithistory.churchofjesuschrist.org) on ChurchofJesusChrist.org. Stake and ward clerks have the primary responsibility to organize and coordinate this effort. The stake presidency and bishopric may call a stake or ward history specialist to help. Additional instructions are available in the tool’s [Quick Start Guide](https://unithistory.churchofjesuschrist.org/help/quick-start-guide).
+
+Members may use the Unit History tool to view stories that have been published by their ward and stake leaders. Published stories are automatically preserved by the Church.
 
 ### 33.7.2 Church History
 
@@ -494,7 +498,7 @@ Stake technology specialists serve under the guidance of the stake clerk. Ward t
 * Support leaders and teachers who use technology tools to fulfill their callings.
 * Manage streaming of meetings and classes for those who cannot attend (see [29.7](29-meetings-in-the-church.md#297-streaming-meetings-and-holding-virtual-meetings)).
 
-In addition, the stake technology specialist has the following responsibilities for managing Church computers in the stake, including those in family history centers:
+In addition, the stake technology specialist has the following responsibilities for managing Church computers in the stake, including those in FamilySearch centers:
 
 * Implement direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
 * Maintain a current inventory of all computer hardware in the stake, with serial numbers, models, capacities, and physical locations.

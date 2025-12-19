@@ -2,7 +2,7 @@
 
 ## 5.0 Introduction
 
-Jesus Christ is the “chief corner stone” of His Church ([Ephesians 2:20](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.20?lang=eng#p20)). He holds all priesthood keys. He calls apostles and prophets to assist Him in the work of salvation and exaltation. He confers upon these chosen servants all the keys that presently pertain to the kingdom of God on the earth. (See [Doctrine and Covenants 27:12–13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27.12-13?lang=eng#p12); see also [3.4.1](3-priesthood-principles.md#341-priesthood-keys) in this handbook.)
+Jesus Christ is the “chief corner stone” of His Church ([Ephesians 2:20](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.20?lang=eng#p20)). He holds all priesthood keys. He calls apostles and prophets to assist in God’s work of salvation and exaltation. He confers upon these chosen servants all the keys that presently pertain to the kingdom of God on the earth. (See [Doctrine and Covenants 27:12–13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27.12-13?lang=eng#p12); see also [3.4.1](3-priesthood-principles.md#341-priesthood-keys) in this handbook.)
 
 Through prophets and apostles, the Lord calls men to the office of Seventy to assist in His work in all the world (see [Doctrine and Covenants 107:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.38?lang=eng#p38)). In addition, the Presiding Bishopric, General Officers, and other men and women leaders are given important responsibilities to assist in the work.
 
@@ -67,29 +67,13 @@ These General Officers serve under the direction of the First Presidency, the Qu
 General Officers may have the following responsibilities:
 
 * Teach and testify of Jesus Christ and His gospel.
-* Serve as members of general Church councils and committees as assigned (see [5.1.3](5-general-and-area-leadership.md#513-general-church-councils-and-committees)).
+* Serve as members of general Church councils and committees as assigned.
 * Fulfill assignments throughout the world to minister to members.
 * Provide guidance for curriculum, programs, and resources for their organizations.
 * Provide guidance to their general organization councils (see the next paragraph).
 * Instruct and support area organization advisers, who serve under the direction of the Area Presidencies (see [5.2.5.1](5-general-and-area-leadership.md#5251-area-organization-advisers)).
 
-Each general Church organization may have a council to assist the Presidency. Members of these councils are called by General Authorities. In the United States and Canada, these council members may help orient new stake organization presidencies (see [6.2.1.6](6-stake-leadership.md#6216-stake-organizations-and-programs)). Outside of the United States and Canada, area organization advisers may help provide this orientation (see [5.2.5.1](5-general-and-area-leadership.md#5251-area-organization-advisers)).
-
-### 5.1.3 General Church Councils and Committees
-
-General Church councils and committees provide leadership and direction for specific parts of the work of salvation and exaltation. Examples of these councils and committees are listed below:
-
-* Priesthood and Family Executive Council
-* Welfare and Self-Reliance Executive Committee
-* Missionary Executive Council
-* Temple and Family History Executive Council
-
-Members of these councils and committees are assigned by the First Presidency. They may include:
-
-* Members of the Quorum of the Twelve Apostles.
-* General Authority Seventies.
-* Members of the Presiding Bishopric.
-* Members of the Relief Society, Young Women, or Primary General Presidencies.
+Each general Church organization may have a council to assist the Presidency.
 
 ## 5.2 Area Leadership
 
@@ -125,14 +109,7 @@ Area Seventies preside at all Church meetings they attend within their area unle
 
 ### 5.2.3 Area Council
 
-In each area, an area council meets as needed (usually quarterly) to coordinate the work of salvation and exaltation in their area. The Area Presidency presides over the area council. This council consists of the Area Presidency and Area Seventies serving in the area. Others may attend part or all of the council’s meetings when needed and when invited by the Area Presidency.
-
-The purposes of area council meetings include:
-
-* Reviewing and counseling about how best to implement direction from Church leaders according to the needs and circumstances of the area.
-* Counseling about the progress of the work of salvation and exaltation in the area.
-* Assessing the progress of area-specific initiatives.
-* Attending to other area matters.
+In each area, an area council meets as needed (usually quarterly) to coordinate God’s work of salvation and exaltation in their area. The Area Presidency presides over the area council. This council consists of the Area Presidency and Area Seventies serving in the area. Others may attend part or all of the council’s meetings when needed and when invited by the Area Presidency.
 
 ### 5.2.4 Coordinating Council
 
@@ -142,19 +119,9 @@ Stake and mission presidents attend coordinating council meetings. Temple presid
 
 Others may attend part or all of the meetings when needed and when invited by the Area Seventy. Area Seventies consider distance, family circumstances, and travel when making these invitations.
 
-The purpose of coordinating council meetings is to help stake, mission, and temple presidents exercise priesthood keys in unity. Together they counsel about and coordinate efforts to help members in their responsibilities for the work of salvation and exaltation.
+The purpose of coordinating council meetings is to help stake, mission, and temple presidents exercise priesthood keys in unity. Together they counsel about and coordinate efforts to help members in their responsibilities to participate in God’s work of salvation and exaltation.
 
-The Area Seventy convenes a coordinating council meeting soon after each quarterly area council meeting. Additional meetings may be held when needed.
-
-The Area Seventy directs the meetings and facilitates the discussion. All who attend counsel together as equal participants.
-
-In these meetings, participants:
-
-* Seek revelation about how best to implement the teachings and direction of the First Presidency, Quorum of the Twelve Apostles, and Area Presidency.
-* Coordinate the work of salvation and exaltation.
-* Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
-* Instruct and edify one another.
-* Coordinate multistake matters. These matters may include activities (see [20.3.3](20-activities.md#2033-multistake-and-area-activities)), efforts to build self-reliance and give community service (see [22.10.1](22-providing-for-temporal-needs.md#22101-ao-resources-coordinated-by-the-stake)), emergency response efforts (see [22.9.1.3](22-providing-for-temporal-needs.md#22913-respond-to-emergencies)), and finances and audits (see [34.7](34-finances-and-audits.md#347-audits)).
+The Area Seventy convenes a coordinating council meeting soon after each quarterly area council meeting (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meeting)). Additional meetings may be held when needed.
 
 ### 5.2.5 Area Callings
 
@@ -166,4 +133,4 @@ Examples of area callings may include area executive secretary, area auditor, ar
 
 Outside of the United States and Canada, Area Presidencies may call women to serve as area organization advisers. These advisers may help orient and instruct new stake Relief Society, Young Women, and Primary presidencies, under the direction of these leaders’ stake presidencies (see [6.2.1.6](6-stake-leadership.md#6216-stake-organizations-and-programs)). A member of the stake presidency or an assigned high councilor participates in this orientation.
 
-Area advisers serve under the direction of their Area Presidency. They also receive regular instruction from general organization presidencies. They typically serve for three to five years.
+Area advisers serve under the direction of their Area Presidency. They also receive regular instruction from general organization presidencies. They typically serve for three years.

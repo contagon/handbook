@@ -4,7 +4,7 @@
 
 Latter-day Saints meet together to worship, edify each other, and teach and learn the gospel (see [Alma 6:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/6.6?lang=eng#p6); [Moroni 6:5–6](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.5-6?lang=eng#p5)). The Savior promised, “Where two or three are gathered together in my name, there am I in the midst of them” ([Matthew 18:20](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/18.20?lang=eng#p20)). Meeting together is one way our hearts can be “knit together in unity and in love” ([Mosiah 18:21](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.21?lang=eng#p21)).
 
-Leadership meetings help leaders counsel together and coordinate efforts to serve others. However, holding a meeting should never replace serving and ministering as Jesus Christ did. The work of salvation and exaltation can be planned in a meeting, but it is most often accomplished outside of the meeting.
+Leadership meetings help leaders counsel together and coordinate efforts to serve others. However, holding a meeting should never replace serving and ministering as Jesus Christ did. Ways to assist God in His work of salvation and exaltation can be planned in a meeting, but these are most often accomplished outside of the meeting.
 
 ## 29.1 Planning and Conducting Meetings
 
@@ -133,7 +133,7 @@ During this meeting, a member of the stake presidency or high council presents t
 
 The ward holds regular priesthood and organization meetings as part of ward conference. Stake leaders may give instruction and assistance. They minister to ward leaders and members.
 
-In connection with ward conference, the stake presidency meets with the bishopric. Together they review the progress of the work of salvation and exaltation in the ward. This meeting may be held on ward conference Sunday or at another time.
+In connection with ward conference, the stake presidency meets with the bishopric. Together they review the progress of God’s work of salvation and exaltation in the ward. This meeting may be held on ward conference Sunday or at another time.
 
 ### 29.2.4 Bishopric Meeting
 
@@ -151,7 +151,7 @@ Usually weekly.
 
 The bishop plans and conducts bishopric meetings. Matters for consideration could include:
 
-* Coordinating the work of salvation and exaltation in the ward.
+* Coordinating God’s work of salvation and exaltation in the ward.
 * Strengthening individuals and families in the ward—especially youth and children.
 * Identifying members who could prepare to receive ordinances, including priesthood ordinations.
 * Identifying members to call to ward positions.
@@ -164,7 +164,7 @@ Other items may include ward organizations and programs, the ward budget, report
 
 Purpose
 
-Help accomplish the work of salvation and exaltation in the ward (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+Help accomplish God’s work of salvation and exaltation in the ward (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 Participants
 
@@ -211,7 +211,7 @@ To understand principles that guide council meetings in the Church, all council 
 
 Purpose
 
-Strengthen the youth in the ward. Help them participate in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+Strengthen the youth in the ward. Help them participate in God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 Participants
 
@@ -230,7 +230,7 @@ The bishop may conduct ward youth council meetings. Or he may assign someone els
 
 Before each meeting, the bishop and the person conducting review the items to be discussed. These items could include the following:
 
-* The work of salvation and exaltation.
+* God’s work of salvation and exaltation.
 * Needs of youth in the ward and ways to address them.
 * Efforts to reach out to youth who are less active or new members.
 * Activities, including opportunities to serve those in need. Most of the planning is done in quorum or class presidency meetings (see [chapter 20](20-activities.md)).
@@ -423,7 +423,7 @@ Regularly (usually weekly).
 
 The stake president plans and conducts stake presidency meetings. Matters for consideration could include:
 
-* The work of salvation and exaltation in the stake.
+* God’s work of salvation and exaltation in the stake.
 * Strengthening individuals and families in the stake.
 * The needs and strengths of wards, elders quorums, and other organizations in the stake.
 * Bishops’ recommendations of men to be ordained elders.
@@ -437,7 +437,7 @@ Other items may include stake activities and programs, the stake budget, reports
 
 Purpose
 
-Counsel together about the work of salvation and exaltation in the stake (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+Counsel together about God’s work of salvation and exaltation in the stake (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 Participants
 
@@ -455,7 +455,7 @@ The stake presidency plans and conducts high council meetings. These meetings ma
 
 * Receiving instruction from the stake presidency on doctrine and assignments.
 * Counseling together about strengthening individuals and families in the stake. [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members.
-* Discussing how to help accomplish the work of salvation and exaltation in the stake.
+* Discussing how to help accomplish God’s work of salvation and exaltation in the stake.
 * Reporting on assignments.
 * Counseling with the stake presidency and sustaining their decisions to ordain brethren as elders and high priests.
 * Counseling with the stake presidency and sustaining their decisions to issue callings.
@@ -472,7 +472,7 @@ For information about participants joining the meeting remotely, see [29.7](29-m
 
 Purpose
 
-Counsel together about the work of salvation and exaltation in the stake (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+Counsel together about God’s work of salvation and exaltation in the stake (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 Participants
 
@@ -492,7 +492,7 @@ The stake president plans and conducts stake council meetings. In these meetings
 
 * Receive instruction from the stake presidency on doctrine and on their assignments.
 * Counsel together about strengthening individuals and families in the stake. [LCR](https://lcr.churchofjesuschrist.org) has tools and reports that can help leaders be aware of the progress of members.
-* Discuss overall vision for the work of salvation and exaltation in the stake.
+* Discuss overall vision for God’s work of salvation and exaltation in the stake.
 * Discuss temporal needs of stake members and how to help them be self-reliant. Identify resources available in the community and stake. Examples may include local schools and [BYU–Pathway Worldwide](https://www.byupathway.org). (See [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources) and [22.13](22-providing-for-temporal-needs.md#2213-church-resources).)
 * Develop and maintain a simple plan for the stake to respond to emergencies (see [22.9.1.3](22-providing-for-temporal-needs.md#22913-respond-to-emergencies)).
 * Plan ways for stake members to give service in the community (see [22.9.1](22-providing-for-temporal-needs.md#2291-stake-president-and-his-counselors)). Where it is available, [JustServe.org](https://lcr.churchofjesuschrist.org) suggests opportunities for community service.
@@ -508,7 +508,7 @@ For information about participants joining the meeting remotely, see [29.7](29-m
 
 Purpose
 
-Counsel together about how to support ward leaders in the work of salvation and exaltation. Plan ways to help implement stake leaders’ vision for this work in the stake.
+Counsel together about how to support ward leaders as they assist in God’s work of salvation and exaltation. Plan ways to help implement stake leaders’ vision for this work in the stake.
 
 Participants
 
@@ -522,7 +522,7 @@ Frequency
 
 As needed.
 
-The stake adult leadership committee supports elders quorum and ward Relief Society presidencies in their work. Committee members give special emphasis to ward efforts to share the gospel, strengthen new and returning members, and participate in temple and family history work.
+The stake adult leadership committee supports elders quorum and ward Relief Society presidencies in their work. Committee members give special emphasis to ward efforts in ministering, sharing the gospel, strengthening new and returning members, and participating in temple and family history work.
 
 In addition, this committee coordinates stake efforts related to welfare and self-reliance, including [JustServe.org](https://lcr.churchofjesuschrist.org) (where it is available) and BYU–Pathway Worldwide (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)).
 
@@ -532,51 +532,57 @@ The stake presidency plans and conducts meetings of the stake adult leadership c
 
 Purpose
 
-Counsel together about how to support ward leaders in involving the youth in the work of salvation and exaltation. Plan ways to help implement the stake council’s vision for the youth in the stake.
+Stake leaders and youth (1) counsel together about strengthening the youth of the stake and (2) plan service and activities.
+
+In addition, stake leaders counsel together about how to instruct and support ward leaders in involving the youth in God’s work of salvation and exaltation. They plan ways to help implement the stake council’s vision for the youth in the stake.
 
 Participants
 
 * A member of the stake presidency.
 * The stake Young Men presidency (and secretary if called).
 * The stake Young Women presidency (and secretary if called).
-* The high councilors assigned to the Young Women and Primary organizations.
+* Youth from each ward in the stake when meetings or parts of meetings include matters that benefit from their involvement. Youth attend when discussions focus on strengthening youth and planning service and activities. The stake president determines the number of youth who attend. These could be youth serving in quorum and class presidencies or other youth invited by the stake presidency to be members of this committee.
 
-The stake presidency may invite the stake Sunday School president to serve on this committee. They also invite youth to participate on the committee as needed.
+Additional youth could be invited to help with specific needs or events.
+
+The stake presidency may invite other leaders and advisers to attend as needed.
 
 Frequency
 
 As needed.
 
-The stake youth leadership committee has the following responsibilities:
+The stake youth leadership committee supports bishoprics, Young Women presidencies and advisers, and Aaronic Priesthood quorum advisers in their work with youth. Adult leaders on the committee give special emphasis to engaging youth in God’s work of salvation and exaltation.
 
-* Plan service and activities for youth in the stake. These could include youth conferences, dances, devotionals, service projects, and multistake events. (For service ideas, see [JustServe.org](https://lcr.churchofjesuschrist.org), where it is available.) Youth should lead out in planning and carrying out these activities. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
+The stake youth leadership committee has the following additional responsibilities:
+
+* Plan service and activities. These could include youth conferences, dances, devotionals, service projects, and multistake events. (For service ideas, see [JustServe.org](https://lcr.churchofjesuschrist.org) where it is available.) Youth should lead out in planning and carrying out these activities. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
 * Plan ways to support [For the Strength of Youth conferences](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy).
 * Coordinate stake efforts related to the [Children and Youth program](https://childrenandyouth.churchofjesuschrist.org).
 
-A member of the stake presidency plans and conducts meetings of the stake youth leadership committee. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
+A member of the stake presidency oversees meetings of the stake youth leadership committee. He may conduct, or he may assign someone else to do so, including youth. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
 
 ### 29.3.11 Stake Bishops’ Council Meeting
 
 Purpose
 
-Share experiences and address questions that pertain specifically to bishops.
+Share experiences, address questions, and provide instruction pertaining specifically to bishops.
 
 Participants
 
-All bishops and branch presidents in the stake are members of this council. The stake president may choose to attend some or all of the meetings. A stake clerk also attends to keep a record of assignments and decisions. When needed, the stake president may invite bishopric counselors to attend.
+The stake president and all bishops and branch presidents in the stake are members of this council. A stake clerk also attends to keep a record of assignments and decisions. When needed, the stake president may invite his counselors to attend. He may also invite bishops’ counselors to attend.
 
 Frequency
 
 At least quarterly.
 
-The stake president invites a bishop to lead the stake bishops’ council. This bishop plans and conducts the council’s meetings. Matters for discussion could include:
+Matters for discussion could include:
 
 * Helping youth progress spiritually.
 * Using fast offerings to care for those in need. Helping members build self-reliance (see [chapter 22](22-providing-for-temporal-needs.md), especially [22.11](22-providing-for-temporal-needs.md#2211-role-of-the-stake-bishops-council)). Sharing information about resources available in the community.
 * Helping members repent and experience a change of heart (see [chapter 32](32-repentance-and-membership-councils.md)).
 * Managing Church finances (see [chapter 34](34-finances-and-audits.md)).
 
-On occasion, the stake president could share instruction. Much of this instruction comes from Church leaders, including from Area Seventies in coordinating councils (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)).
+The stake president leads this meeting. He helps bishops learn and fulfill their principal responsibilities (see [7.1](7.md#71-the-bishop-and-his-counselors)). He also invites bishops to counsel about instruction from Church leaders.
 
 This meeting does not take the place of the stake president’s regular interviews with each bishop (see [6.2.1.2](6-stake-leadership.md#6212-bishoprics)).
 
@@ -586,15 +592,15 @@ To understand principles that guide council meetings in the Church, all council 
 
 Meetings of the stake single adult committee and stake young single adult committee are described in [14.1.1.2](14-single-members.md#14112-stake-young-single-adult-and-single-adult-committees).
 
-## 29.4 Coordinating Council Meetings
+## 29.4 Coordinating Council Meeting
 
 Purpose
 
-Help stake, mission, and temple presidents exercise priesthood keys in unity. Counsel about and coordinate efforts to help members in their responsibilities for the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+Help stake, mission, and temple presidents exercise priesthood keys in unity. Counsel about and coordinate efforts to help members in their responsibilities to participate in God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 Participants
 
-The Area Presidency assigns an Area Seventy to lead the council. Stake and mission presidents attend the meetings. Temple presidents are invited and attend when practical.
+The Area Presidency assigns an Area Seventy to preside at the coordinating council meeting. Stake and mission presidents attend the meetings. Temple presidents are invited and attend when practical.
 
 Others may attend part or all of the meetings when needed and when invited by the Area Seventy. Area Seventies consider distance, family circumstances, and travel when making these invitations.
 
@@ -602,7 +608,15 @@ Frequency
 
 Quarterly, soon after each area council meeting. Additional meetings may be held when needed.
 
-For more about coordinating councils, see [5.2.4](5-general-and-area-leadership.md#524-coordinating-council).
+The Area Seventy leads the meetings and facilitates the discussion. All who attend counsel together as equal participants (see [Doctrine and Covenants 88:122](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.122?lang=eng#p122)).
+
+In these meetings, participants:
+
+* Seek revelation about how best to implement the teachings and direction of the First Presidency, Quorum of the Twelve Apostles, and Area Presidency.
+* Coordinate God’s work of salvation and exaltation.
+* Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
+* Instruct and edify one another.
+* Coordinate multistake matters.
 
 ## 29.5 Funerals and Other Services for the Deceased
 
@@ -715,3 +729,9 @@ Ward and stake technology specialists can help leaders set up streams and virtua
 Streams and virtual meetings should not distract from the Spirit. Generally, only one device should be used to capture the meeting. Both the device and the person using it should be inconspicuous.
 
 Stream recordings of ward and stake meetings should be deleted within one day after the meeting.
+
+## 29.8 Photographs and Video Recordings of Meetings
+
+To preserve the sacredness of Church meetings, no one should take photographs or make video recordings of sacrament meetings or stake conferences.
+
+For information about stream recordings of meetings, see [29.7](29-meetings-in-the-church.md#297-streaming-meetings-and-holding-virtual-meetings).

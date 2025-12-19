@@ -46,7 +46,7 @@ A stake (or a group of adjacent stakes) may not have enough single members to cr
 
 #### 14.1.1.2 Stake Young Single Adult and Single Adult Committees
 
-Single members serve God’s children by engaging in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
+Single members serve God’s children by engaging in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
 
 A young single adult man and young single adult woman are called to lead the committee. They serve on the stake council.
 

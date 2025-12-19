@@ -2,7 +2,7 @@
 
 ## 22.0 Introduction
 
-Members of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” ([Mosiah 18:8–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.8-9?lang=eng#p8)). Caring for those who have temporal needs is part of the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)). This responsibility applies to all members of the Church as they minister to one another.
+Members of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” ([Mosiah 18:8–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.8-9?lang=eng#p8)). Caring for those who have temporal needs is part of God’s work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). This responsibility applies to all members of the Church as they minister to one another.
 
 Church members are also counseled to strengthen their own self-reliance through diligent work and with the help of the Lord. Self-reliance is the ability, commitment, and effort to provide the spiritual and temporal necessities of life for self and family. As members become more self-reliant, they are also better able to serve others.
 
@@ -172,7 +172,7 @@ The [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/c
 
 As part of a self-reliance plan, leaders may recommend that members participate in a [self-reliance group](https://www.churchofjesuschrist.org/self-reliance). These groups help them develop skills and resources for better education, employment, or financial management (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). The groups are generally organized by stake or ward councils (see [22.10.2](22-providing-for-temporal-needs.md#22102-ao-specialized-working-groups), [22.7](22-providing-for-temporal-needs.md#227-role-of-the-ward-council)).
 
-The bishop, or another leader he assigns, uses the [Bishop’s Guide to the Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60005860_000_SelfReliancePlan_Leader_Web_Interactive.pdf) when providing assistance. This form helps leaders follow up on members’ progress toward self-reliance.
+The bishop, or another leader he assigns, uses the [Bishop’s Guide to the Self-Reliance Plan](https://assets.churchofjesuschrist.org/da/b8/dab8d678fdc111ebbf18eeeeac1e5d0b6d1c4dfe/self_reliance_plan_for_bishops_and_members.pdf) when providing assistance. This form helps leaders follow up on members’ progress toward self-reliance.
 
 ### 22.3.4 Minister to Those with Emotional Needs
 
@@ -193,7 +193,7 @@ Bishops may consult with Family Services staff to better understand a member’s
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals](https://lcr.churchofjesuschrist.org)” in [LCR](https://lcr.churchofjesuschrist.org)). Alternatively, members may seek help from reputable professional counselors in the community.
 
-Sometimes bishops counsel members who need help to repent of sinful behavior. This behavior may include sins related to or caused by addictions. In these situations, bishops should refer to the guidelines in [32.8.1](32-repentance-and-membership-councils.md#3281-personal-counseling) and [32.8.2](32-repentance-and-membership-councils.md#3282-helping-people-with-addictions).
+Sometimes bishops counsel members who need help to repent of sinful behavior. This behavior may include sins related to or caused by addictions. In these situations, bishops should refer to the guidelines in [32.8.1](32-repentance-and-membership-councils.md#3281-personal-counseling) and [32.8.2](32-repentance-and-membership-councils.md#3282-helping-people-address-addictions-and-pornography-use).
 
 ## 22.4 Principles for Providing Church Assistance
 

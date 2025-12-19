@@ -27,7 +27,9 @@ Members are blessed for sacrifices they make to serve in the Church. However, a 
 
 Generally, each member is called to serve in only one calling at a time, in addition to being a ministering brother or sister. Exceptions should be rare and prayerfully considered. Not every potential position needs to be filled.
 
-When extending a calling to a married member, leaders ensure that the spouse is aware and supportive of the calling. Before extending a calling to a young man or young woman, leaders obtain approval from his or her parents or guardians.
+When extending a calling to a married member, leaders ensure that the spouse is aware and supportive of the calling.
+
+Before extending a calling to a young man or young woman, leaders obtain approval from a parent or guardian.
 
 Before a calling is extended, the bishop carefully reviews the person’s membership record to verify that it does not include an annotation or formal membership restrictions. If the calling needs to be extended before the membership record is in the ward, the bishop contacts the member’s previous bishop.
 
@@ -158,8 +160,6 @@ The following chart lists selected ward and stake callings. Other callings and s
 
 A ward or stake does not need to fill every calling listed in this chart. Leaders determine which callings to fill based on the needs of the unit and those available to serve.
 
-_Note:_ Sealers in a temple are called under the direction of the President of the Church. For this reason, active sealers should not be called to serve in bishoprics or in branch, district, stake, or mission presidencies.
-
 ### 30.8.1 Ward Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
@@ -173,8 +173,7 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 | Other elders quorum callings | Quorum presidency | Bishopric | Quorum members (presented in a quorum meeting by the quorum president or an assigned counselor) | Quorum president or an assigned counselor |
 | Ward organization presidents (Relief Society, Young Women, Primary, and Sunday School) | Bishopric | Bishopric | Ward members | Bishop |
 | Counselors in ward organization presidencies | Organization president | Bishopric | Ward members | Bishop or an assigned counselor |
-| Other ward Relief Society callings | Relief Society presidency | Bishopric | Relief Society members (presented in a Relief Society meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
-| Other ward Young Women, Primary, and Sunday School callings | Organization presidency | Bishopric | Ward members | Bishop or an assigned counselor |
+| Other ward Relief Society, Young Women, Primary, and Sunday School callings | Organization presidency | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward mission leader (a member of the elders quorum presidency may fill this role; if so, he does not need to be called, sustained, or set apart separately)](https://www.churchofjesuschrist.org/study/manual/general-handbook/23?lang=eng&para=title_number17-p68#title_number17) | Bishopric (in consultation with the elders quorum and Relief Society presidents) | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward missionaries](https://www.churchofjesuschrist.org/study/manual/general-handbook/23?lang=eng&para=title_number18-p71#title_number18) | Bishopric or elders quorum and Relief Society presidents | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward temple and family history leader (a member of the elders quorum presidency may fill this role; if so, he does not need to be called, sustained, or set apart separately)](https://www.churchofjesuschrist.org/study/manual/general-handbook/25-temple-and-family-history-work?lang=eng&para=title_number9-p46#title_number9) | Bishopric (in consultation with the elders quorum and Relief Society presidents) | Bishopric | Ward members | Bishop or an assigned counselor |
@@ -190,6 +189,7 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 | Other ward callings | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 
 1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for ratifying as soon as reasonable. He adapts the process described in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-callings). This includes providing an opportunity for ward members to oppose the action.
+2. Active sealers in a temple should not be called to serve in bishoprics. Sealers are called under the direction of the President of the Church.
 
 ### 30.8.2 Branch Callings
 
@@ -201,6 +201,8 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 | [Elders quorum president](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng&para=title_number131-p258#title_number131) | Stake, district, or mission presidency (in consultation with the branch president) | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake or mission president (or the district president if assigned) |
 | [Counselors in the elders quorum presidency](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng&para=title_number131-p258#title_number131) | Quorum president (in consultation with the branch president) | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake or mission president or an assigned counselor or high councilor (or the district president or another priesthood leader if assigned) |
 | Other branch callings | See [30.8.1](30-callings-in-the-church.md#3081-ward-callings), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.8.1](30-callings-in-the-church.md#3081-ward-callings), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.8.1](30-callings-in-the-church.md#3081-ward-callings), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.8.1](30-callings-in-the-church.md#3081-ward-callings), substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | |
+
+1. Active sealers in a temple should not be called to serve in branch presidencies. Sealers are called under the direction of the President of the Church.
 
 ### 30.8.3 Stake Callings
 
@@ -226,7 +228,8 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 1. When, as an exception, new stake officers need to begin their service before the next stake conference, they should be sustained in sacrament meetings. These sustainings should be kept to a minimum. A member of the stake presidency or high council presents the sustainings.
 
 In rare circumstances, a stake member may need to begin service before he or she can be sustained either in a stake conference or in sacrament meetings. When this happens, the person is presented for ratifying as soon as reasonable, adapting the process described in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-callings). This includes providing an opportunity for stake members to oppose the action.
-2. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
+2. Active sealers in a temple should not be called to serve in stake presidencies. Sealers are called under the direction of the President of the Church.
+3. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
 
 ### 30.8.4 District Callings
 
@@ -234,7 +237,11 @@ In rare circumstances, a stake member may need to begin service before he or she
 | --- | --- | --- | --- | --- |
 | [District president](https://www.churchofjesuschrist.org/study/manual/general-handbook/6-stake-leadership?lang=eng&para=title_number15-p164#title_number15) | Mission president | Area Presidency | Members in district conference | Mission president |
 | [Counselors in the district presidency](https://www.churchofjesuschrist.org/study/manual/general-handbook/6-stake-leadership?lang=eng&para=title_number15-p164#title_number15) | District president | Mission presidency | Members in district conference | Mission president or an assigned counselor |
+| District councilor | District president | Mission presidency (or, when authorized by the mission president, the district presidency) | Members in district conference | Mission president or an assigned counselor (or, when authorized by the mission president, the district president or an assigned counselor) |
 | Other district callings | See [30.8.3](30-callings-in-the-church.md#3083-stake-callings), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.8.3](30-callings-in-the-church.md#3083-stake-callings), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.8.3](30-callings-in-the-church.md#3083-stake-callings), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | | See [30.8.3](30-callings-in-the-church.md#3083-stake-callings), substituting _district president_ for _stake president_ and _district_ for _stake._ | | | |
+
+1. Active sealers in a temple should not be called to serve in district presidencies. Sealers are called under the direction of the President of the Church.
+2. In areas with no missions, the Area Presidency performs this function.
 
 ### 30.8.5 Military Service Member Group Callings
 

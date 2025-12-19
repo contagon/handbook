@@ -2,17 +2,15 @@
 
 ## 4.0 Introduction
 
-As a leader in the Church, you have been called by inspiration through the Lord’s authorized servants. You have the privilege of assisting in Heavenly Father’s work of “bring[ing] to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.39?lang=eng#p39)). You do this by encouraging members to engage in the work of salvation and exaltation for themselves, their families, and others (see [chapter 1](1-work-of-salvation-and-exaltation.md)). You will find joy as you serve God’s children.
+As a leader in the Church, you have been called by inspiration through the Lord’s authorized servants. You have the privilege of assisting in Heavenly Father’s work of “bring[ing] to pass the immortality and eternal life of man” ([Moses 1:39](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.39?lang=eng#p39)). You do this by encouraging members to engage in God’s work of salvation and exaltation for themselves, their families, and others (see [chapter 1](1-work-of-salvation-and-exaltation.md)). You will find joy as you serve God’s children.
 
-Following Jesus Christ’s example, you will often serve others one by one. You will also have opportunities to provide leadership in Church meetings and activities. In addition, you may give important service through councils. These can include presidency meetings, ward council meetings, and others. Sections [4.3](4-leadership-in-the-church-of-jesus-christ.md#43-councils-in-the-church) and [4.4](4-leadership-in-the-church-of-jesus-christ.md#44-principles-of-effective-councils) provide guidelines for effective councils. Details about specific council meetings are provided in [chapter 29](29-meetings-in-the-church.md).
+Following Jesus Christ’s example, you will often serve others one by one. You will also have opportunities to provide leadership in Church meetings and activities. In addition, you may give important service through councils. These can include presidency meetings, ward council meetings, and others.
 
 Your consecrated service requires a sacrifice of time, but do not neglect your own needs and the needs of your family. Seek the guidance of the Holy Ghost to help you balance and fulfill your responsibilities (see [Mosiah 4:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4.27?lang=eng#p27)).
 
 ## 4.1 The Purpose of Leadership in the Church
 
-Leaders encourage members to engage in God’s work by becoming “true followers of … Jesus Christ” ([Moroni 7:48](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7.48?lang=eng#p48)). To do this, leaders first strive to be the Savior’s faithful disciples by following His teachings and example (see [Luke 18:22](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/18.22?lang=eng#p22)). Then they can help others draw nearer to Heavenly Father, Jesus Christ, and the Holy Ghost. In the process of helping others, they become better disciples themselves (see [Mosiah 18:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.26?lang=eng#p26); [Doctrine and Covenants 31:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/31.5?lang=eng#p5)).
-
-Being a faithful disciple in order to help others become faithful disciples is the purpose behind every calling in the Church. Each calling includes opportunities to serve, lead, and strengthen others.
+Leaders encourage members to engage in God’s work by becoming “true followers of … Jesus Christ” ([Moroni 7:48](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7.48?lang=eng#p48)). To do this, leaders first strive to be the Savior’s faithful disciples. Then they can help others draw nearer to Him. In the process of helping others, they become better disciples themselves (see [Mosiah 18:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.26?lang=eng#p26); [Doctrine and Covenants 31:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/31.5?lang=eng#p5)).
 
 ## 4.2 Principles of Leadership in the Church
 
@@ -22,19 +20,19 @@ The Savior increased the capacity of others by giving them responsibility and op
 
 The Lord said, “Let every man learn his duty, and to act in the office in which he is appointed, in all diligence” ([Doctrine and Covenants 107:99](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.99?lang=eng#p99)). These words apply to all who receive responsibility to serve and lead in the Savior’s Church.
 
-Seek the Lord’s guidance to help you learn and fulfill the duties of your calling. As you study the scriptures, look for leadership principles the Savior demonstrated and taught. Applying the principles in this chapter will also help you lead more effectively in the Savior’s Church.
+Applying the principles in this chapter will help you lead more effectively in the Savior’s Church.
 
 ### 4.2.1 Prepare Spiritually
 
 Jesus prepared Himself spiritually for His earthly mission (see [Luke 4:1–2](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4.1-2?lang=eng#p1)). You likewise prepare spiritually by drawing close to Heavenly Father through prayer, scripture study, and obedience to His commandments. Following His prophets also helps you prepare spiritually (see [Doctrine and Covenants 21:4–6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21.4-6?lang=eng#p4)).
 
-Seek revelation to understand the needs of those you lead and how to fulfill the work God has called you to do. Through your efforts to draw closer to the Lord, you can receive guidance in your personal life, family responsibilities, and Church calling.
+Seek revelation to understand the needs of those you lead and how to fulfill the work God has called you to do.
 
 The Lord has also promised to bestow spiritual gifts upon those who seek them (see [Doctrine and Covenants 46:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.8?lang=eng#p8)). As you humbly call upon Heavenly Father to receive these gifts, He will increase your ability to lead and lift those you serve.
 
 ### 4.2.2 Minister to All of God’s Children
 
-Jesus ministered personally to people, reaching out to lift and teach those who felt alone, hopeless, or lost. By His words and actions, He showed people that He loved them. He recognized the divine nature and eternal worth of each person.
+Jesus ministered personally to people, reaching out to lift and teach those who felt alone, hopeless, or lost. He recognized the divine nature and eternal worth of each person.
 
 Love the people you serve as Jesus did. Pray “with all the energy of heart” to be filled with His love ([Moroni 7:48](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7.48?lang=eng#p48)). Establish sincere friendships. Reach out to those who may be lonely, need comfort, or have other needs. Your love will bless their lives and help people desire to come unto Christ.
 
@@ -46,13 +44,11 @@ All leaders are teachers. Strive to follow the Savior’s example as a teacher (
 
 Teaching in the Savior’s way is more than talking; it includes listening and asking questions the way He did (see [Matthew 16:13–17](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16.13-17?lang=eng#p13)).
 
-Effective teachers are also diligent learners. Make the study of God’s word a high priority in your life. Understand that learning is a lifelong process. Seek to learn from others, including those you teach. (See [Doctrine and Covenants 88:122](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.122?lang=eng#p122).)
+Effective teachers are also diligent learners. Make the study of God’s word a high priority in your life. Gospel learning is a lifelong process.
 
 Teach from the scriptures and the words of latter-day prophets (see [Doctrine and Covenants 52:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/52.9?lang=eng#p9)). Remember that “the preaching of the word [has] more powerful effect upon the minds of the people than … anything else” ([Alma 31:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/31.5?lang=eng#p5)).
 
 Seek the influence of the Spirit as you prepare and teach. The Holy Ghost carries the truth unto the hearts and minds of those you teach (see [2 Nephi 33:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/33.1?lang=eng#p1)).
-
-Teach members to devote themselves to prayerfully studying the gospel both personally and with their families.
 
 If you are called or assigned to preside in a Church meeting or activity, ensure that the teaching is edifying and doctrinally correct (see [Doctrine and Covenants 50:21–23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50.21-23?lang=eng#p21)).
 
@@ -64,7 +60,7 @@ Other organizations in the Church, including the Relief Society, Young Women, Pr
 
 Each presiding officer serves under the direction of a person who holds priesthood keys (see [3.4.1](3-priesthood-principles.md#341-priesthood-keys)). This structure provides order and clear lines of responsibility and accountability in doing the Lord’s work.
 
-A presiding officer may delegate to another person a temporary assignment to preside. For example, if a Relief Society president will be absent from a Relief Society Sunday meeting, she would assign her first counselor to preside in the meeting. If the first counselor will also be absent, the president would assign her second counselor to preside.
+A presiding officer may delegate to another person a temporary assignment to preside. For example, if a Relief Society president will be absent from a Relief Society Sunday meeting, she would assign her first counselor to preside in the meeting.
 
 A leader who presides in a Church organization, meeting, or activity ensures that the Lord’s purposes are accomplished. In doing this, the leader follows gospel principles, Church policies, and the direction of the Holy Ghost.
 
@@ -72,7 +68,7 @@ Those who preside follow the example of Jesus Christ in serving with gentleness,
 
 If you have been called or assigned to preside, follow the Savior’s teaching that “whosoever will be chief among you, let him be your servant” ([Matthew 20:27](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/20.27?lang=eng#p27); see [verses 26–28](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/20.26-28?lang=eng#p26)). Counsel with others and seek unity in understanding the Lord’s will and doing His work (see [Doctrine and Covenants 41:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/41.2?lang=eng#p2); see also [4.4](4-leadership-in-the-church-of-jesus-christ.md#44-principles-of-effective-councils) in this handbook).
 
-It is not appropriate to aspire to preside in any organization in the Lord’s Church (see [Doctrine and Covenants 121:34–37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.34-37?lang=eng#p34)). Rather, humbly and faithfully serve in the position to which you are called. Strive to accomplish the Lord’s work with an eye single to His glory (see [Doctrine and Covenants 4:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4.5?lang=eng#p5)). Trust that the Lord will give you opportunities to grow and to bless Heavenly Father’s children.
+It is not appropriate to aspire to preside in any organization in the Lord’s Church (see [Doctrine and Covenants 121:34–37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.34-37?lang=eng#p34)). Rather, humbly and faithfully serve in the position to which you are called. Strive to do the Lord’s work with an eye single to His glory (see [Doctrine and Covenants 4:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4.5?lang=eng#p5)).
 
 ### 4.2.5 Delegate Responsibility and Ensure Accountability
 
@@ -84,10 +80,12 @@ Delegating will also make your service more effective. If you try to do too much
 
 Delegating is more than giving an assignment. It also includes teaching and trusting another person to fulfill the assignment. It usually includes the following elements:
 
-* Meet with the person to invite him or her to serve the Lord in an assignment. Help the person understand the assignment and its purposes, including how his or her service will bless others.
+* Meet with the person to invite him or her to serve the Lord in an assignment. Help the person understand the assignment and its purposes.
 * Counsel together about the assignment, who else could be involved, and when it should be finished. Ensure that the person understands and willingly accepts the assignment. Express confidence in his or her abilities.
 * Encourage the person to seek inspiration about how to fulfill the assignment. Show your trust and help the person succeed. Provide direction and support as needed.
 * Periodically ask the person to report on the assignment. Accept the person’s best efforts, and express appreciation for what he or she has done.
+
+The guidelines for extending a calling in [30.1.1](30-callings-in-the-church.md#3011-general-guidelines) should also be followed when delegating, as applicable.
 
 ### 4.2.6 Prepare Others to Be Leaders and Teachers
 
@@ -101,13 +99,11 @@ For more information about Church callings, see [chapter 30](30-callings-in-the
 
 ### 4.2.7 Plan Meetings, Lessons, and Activities with Clear Purposes
 
-Seek the Spirit’s guidance in planning meetings, lessons, and activities that have clear purposes. These purposes should strengthen individuals and families, bring them closer to Christ, and help accomplish God’s work of salvation and exaltation (see [chapters 1](1-work-of-salvation-and-exaltation.md) and [2](2-supporting-individuals-and-families.md)). When planning, follow the principles in [chapters 20](20-activities.md) and [29](29-meetings-in-the-church.md).
-
-Make long-term plans for your organization. Keep an annual calendar. Focus on encouraging members’ spiritual growth.
+Seek inspiration from the Lord in planning meetings, lessons, and activities that have clear purposes. These purposes should strengthen individuals and families, bring them closer to Christ, and help accomplish God’s work of salvation and exaltation (see [chapters 1](1-work-of-salvation-and-exaltation.md) and [2](2-supporting-individuals-and-families.md)). When planning, follow the principles in [4.4.2](4-leadership-in-the-church-of-jesus-christ.md#442-preparation-for-council-meetings) and in [chapters 20](20-activities.md) and [29](29-meetings-in-the-church.md).
 
 ### 4.2.8 Evaluating Your Efforts
 
-Regularly review your responsibilities and spiritual growth as a leader. Consider also the growth of those you lead. Unit, priesthood quorum, and other organization leaders can review the key indicators, the quarterly report, and other reports in [Leader and Clerk Resources](https://lcr.churchofjesuschrist.org) to see where there is progress and where there is potential for growth.
+Regularly review your responsibilities and spiritual growth as a leader. Consider also the growth of those you lead.
 
 Your success as a leader is measured primarily by your commitment to helping God’s children become faithful disciples of Jesus Christ. Because all people have agency, some may choose to depart from the covenant path. At times this may discourage you, but as you turn to the Lord, He will lift and comfort you (see [Alma 26:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26.27?lang=eng#p27)). You can know that the Lord is pleased with your efforts as you feel the Spirit working through you.
 
@@ -121,7 +117,7 @@ The Lord has instructed the leaders of His Church to counsel together in doing H
 
 ## 4.4 Principles of Effective Councils
 
-Some principles of effective councils are outlined in this section. These principles can help leaders in Church councils as well as parents in their family councils.
+Some principles of effective councils are outlined in this section.
 
 ### 4.4.1 Purposes of Councils
 
@@ -133,11 +129,11 @@ Council members give particular care to individuals and families with pressing n
 
 ### 4.4.2 Preparation for Council Meetings
 
-Presidencies and councils are expected to meet regularly. Each presidency and council has a leader who has been called and set apart. These leaders seek the Lord’s guidance in planning council meetings. They also seek input from council members in deciding what to discuss.
+Presidencies and councils are expected to meet regularly. Leaders seek the Lord’s guidance in planning council meetings. They also seek input from council members in deciding what to discuss.
 
 Leaders let council members know of the matters for discussion in advance. Council members prepare to share insights about these matters. For ward and stake councils, much of this preparation occurs in presidency meetings.
 
-Council members prepare themselves spiritually to participate in council meetings. They seek to be receptive to the promptings of the Spirit.
+Council members prepare themselves spiritually to participate in council meetings.
 
 ### 4.4.3 Discussion and Decisions
 
@@ -157,7 +153,7 @@ Sometimes council members may have unsettled feelings about an important decisio
 
 ### 4.4.4 Unity
 
-The Lord instructed His disciples to “be one” ([Doctrine and Covenants 38:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38.27?lang=eng#p27)). Council members seek to become one in desire and purpose with Heavenly Father and Jesus Christ. They strive for unity in their discussions and decisions. They also seek to be “of one heart and one mind” as they work together ([Moses 7:18](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7.18?lang=eng#p18)).
+The Lord instructed His disciples to “be one” ([Doctrine and Covenants 38:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38.27?lang=eng#p27)). Council members seek to become one in desire and purpose with Heavenly Father and Jesus Christ. They strive for unity in their discussions and decisions.
 
 Council members should avoid contention, unrighteous judgment, and gossip (see [3 Nephi 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11.28-30?lang=eng#p28)). As they act in unity, Heavenly Father will bless their efforts.
 
@@ -169,7 +165,7 @@ Council members report on their assignments. Progress usually requires sustained
 
 ### 4.4.6 Confidentiality
 
-All personal information must be treated respectfully. Leaders use discretion when sharing personal information with a council. They generally seek a member’s permission to share this information.
+Leaders use discretion when sharing personal information with a council. They generally seek a member’s permission to share this information.
 
 The council respects the desires of any who request confidentiality. Council members should not share personal information outside the council unless required to fulfill an assignment from the council leader.
 

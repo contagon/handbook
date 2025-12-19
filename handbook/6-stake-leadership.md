@@ -4,7 +4,7 @@
 
 Isaiah described latter-day Zion as a tent or a tabernacle secured by stakes (see [Isaiah 33:20](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/33.20?lang=eng#p20); [54:2](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54.2?lang=eng#p2)). Today the Church is organized into stakes. Each stake is composed of multiple wards and is led by a stake president.
 
-The Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world ([Doctrine and Covenants 115:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115.6?lang=eng#p6)). Members and leaders in a stake work together to accomplish the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+The Lord establishes stakes for “the gathering together” of His people and “for a defense, and … a refuge” from the world ([Doctrine and Covenants 115:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115.6?lang=eng#p6)). Members and leaders in a stake work together to accomplish the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)).
 
 ## 6.2 Stake Presidency
 
@@ -63,7 +63,7 @@ The stake president leads the high council and the stake council. He also leads 
 * Stake young single adult committee
 * Stake single adult committee (where organized)
 
-Each stake president is a member of a coordinating council (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)).
+Each stake president is a member of a coordinating council (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meeting)).
 
 The stake presidency plans the stake meetings listed in [29.3](29-meetings-in-the-church.md#293-stake-meetings). The stake president presides at stake meetings unless a General Authority or Area Seventy attends. His counselors may conduct these meetings. They may also preside if the stake president is absent.
 
@@ -112,7 +112,7 @@ The stake president is the primary Church spokesman to the news media on matters
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The communication council may include a stake communication director, assistant directors, and specialists as needed. They are called and set apart by the stake president or an assigned counselor or high councilor.
 
-There is also a communication council at the coordinating council level (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)). It operates under the direction of an Area Seventy and is led by a communication director. This communication council helps coordinate relationships, events, and issues that cross stake boundaries. The director of this council offers support and training to stake communication councils.
+There is also a communication council at the coordinating council level (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meeting)). It operates under the direction of an Area Seventy and is led by a communication director. This communication council helps coordinate relationships, events, and issues that cross stake boundaries. The director of this council offers support and training to stake communication councils.
 
 The communication council structure differs in the Utah Area. Area Seventies in the Utah Area can provide stake presidents with details about this structure.
 
@@ -354,7 +354,7 @@ Members of these presidencies have the following responsibilities:
 * Offer ongoing support and instruction. Communicate with ward organization presidencies regularly to learn of their needs, discuss the needs of the members they serve, and communicate information from the stake presidency. Arrange with ward leaders to visit their meetings and classes periodically.
 * Instruct ward organization presidencies during stake leadership meetings (see [29.3.4](29-meetings-in-the-church.md#2934-stake-leadership-meetings)). These are generally held once a year. The stake presidency may authorize a second meeting if it would not create a burden for participants. Bishops may request additional instruction for ward organization presidencies.
 * Counsel together regularly in their own presidency meetings (if counselors are called). Communicate regularly with the member of the stake presidency responsible for their service.
-* Attend coordinating council meetings when invited by the Area Seventy (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)).
+* Attend coordinating council meetings when invited by the Area Seventy (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meeting)).
 * Speak in sacrament meetings and other settings when invited by the stake presidency.
 * [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In large stakes, submit recommendations to the stake presidency for counselors and others to be called to serve in their organizations as needed. For guidelines, see [30.1.1](30-callings-in-the-church.md#3011-general-guidelines) and [30.1.5](30-callings-in-the-church.md#3015-recommendations-and-approvals-for-callings).
 
@@ -405,7 +405,7 @@ The stake Young Men presidency has the following responsibilities:
 * Serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-ao-stake-youth-leadership-committee-meeting)). If a secretary is called, he is also invited.
 * Under the direction of the stake presidency, plan and coordinate stake Aaronic Priesthood activities and camps.
 * Speak in sacrament meetings and other settings when invited by the stake presidency.
-* Attend coordinating council meetings when invited by the Area Seventy (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)).
+* Attend coordinating council meetings when invited by the Area Seventy (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meeting)).
 
 The stake Young Men presidency does not hold a stake leadership meeting. Instruction for those who have responsibilities for Aaronic Priesthood quorums is given in stake priesthood leadership meetings (see [29.3.3](29-meetings-in-the-church.md#2933-stake-priesthood-leadership-meeting)).
 

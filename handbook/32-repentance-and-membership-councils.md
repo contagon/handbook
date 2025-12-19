@@ -322,9 +322,9 @@ The Lord’s law of chastity is abstinence from sexual relations outside of a le
 
 #### 32.6.2.3 Fraudulent Acts
 
-The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud. In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
+The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
-See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud. See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property.
+See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts. See [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property. See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud.
 
 #### 32.6.2.4 Violations of Trust
 
@@ -492,7 +492,7 @@ The seriousness of a sin is magnified if a person committed it while in a positi
 
 ### 32.7.6 Repetition
 
-A pattern of repeating the same serious sin may indicate deeply rooted behavior or addiction that impedes progress toward true repentance. In addition to membership restrictions that may be necessary, addiction recovery programs and professional counseling may be helpful (see [32.8.2](32-repentance-and-membership-councils.md#3282-helping-people-with-addictions)).
+A pattern of repeating the same serious sin may indicate deeply rooted behavior or addiction that impedes progress toward true repentance. In addition to membership restrictions that may be necessary, addiction recovery programs and professional counseling may be helpful (see [32.8.2](32-repentance-and-membership-councils.md#3282-helping-people-address-addictions-and-pornography-use)).
 
 ### 32.7.7 Age, Maturity, and Experience
 
@@ -564,11 +564,11 @@ With the member’s consent, a bishop or stake president may assign members of t
 
 When assigning someone to assist with follow-up counseling, the leader gives only enough information necessary to help the member. The assigned person must maintain confidentiality. He or she also informs the bishop of the member’s progress and needs.
 
-### 32.8.2 Helping People with Addictions
+### 32.8.2 Helping People Address Addictions and Pornography Use
 
 Personal counseling sometimes involves helping members repent of sins related to or caused by addictions. These addictions may include substances or a wide range of behaviors. Addictions harm individuals, marriages, and families. Bishops may counsel members to seek help from Church addiction recovery programs and from qualified medical and mental health professionals.
 
-Pornography use is becoming increasingly common. Intensive use can become a compulsion or, in very rare cases, an addiction. Whether pornography use is intensive or occasional, it is harmful. It drives away the Spirit. It weakens the ability to draw on power that comes from keeping covenants. It also harms precious relationships.
+Pornography use is becoming increasingly common. Whether pornography use is intensive or occasional, it is harmful. It drives away the Spirit. It weakens the ability to draw on power that comes from keeping covenants. It also harms precious relationships.
 
 Personal counseling and informal membership restrictions are usually sufficient for helping a person repent of using pornography. Membership councils are not usually held. For exceptions, see [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography) and [38.6.13](38-church-policies-and-guidelines.md#38613-pornography). Professional counseling may be helpful.
 

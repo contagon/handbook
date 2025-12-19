@@ -6,7 +6,7 @@ Ministering means serving others as the Savior did (see [Matthew 20:26–28](htt
 
 The Lord wants all members of His Church to receive such care. For this reason, priesthood holders are assigned as ministering brothers to each member household. Ministering sisters are assigned to each adult sister. These assignments help ensure that Church members are remembered and cared for (see [Moroni 6:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.4?lang=eng#p4)).
 
-Ministering is an important way we keep the commandments to love God and to love our neighbors (see [Matthew 22:36–40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.36-40?lang=eng#p36)). It is also a vital way to help accomplish the work of salvation and exaltation.
+Ministering is an important way we keep the commandments to love God and to love our neighbors (see [Matthew 22:36–40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.36-40?lang=eng#p36)). It is also a vital way to help accomplish God’s work of salvation and exaltation.
 
 Elders quorum and Relief Society presidencies help ministering brothers and sisters learn how to minister to others. They also give inspiration, guidance, and support. They can do this in ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)), in Sunday meetings, and in personal conversations. They seek inspiration from the scriptures, this chapter, and [ministering.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/ministering).
 
@@ -52,7 +52,7 @@ Ministering brothers and sisters are not called, sustained, or set apart. Their 
 
 ### 21.2.2 Ministering Assignments for Youth
 
-Even before they receive ministering assignments, youth minister to others by serving them in Christlike ways. A youth’s service as a ministering sister or brother can be a significant part of accomplishing the work of salvation and exaltation.
+Even before they receive ministering assignments, youth minister to others by serving them in Christlike ways. A youth’s service as a ministering sister or brother can be a significant part of helping accomplish God’s work of salvation and exaltation.
 
 A young woman may serve as a ministering companion to a Relief Society sister when the young woman is willing and able. She may begin serving in the year she turns 14. The Relief Society presidency counsels with the young woman, her parents, and the Young Women presidency as they consider ministering assignments.
 

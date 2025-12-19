@@ -2,7 +2,7 @@
 
 ## 25.0 Introduction
 
-Uniting families for eternity is part of the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)). Temple and family history work is the means for uniting and sealing families for eternity (see [Matthew 16:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16.19?lang=eng#p19)). This work includes:
+Uniting families for eternity is part of the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation)). Temple and family history work is the means for uniting and sealing families for eternity (see [Matthew 16:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16.19?lang=eng#p19)). This work includes:
 
 * Making covenants as we receive our own temple ordinances (see [Isaiah 55:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.3?lang=eng#p3); [Doctrine and Covenants 84:19–23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.19-23?lang=eng#p19)).
 * Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God (see [Malachi 4:5–6](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4.5-6?lang=eng#p5); [1 Corinthians 15:29](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15.29?lang=eng#p29); [Doctrine and Covenants 128:15–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128.15-18?lang=eng#p15)).

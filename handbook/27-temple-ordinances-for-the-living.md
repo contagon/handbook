@@ -35,7 +35,7 @@ For information about issuing temple recommends in these circumstances, see [26.
 
 ### 27.1.2 Scheduling Temple Ordinances
 
-Members who are planning to receive their own endowment or to be sealed or married should schedule the ordinance in advance with the temple they plan to attend. Normally they do this after they have received a recommend for living ordinances. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
+Members who are planning to receive their own endowment or to be sealed or married should schedule the ordinance in advance with the temple they plan to attend. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
 
 ### 27.1.3 Members Who Have Physical Disabilities
 
@@ -84,19 +84,25 @@ The word _endowment_ means “a gift.” The temple endowment is literally a gif
 
 All the promised blessings of the endowment are in force both in this life and for eternity. The fulfillment of these blessings depends on faithfulness to the gospel of Jesus Christ.
 
-The endowment is received in two parts. In the first part, a person receives a preliminary ordinance called the initiatory. The initiatory is also known as the washing and anointing (see [Exodus 29:4–9](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/29.4-9?lang=eng#p4)). It includes special blessings related to the person’s divine heritage and potential.
+The endowment is received in two parts. In the first part, a person receives preliminary ordinances called the initiatory. The initiatory comprises three ordinances: washing, anointing, and clothing (see [Exodus 29:4–9](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/29.4-9?lang=eng#p4)). It includes special blessings related to the person’s divine heritage and potential.
 
-During the initiatory, the member is authorized to wear the temple garment. The garment represents his or her personal relationship with God and the commitment to obey covenants made in the temple. When members are faithful to their covenants and wear the garment properly throughout their lives, it also serves as a protection. For information about wearing and caring for the garment, see [38.5.5](38-church-policies-and-guidelines.md#3855-wearing-and-caring-for-the-garment).
+During the initiatory, the member covenants to wear the temple garment. The garment represents his or her personal relationship with God and the commitment to obey covenants made in the temple. When members are faithful to their covenants and wear the garment properly throughout their lives, it also serves as a protection. For information about wearing and caring for the garment, see [38.5.5](38-church-policies-and-guidelines.md#3855-wearing-and-caring-for-the-garment).
 
 In the second part of the endowment, the plan of salvation is taught, including the Creation, the Fall of Adam and Eve, the Atonement of Jesus Christ, the Apostasy, and the Restoration. Members also receive instruction on how to return to the Lord’s presence.
 
 In the endowment, members are invited to make sacred covenants as follows:
 
-* Live the law of obedience and strive to keep Heavenly Father’s commandments.
-* Obey the law of sacrifice, which means sacrificing to support the Lord’s work and repenting with a broken heart and contrite spirit.
-* Obey the law of the gospel of Jesus Christ, which is the higher law that He taught while He was on the earth.
-* Keep the law of chastity, which means that a member has sexual relations only with the person to whom he or she is legally and lawfully wedded according to God’s law.
-* Keep the law of consecration, which means that members dedicate their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
+1. Live the law of obedience and strive to keep Heavenly Father’s commandments.
+2. Obey the law of sacrifice, which means sacrificing to support the Lord’s work and repenting with a broken heart and contrite spirit.
+3. Obey the law of the gospel of Jesus Christ, which means:
+
+	* Exercising faith in Jesus Christ.
+	* Repenting daily.
+	* Making covenants with God by receiving the ordinances of salvation and exaltation.
+	* Enduring to the end by keeping covenants.
+	* Striving to live the two great commandments. These are to “love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind” and to “love thy neighbor as thyself” ([Matthew 22:37, 39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.37-39?lang=eng#p37)).
+4. Keep the law of chastity, which means abstaining from sexual relations outside of a legal marriage between a man and a woman, which is according to God’s law.
+5. Keep the law of consecration, which means that members dedicate their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
 
 In return, Heavenly Father promises that those who remain faithful to their temple covenants will be endowed “with power from on high” ([Doctrine and Covenants 38:32, 38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38.32,38?lang=eng#p32); see also [Luke 24:49](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24.49?lang=eng#p49); [Doctrine and Covenants 43:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/43.16?lang=eng#p16)).
 
@@ -220,7 +226,7 @@ The temple can provide a dress if needed or desired.
 
 _Groom’s Clothing._ The groom wears normal temple clothing during the marriage or sealing ceremony (see [38.5.1](38-church-policies-and-guidelines.md#3851-temple-clothing) and [38.5.2](38-church-policies-and-guidelines.md#3852-obtaining-temple-clothing-and-garments)). He may wear formal clothing outside the temple for photographs after the ceremony.
 
-_Guests’ Clothing._ Those who attend a marriage or sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. Guests should not dress in white unless the sealing room must be entered through the celestial room. Members who come to a sealing directly from an endowment session may wear ceremonial temple clothing.
+_Guests’ Clothing._ Those who attend a marriage or sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. Members who come to a sealing directly from an endowment session may wear ceremonial temple clothing.
 
 The couple should share this information with guests well before the marriage or sealing.
 
@@ -244,10 +250,10 @@ For the policy on sealing a couple who were married in the temple for time only,
 
 Couples should invite only close family members and friends to a temple marriage or sealing. Accountable members must be endowed and have a current temple recommend to attend.
 
-The stake president may authorize a person who has not been baptized or endowed due to intellectual disabilities to observe the temple marriage or sealing of his or her living siblings. The person must:
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the temple marriage or sealing of their living siblings if they:
 
-* Be at least 18 years old.
-* Be able to remain reverent during the ceremony.
+* Are at least 18 years old.
+* Are able to remain reverent during the ceremony.
 
 The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
 
@@ -255,7 +261,7 @@ Members must be endowed and have a current temple recommend to observe the seali
 
 ### 27.3.5 Wedding Receptions
 
-See [35.5.15](35.md#35515-weddings-and-receptions) for information about holding wedding receptions in Church buildings.
+See [38.3.4](38-church-policies-and-guidelines.md#3834-civil-marriages-held-in-church-buildings) for information about holding wedding receptions in Church buildings.
 
 ## 27.4 Sealing Living Children to Parents
 
@@ -290,3 +296,5 @@ To observe the sealing of living siblings, stepsiblings, or half siblings to the
 Members who are 21 or older must be endowed and have a current temple recommend to observe such sealings.
 
 Married members who are younger than 21 do not need to be endowed to observe such sealings. However, they must have a current temple recommend (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
+
+The stake president may authorize a person who has not been baptized or endowed due to intellectual disabilities to observe the sealing of living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
