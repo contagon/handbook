@@ -2,13 +2,13 @@
 
 ## 38.1 Church Participation
 
-Our Father in Heaven loves His children. “All are alike unto God,” and He invites all “to come unto him and partake of his goodness” ([2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.33?lang=eng#p33)).
+Our Father in Heaven loves His children. “All are alike unto God,” and He invites all “to come unto him and partake of his goodness” ([2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33)).
 
 Church leaders and members are often asked who can attend meetings of The Church of Jesus Christ of Latter-day Saints, who can become Church members, and who can attend a temple.
 
 ### 38.1.1 Attendance at Church Meetings
 
-The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19)). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.3?lang=eng#p3)).
+The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=p39#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=eng&id=p19#p19)). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=eng&id=p3#p3)).
 
 All are welcome to attend sacrament meeting, other Sunday meetings, and social events of The Church of Jesus Christ of Latter-day Saints. The presiding officer is responsible to ensure that all who attend are respectful of the sacred setting.
 
@@ -20,19 +20,19 @@ Church meetinghouses remain private property subject to Church policies. Persons
 
 ### 38.1.2 Becoming a Church Member
 
-Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.37?lang=eng#p37)).
+Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p37#p37)).
 
 For baptism of minor children ages 8 and older, see [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors).
 
 ### 38.1.3 Temple Attendance
 
-Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](26-temple-recommends.md).)
+Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](26-temple-recommends.md).)
 
 ### 38.1.4 Unmarried Member Participation and Blessings
 
 All members, even if they have never married or are without family in the Church, should strive for the ideal of living in an eternal family. This means preparing to be sealed as a worthy husband or wife and to become a loving father or mother. For some, these blessings will not be fulfilled until the next life, but the ultimate goal is the same for all.
 
-Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
+Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41)).
 
 ### 38.1.5 Unwed Parents under Age 18
 
@@ -95,7 +95,7 @@ When considering whether to perform ordinances for a person who has an intellect
 
 The bishop may counsel with the stake president if he has questions about specific persons. The stake president may contact the Office of the First Presidency if necessary.
 
-Individuals whose disabilities make them not accountable are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.10?lang=eng#p10)). For this reason, ordinances are not needed or performed for them. The only exception is sealing to parents for those who were not born in the covenant.
+Individuals whose disabilities make them not accountable are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137?lang=eng&id=p10#p10)). For this reason, ordinances are not needed or performed for them. The only exception is sealing to parents for those who were not born in the covenant.
 
 For information about performing ordinances for those with intellectual disabilities, see the following:
 
@@ -189,7 +189,7 @@ The person, his or her parents or guardians (where applicable), and the bishop c
 
 If the person is a potential convert, the mission president holds the keys for his or her baptism (see [18.7.1.2](18-priesthood-ordinances-and-blessings.md#18712-converts)). In this case, the missionaries inform the mission president. He counsels with the person and his or her parents or guardians (where applicable) to determine whether he or she should be baptized and confirmed. If the bishop knows the person well, the mission president may also seek his input.
 
-Those who are not accountable do not need to be baptized, regardless of age (see [Doctrine and Covenants 29:46–50](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29.46-50?lang=eng#p46) and [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-have-intellectual-disabilities) in this handbook).
+Those who are not accountable do not need to be baptized, regardless of age (see [Doctrine and Covenants 29:46–50](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=eng&id=p46-p50#p46) and [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-have-intellectual-disabilities) in this handbook).
 
 For information about the membership records of persons who may not be accountable, see [33.6.10](33-records-and-reports.md#33610-records-of-members-who-have-intellectual-disabilities).
 
@@ -212,7 +212,7 @@ A married person must have the consent of his or her spouse before being baptize
 
 #### 38.2.8.4 Persons Who Are Cohabiting
 
-A couple living together but not married must commit to living the law of chastity before either of them can be baptized. This includes exercising faith unto repentance as described in [Doctrine and Covenants 20:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.37?lang=eng#p37). It also includes no longer living together or, in the case of a man and a woman, getting married.
+A couple living together but not married must commit to living the law of chastity before either of them can be baptized. This includes exercising faith unto repentance as described in [Doctrine and Covenants 20:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p37#p37). It also includes no longer living together or, in the case of a man and a woman, getting married.
 
 #### 38.2.8.5 Persons Whose Church Membership Was Withdrawn or Who Resigned Membership
 
@@ -227,7 +227,7 @@ Authorization from the mission president is required before a person can be bapt
 
 In these cases, the mission president interviews the person. If necessary, the mission president may authorize one of his counselors to conduct the interview. He gives this authorization separately for each interview. The counselor who conducts it reports to the mission president, who may then authorize or deny the baptism and confirmation.
 
-Approval from the First Presidency is required before a person can be baptized if he or she:
+Approval from the First Presidency is required before a person can be baptized and confirmed if he or she:
 
 * Has committed murder (see [38.2.8.7](38-church-policies-and-guidelines.md#38287-persons-who-have-been-convicted-of-crimes)).
 * Has been convicted of a crime involving sexual misconduct (see [38.2.8.7](38-church-policies-and-guidelines.md#38287-persons-who-have-been-convicted-of-crimes)).
@@ -308,7 +308,7 @@ A prospective elder is a male Church member age 19 or older who does not hold t
 
 Under the direction of the bishop, the elders quorum presidency works closely with prospective elders to help them prepare to receive the Melchizedek Priesthood. If a prospective elder is not a priest, he should be ordained a priest as soon as he is worthy. He does not need to be ordained a deacon or teacher first. He may be ordained an elder when he has developed sufficient understanding of the gospel and demonstrated his worthiness. The bishop and stake president interview him to make this determination (see [31.2.6](31.md#3126-interviews-for-ordination-to-an-office-in-the-melchizedek-priesthood)).
 
-For more information about helping prospective elders prepare to receive the Melchizedek Priesthood, see [8.4](8-elders-quorum.md#84-helping-prospective-elders-prepare-to-receive-the-melchizedek-priesthood).
+For more information about helping prospective elders prepare to receive the Melchizedek Priesthood, see [8.4](8-elders-quorum.md#84-helping-prospective-elders-prepare-to-receive-the-melchizedek-priesthood).
 
 #### 38.2.9.4 Brethren Who Have Changed Wards within the Past Year
 
@@ -387,7 +387,7 @@ A member normally receives a patriarchal blessing from the patriarch in his or h
 * Lives in a district.
 * Does not speak the same language as the stake patriarch, and a patriarch in a nearby stake speaks the member’s language.
 
-In each of these cases, a member of the bishopric or the branch president interviews the member as described in [18.17](18-priesthood-ordinances-and-blessings.md#1817-patriarchal-blessings). A member of the patriarch’s stake presidency and of the recipient’s stake or mission presidency must approve the recommend through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest/).
+In each of these cases, a member of the bishopric or the branch president interviews the member as described in [18.17](18-priesthood-ordinances-and-blessings.md#1817-patriarchal-blessings). A member of the patriarch’s stake presidency and of the recipient’s stake or mission presidency must approve the recommend through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest).
 
 #### 38.2.10.5 Translation of Patriarchal Blessings
 
@@ -576,7 +576,7 @@ See [chapter 28](28.md) for information about performing ordinances for a decea
 
 _Women._ If a husband and wife have been sealed and the husband dies, the woman may not be sealed to another man unless she receives a cancellation of the first sealing (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 
-A living woman who is not currently married or sealed to another man may be sealed to a deceased husband. If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce).
+A living woman who is not currently married or sealed to another man may be sealed to a deceased husband (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce).
 
 A living woman who is currently married may not be sealed to a deceased husband without First Presidency approval.
 
@@ -584,7 +584,7 @@ See [chapter 28](28.md) for information about performing ordinances for a decea
 
 _Men._ If a husband and wife have been sealed and the wife dies, the man may be sealed to another woman if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce)).
 
-A living man may be sealed to a deceased wife. If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
+A living man may be sealed to a deceased wife if she is not currently sealed to another man (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
 
 See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
@@ -636,15 +636,13 @@ Time-only marriages in the temple are no longer performed (see [27.3.3](27-templ
 
 #### 38.4.1.7 Sealing of Deceased Persons
 
-This section applies to deceased persons being sealed to spouses who are also deceased. If one of the spouses is still living, see [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death).
-
 _Deceased Women._ A deceased woman may be sealed to all men to whom she was legally married during her life. The following table shows when these sealings may take place.
 
-| She was not sealed to a husband in life | She may be sealed to all living or deceased men to whom she was married in life. If the man is living, his wife (if he is married) must give written consent. If the man is deceased, his widow (if any) must give written consent. |
+| She was not sealed to a husband in life | She may be sealed to all living or deceased men to whom she was married in life. If the man is living, his wife (if he is married) must give written consent (see [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death)). If the man is deceased, his widow (if any) must give written consent. |
 | --- | --- |
 | She was sealed to a husband in life | All her husbands must be deceased before she is sealed to other men to whom she was married. This includes former husbands from whom she may have been divorced. Each of the men’s widows (if any) must give written consent. |
 
-_Deceased Men._ A deceased man may be sealed to all women to whom he was legally married during his life if (1) they are deceased or (2) they are living and are not sealed to another man.
+_Deceased Men._ A deceased man may be sealed to all women to whom he was legally married during his life if (1) they are deceased or (2) they are living, are not currently married, and are not sealed to another man (see [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death)).
 
 Before a deceased man may be sealed to a deceased woman to whom he was married in life, the woman’s widower (if there is one) must give written consent.
 
@@ -782,25 +780,23 @@ For information about garment fabrics and styles, see [store.ChurchofJesusChrist
 
 ### 38.5.3 Garments and Temple Clothing for Members Who Have Disabilities or Allergies
 
-Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Garments and Sacred Clothing](https://store.churchofjesuschrist.org/clothing),” store.ChurchofJesusChrist.org).
+Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments. See [Special Order Garments](https://www.churchofjesuschrist.org/tools/help/special-needs-garments) at ChurchofJesusChrist.org.
 
-Shorter temple robes are available for members who are in wheelchairs or who have other needs (see [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/clothing)).
+Shorter temple robes are available for members who are in wheelchairs or who have other needs. See [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/new-category/clothing/5637160336.c).
 
-### 38.5.4 Making Temple Aprons
+### 38.5.4 Making Temple Clothing
 
-Members may make their own temple aprons if they use one of the approved apron kits. These kits are available from a Church Distribution store or from [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/heirloom-apron-embroidery-kit-85055655-1).
+Members should not make ceremonial temple clothing or temple garments.
 
-Members should not make other ceremonial temple clothing or temple garments.
+### 38.5.5 Wearing the Garment
 
-### 38.5.5 Wearing and Caring for the Garment
+The First Presidency has provided the following guidance on wearing the garment:
 
-Members who receive the endowment make a covenant to wear the temple garment throughout their lives.
+“The garment of the holy priesthood reminds us of the veil in the temple, and that veil is symbolic of Jesus Christ. When you put on your garment, you put on a sacred symbol of Jesus Christ. Wearing it is an outward expression of your inner commitment to follow Him. The garment is also a reminder of your temple covenants. You should wear the garment day and night throughout your life. When it must be removed for activities that cannot reasonably be done while wearing the garment, seek to restore it as soon as possible. As you keep your covenants, including the sacred privilege to wear the garment as instructed in the initiatory ordinances, you will have greater access to the Savior’s mercy, protection, strength, and power.”
 
-The temple garment is a reminder of covenants made in the temple and, when worn properly throughout life, will serve as a protection against temptation and evil. The garment should be worn beneath the outer clothing. It should not be removed for activities that can reasonably be done while wearing the garment, and it should not be modified to accommodate different styles of clothing. Endowed members should seek the guidance of the Holy Spirit to answer personal questions about wearing the garment.
+The garment should be worn beneath the outer clothing. It is a matter of personal preference whether other undergarments are worn over or under the temple garment.
 
-It is a sacred privilege to wear the garment and doing so is an outward expression of an inner commitment to follow the Savior Jesus Christ.
-
-It is a matter of personal preference whether other undergarments are worn over or under the temple garment.
+Members should not modify or alter the garment to accommodate different styles of clothing.
 
 See [26.3.3](26-temple-recommends.md#2633-conducting-a-temple-recommend-interview).
 
@@ -819,7 +815,7 @@ When possible, they should wear the garment the same as any other member. Howeve
 
 Sometimes service regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected as long as he or she remains worthy. The member will still receive the blessings associated with wearing the garment. If members are unable to wear the garment, they should wear it again as soon as circumstances allow.
 
-Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Marking Order Form](https://assets.ldscdn.org/5c/28/5c284572e58b11eb82d6eeeeac1e5a30d3af98ef/beehive_clothing_form_military_markings_order_form.pdf).
+Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Guidelines for Military, Law Enforcement, and Firefighters](https://assets.churchofjesuschrist.org/d7/da/d7dace85affa11eea186eeeeac1ee4396c92cc3b/beehive_clothing_form_military_markings_order_form.pdf).
 
 ### 38.5.7 Disposing of Garments and Ceremonial Temple Clothing
 
@@ -861,7 +857,7 @@ A few policies in this section are about matters that the Church “discourages.
 
 ### 38.6.1 Abortion
 
-The Lord commanded, “Thou shalt not … kill, nor do anything like unto it” ([Doctrine and Covenants 59:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59.6?lang=eng#p6)). The Church opposes elective abortion for personal or social convenience. Members must not submit to, perform, arrange for, pay for, consent to, or encourage an abortion. The only possible exceptions are when:
+The Lord commanded, “Thou shalt not … kill, nor do anything like unto it” ([Doctrine and Covenants 59:6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/59?lang=eng&id=p6#p6)). The Church opposes elective abortion for personal or social convenience. Members must not submit to, perform, arrange for, pay for, consent to, or encourage an abortion. The only possible exceptions are when:
 
 * Pregnancy resulted from forcible rape or incest.
 * A competent physician determines that the life or health of the mother is in serious jeopardy.
@@ -914,7 +910,7 @@ In countries that do not have a help line, a bishop who learns of abuse should c
 
 Victims of abuse often suffer serious trauma. Stake presidents and bishops respond with heartfelt compassion and empathy. They provide spiritual counseling and support to help victims overcome the destructive effects of abuse.
 
-Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders help them and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15.8?lang=eng#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17.9?lang=eng#p9)).
+Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders help them and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=eng&id=p8#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng&id=p9#p9)).
 
 Stake presidents and bishops should help those who have committed abuse to repent and to cease their abusive behavior. If an adult has committed a sexual sin against a child, the behavior may be very difficult to change. The process of repentance may be very prolonged. See [38.6.2.3](38-church-policies-and-guidelines.md#38623-child-or-youth-abuse).
 
@@ -930,7 +926,7 @@ See also [FamilyServices.ChurchofJesusChrist.org](https://FamilyServices.Churcho
 
 #### 38.6.2.3 Child or Youth Abuse
 
-Abuse of a child or youth is an especially serious sin (see [Luke 17:2](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/17.2?lang=eng#p2)). As used here, _child or youth abuse_ includes the following:
+Abuse of a child or youth is an especially serious sin (see [Luke 17:2](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=eng&id=p2#p2)). As used here, _child or youth abuse_ includes the following:
 
 * _Physical abuse:_ Inflicting serious bodily harm by physical violence. Some harm may not be visible.
 * _Sexual abuse or exploitation:_ Having any sexual activity with a child or youth or intentionally allowing or helping others to have such activity. As used here, sexual abuse does not include consensual sexual activity between two minors who are close in age.
@@ -999,7 +995,7 @@ The Lord’s law of chastity is:
 
 Physical intimacy between husband and wife is intended to be beautiful and sacred. It is ordained of God for the creation of children and for the expression of love between husband and wife.
 
-Only a man and a woman who are legally and lawfully wedded as husband and wife should have sexual relations. In God’s sight, moral cleanliness is very important. Violations of the law of chastity are very serious (see [Exodus 20:14](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.14?lang=eng#p14); [Matthew 5:28](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5.28?lang=eng#p28); [Alma 39:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39.5?lang=eng#p5)). Those involved misuse the sacred power God has given to create life.
+Only a man and a woman who are legally and lawfully wedded as husband and wife should have sexual relations. In God’s sight, moral cleanliness is very important. Violations of the law of chastity are very serious (see [Exodus 20:14](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p14#p14); [Matthew 5:28](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p28#p28); [Alma 39:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=eng&id=p5#p5)). Those involved misuse the sacred power God has given to create life.
 
 A Church membership council may be necessary if a member:
 
@@ -1035,7 +1031,9 @@ The pattern of a husband and wife providing bodies for God’s spirit children i
 
 The Church discourages artificial insemination or in vitro fertilization using sperm from anyone but the husband or an egg from anyone but the wife. However, this is a personal matter that is ultimately left to the judgment and prayerful consideration of a lawfully married man and woman.
 
-See also “[Adoption](https://www.churchofjesuschrist.org/study/manual/gospel-topics/adoption?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For information about the sealing of children who are conceived by artificial insemination or in vitro fertilization, see [38.4.2.6](38-church-policies-and-guidelines.md#38426-children-conceived-by-artificial-insemination-or-in-vitro-fertilization).
+
+See also “[Adoption](https://www.churchofjesuschrist.org/study/manual/gospel-topics/adoption?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 ### 38.6.10 Incest
 
@@ -1056,7 +1054,7 @@ If a minor commits incest, the stake president contacts the Office of the First 
 
 Victims of incest often suffer serious trauma. Leaders respond with heartfelt compassion and empathy. They provide spiritual support and counseling to help them overcome the destructive effects of incest.
 
-Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders help them and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15.8?lang=eng#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17.9?lang=eng#p9)).
+Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders help them and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=eng&id=p8#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng&id=p9#p9)).
 
 In addition to receiving the inspired help of Church leaders, victims and their families may need professional counseling. For information, see [38.6.18.2.](38-church-policies-and-guidelines.md#386182-counseling-for-victims-of-sexual-abuse-rape-and-other-forms-of-sexual-assault)
 
@@ -1066,9 +1064,9 @@ See [38.6.9](38-church-policies-and-guidelines.md#3869-fertility-treatments).
 
 ### 38.6.12 The Occult
 
-“That which is of God is light” ([Doctrine and Covenants 50:24](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50.24?lang=eng#p24)). The occult focuses on darkness and leads to deception. It destroys faith in Christ.
+“That which is of God is light” ([Doctrine and Covenants 50:24](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/50?lang=eng&id=p24#p24)). The occult focuses on darkness and leads to deception. It destroys faith in Christ.
 
-The occult includes Satan worship. It also includes mystical activities that are not in harmony with the gospel of Jesus Christ. Such activities include (but are not limited to) fortune-telling, curses, and healing practices that are imitations of the priesthood power of God (see [Moroni 7:11–17](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7.11-17?lang=eng#p11)).
+The occult includes Satan worship. It also includes mystical activities that are not in harmony with the gospel of Jesus Christ. Such activities include (but are not limited to) fortune-telling, curses, and healing practices that are imitations of the priesthood power of God (see [Moroni 7:11–17](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=eng&id=p11-p17#p11)).
 
 Church members should not engage in any form of Satan worship or participate in any way with the occult. They should not focus on such darkness in conversations or in Church meetings.
 
@@ -1093,11 +1091,11 @@ In addition to the inspired help of Church leaders, some members may need profes
 
 ### 38.6.14 Prejudice
 
-All people are children of God. All are brothers and sisters who are part of His divine family (see “[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng)”). God “hath made of one blood all nations” ([Acts 17:26](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/17.26?lang=eng#p26)). “All are alike” unto Him ([2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.33?lang=eng#p33)). Each person is “as precious in his sight as the other” ([Jacob 2:21](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2.21?lang=eng#p21)).
+All people are children of God. All are brothers and sisters who are part of His divine family (see “[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng)”). God “hath made of one blood all nations” ([Acts 17:26](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=eng&id=p26#p26)). “All are alike” unto Him ([2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33)). Each person is “as precious in his sight as the other” ([Jacob 2:21](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng&id=p21#p21)).
 
 Prejudice is not consistent with the revealed word of God. Favor or disfavor with God depends on devotion to Him and His commandments, not on the color of a person’s skin or other attributes.
 
-The Church calls on all people to abandon attitudes and actions of prejudice toward any group or individual. Members of the Church should lead out in promoting respect for all of God’s children. Members follow the Savior’s commandment to love others (see [Matthew 22:35–39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.35-39?lang=eng#p35)). They strive to be persons of goodwill toward all, rejecting prejudice of any kind. This includes prejudice based on race, ethnicity, nationality, tribe, gender, age, disability, socioeconomic status, religious belief or nonbelief, and sexual orientation.
+The Church calls on all people to abandon attitudes and actions of prejudice toward any group or individual. Members of the Church should lead out in promoting respect for all of God’s children. Members follow the Savior’s commandment to love others (see [Matthew 22:35–39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=p35-p39#p35)). They strive to be persons of goodwill toward all, rejecting prejudice of any kind. This includes prejudice based on race, ethnicity, nationality, tribe, gender, age, disability, socioeconomic status, religious belief or nonbelief, and sexual orientation.
 
 ### 38.6.15 Same-Sex Attraction and Same-Sex Behavior
 
@@ -1107,11 +1105,11 @@ God’s commandments forbid all unchaste behavior, either heterosexual or same-s
 
 Feeling same-sex attraction is not a sin. Members who have these feelings and do not pursue or act on them are living in accordance with Heavenly Father’s plan for His children and with Church doctrine. Leaders support and encourage them in their resolve to live according to the commandments of the Lord. Members with these feelings may receive Church callings, have temple recommends, and receive temple ordinances if they are worthy. Male Church members may receive and exercise the priesthood.
 
-All members who keep their covenants will receive all promised blessings in the eternities whether or not their circumstances allow them to receive the blessings of eternal marriage and parenthood in this life (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
+All members who keep their covenants will receive all promised blessings in the eternities whether or not their circumstances allow them to receive the blessings of eternal marriage and parenthood in this life (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41)).
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The Church provides the following resources to better understand and support people whose lives are affected by same-sex attraction:
 
-* “[Same-Sex Attraction](https://www.churchofjesuschrist.org/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Gospel Topics, topics.ChurchofJesusChrist.org
+* “[Same-Sex Attraction](https://www.churchofjesuschrist.org/study/manual/gospel-topics/same-sex-attraction?lang=eng),” Topics and Questions, topics.ChurchofJesusChrist.org
 * “[Same-Sex Attraction](https://www.churchofjesuschrist.org/topics/gay),” Life Help, ChurchofJesusChrist.org
 
 In addition to the inspired help of Church leaders, members may benefit from professional counseling. Leaders may contact Family Services for assistance. See [31.3.6](31.md#3136-professional-counseling-and-therapy) for contact information.
@@ -1130,7 +1128,7 @@ Parents have primary responsibility for the sex education of their children. Par
 * Help children prepare for happiness in marriage and follow the law of chastity (see [2.1.2](2-supporting-individuals-and-families.md#212-husband-and-wife)).
 * Address the dangers of pornography, the need to avoid it, and how to respond when they encounter it.
 
-For more information, see “[Sex Education and Behavior](https://www.churchofjesuschrist.org/study/manual/gospel-topics/sex-education-and-behavior?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For more information, see “[Sex Education and Behavior](https://www.churchofjesuschrist.org/study/manual/gospel-topics/sex-education-and-behavior?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 As part of their responsibility to teach their children, parents should be aware of and appropriately seek to influence the sex education taught at school. Parents teach correct principles and support school instruction that is consistent with the gospel.
 
@@ -1156,7 +1154,7 @@ In countries that do not have a help line, a bishop who learns of these offenses
 
 Victims of sexual abuse, rape, or other forms of sexual assault often suffer serious trauma. When they confide in a bishop or stake president, he responds with heartfelt compassion and empathy. He provides spiritual counseling and support to help victims overcome the destructive effects of abuse. He also calls the Church’s abuse help line for guidance where it is available (see [38.6.18.1](38-church-policies-and-guidelines.md#386181-abuse-help-line)).
 
-Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders do not blame the victim. They help victims and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15.8?lang=eng#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17.9?lang=eng#p9)).
+Sometimes victims have feelings of shame or guilt. Victims are not guilty of sin. Leaders do not blame the victim. They help victims and their families understand God’s love and the healing that comes through Jesus Christ and His Atonement (see [Alma 15:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/15?lang=eng&id=p8#p8); [3 Nephi 17:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng&id=p9#p9)).
 
 While members may choose to share information about the abuse or assault, leaders should not focus excessively on the details. This can be harmful to victims.
 
@@ -1185,7 +1183,7 @@ No bishop’s referral is needed for this service. There is no charge. See [31.3
 
 In other areas, leaders may contact Family Services staff or the welfare and self-reliance manager in the area office for consultation.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](https://www.churchofjesuschrist.org/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Guidance for counseling single expectant parents is also provided at “[Unwed Pregnancy](https://www.churchofjesuschrist.org/study/manual/gospel-topics/unwed-pregnancy?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 ### 38.6.20 Suicide
 
@@ -1197,7 +1195,7 @@ The bishop provides ecclesiastical support if a member is considering suicide or
 
 Despite the best efforts of loved ones, leaders, and professionals, suicide is not always preventable. It leaves behind deep heartbreak, emotional upheaval, and unanswered questions for loved ones and others. Leaders should counsel and console the family. They provide nurturing and support. The family may also need professional support and counseling.
 
-It is not right for a person to take his or her own life. However, only God is able to judge the person’s thoughts, actions, and level of accountability (see [1 Samuel 16:7](https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/16.7?lang=eng#p7); [Doctrine and Covenants 137:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.9?lang=eng#p9)).
+It is not right for a person to take his or her own life. However, only God is able to judge the person’s thoughts, actions, and level of accountability (see [1 Samuel 16:7](https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=eng&id=p7#p7); [Doctrine and Covenants 137:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137?lang=eng&id=p9#p9)).
 
 The family, in consultation with the bishop, determines the place and nature of a funeral service for the person. The family may choose to use Church facilities. If the person was endowed in life, he or she may be buried or cremated in temple clothing.
 
@@ -1249,7 +1247,7 @@ An autopsy may be performed if the family of the deceased person gives consent a
 
 The family of the deceased person decides whether his or her body should be buried or cremated. They respect the desires of the individual.
 
-In some countries, the law requires cremation. In other cases, burial is not practical or affordable for the family. In all cases, the body should be treated with respect and reverence. Members should be reassured that the power of the Resurrection always applies (see [Alma 11:42–45](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11.42-45?lang=eng#p42)).
+In some countries, the law requires cremation. In other cases, burial is not practical or affordable for the family. In all cases, the body should be treated with respect and reverence. Members should be reassured that the power of the Resurrection always applies (see [Alma 11:42–45](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p42-p45#p42)).
 
 Where possible, the body of a deceased member who has been endowed should be dressed in ceremonial temple clothing when it is buried or cremated (see [38.5.8](38-church-policies-and-guidelines.md#3858-temple-burial-clothing)).
 
@@ -1295,7 +1293,7 @@ Seeking competent medical help, exercising faith, and receiving priesthood bless
 
 Members should not use or promote medical or health practices that are ethically, spiritually, or legally questionable. Those who have health problems should consult with competent medical professionals who are licensed in the areas where they practice.
 
-In addition to seeking competent medical help, members of the Church are encouraged to follow the scriptural injunction in [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5.14?lang=eng#p14) to “call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.” Priesthood blessings of healing are given by those who hold the necessary priesthood office. They are given when requested and at no charge (see [18.13](18-priesthood-ordinances-and-blessings.md#1813-administering-to-the-sick)).
+In addition to seeking competent medical help, members of the Church are encouraged to follow the scriptural injunction in [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng&id=p14#p14) to “call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.” Priesthood blessings of healing are given by those who hold the necessary priesthood office. They are given when requested and at no charge (see [18.13](18-priesthood-ordinances-and-blessings.md#1813-administering-to-the-sick)).
 
 Church members are discouraged from seeking miraculous or supernatural healing from an individual or group that claims to have special methods for accessing healing power outside of prayer and properly performed priesthood blessings. These practices are often referred to as “energy healing.” Other names are also used. Such promises for healing are often given in exchange for money.
 
@@ -1320,7 +1318,7 @@ The decision to authorize the transplant of organs or tissue from a deceased per
 
 ### 38.7.11 Prolonging Life (Including Life Support)
 
-When facing severe illness, members should exercise faith in the Lord and seek competent medical assistance. However, when dying becomes inevitable, it should be seen as a blessing and a purposeful part of eternal existence (see [2 Nephi 9:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9.6?lang=eng#p6); [Alma 42:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42.8?lang=eng#p8)).
+When facing severe illness, members should exercise faith in the Lord and seek competent medical assistance. However, when dying becomes inevitable, it should be seen as a blessing and a purposeful part of eternal existence (see [2 Nephi 9:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p6#p6); [Alma 42:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p8#p8)).
 
 Members should not feel obligated to extend mortal life by extreme means. These decisions are best made by the person, if possible, or by family members. They should seek competent medical advice and divine guidance through prayer.
 
@@ -1354,9 +1352,9 @@ Prophets have also taught members to avoid substances that are harmful, illegal,
 
 There are other harmful substances and practices that are not specified in the Word of Wisdom or by Church leaders. Members should use wisdom and prayerful judgment in making choices to promote their physical, spiritual, and emotional health.
 
-The Apostle Paul stated: “Know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s” ([1 Corinthians 6:19–20](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/6.19-20?lang=eng#p19)).
+The Apostle Paul stated: “Know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s” ([1 Corinthians 6:19–20](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=eng&id=p19-p20#p19)).
 
-The Lord promises spiritual and temporal blessings to those who obey the Word of Wisdom and the guidance of living prophets (see [Doctrine and Covenants 89:18–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89.18-21?lang=eng#p18)).
+The Lord promises spiritual and temporal blessings to those who obey the Word of Wisdom and the guidance of living prophets (see [Doctrine and Covenants 89:18–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p18-p21#p18)).
 
 ## 38.8 Administrative Policies
 
@@ -1370,7 +1368,7 @@ The Church does not facilitate adoptions. However, in the United States and Cana
 
 For information about single expectant parents, see [38.6.19](38-church-policies-and-guidelines.md#38619-single-expectant-parents).
 
-For more information, see “[Adoption](https://www.churchofjesuschrist.org/study/manual/gospel-topics/adoption?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For more information, see “[Adoption](https://www.churchofjesuschrist.org/study/manual/gospel-topics/adoption?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 ### 38.8.2 Affinity Fraud
 
@@ -1427,7 +1425,7 @@ Bishops may call a magazine representative to help members access the magazines.
 
 The magazine representative or executive secretary can also help gather faith-promoting experiences and testimonies from local members to share with the magazines.
 
-Subscriptions to the print magazines are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/), the Global Services Department, and [Distribution Center retail stores](https://store.churchofjesuschrist.org/usa/en/store-locator). In some areas, units order on behalf of their members and distribute magazines at their meetinghouses. For more information, contact the Global Services Department or a distribution center store.
+Subscriptions to the print magazines are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org), the Global Services Department, and [Distribution Center retail stores](https://store.churchofjesuschrist.org/usa/en/store-locator). In some areas, units order on behalf of their members and distribute magazines at their meetinghouses. For more information, contact the Global Services Department or a distribution center store.
 
 ### 38.8.8 Church Name, Wordmark, and Symbol
 
@@ -1505,7 +1503,7 @@ Intellectual Property Office
 
 50 East North Temple Street
 
-Salt Lake City, UT 84150-0005
+Salt Lake City, UT 84150-0005
 
 Telephone: 1-801-240-3959 or 1-800-453-3860, extension 2-3959
 
@@ -1535,7 +1533,7 @@ _What permission is needed to present musical and theatrical productions?_ Produ
 
 The Church provides materials to help members learn and live the gospel of Jesus Christ. These include the scriptures, general conference messages, magazines, manuals, books, and other resources. Leaders encourage members to use the scriptures and other resources as needed to study the gospel at home.
 
-Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see Instructions for Curriculum.
+Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see [Instructions for Curriculum](https://assets.churchofjesuschrist.org/2a/ab/2aabdadfe91a11ec9fe1eeeeac1e8ade05f517a3/2023_instructions_for_curriculum.pdf).
 
 ### 38.8.13 Directories
 
@@ -1551,13 +1549,13 @@ Membership lists should not be printed for non-Church use.
 
 ### 38.8.14 Dress and Appearance
 
-Men and women are created in the image of God (see [Genesis 1:26–27](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1.26-27?lang=eng#p26); [Abraham 4:27](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/4.27?lang=eng#p27)). Mortal bodies are a sacred gift.
+Men and women are created in the image of God (see [Genesis 1:26–27](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng&id=p26-p27#p26); [Abraham 4:27](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng&id=p27#p27)). Mortal bodies are a sacred gift.
 
 Members of the Church are encouraged to show respect for the body in their choices about appropriate dress and appearance. What is appropriate varies across cultures and for different occasions. For example, for sacrament meeting, individuals wear their best available Sunday clothing to show respect for the sacrament ordinance (see [18.9.3](18-priesthood-ordinances-and-blessings.md#1893-guidelines-for-the-sacrament)). This same principle applies to temple attendance (see [27.1.5](27-temple-ordinances-for-the-living.md#2715-clothing-to-wear-to-a-temple)). Disciples of Jesus Christ will know how best to dress and groom themselves.
 
-Members and leaders should not judge others based on dress and appearance. They should love all people, as the Savior commanded (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.39?lang=eng#p39); [John 13:34–35](https://www.churchofjesuschrist.org/study/scriptures/nt/john/13.34-35?lang=eng#p34)). All should be welcomed at Church meetings and activities (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)).
+Members and leaders should not judge others based on dress and appearance. They should love all people, as the Savior commanded (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=p39#p39); [John 13:34–35](https://www.churchofjesuschrist.org/study/scriptures/nt/john/13?lang=eng&id=p34-p35#p34)). All should be welcomed at Church meetings and activities (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)).
 
-When issuing temple recommends and ward and stake callings, leaders consider worthiness and the guidance of the Spirit (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends), [30.1.1](30-callings-in-the-church.md#3011-general-guidelines), and 31.1.1).
+When issuing temple recommends and ward and stake callings, leaders consider worthiness and the guidance of the Spirit (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends), [30.1.1](30-callings-in-the-church.md#3011-general-guidelines), and [31.1.1](31.md#3111-prepare-spiritually)).
 
 ### 38.8.15 Extreme Preparation or Survivalism
 
@@ -1565,7 +1563,7 @@ The Church encourages self-reliance. Members are encouraged to be spiritually an
 
 However, Church leaders have counseled against extreme or excessive preparation for possible catastrophic events. Such efforts are sometimes called survivalism. Efforts to prepare should be motivated by faith, not fear.
 
-Church leaders have counseled members not to go into debt to establish food storage. Instead, members should establish a home storage supply and a financial reserve over time. See [22.1.4](22-providing-for-temporal-needs.md#2214-temporal-preparedness) and “[Food Storage](https://www.churchofjesuschrist.org/study/manual/gospel-topics/food-storage?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+Church leaders have counseled members not to go into debt to establish food storage. Instead, members should establish a home storage supply and a financial reserve over time. See [22.1.4](22-providing-for-temporal-needs.md#2214-temporal-preparedness) and “[Food Storage](https://www.churchofjesuschrist.org/study/manual/gospel-topics/food-storage?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 ### 38.8.16 Fast Day
 
@@ -1599,13 +1597,13 @@ The bishop or stake president ensures that:
 
 Members who remain in their native lands often have opportunities to build up and strengthen the Church there. However, immigration to another country is a personal choice.
 
-Members who move to another country should obey all applicable laws (see [Doctrine and Covenants 58:21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.21?lang=eng#p21)).
+Members who move to another country should obey all applicable laws (see [Doctrine and Covenants 58:21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p21#p21)).
 
 Missionaries should not offer to sponsor others’ immigration. Nor should they ask their parents, relatives, or others to do so.
 
 The Church does not sponsor immigration through Church employment.
 
-Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.35?lang=eng#p35); see also [38.8.35](38-church-policies-and-guidelines.md#38835-refugees) in this handbook).
+Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p35#p35); see also [38.8.35](38-church-policies-and-guidelines.md#38835-refugees) in this handbook).
 
 ### 38.8.20 Internet
 
@@ -1636,7 +1634,7 @@ For additional guidelines, see [internet.ChurchofJesusChrist.org](https://intern
 
 The internet and social media have many positive uses. Among these are opportunities to share testimonies of the Savior and His restored gospel. Blogs, social media, and other internet technologies allow members to promote the messages of peace, hope, and joy that accompany faith in Christ.
 
-Members are encouraged to share uplifting content. They should also exemplify civility in all online interactions, including social media. They should avoid contention (see [3 Nephi 11:29–30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11.29-30?lang=eng#p29); [Doctrine and Covenants 136:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/136.23?lang=eng#p23)).
+Members are encouraged to share uplifting content. They should also exemplify civility in all online interactions, including social media. They should avoid contention (see [3 Nephi 11:29–30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p29-p30#p29); [Doctrine and Covenants 136:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/136?lang=eng&id=p23#p23)).
 
 Members should avoid all statements of prejudice toward others (see [38.6.14](38-church-policies-and-guidelines.md#38614-prejudice)). They strive to be Christlike to others at all times, including online, and reflect a sincere respect for all of God’s children.
 
@@ -1654,7 +1652,7 @@ Only people who are trained to operate the equipment may do so. It should be loc
 
 ### 38.8.22 Laws of the Land
 
-Members should obey, honor, and sustain the laws in any country where they live or travel (see [Doctrine and Covenants 58:21–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.21-22?lang=eng#p21); [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.12?lang=eng#p12)). This includes laws that prohibit proselyting.
+Members should obey, honor, and sustain the laws in any country where they live or travel (see [Doctrine and Covenants 58:21–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p21-p22#p21); [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p12#p12)). This includes laws that prohibit proselyting.
 
 ### 38.8.23 Legal Counsel for Church Matters
 
@@ -1728,7 +1726,7 @@ Leaders may also identify appropriate community resources that could help indivi
 
 For more information on assisting persons who have disabilities, see [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org). Leaders may also contact Family Services (where available; see [31.3.6](31.md#3136-professional-counseling-and-therapy) for contact information).
 
-Leaders and members should not attempt to explain why someone has a disability or why a family has a child with a disability. They should not suggest that a disability is a punishment from God (see [John 9:2–3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/9.2-3?lang=eng#p2)) or a special privilege.
+Leaders and members should not attempt to explain why someone has a disability or why a family has a child with a disability. They should not suggest that a disability is a punishment from God (see [John 9:2–3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/9?lang=eng&id=p2-p3#p2)) or a special privilege.
 
 #### 38.8.27.3 Providing Ordinances
 
@@ -1736,7 +1734,7 @@ See [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-
 
 #### 38.8.27.4 Providing Opportunities to Serve and Participate
 
-Many members with disabilities can serve in nearly any Church assignment. Leaders prayerfully consider the abilities, circumstances, and desires of each person and then provide appropriate opportunities to serve. Leaders also counsel with the individual and his or her family. They consider the effects of a Church calling on the person and his or her family or caregiver. (See [Doctrine and Covenants 46:15](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.15?lang=eng#p15).)
+Many members with disabilities can serve in nearly any Church assignment. Leaders prayerfully consider the abilities, circumstances, and desires of each person and then provide appropriate opportunities to serve. Leaders also counsel with the individual and his or her family. They consider the effects of a Church calling on the person and his or her family or caregiver. (See [Doctrine and Covenants 46:15](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46?lang=eng&id=p15#p15).)
 
 When considering Church assignments or callings for caregivers of people with disabilities, leaders carefully evaluate the circumstances of the caregivers.
 
@@ -1778,7 +1776,7 @@ Leaders serving those of any age with disabilities complete the training at [Pro
 
 When invited, disability activity leaders may attend stake or ward leadership meetings.
 
-_Guidelines for disability activity programs._ Disability activity programs are organized to help participants develop spiritually, socially, physically, and intellectually (see [Luke 2:52](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2.52?lang=eng#p52)). Leaders determine the frequency of activities. They consider the number of participants, travel distances, and other circumstances.
+_Guidelines for disability activity programs._ Disability activity programs are organized to help participants develop spiritually, socially, physically, and intellectually (see [Luke 2:52](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng&id=p52#p52)). Leaders determine the frequency of activities. They consider the number of participants, travel distances, and other circumstances.
 
 Some people may not be able to participate because of complex medical, physical, intellectual, or behavioral circumstances. Leaders seek other ways to minister to their needs.
 
@@ -1802,7 +1800,7 @@ In preparation for sensitive situations such as personal interviews or Church me
 
 These same principles apply for members who are deaf or hard of hearing and do not use sign language but need an oral interpreter to help them read lips.
 
-Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints.
+Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is [Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/study/manual/dictionary-of-church-terms-in-american-sign-language/dictionary-of-church-terms-in-american-sign-language?lang=eng).
 
 #### 38.8.27.7 Privacy
 
@@ -1850,7 +1848,7 @@ Email: [disability@ChurchofJesusChrist.org](mailto:disability@churchofjesuschris
 
 ### 38.8.28 Ministering to Members Affected by Crime and Incarceration
 
-Church leaders are encouraged to follow the Savior’s example of offering hope, understanding, and love to those who are affected by crime and those who are incarcerated (see [Matthew 25:34–36, 40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.34-36,40?lang=eng#p34)).
+Church leaders are encouraged to follow the Savior’s example of offering hope, understanding, and love to those who are affected by crime and those who are incarcerated (see [Matthew 25:34–36, 40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p34-p36,40#p34)).
 
 Stake presidents direct prison ministry efforts. These efforts include supporting adults and youth who are in custody or have recently been released from prison or jail. This work also includes caring for families and children with an incarcerated parent or loved one.
 
@@ -1879,7 +1877,7 @@ Church members are encouraged to participate in political and governmental affai
 
 Members are also encouraged to participate in worthy causes to make their communities wholesome places to live and raise families.
 
-In accordance with local laws, members are encouraged to register to vote and to study issues and candidates carefully. Principles compatible with the gospel may be found in various political parties. Latter-day Saints have a special obligation to seek out and uphold leaders who are honest, good, and wise (see [Doctrine and Covenants 98:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98.10?lang=eng#p10)).
+In accordance with local laws, members are encouraged to register to vote and to study issues and candidates carefully. Principles compatible with the gospel may be found in various political parties. Latter-day Saints have a special obligation to seek out and uphold leaders who are honest, good, and wise (see [Doctrine and Covenants 98:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/98?lang=eng&id=p10#p10)).
 
 The Church is neutral regarding political parties, political platforms, and candidates for political office. The Church does not endorse any political party or candidate. Nor does it advise members how to vote.
 
@@ -1933,7 +1931,7 @@ Members may record broadcasts of general conference on home equipment for person
 
 ### 38.8.34 Referring to the Church and Its Members
 
-The name of the Church was given by revelation to the Prophet Joseph Smith in 1838: “For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints” ([Doctrine and Covenants 115:4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115.4?lang=eng#p4)). Referring to the Church and its members in the ways described below identifies a connection between Jesus Christ and members of His Church.
+The name of the Church was given by revelation to the Prophet Joseph Smith in 1838: “For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints” ([Doctrine and Covenants 115:4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng&id=p4#p4)). Referring to the Church and its members in the ways described below identifies a connection between Jesus Christ and members of His Church.
 
 References to the Church should include its full name whenever possible. Following an initial reference to the full name, if a shortened reference is needed, the following terms are accurate and encouraged:
 
@@ -1955,7 +1953,7 @@ The term _Mormonism_ is inaccurate, and its use is discouraged. When describing 
 
 ### 38.8.35 Refugees
 
-Many people have fled their homes seeking relief from violence, war, religious persecution, and life-threatening situations. As part of their responsibility to care for those in need (see [Mosiah 4:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4.26?lang=eng#p26)), Church members offer their time, talents, and friendship to welcome refugees as members of their communities. See [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.35?lang=eng#p35); [ChurchofJesusChrist.org/refugees](https://www.churchofjesuschrist.org/refugees).
+Many people have fled their homes seeking relief from violence, war, religious persecution, and life-threatening situations. As part of their responsibility to care for those in need (see [Mosiah 4:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p26#p26)), Church members offer their time, talents, and friendship to welcome refugees as members of their communities. See [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p35#p35); [ChurchofJesusChrist.org/refugees](https://www.churchofjesuschrist.org/refugees).
 
 ### 38.8.36 Requests for Church Financial Assistance
 
@@ -1989,7 +1987,7 @@ Email: [research@ChurchofJesusChrist.org](mailto:research@churchofjesuschrist.or
 
 ### 38.8.38 Respecting Local Restrictions for Sharing the Gospel
 
-The Church works to fulfill Jesus Christ’s commandment to take the gospel to all the world (see [Matthew 28:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28.19?lang=eng#p19)). Missionaries serve only in countries where they are officially recognized and welcomed by local governments.
+The Church works to fulfill Jesus Christ’s commandment to take the gospel to all the world (see [Matthew 28:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng&id=p19#p19)). Missionaries serve only in countries where they are officially recognized and welcomed by local governments.
 
 The Church and its members respect all laws and requirements with regard to missionary efforts. For example, in some parts of the world, missionaries are sent only to serve humanitarian or other specialized missions. Those missionaries do not proselytize. The Church does not send missionaries to some countries.
 
@@ -2010,7 +2008,7 @@ If an accident occurs, the operations manager reports it to the following:
 
 #### 38.8.40.1 Editions of the Holy Bible
 
-The Church identifies editions of the Bible that align well with the Lord’s doctrine in the Book of Mormon and modern revelation (see [Articles of Faith 1:8](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.8?lang=eng#p8)). A preferred edition of the Bible is then chosen for many languages spoken by Church members.
+The Church identifies editions of the Bible that align well with the Lord’s doctrine in the Book of Mormon and modern revelation (see [Articles of Faith 1:8](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)). A preferred edition of the Bible is then chosen for many languages spoken by Church members.
 
 In some languages, the Church publishes its own edition of the Bible. Church-published editions are based on standard Bible texts. Examples include:
 
@@ -2024,7 +2022,7 @@ When possible, members should use a preferred or Church-published edition of the
 
 #### 38.8.40.2 Scripture Translation
 
-The Lord directed His prophets and apostles to preserve the scriptures in safety (see [Doctrine and Covenants 42:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.56?lang=eng#p56)). The Council of the First Presidency and Quorum of the Twelve Apostles closely supervises the translation of Church scriptures. Using approved processes helps ensure doctrinal accuracy and preserve evidence of the text’s origins.
+The Lord directed His prophets and apostles to preserve the scriptures in safety (see [Doctrine and Covenants 42:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p56#p56)). The Council of the First Presidency and Quorum of the Twelve Apostles closely supervises the translation of Church scriptures. Using approved processes helps ensure doctrinal accuracy and preserve evidence of the text’s origins.
 
 Area Presidencies submit official requests for new translations of the scriptures to the Church Correlation Department.
 
@@ -2038,9 +2036,9 @@ Printed copies of scriptures, including some preferred editions of the Bible, ar
 
 ### 38.8.41 Seeking Information from Reliable Sources
 
-In today’s world, information is easy to access and share. This can be a great blessing for those seeking to be educated and informed. However, many sources of information are unreliable and do not edify. Some sources seek to promote anger, contention, fear, or baseless conspiracy theories (see [3 Nephi 11:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11.30?lang=eng#p30); [Mosiah 2:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.32?lang=eng#p32)). Therefore, it is important that Church members be wise as they seek truth.
+In today’s world, information is easy to access and share. This can be a great blessing for those seeking to be educated and informed. However, many sources of information are unreliable and do not edify. Some sources seek to promote anger, contention, fear, or baseless conspiracy theories (see [3 Nephi 11:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p30#p30); [Mosiah 2:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p32#p32)). Therefore, it is important that Church members be wise as they seek truth.
 
-Members of the Church should seek out and share only credible, reliable, and factual sources of information. They should avoid sources that are speculative or founded on rumor. The guidance of the Holy Ghost, along with careful study, can help members discern between truth and error (see [Doctrine and Covenants 11:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11.12?lang=eng#p12); [45:57](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.57?lang=eng#p57)). In matters of doctrine and Church policy, the authoritative sources are the scriptures, the teachings of the living prophets, and the General Handbook.
+Members of the Church should seek out and share only credible, reliable, and factual sources of information. They should avoid sources that are speculative or founded on rumor. The guidance of the Holy Ghost, along with careful study, can help members discern between truth and error (see [Doctrine and Covenants 11:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=eng&id=p12#p12); [45:57](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p57#p57)). In matters of doctrine and Church policy, the authoritative sources are the scriptures, the teachings of the living prophets, and the General Handbook.
 
 ### 38.8.42 Seminars and Similar Gatherings
 
@@ -2051,7 +2049,7 @@ The Church warns members against seminars and similar gatherings that include pr
 
 Members should not allow their position or standing in the Church to be used to promote or imply endorsement of such gatherings.
 
-For more information, see [35.5](35.md#355-policies-on-using-church-meetinghouses), [38.6.12](38-church-policies-and-guidelines.md#38612-the-occult), and [38.7.8](38-church-policies-and-guidelines.md#3878-medical-and-health-care). See also [Jacob 6:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/6.12?lang=eng#p12).
+For more information, see [35.5](35.md#355-policies-on-using-church-meetinghouses), [38.6.12](38-church-policies-and-guidelines.md#38612-the-occult), and [38.7.8](38-church-policies-and-guidelines.md#3878-medical-and-health-care). See also [Jacob 6:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=eng&id=p12#p12).
 
 ### 38.8.43 Support to Members in Hospitals and Care Centers
 
@@ -2065,7 +2063,7 @@ Ward and stake leaders ensure that local Church activities do not jeopardize the
 
 ### 38.8.45 Taxes
 
-Church members are to obey the tax laws of the nation where they live (see [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.12?lang=eng#p12); [Doctrine and Covenants 134:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134.5?lang=eng#p5)). Members who disagree with tax laws can challenge them as the laws of their countries permit.
+Church members are to obey the tax laws of the nation where they live (see [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p12#p12); [Doctrine and Covenants 134:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134?lang=eng&id=p5#p5)). Members who disagree with tax laws can challenge them as the laws of their countries permit.
 
 Church members are in conflict with the law and with Church teachings if they:
 
@@ -2096,7 +2094,7 @@ Stake presidents and bishops help make the blessings of Church participation ava
 
 If military installations or members who serve in the military are in a stake, the stake presidency has the responsibilities outlined in this section. If such installations are located in a mission rather than a stake, the mission president fulfills these responsibilities.
 
-A member of the stake presidency oversees the pre–military service Church orientation in the stake. He ensures the orientation is offered to all members entering military service. The stake executive secretary may coordinate this orientation. (See [38.9.3](38-church-policies-and-guidelines.md#3893-pre–military-service-church-orientation).)
+A member of the stake presidency oversees military relations in the stake. He may call a man or a woman to serve as the military relations specialist. This member does not need to have military experience. He or she ensures that resources are provided to support members of the military in the stake. This includes the military service orientation (see [38.9.3](38-church-policies-and-guidelines.md#3893-military-service-orientation)).
 
 #### 38.9.1.1 Church Services on Military Installations
 
@@ -2130,7 +2128,7 @@ Chaplains may assist the stake president in the following ways:
 
 ### 38.9.2 Ward Military Relations Leadership
 
-A member of the bishopric meets with ward members before they leave for military service. He ensures they have an opportunity to attend the pre–military service Church orientation (see [38.9.3](38-church-policies-and-guidelines.md#3893-pre–military-service-church-orientation)).
+A member of the bishopric meets with ward members before they leave for military service. He ensures they have an opportunity to attend the pre–military service Church orientation (see [38.9.3](38-church-policies-and-guidelines.md#3893-military-service-orientation)).
 
 For information about the membership records for a member entering the military, see [33.6.9](33-records-and-reports.md#3369-records-of-members-in-military-service). Some members are assigned to a remote or isolated location or are deployed to a war zone. In these cases, the bishop contacts the Church’s Military Relations and Chaplain Services Division for guidance about membership records (see [38.9.10](38-church-policies-and-guidelines.md#38910-other-information)).
 
@@ -2138,13 +2136,13 @@ Leaders in the home ward should correspond regularly with each ward member who i
 
 The bishop coordinates with the senior chaplain at each military installation in the ward.
 
-### 38.9.3 Pre–Military Service Church Orientation
+### 38.9.3 Military Service Orientation
 
-The pre–military service Church orientation helps members entering military service learn what to expect regarding Church services and activities in the military. The orientation may be held at the stake or ward level.
+The military service orientation helps members entering and serving in the military know what to expect regarding Church services and activities in the military. It also teaches them how to strengthen their faith and keep their covenants during military service.
 
-A member of the stake presidency or bishopric calls a pre–military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
+A member of the stake presidency or bishopric calls a military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
 
-For more information, see “[Pre–Military Service Church Orientation](https://www.churchofjesuschrist.org/military/pre-military-service-church-orientation)” on ChurchofJesusChrist.org.
+For more information, see [Military Service Orientation](https://www.churchofjesuschrist.org/military/pre-military-service-church-orientation) on ChurchofJesusChrist.org.
 
 ### 38.9.4 Church Units for Service Members
 
@@ -2232,7 +2230,7 @@ Military Relations and Chaplain Services Division
 
 50 East North Temple Street, Room 2411
 
-Salt Lake City, UT 84150-0024
+Salt Lake City, UT 84150-0024
 
 Telephone: 1-801-240-2286
 

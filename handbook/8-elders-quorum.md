@@ -2,13 +2,13 @@
 
 ## 8.1 Purpose and Organization
 
-The Melchizedek Priesthood helps God’s children prepare to return to His presence. It holds “the keys of all the spiritual blessings of the church” ([Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.18?lang=eng#p18)).
+The Melchizedek Priesthood helps God’s children prepare to return to His presence. It holds “the keys of all the spiritual blessings of the church” ([Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p18#p18)).
 
 The offices in the Melchizedek Priesthood are elder, high priest, patriarch, Seventy, and Apostle. This chapter contains information about elders and elders quorums.
 
 ### 8.1.1 Purpose
 
-Worthy men 18 and older may receive the Melchizedek Priesthood and be ordained to the office of elder. A man ordained to that office enters into a sacred covenant to assist God in accomplishing His work (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.33-44?lang=eng#p33)).
+Worthy men 18 and older may receive the Melchizedek Priesthood and be ordained to the office of elder. A man ordained to that office enters into a sacred covenant to assist God in accomplishing His work (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p33-p44#p33)).
 
 Each elder is part of an organized group of priesthood holders called an elders quorum. Members of the elders quorum work together to help accomplish God’s work of salvation and exaltation. They serve others, fulfill priesthood duties, build unity, and learn and live doctrine.
 
@@ -18,7 +18,7 @@ Each ward has an elders quorum. It includes the following brethren:
 
 * All elders in the ward.
 * All prospective elders in the ward (see [8.4](8-elders-quorum.md#84-helping-prospective-elders-prepare-to-receive-the-melchizedek-priesthood)).
-* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [6.2.1.1](6-stake-leadership.md#6211-melchizedek-priesthood) and [29.3.5](29-meetings-in-the-church.md#2935-stake-high-priests-quorum-meeting).
+* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [6.2.1.1](6-stake-leadership.md#6211-melchizedek-priesthood).
 
 A young man may begin attending elders quorum meetings when he turns 18, even if he has not yet been ordained an elder. He counsels with his parents and bishop to make this decision. By age 19 or when moving from home, such as to attend a university or serve a mission, he should be ordained an elder if he is worthy. See [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood).
 
@@ -28,7 +28,7 @@ For information about unwed parents under age 18, see [38.1.5](38-church-polici
 
 ### 8.1.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Adapting to Local Needs
 
-Some wards have a very large number of active Melchizedek Priesthood holders. For these wards, the stake presidency may organize an additional elders quorum (see [Doctrine and Covenants 107:89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.89?lang=eng#p89)). Each quorum has its own presidency. If possible, each quorum should have members with a variety of ages and experience.
+Some wards have a very large number of active Melchizedek Priesthood holders. For these wards, the stake presidency may organize an additional elders quorum (see [Doctrine and Covenants 107:89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89)). Each quorum has its own presidency. If possible, each quorum should have members with a variety of ages and experience.
 
 ## 8.2 Participating in God’s Work of Salvation and Exaltation
 
@@ -49,7 +49,7 @@ Elders quorum leaders support members in living the gospel of Jesus Christ. They
 
 #### 8.2.1.1 Gospel Learning at Home
 
-When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/study/come-follow-me/individuals-and-families?lang=eng) and other resources can supplement their study.
+When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) and other resources can supplement their study.
 
 Home evenings are an important way to learn the gospel at home. They are usually held weekly on Sunday, on Monday evening, or at another time. They could include prayers, gospel study, testimonies, singing, and fun activities.
 
@@ -67,8 +67,6 @@ Meetings are held on the second and fourth Sundays of the month. They last 50 m
 The meeting begins with prayer. A presidency member then conducts any quorum business. For example, the quorum may counsel together about aspects of participating in God’s work of salvation and exaltation. Sufficient time should then be given to meaningful gospel instruction and discussion.
 
 Quorum meetings focus on topics in one or more talks from the most recent general conference. The elders quorum presidency prayerfully selects messages to discuss based on members’ needs. Hymns may be sung to enhance a lesson. Meetings should end with a prayer.
-
-For more information, see [ComeFollowMe.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng).
 
 #### 8.2.1.3 Activities
 
@@ -116,15 +114,15 @@ Elders quorum and Relief Society presidencies, ministering brothers and sisters,
 
 ### 8.2.3 Inviting All to Receive the Gospel
 
-Melchizedek Priesthood holders have a duty to invite all to receive the blessings of the gospel of Jesus Christ (see [Doctrine and Covenants 53:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/53.3?lang=eng#p3)). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active.
+Melchizedek Priesthood holders have a duty to invite all to receive the blessings of the gospel of Jesus Christ (see [Doctrine and Covenants 53:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=eng&id=p3#p3)). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active. See [23.2](23.md#232-strengthen-new-members) and [23.3](23.md#233-strengthen-returning-members).
 
-In presidency and quorum meetings, the elders quorum presidency discusses ways the brethren can invite all to receive the blessings of the gospel.
+In presidency and quorum meetings, the elders quorum presidency discusses ways the brethren can invite all to receive the blessings of the gospel. See [23.1.1](23.md#2311-love), [23.1.2](23.md#2312-share), and [23.1.3](23.md#2313-invite).
 
-The elders quorum president assigns a member of the presidency to help lead member missionary work in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
+The elders quorum president assigns a member of the presidency to help lead efforts to share the gospel in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts (see [23.6.2](23.md#2362-elders-quorum-and-relief-society-presidencies)).
 
-This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.5.1](23.md#2351-bishopric) and [23.5.3](23.md#2353-ao-ward-mission-leader).
+This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1](23.md#2361-bishopric) and [23.6.3](23.md#2363-ao-ward-mission-leader).
 
-The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
+The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4](23.md#234-hold-weekly-coordination-meetings).
 
 ### 8.2.4 Uniting Families for Eternity
 
@@ -185,7 +183,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * With the Relief Society presidency, help lead temple and family history work in the ward (see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity) and [9.2.4](9-relief-society.md#924-uniting-families-for-eternity)). Oversee the ward temple and family history leader if one is called.
 * Coordinate the elders quorum’s efforts to strengthen young adult brethren, both single and married. One counselor may be assigned to serve with young single adults (see [14.1.2.2](14-single-members.md#14122-elders-quorum-and-relief-society-presidency-members-assigned-to-young-single-adults)).
 * Meet with each quorum member individually at least once a year. Discuss priesthood duties and the well-being of the member and his family.
-* Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.89?lang=eng#p89)). This includes teaching them how to exercise their priesthood in performing ordinances and blessings.
+* Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89)). This includes teaching them how to exercise their priesthood in performing ordinances and blessings.
 * Oversee and help improve teaching in the quorum (see [chapter 17](17-teaching-the-gospel.md)).
 * Plan and conduct quorum meetings.
 * Oversee elders quorum activities (see [8.2.1.3](8-elders-quorum.md#8213-activities)).
@@ -246,12 +244,12 @@ Helping prospective elders prepare to receive the Melchizedek Priesthood is one 
 
 The quorum presidency and ministering brothers teach prospective elders about:
 
-* The oath and covenant of the priesthood (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.33-44?lang=eng#p33)).
-* The duties of an elder, including the duty to minister (see [Doctrine and Covenants 20:38–45](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.38-45?lang=eng#p38); [42:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.44?lang=eng#p44); [107:11–12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.11-12?lang=eng#p11)). Prospective elders who are teachers or priests can serve as ministering brothers.
+* The oath and covenant of the priesthood (see [Doctrine and Covenants 84:33–44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p33-p44#p33)).
+* The duties of an elder, including the duty to minister (see [Doctrine and Covenants 20:38–45](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p38-p45#p38); [42:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p44#p44); [107:11–12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p11-p12#p11)). Prospective elders who are teachers or priests can serve as ministering brothers.
 * The purposes of priesthood ordinances and blessings and how to perform them (see [chapter 18](18-priesthood-ordinances-and-blessings.md)).
 * How men and women work together to accomplish God’s work.
 
-For information about these topics, see “[Melchizedek Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/melchizedek-priesthood?lang=eng),” “[Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=eng),” and “[Women in the Church](https://www.churchofjesuschrist.org/study/manual/gospel-topics/women-in-the-church?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For information about these topics, see “[Melchizedek Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/melchizedek-priesthood?lang=eng),” “[Priesthood](https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=eng),” and “[Women in the Church](https://www.churchofjesuschrist.org/study/manual/gospel-topics/women-in-the-church?lang=eng)” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 This instruction may occur individually or in a class held outside of regular Sunday meetings.
 

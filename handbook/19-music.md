@@ -2,7 +2,7 @@
 
 ## 19.1 Purpose of Music in the Church
 
-In a revelation to the Prophet Joseph Smith, the Lord said, “My soul delighteth in the song of the heart; yea, the song of the righteous is a prayer unto me, and it shall be answered with a blessing upon their heads” ([Doctrine and Covenants 25:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25.12?lang=eng#p12)). He also said, “The righteous … shall come to Zion, singing with songs of everlasting joy” ([Doctrine and Covenants 45:71](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.71?lang=eng#p71)).
+In a revelation to the Prophet Joseph Smith, the Lord said, “My soul delighteth in the song of the heart; yea, the song of the righteous is a prayer unto me, and it shall be answered with a blessing upon their heads” ([Doctrine and Covenants 25:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=eng&id=p12#p12)). He also said, “The righteous … shall come to Zion, singing with songs of everlasting joy” ([Doctrine and Covenants 45:71](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p71#p71)).
 
 Sacred music increases faith in Jesus Christ. It invites the Spirit and teaches doctrine. It also creates a feeling of reverence, unifies members, and provides a way to worship Heavenly Father and Jesus Christ.
 
@@ -37,7 +37,7 @@ Sacred music that is written or sung in culturally diverse musical styles may he
 
 Members gather in sacrament meeting to remember Jesus Christ by partaking of the sacrament. They gather to build faith and testimony and to worship Heavenly Father and Jesus Christ. Music should be selected to help achieve these purposes.
 
-Music in sacrament meeting includes congregational singing of hymns to open and close the meeting and before the administration of the sacrament. Congregational hymns provide an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&para=title8-p19#title8),” Hymns, 380–81.
+Music in sacrament meeting includes congregational singing of hymns to open and close the meeting and before the administration of the sacrament. Congregational hymns provide an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title8-p19#title8),” Hymns, 380–81.
 
 Prelude music is played as members gather before the meeting. Its purpose is to create an atmosphere of worship that invites the Spirit. After the closing prayer, an instrumental postlude is played as members leave the meeting. Hymns and other sacred music can be selected for prelude and postlude music.
 
@@ -91,7 +91,7 @@ Where there are enough members, wards may organize choirs that sing in sacrament
 
 Ward members may volunteer to sing in the choir. Members and others may also be invited to participate. Auditions are not held.
 
-Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&para=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
+Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
 
 Choir rehearsals do not usually exceed one hour.
 

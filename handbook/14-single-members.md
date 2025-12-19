@@ -2,15 +2,15 @@
 
 ## 14.0 Introduction
 
-The Savior invites all to come unto Him and belong to His Church (see [2 Nephi 26:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.24?lang=eng#p24)). Men and women who have not yet married or who are divorced or widowed make up a significant portion of Church membership. It is important for all to find hope through the Atonement of Jesus Christ (see [Ether 12:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12.4?lang=eng#p4)). The following eternal truths can help develop such hope:
+The Savior invites all to come unto Him and belong to His Church (see [2 Nephi 26:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24)). Men and women who have not yet married or who are divorced or widowed make up a significant portion of Church membership. It is important for all to find hope through the Atonement of Jesus Christ (see [Ether 12:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=p4#p4)). The following eternal truths can help develop such hope:
 
 * Scriptures and latter-day prophets confirm that everyone who is faithful in keeping gospel covenants will have the opportunity for exaltation.
-* The precise time and manner in which the blessings of exaltation are bestowed have not all been revealed. But they are nonetheless assured (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
-* Waiting upon the Lord implies continued obedience and spiritual progress toward Him (see [Isaiah 64:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/64.4?lang=eng#p4)).
-* God offers eternal life to all of His children. All who qualify for the Savior’s gracious gift of forgiveness and live His commandments will receive eternal life. (See [Mosiah 26:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.30?lang=eng#p30); [Moroni 6:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.8?lang=eng#p8).)
-* Confidence in these assurances is rooted in faith in Jesus Christ. By His grace, all things pertaining to mortality are set right (see [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7.11-13?lang=eng#p11)).
+* The precise time and manner in which the blessings of exaltation are bestowed have not all been revealed. But they are nonetheless assured (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p41#p41)).
+* Waiting upon the Lord implies continued obedience and spiritual progress toward Him (see [Isaiah 64:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=eng&id=p4#p4)).
+* God offers eternal life to all of His children. All who qualify for the Savior’s gracious gift of forgiveness and live His commandments will receive eternal life. (See [Mosiah 26:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng&id=p30#p30); [Moroni 6:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=eng&id=p8#p8).)
+* Confidence in these assurances is rooted in faith in Jesus Christ. By His grace, all things pertaining to mortality are set right (see [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p11-p13#p11)).
 
-The Lord needs all members to help in the work of salvation in their wards and stakes (see [1 Corinthians 12:12–27](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12.12-27?lang=eng#p12)). As directed by the Spirit, single members are called to leadership and teaching positions. Leadership callings may include serving in the following positions:
+God needs all members to help in His work of salvation in their wards and stakes (see [1 Corinthians 12:12–27](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng&id=p12-p27#p12)). As directed by the Spirit, single members are called to leadership and teaching positions. Leadership callings may include serving in the following positions:
 
 * Ward and stake organization presidencies
 * Elders quorum presidencies
@@ -32,7 +32,7 @@ Most single members attend a geographic unit with members of all ages. They have
 
 #### 14.1.1.1 Stake Presidency
 
-The involvement of the stake presidency is particularly important in engaging single members in the work of salvation and exaltation.
+The involvement of the stake presidency is particularly important in engaging single members in God’s work of salvation and exaltation.
 
 The stake president may assign one of his counselors and a high councilor to support single adults. He may also assign a counselor and a high councilor to support young single adults. He may also ask the stake Relief Society president to assign a presidency member to support single adults and young single adults. The same leaders could be assigned to both groups.
 
@@ -46,7 +46,7 @@ A stake (or a group of adjacent stakes) may not have enough single members to cr
 
 #### 14.1.1.2 Stake Young Single Adult and Single Adult Committees
 
-Single members serve God’s children by engaging in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
+Single members serve God’s children by participating in His work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-gods-work-of-salvation-and-exaltation) and [14.2](14-single-members.md#142-participating-in-gods-work-of-salvation-and-exaltation)). To help them do so, the stake presidency creates a young single adult committee. This committee is made up of the young single adult leaders from each ward.
 
 A young single adult man and young single adult woman are called to lead the committee. They serve on the stake council.
 
@@ -56,7 +56,7 @@ The stake presidency may also create a single adult committee. It is made up of 
 
 If there are not enough single adults to form a committee in a stake, a group of neighboring stakes may create a committee with the approval of the Area Presidency.
 
-Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities. 
+Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-gods-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities.
 
 The committees meet as needed. The assigned member of the stake presidency and stake Relief Society presidency and the assigned high councilor may attend these meetings to provide support.
 
@@ -68,7 +68,7 @@ Normally the single adult and young single adult committees function separately 
 
 #### 14.1.2.1 Bishopric
 
-The bishopric is key to engaging single members in the work of salvation and exaltation. They work with the ward council to identify meaningful callings and assignments for single members. They recognize and strive to help meet the needs of single parents.
+The bishopric is key to engaging single members in God’s work of salvation and exaltation. They work with the ward council to identify meaningful callings and assignments for single members. They recognize and strive to help meet the needs of single parents.
 
 Generally, the bishopric supports single members as they support all members of the elders quorum and Relief Society. However, because of their foremost responsibility to the rising generation, the bishopric also does the following:
 
@@ -88,7 +88,7 @@ These presidency members support the ward young single adult committee if one is
 
 In a ward with many young single adults, the bishopric may call a young single adult man and woman as young single adult leaders. Their responsibilities include:
 
-* Helping young single adults participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-the-work-of-salvation-and-exaltation)).
+* Helping young single adults participate in God’s work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-gods-work-of-salvation-and-exaltation)).
 * Serving on the stake young single adult committee.
 * Leading the ward young single adult committee if one is formed.
 * Meeting regularly with the elders quorum presidency and Relief Society presidency. In these meetings, they discuss the strengths of young single adults and how to help meet their needs. They also focus on ministering to young single adults.
@@ -104,9 +104,9 @@ Committee members include:
 * Additional young single adults invited by the bishopric.
 * The members of the elders quorum and Relief Society presidencies assigned to support young single adults.
 
-## 14.2 Participating in the Work of Salvation and Exaltation
+## 14.2 Participating in God’s Work of Salvation and Exaltation
 
-God invites all to come unto Christ and participate in the work of salvation and exaltation by:
+God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
 * Caring for those in need.
@@ -121,7 +121,7 @@ Single members engage in this work at home and at church. They participate in el
 
 Leaders or members who desire to participate may organize one or more home evening groups for single adults and other groups for young single adults. Generally, those who participate do not have children at home. In stakes with few single members, home evening groups may cross ward boundaries.
 
-In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/study/come-follow-me/individuals-and-families?lang=eng) may be a resource.
+In addition, single members may choose to gather virtually or in person for home gospel study. [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) may be a resource.
 
 All young single adults are encouraged to enroll in institute (see [15.2](15-seminaries-and-institutes.md#152-ao-institute)).
 
@@ -186,7 +186,7 @@ As individuals and as groups, single members can help unite families for eternit
 * Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](27-temple-ordinances-for-the-living.md#2722-deciding-when-to-receive-the-endowment)).
 * Serve as temple ordinance workers or volunteers (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
 * Participate in ordinances for the deceased.
-* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf)).
+* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 * Serve as temple and family history consultants (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
 * Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).

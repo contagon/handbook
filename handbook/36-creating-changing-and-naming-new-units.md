@@ -2,7 +2,7 @@
 
 ## 36.0 Introduction
 
-Church members belong to congregations based on where they live (see [Mosiah 25:17–24](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/25.17-24?lang=eng#p17)). These congregations are necessary for organizing and doing the work of the Church under the proper priesthood authority. Leaders of congregations are given priesthood keys to authorize the performance of priesthood ordinances. Congregations also help members strengthen each other’s faith as they worship God, learn the teachings of Jesus Christ, and serve.
+Church members belong to congregations based on where they live (see [Mosiah 25:17–24](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=eng&id=p17-p24#p17)). These congregations are necessary for organizing and doing the work of the Church under the proper priesthood authority. Leaders of congregations are given priesthood keys to authorize the performance of priesthood ordinances. Congregations also help members strengthen each other’s faith as they worship God, learn the teachings of Jesus Christ, and serve.
 
 Church congregations (also called units) include stakes, districts, wards, and branches. They are created, changed, or discontinued only as needed.
 
@@ -16,11 +16,14 @@ Stakes are created from districts or by dividing existing stakes. A stake or mis
 
 Minimum Requirements to Create a Stake
 
-|  | U.S. and Canada | All other countries |
-| --- | --- | --- |
-| Number of members (active and less active) | 3,000 | 1,900 |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 180 | 120 |
-| Number of wards | 5 | 5 |
+| Number of members (active and less active) | 2,000 |
+| --- | --- |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 150 |
+| Number of participating adults | 500 |
+| Number of participating youth (recommended, not required) | 100 |
+| Number of wards | 5 |
+
+* For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).”
 
 Districts are created from branches in a mission or an existing stake. There is not a minimum number of members or branches needed to create a district.
 
@@ -34,20 +37,18 @@ Approval of proposed stake changes comes from the First Presidency and the Quoru
 
 ## 36.2 Creating or Changing Wards and Branches in Stakes
 
-Wards and branches in stakes are created from existing units. A stake president may propose creating a new ward or branch in the stake. He first ensures that the new unit will meet the minimum requirements shown in the following tables.
+Wards and branches in stakes are created from existing units. A stake president may propose creating a new ward or branch in the stake. He first ensures that the new unit will meet the minimum requirements shown in the following table.
 
-Minimum Requirements to Create a Ward
+Minimum Requirements to Create a Ward or Branch in a Stake
 
-|  | U.S. and Canada | All other countries |
+|  | Ward | Branch |
 | --- | --- | --- |
-| Number of members (active and less active) | 300 | 150 |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 1 for every 20 members (active and less active). There must be a minimum of 20. | 1 for every 20 members (active and less active). There must be a minimum of 15. |
+| Number of members (active and less active) | 250 | 20 |
+| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 20 | 4 |
+| Number of participating adults | 100 | No minimum |
+| Number of participating youth (recommended, not required) | 20 | No minimum |
 
-Minimum Requirements to Create a Branch in a Stake
-
-| Number of members (active and less active) | 20 |
-| --- | --- |
-| Number of active, full-tithe-paying Melchizedek Priesthood holders capable of serving in leadership positions | 4 |
+* For more information, see “[Boundary and Leadership Proposals](https://lcr.churchofjesuschrist.org/boundary-proposals).”
 
 A stake president may propose changing a branch into a ward when the unit meets the minimum requirements and he has identified a candidate who could serve as bishop.
 

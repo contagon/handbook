@@ -2,7 +2,7 @@
 
 ## 9.1 Purpose and Organization
 
-Relief Society helps God’s children prepare to return to His presence. As daughters of heavenly parents, members of Relief Society “expound scriptures,” “exhort the church,” lift hearts, and “cleave unto the covenants [they have] made” ([Doctrine and Covenants 25:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25.7?lang=eng#p7), [13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25.13?lang=eng#p13)).
+Relief Society helps God’s children prepare to return to His presence. As daughters of heavenly parents, members of Relief Society “expound scriptures,” “exhort the church,” lift hearts, and “cleave unto the covenants [they have] made” ([Doctrine and Covenants 25:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=eng&id=p7#p7), [13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25?lang=eng&id=p13#p13)).
 
 ### 9.1.1 Purpose
 
@@ -10,7 +10,7 @@ Relief Society is a divinely instituted organization for all adult women in the 
 
 Members of Relief Society work together to help accomplish God’s work of salvation and exaltation. They serve others, fulfill covenant responsibilities, build unity, and learn and live doctrine.
 
-The motto of Relief Society is “Charity never faileth” ([1 Corinthians 13:8](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13.8?lang=eng#p8)). This motto is reflected in the Relief Society’s seal.
+The motto of Relief Society is “Charity never faileth” ([1 Corinthians 13:8](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng&id=p8#p8)). This motto is reflected in the Relief Society’s seal.
 
 ### 9.1.2 Membership in Relief Society
 
@@ -45,7 +45,7 @@ Relief Society leaders support members in living the gospel of Jesus Christ. The
 
 #### 9.2.1.1 Gospel Learning at Home
 
-When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Relief Society leaders encourage sisters to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me) and other resources can supplement their study.
+When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Relief Society leaders encourage sisters to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) and other resources can supplement their study.
 
 Home evenings are an important way to learn the gospel at home. They are usually held weekly on Sunday, on Monday evening, or at another time. They could include prayers, gospel study, testimonies, singing, and fun activities.
 
@@ -63,8 +63,6 @@ Meetings are held on the second and fourth Sundays of the month. They last 50 m
 The meeting begins with prayer. A presidency member then conducts any business. For example, the sisters may counsel together about aspects of participating in God’s work of salvation and exaltation. Sufficient time should then be given to meaningful gospel instruction and discussion.
 
 Relief Society meetings focus on topics in one or more talks from the most recent general conference. The Relief Society presidency prayerfully selects messages to discuss based on sisters’ needs. Hymns may be sung to enhance a lesson. Meetings should end with a prayer.
-
-For more information, see [ComeFollowMe.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/manual/come-follow-me).
 
 #### 9.2.1.3 Activities
 
@@ -112,13 +110,13 @@ Relief Society and elders quorum presidencies, ministering brothers and sisters,
 
 ### 9.2.3 Inviting All to Receive the Gospel
 
-Members of Relief Society have a responsibility to invite all to receive the blessings of the gospel of Jesus Christ (see [Mosiah 18:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18.9?lang=eng#p9)). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active.
+Members of Relief Society have a responsibility to invite all to receive the blessings of the gospel of Jesus Christ (see [Mosiah 18:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p9#p9)). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active. See [23.2](23.md#232-strengthen-new-members) and [23.3](23.md#233-strengthen-returning-members).
 
-In presidency and Relief Society meetings, the Relief Society presidency discusses ways the sisters can invite all to receive the blessings of the gospel.
+In presidency and Relief Society meetings, the Relief Society presidency discusses ways the sisters can invite all to receive the blessings of the gospel. See [23.1.1](23.md#2311-love), [23.1.2](23.md#2312-share), and [23.1.3](23.md#2313-invite).
 
-The Relief Society president assigns a member of the presidency to help lead member missionary work in the ward. She works with the assigned member of the elders quorum presidency to coordinate these efforts (see [23.5.1](23.md#2351-bishopric)).
+The Relief Society president assigns a member of the presidency to help lead efforts to share the gospel in the ward. She works with the assigned member of the elders quorum presidency to coordinate these efforts (see [23.6.2](23.md#2362-elders-quorum-and-relief-society-presidencies)).
 
-The assigned member of the Relief Society presidency participates in coordination meetings to coordinate inviting all to receive the blessings of the gospel. The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. They also include ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
+The assigned member of the Relief Society presidency participates in coordination meetings to coordinate inviting all to receive the blessings of the gospel. The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. They also include ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. See [23.4](23.md#234-hold-weekly-coordination-meetings).
 
 ### 9.2.4 Uniting Families for Eternity
 
