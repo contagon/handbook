@@ -94,11 +94,11 @@ In the United States and Canada, the new organization presidency may also receiv
 
 The stake president also assigns his counselors to oversee stake programs as needed. These may include:
 
-* Seminary and institute.
-* Programs for young single adults and single adults.
-* Stake activities.
-* Music.
-* Meetinghouse facilities.
+* Seminary and institute (see [chapter 15](15-seminaries-and-institutes.md)).
+* Programs for young single adults and single adults (see [14.1.1](14-single-members.md#1411-stake-leadership)).
+* Stake activities (see [20.3.2](20-activities.md#2032-stake-activities)).
+* Music (see [19.5](19-music.md#195-music-leadership-in-the-stake)).
+* Meetinghouse facilities (see [35.2.4](35.md#3524-stake-presidency)).
 
 Members of the stake presidency meet regularly with committees, high councilors, and specialists in the programs to which they are assigned.
 
@@ -176,7 +176,9 @@ In each member district, a Melchizedek Priesthood holder is called as the distri
 * He does not convene a membership council unless authorized by the mission president (see [32.9.5](32-repentance-and-membership-councils.md#3295-district-or-branch-president-in-a-mission)).
 * He does not usually deal directly with the Area Presidency. Instead, he works through the mission presidency.
 
-In special circumstances, a district president can be authorized to recommend, set apart, and release missionaries. He can also be authorized to conduct temple recommend interviews and sign the recommends. He can also be authorized to set apart his counselors. If the Area Presidency feels that a district president should have this expanded authority, they recommend him to the First Presidency. If approval is given, it is for that person, not the position. When a new district president is called, this expanded authority does not transfer to him.
+In special circumstances, a district president can be authorized to recommend, set apart, and release missionaries. He can also be authorized to conduct temple recommend interviews and sign the recommends. He can also be authorized to set apart his counselors.
+
+If the Area Presidency feels that a district president should have this expanded authority, they recommend him to the First Presidency. If approval is given, it is for that person, not the position. When a new district president is called, this expanded authority does not transfer to him.
 
 ## 6.4 Stake Executive Secretary, Assistant Stake Executive Secretaries, Stake Clerk, and Assistant Stake Clerks
 
@@ -335,7 +337,9 @@ The scribe should be cautioned that every blessing is sacred and confidential. N
 
 ## 6.7 Stake Organizations
 
-The stake Relief Society, Young Women, Primary, Sunday School, and Young Men organizations are each led by a president. These presidents serve under the direction of the stake presidency. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In large stakes, an organization president may recommend one or two counselors and a secretary to serve with him or her. The stake presidency considers these recommendations.
+The stake Relief Society, Young Women, Primary, Sunday School, and Young Men organizations are each led by a president. These presidents serve under the direction of the stake presidency.
+
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) In large stakes, an organization president may recommend one or two counselors and a secretary to serve with him or her. The stake presidency considers these recommendations.
 
 The main responsibilities of these leaders are to assist the stake presidency and to instruct and support ward organization presidencies. They do not fulfill assignments that should be fulfilled at the ward or family level. They also do not create additional responsibilities for ward organization presidencies.
 

@@ -21,8 +21,8 @@ God needs all members to help in His work of salvation in their wards and stakes
 In this chapter:
 
 * “Single members” refers to all adult members of the Church who are not currently married.
-* “Young single adults” refers to those ages 18–30.
-* “Single adults” refers to those ages 31 and older.
+* “Young single adults” refers to those ages 18–35.
+* “Single adults” refers to those ages 36 and older.
 
 ## 14.1 Single Members in Geographic Units
 
@@ -56,7 +56,7 @@ The stake presidency may also create a single adult committee. It is made up of 
 
 If there are not enough single adults to form a committee in a stake, a group of neighboring stakes may create a committee with the approval of the Area Presidency.
 
-Committees seek to support members through friendship and opportunities to participate in the work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-gods-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities.
+Committees seek to support members through friendship and opportunities to participate in God’s work of salvation and exaltation (see [14.2](14-single-members.md#142-participating-in-gods-work-of-salvation-and-exaltation)). They plan opportunities for gospel learning and for service and activities.
 
 The committees meet as needed. The assigned member of the stake presidency and stake Relief Society presidency and the assigned high councilor may attend these meetings to provide support.
 
@@ -195,9 +195,14 @@ As individuals and as groups, single members can help unite families for eternit
 
 Most single members attend geographic wards. As an exception, where many single members live in close proximity, priesthood leaders may recommend creating the following units. These units must meet the criteria in [chapter 37](37-specialized-stakes-wards-and-branches.md).
 
-* A young single adult ward for those ages 18–30 (see [37.2](37-specialized-stakes-wards-and-branches.md#372-young-single-adult-wards-and-branches-in-a-geographic-stake))
-* A young single adult stake for those ages 18–30 (see [37.3](37-specialized-stakes-wards-and-branches.md#373-young-single-adult-stakes-and-their-wards-and-branches))
-* A single adult ward for those ages 31–45 (see [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards))
+* A young single adult ward for those ages 18–35 (see [37.2](37-specialized-stakes-wards-and-branches.md#372-young-single-adult-wards-and-branches-in-a-geographic-stake))
+* A young single adult stake for those ages 18–35 (see [37.3](37-specialized-stakes-wards-and-branches.md#373-young-single-adult-stakes-and-their-wards-and-branches))
+* A single adult ward for those ages 36–45 (see [37.5](37-specialized-stakes-wards-and-branches.md#375-single-adult-wards))
+
+In areas with large numbers of young single adults, priesthood leaders may recommend creating:
+
+* A young single adult ward for those ages 18–25.
+* A young single adult ward for those ages 26–35.
 
 These units use the regular program of the Church as much as possible. They follow the instructions in this handbook.
 
@@ -206,7 +211,7 @@ Eligible members may choose to be members of the young single adult ward or the 
 Membership in a young single adult ward or a single adult ward is temporary:
 
 * When a single member marries, he or she becomes a member of a geographic ward.
-* When a member of a young single adult ward reaches age 31, he or she becomes a member of a single adult ward (if one exists where he or she lives) or a geographic ward.
+* When a member of a young single adult ward reaches age 36, he or she becomes a member of a single adult ward (if one exists where he or she lives) or a geographic ward.
 * When a member of a single adult ward reaches age 46, he or she becomes a member of a geographic ward.
 
 When transitioning between wards, the member and his or her leaders communicate with the leaders of the geographic ward. Leaders of the new ward assign ministering brothers and sisters. They plan for a calling or assignment that helps the member feel welcome and engaged in the work of the ward.

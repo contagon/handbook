@@ -8,7 +8,7 @@ The temple is the house of the Lord. It points us to our Savior, Jesus Christ. I
 
 In the temple, great blessings are also made available to God’s faithful children in this life. In temple covenants and ordinances, “the power of godliness is manifest” ([Doctrine and Covenants 84:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20#p20)). The temple is a holy place where members can worship, learn, and receive guidance and comfort (see [Doctrine and Covenants 109:13–16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p13-p16#p13)). Those who attend the temple can have access to God’s power to help accomplish His work (see [Doctrine and Covenants 109:22–23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p22-p23#p22); see also [3.5](3-priesthood-principles.md#35-priesthood-power) in this handbook).
 
-Temple covenants and ordinances are sacred. The symbols associated with temple covenants should not be discussed outside the temple. Nor should we discuss the holy information we promise in the temple not to reveal. However, we may discuss the basic purposes and doctrine of temple covenants and ordinances and the spiritual feelings we have in the temple.
+Temple covenants and ordinances are sacred. The symbols associated with temple covenants should not be discussed outside the temple. Nor should we discuss the holy information we covenant in the temple not to reveal. However, we may discuss the basic purposes and doctrine of temple covenants and ordinances and the spiritual feelings we have in the temple.
 
 Ward and stake leaders discuss the information in this chapter with members who are preparing to receive the endowment or sealing ordinances.
 
@@ -35,7 +35,7 @@ For information about issuing temple recommends in these circumstances, see [26.
 
 ### 27.1.2 Scheduling Temple Ordinances
 
-Members who are planning to receive their own endowment or to be sealed or married should schedule the ordinance in advance with the temple they plan to attend. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
+Members who are planning to receive their own endowment or to be sealed should schedule the ordinance in advance with the temple they plan to attend. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) for each temple’s contact information.
 
 ### 27.1.3 Members Who Have Physical Disabilities
 
@@ -51,7 +51,7 @@ If members need translation or interpretation assistance, they should contact th
 
 When going to a temple, members should wear the type of clothing they typically wear to sacrament meeting. They should avoid wearing clothing that is casual or that does not cover the temple garment. They should also avoid wearing clothing that is overly formal, like tuxedos. This instruction is best taught by parents, ministering brothers and sisters, and ward and stake leaders as members prepare to worship in the temple.
 
-See [27.3.2.6](27-temple-ordinances-for-the-living.md#27326-appropriate-clothing-for-a-temple-marriage-or-sealing) for information about clothing to wear to a temple marriage or sealing.
+See [27.3.2.6](27-temple-ordinances-for-the-living.md#27326-appropriate-clothing-for-a-temple-sealing) for information about clothing to wear to a temple sealing.
 
 See [38.5](38-church-policies-and-guidelines.md#385-temple-clothing-and-garments) for information about:
 
@@ -86,9 +86,9 @@ All the promised blessings of the endowment are in force both in this life and f
 
 The endowment is received in two parts. In the first part, a person receives preliminary ordinances called the initiatory. The initiatory comprises three ordinances: washing, anointing, and clothing (see [Exodus 29:4–9](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/29?lang=eng&id=p4-p9#p4)). It includes special blessings related to the person’s divine heritage and potential.
 
-During the initiatory, the member covenants to wear the temple garment. The garment represents his or her personal relationship with God and the commitment to obey covenants made in the temple. When members are faithful to their covenants and wear the garment properly throughout their lives, it also serves as a protection. For information about wearing and caring for the garment, see [38.5.5](38-church-policies-and-guidelines.md#3855-wearing-the-garment).
+During the initiatory, the member is instructed to wear the temple garment. The garment is a sacred symbol of Jesus Christ. It is also a reminder of temple covenants. When members keep their covenants, including the sacred privilege to wear the garment as instructed, they will have greater access to the Savior’s mercy, protection, strength, and power. For more information about the garment, see [38.5](38-church-policies-and-guidelines.md#385-temple-clothing-and-garments).
 
-In the second part of the endowment, the plan of salvation is taught, including the Creation, the Fall of Adam and Eve, the Atonement of Jesus Christ, the Apostasy, and the Restoration. Members also receive instruction on how to return to the Lord’s presence.
+In the second part of the endowment, the plan of salvation is taught, including the Creation, the Fall of Adam and Eve, and the Atonement of Jesus Christ. Members also receive instruction on how to return to the Lord’s presence.
 
 In the endowment, members are invited to make sacred covenants as follows:
 
@@ -173,11 +173,11 @@ Church leaders encourage members to prepare to be married and sealed in a temple
 
 All accountable unmarried members of the Church are invited to prepare for a temple sealing. Those who are civilly married are encouraged to be sealed for time and eternity in the temple as soon as they are prepared. Members must be endowed before they can be sealed (see [27.2](27-temple-ordinances-for-the-living.md#272-the-endowment)).
 
-Couples being sealed in the temple must be either (1) married civilly before being sealed or (2) married and sealed in the same temple ceremony. See [27.3.2](27-temple-ordinances-for-the-living.md#2732-planning-and-scheduling-a-temple-marriage-or-sealing).
+Couples being sealed in the temple must be either (1) married civilly before being sealed or (2) married and sealed in the same temple ceremony. See [27.3.2](27-temple-ordinances-for-the-living.md#2732-planning-and-scheduling-a-temple-sealing).
 
 #### 27.3.1.1 Members Who Were Sealed to a Previous Spouse
 
-See [38.4.1](38-church-policies-and-guidelines.md#3841-sealing-of-a-man-and-a-woman).
+See [38.4.1](38-church-policies-and-guidelines.md#3841-sealing-of-a-husband-and-wife).
 
 #### 27.3.1.2 Members Who Have Intellectual Disabilities
 
@@ -188,7 +188,7 @@ Members who have intellectual disabilities may be sealed to their spouse, fianc�
 
 The bishop counsels with the member and his or her spouse, fiancé, or fiancée. He also seeks the direction of the Spirit. He may counsel with the stake president. The stake president may direct questions to the Office of the First Presidency if necessary. See [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-have-intellectual-disabilities).
 
-### 27.3.2 Planning and Scheduling a Temple Marriage or Sealing
+### 27.3.2 Planning and Scheduling a Temple Sealing
 
 #### 27.3.2.1 Receiving a Recommend for Living Ordinances
 
@@ -196,7 +196,7 @@ A member must receive a recommend for living ordinances to be sealed to his or h
 
 #### 27.3.2.2 Contacting the Temple
 
-Members who are planning to be married or sealed to a spouse should contact the temple in advance to schedule the ordinance (see [27.1.2](27-temple-ordinances-for-the-living.md#2712-scheduling-temple-ordinances)). The temple will provide instructions when the appointment is scheduled.
+Members who are planning to be sealed to a spouse should contact the temple in advance to schedule the ordinance (see [27.1.2](27-temple-ordinances-for-the-living.md#2712-scheduling-temple-ordinances)). The temple will provide instructions when the appointment is scheduled.
 
 #### 27.3.2.3 Obtaining a Marriage License
 
@@ -208,15 +208,15 @@ Couples being sealed after a civil marriage do not need to bring a marriage lice
 
 An endowed sister may accompany the bride to assist her in the dressing room. An endowed brother may do the same for the groom. An escort must have a current temple recommend. The temple can provide an escort if needed.
 
-#### 27.3.2.5 Who Performs a Temple Marriage or Sealing
+#### 27.3.2.5 Who Performs a Temple Sealing
 
-A temple marriage or sealing is usually performed by a sealer who is assigned to the temple where the couple will be married or sealed. If a family member or acquaintance holds the sealing authority and is assigned to the temple where the couple will be married or sealed, they may invite him to perform the marriage or sealing.
+A temple sealing is usually performed by a sealer who is assigned to the temple where the couple will be sealed. If a family member or acquaintance holds the sealing authority and is assigned to the temple where the couple will be sealed, they may invite him to perform the sealing.
 
 A sealer may also seek First Presidency approval to perform a sealing for his lineal descendants (children, grandchildren, and great-grandchildren) in a temple other than the one to which he is assigned. He must receive a letter of authorization from the First Presidency for each such sealing. He presents the letter at the temple.
 
-Members are discouraged from asking General Authorities to perform their temple marriage or sealing.
+Members are discouraged from asking General Authorities to perform their temple sealing.
 
-#### 27.3.2.6 Appropriate Clothing for a Temple Marriage or Sealing
+#### 27.3.2.6 Appropriate Clothing for a Temple Sealing
 
 _Bride’s Dress._ A bride’s dress worn in the temple should be white, modest in design and fabric, and free of elaborate ornamentation. It also should cover the temple garment. Sheer fabric should be lined.
 
@@ -224,19 +224,21 @@ To be consistent with other dresses worn in the temple, a bride’s dress should
 
 The temple can provide a dress if needed or desired.
 
-_Groom’s Clothing._ The groom wears normal temple clothing during the marriage or sealing ceremony (see [38.5.1](38-church-policies-and-guidelines.md#3851-temple-clothing) and [38.5.2](38-church-policies-and-guidelines.md#3852-obtaining-temple-clothing-and-garments)). He may wear formal clothing outside the temple for photographs after the ceremony.
+_Groom’s Clothing._ The groom wears normal temple clothing during the sealing ceremony (see [38.5.1](38-church-policies-and-guidelines.md#3851-temple-clothing) and [38.5.2](38-church-policies-and-guidelines.md#3852-obtaining-temple-clothing-and-garments)). He may wear formal clothing outside the temple for photographs after the ceremony.
 
-_Guests’ Clothing._ Those who attend a marriage or sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. Members who come to a sealing directly from an endowment session may wear ceremonial temple clothing.
+_Guests’ Clothing._ Those who attend a sealing ceremony should wear clothing similar to what they would wear to a sacrament meeting. They should avoid wearing clothing that is casual or that does not cover the temple garment. They should also avoid wearing clothing that is overly formal, like tuxedos.
 
-The couple should share this information with guests well before the marriage or sealing.
+Members who come to a sealing directly from an endowment session may wear ceremonial temple clothing.
 
-_Flowers._ The couple and their guests should not wear flowers during the marriage or sealing ceremony. Flowers may be worn outside the temple for photographs after the ceremony. The couple should share this information with guests well before the marriage or sealing.
+The couple should share this information with guests well before the sealing.
 
-#### 27.3.2.7 Exchanging Rings after a Temple Marriage or Sealing
+_Flowers._ The couple and their guests should not wear flowers during the sealing ceremony. Flowers may be worn outside the temple for photographs after the ceremony. The couple should share this information with guests well before the sealing.
+
+#### 27.3.2.7 Exchanging Rings after a Temple Sealing
 
 Exchanging rings is not part of the temple sealing ceremony. However, couples may exchange rings after the ceremony in the sealing room. Couples should not exchange rings at any other time or place in a temple or on temple grounds. Doing so can detract from the ceremony.
 
-Couples who are married and sealed in the same ceremony may exchange rings at a later time to accommodate family members who are unable to attend a temple marriage. The ring exchange should be consistent with the dignity of a temple marriage. The exchange should not replicate any part of the temple marriage or sealing ceremony. The couple should not exchange vows after being married or sealed in the temple.
+Couples who are married and sealed in the same ceremony may exchange rings at a later time to accommodate family members who are unable to attend a temple sealing. The ring exchange should be consistent with the dignity of a temple sealing. The exchange should not replicate any part of the sealing ceremony. The couple should not exchange vows after being sealed in the temple.
 
 Couples who are married civilly before their temple sealing may exchange rings at their civil ceremony, at their temple sealing, or at both ceremonies.
 
@@ -244,13 +246,13 @@ Couples who are married civilly before their temple sealing may exchange rings a
 
 The purpose of the temple is to administer ordinances for eternity. For this reason, marriages for time only are no longer performed in temples.
 
-For the policy on sealing a couple who were married in the temple for time only, see [38.4.1.6](38-church-policies-and-guidelines.md#38416-sealing-after-temple-marriage-for-time-only).
+For the policy on sealing a couple who were married in the temple for time only, see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-after-temple-marriage-for-time-only).
 
-### 27.3.4 Who May Attend a Temple Marriage or Sealing
+### 27.3.4 Who May Attend a Temple Sealing
 
-Couples should invite only close family members and friends to a temple marriage or sealing. Accountable members must be endowed and have a current temple recommend to attend.
+Couples should invite only close family members and friends to a temple sealing. Accountable members must be endowed and have a current temple recommend to attend.
 
-Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the temple marriage or sealing of their living siblings if they:
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the temple sealing of their living siblings if they:
 
 * Are at least 18 years old.
 * Are able to remain reverent during the ceremony.
@@ -258,6 +260,8 @@ Some members of record are not baptized due to an intellectual disability, and s
 The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
 
 Members must be endowed and have a current temple recommend to observe the sealing of their parents.
+
+For information about who may attend a sealing of living children to parents, see [27.4.5](27-temple-ordinances-for-the-living.md#2745-who-may-attend-a-sealing-of-living-children-to-parents).
 
 ### 27.3.5 Wedding Receptions
 
@@ -273,7 +277,7 @@ See [38.4.2](38-church-policies-and-guidelines.md#3842-sealing-children-to-paren
 
 ### 27.4.1 Issuing a Recommend for Sealing Living Children to Parents
 
-Accountable members ages 8 and older need a recommend to be sealed to their parents. They also need a recommend to observe the sealing of living siblings, stepsiblings, or half siblings to their parents (see [27.4.4](27-temple-ordinances-for-the-living.md#2744-who-may-attend-a-sealing-of-living-children-to-parents)). Children ages 8 and older must be baptized and confirmed in order to receive a temple recommend. Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
+Accountable members ages 8 and older need a recommend to be sealed to their parents. They also need a recommend to observe the sealing of living siblings, stepsiblings, or half siblings to their parents (see [27.4.4](27-temple-ordinances-for-the-living.md#2744-who-performs-a-sealing-of-living-children-to-parents)). Children ages 8 and older must be baptized and confirmed in order to receive a temple recommend. Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
 
 Members who are 21 or older must be endowed and have a current temple recommend to be sealed to their parents.
 
@@ -289,7 +293,15 @@ A couple who wants to have their children sealed to them, or children who desire
 
 See [27.1.6](27-temple-ordinances-for-the-living.md#2716-child-care).
 
-### 27.4.4 Who May Attend a Sealing of Living Children to Parents
+### 27.4.4 Who Performs a Sealing of Living Children to Parents
+
+A sealing of living children to parents is usually performed by a sealer who is assigned to the temple where the sealing will occur. If a family member or acquaintance holds the sealing authority and is assigned to the temple where the sealing will occur, the family may invite him to perform the sealing.
+
+A sealer may also seek First Presidency approval to perform a sealing of living children to parents for his lineal descendants (children, grandchildren, and great-grandchildren) in a temple other than the one to which he is assigned. He must receive a letter of authorization from the First Presidency for each such sealing. He presents the letter at the temple.
+
+Members are discouraged from asking General Authorities to perform their sealing of living children to parents.
+
+### 27.4.5 Who May Attend a Sealing of Living Children to Parents
 
 To observe the sealing of living siblings, stepsiblings, or half siblings to their parents, unendowed members under the age of 21 must be born in the covenant or sealed to their parents. In addition, children ages 8 and older must be baptized and confirmed and must have a current temple recommend (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)). Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
 

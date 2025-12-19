@@ -2,7 +2,7 @@
 
 ## 26.0 Introduction
 
-Entering the house of the Lord is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and to have a current temple recommend even if they do not live near a temple.
+Entering the house of the Lord is a sacred privilege. Ward and stake leaders encourage all members to be worthy of and have a current temple recommend even if they do not live near a temple.
 
 Church leaders make every effort to see that all who enter the house of the Lord are worthy to do so (see [Psalm 24:3–5](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=eng&id=p3-p5#p3)). Authorized priesthood leaders conduct temple recommend interviews and issue temple recommends to members who answer the interview questions appropriately and sincerely (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends)). The Lord promises that if those who enter His house are clean, His presence will be there (see [Doctrine and Covenants 97:15–16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/97?lang=eng&id=p15-p16#p15)).
 
@@ -28,9 +28,9 @@ Priesthood leaders also ensure that unauthorized individuals do not have access 
 
 ### 26.2.2 Lost or Stolen Recommends
 
-The bishop asks members to notify him as soon as possible if their recommend is lost or stolen. He or an assigned counselor or clerk uses [LCR](https://lcr.churchofjesuschrist.org) to cancel the recommend as soon as possible. If this system is not available, the bishop contacts the temple office to have the recommend canceled.
+The bishop asks members to notify him as soon as possible if their recommend is lost or stolen. If the member is still worthy, the bishop or an assigned counselor or clerk logs in to [LCR](https://lcr.churchofjesuschrist.org) to reprint the recommend. The new recommend will expire on the same date as the original.
 
-The bishop or an assigned counselor then conducts a temple recommend interview with the member. If the member is worthy, the bishop or assigned counselor either reprints the recommend or issues a new one.
+Sometimes a member whose recommend is lost or stolen is no longer living the standards of worthiness. In these cases, the bishop cancels the recommend immediately (see [26.2.3](26-temple-recommends.md#2623-recommend-holders-who-are-not-living-the-standards-of-worthiness)).
 
 ### 26.2.3 Recommend Holders Who Are Not Living the Standards of Worthiness
 
@@ -79,9 +79,9 @@ In a young single adult stake, the stake president may authorize his counselors 
 
 ### 26.3.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Temple Recommend Interviews for Members in Isolated Areas
 
-Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a temple president may interview the person and sign the recommend. Before conducting the interview, he confers with the stake or mission president. The bishop, an authorized counselor, or the branch president should have already interviewed the member and signed the recommend.
+Some members live in areas that would require expensive travel or great difficulty to meet with a member of the stake or mission presidency. In these situations, a member of the stake or mission presidency may meet virtually with the member to conduct a temple recommend interview (see [31.4](31.md#314-meeting-with-members-virtually)). The leader digitally signs the recommend if the member is worthy. A member of the bishopric or the branch president then prints the recommend and gives it to the member.
 
-This policy also applies to members in the military who are in isolated areas. They should first be interviewed by the bishop of their home ward or the unit that supports their duty station.
+This policy also applies to members in the military who are in isolated areas.
 
 ### 26.3.3 Conducting a Temple Recommend Interview
 
@@ -181,7 +181,7 @@ Children under age 8 do not need a recommend to be sealed to their parents. Nor
 
 Members who are 21 or older may be sealed to their parents or observe a sealing only if they are (1) endowed and (2) have a current temple recommend.
 
-See [27.4.4](27-temple-ordinances-for-the-living.md#2744-who-may-attend-a-sealing-of-living-children-to-parents) and [38.4.2](38-church-policies-and-guidelines.md#3842-sealing-children-to-parents) for additional policies on observing sealings and being sealed to parents.
+See [27.4.4](27-temple-ordinances-for-the-living.md#2744-who-performs-a-sealing-of-living-children-to-parents) and [38.4.2](38-church-policies-and-guidelines.md#3842-sealing-children-to-parents) for additional policies on observing sealings and being sealed to parents.
 
 ## 26.5 Issuing Temple Recommends in Special Circumstances
 
@@ -230,16 +230,15 @@ The bishop and stake president may feel impressed to interview a member who has 
 
 Bishops and their counselors should be sensitive when issuing recommends to members whose close relatives publicly oppose the Church or belong to apostate groups. Members in these circumstances should not be made to feel that they cannot have a temple recommend because of their family associations. They should be encouraged to maintain a loving relationship with close relatives. They may be issued a temple recommend if they answer all temple recommend questions appropriately and sincerely.
 
-### 26.5.7 Members Who Identify as Transgender
+### 26.5.7 Individuals Who Identify as Transgender
 
-Worthy members who identify as transgender but do not pursue a medical, surgical, or social transition to the opposite of their biological sex at birth (“sex reassignment”) may receive a temple recommend and temple ordinances.
+Temple ordinances are received according to a person’s biological sex at birth. Worthy members who do not pursue surgical, medical, or social transition away from their biological sex at birth may receive a temple recommend and temple ordinances. (For a definition of social transition, see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).)
 
-Temple ordinances are received according to a person’s biological sex at birth. For this reason, the following members may not receive a temple recommend, including a recommend for proxy baptisms and confirmations:
+Members who have taken steps to transition and then transition back to their biological sex at birth and are worthy and committed to keeping God’s commandments may receive a temple recommend and temple ordinances.
 
-* Members who have received elective medical or surgical intervention to attempt to transition
-* Members who have socially transitioned to the opposite of their biological sex at birth
+Bishops counsel with the stake president to address individual circumstances with sensitivity and Christlike love. Stake and mission presidents seek counsel from the Area Presidency.
 
-The stake president should counsel with the Area Presidency to address individual situations with sensitivity and Christlike love (see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals) and [38.7.7](38-church-policies-and-guidelines.md#3877-individuals-whose-sex-at-birth-is-not-clear)).
+For more information, see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).
 
 ### 26.5.8 Members Who Have Committed a Serious Sin
 

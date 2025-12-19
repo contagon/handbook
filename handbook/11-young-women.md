@@ -148,7 +148,7 @@ Young women can help unite families for eternity in many ways. Some of these way
 * Honor their parents and set an example of Christlike living in their home.
 * Prepare to have their own eternal family.
 * Have a current temple recommend.
-* Prepare to receive temple ordinances, including eternal marriage.
+* Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 * Learn about their extended families and ancestors (see  [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 * Participate in baptisms and confirmations for the dead as often as circumstances allow.
@@ -180,7 +180,7 @@ The Young Women president has the following responsibilities. Her counselors ass
 * Minister to individual young women.
 * Submit recommendations to the bishopric for sisters to serve in Young Women.
 * Teach other Young Women leaders and class presidencies their responsibilities.
-* Counsel with young women about challenges that do not require the bishop or involve abuse (see [32.3](32-repentance-and-membership-councils.md#323-the-role-of-judges-in-israel), [31.3.1](31.md#3131-meeting-with-youth), and [38.6.2](38-church-policies-and-guidelines.md#3862-abuse)).
+* Counsel with young women about challenges that do not require the bishop or involve abuse (see [32.3](32-repentance-and-membership-councils.md#323-the-role-of-judges-in-israel), [31.1](31.md#311-guiding-principles), [31.3.1](31.md#3131-meeting-with-youth), and [38.6.2](38-church-policies-and-guidelines.md#3862-abuse)).
 * Mentor class presidencies in their leadership responsibilities. Each class is assisted and overseen by a specific member of the Young Women presidency.
 * Support young women who serve as companions to adult sisters in ministering (see [21.2.2](21-ministering.md#2122-ministering-assignments-for-youth)).
 * Regularly hold Young Women presidency meetings and meet with the bishop.
@@ -219,6 +219,7 @@ Class presidents serve on the ward youth council (see [11.3.4.4](11-young-women.
 * Get to know and serve each young woman, including those who do not attend class meetings. Be aware of their needs and circumstances.
 * Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.4](23.md#234-hold-weekly-coordination-meetings)).
 * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)).
+* Organize the youth to minister by welcoming visitors and members as they enter the chapel (see [29.2.1.3](29-meetings-in-the-church.md#29213-time-before-the-meeting)).
 * Plan and conduct Sunday class meetings (see [11.2.1.2](11-young-women.md#11212-gospel-learning)).
 * Plan and carry out class service and activities (see [11.2.1.3](11-young-women.md#11213-service-and-activities)).
 * Regularly hold class presidency meetings (see [11.3.4.3](11-young-women.md#11343-class-presidency-meeting)).
@@ -235,7 +236,7 @@ Young Women class presidencies meet regularly. The class president conducts thes
 * Serving class members, with special attention to supporting new members and reaching out to less-active members
 * Reaching out to those of other faiths and beliefs
 * Planning class meetings, service, and activities
-* Leadership instruction from adult Young Women leaders or a member of the class presidency
+* [Leadership instruction](https://www.churchofjesuschrist.org/study/manual/leadership-lessons?lang=eng) from adult Young Women leaders or a member of the class presidency
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A [Sample Presidency Meeting Agenda](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/pdf/children-and-youth/PD60010390_000-Quorum-and-Class-Presidency-Agenda8.pdf) is available on ChurchofJesusChrist.org.
 
@@ -250,7 +251,7 @@ The bishop presides over the ward youth council. This council’s members includ
 * The Young Women class presidents (or the entire class presidency if the ward has just one Young Women class).
 * The Young Women president.
 
-The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=eng&id=p4-p5#p4)). They counsel together about the needs of the young women and young men in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
+The ward youth council discusses ways to help others build testimonies, receive saving ordinances, make and keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6?lang=eng&id=p4-p5#p4)). They counsel together about the needs of the young women and young men in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
 See [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting) for more information about the ward youth council.
 

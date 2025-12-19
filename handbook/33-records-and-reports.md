@@ -80,6 +80,7 @@ Other record-keeping duties may include:
 * Preparing the [Officers Sustained form](https://lcr.churchofjesuschrist.org/form/officers-sustained) and Stake Conference Report for stake conference.
 * Recording information for stake membership councils (see [32.9.6](32-repentance-and-membership-councils.md#3296-stake-or-ward-clerk)).
 * Maintaining financial records (see [34.1.2](34-finances-and-audits.md#3412-stake-clerks)).
+* Organizing and coordinating the collection of stories for the unit history. A stake history specialist may be called to assist. (See [33.7.1](33-records-and-reports.md#3371-ward-and-stake-histories).)
 
 #### 33.3.2.2 Review of Ward Records and Reports
 
@@ -88,8 +89,8 @@ The stake clerk meets with each new ward clerk soon after he is called. He meets
 * Tithing and other financial records are properly recorded (see [34.1.2](34-finances-and-audits.md#3412-stake-clerks) and [34.2.2](34-finances-and-audits.md#3422-ward-clerks)).
 * Membership records are updated promptly and accurately.
 * Certificates of blessing, baptism and confirmation, and priesthood ordination are given to ward members.
-* The annual membership record audit is conducted and all audit exceptions are promptly corrected (see [33.6.19](33-records-and-reports.md#33619-audits-of-membership-records)).
-* The ward’s annual history is submitted to the stake at the end of each year (see [33.7](33-records-and-reports.md#337-historical-records)).
+* The semiannual membership record audit is conducted and all audit exceptions are promptly corrected (see [33.6.19](33-records-and-reports.md#33619-audits-of-membership-records)).
+* Ward clerks organize and coordinate the collection of stories for the unit history. If ward history specialists are called, they assist. (See [33.7.1](33-records-and-reports.md#3371-ward-and-stake-histories).)
 
 #### 33.3.2.3 Audits
 
@@ -324,7 +325,7 @@ See [24.6.2.8](24.md#24628-membership-records-and-tithing).
 
 ### 33.6.7 Records of Young Single Adults
 
-Young single adults between the ages of 18 and 30 may choose to be members of either their geographic ward or a YSA ward if one is assigned to the boundaries where they live. The membership record is kept in the ward they attend.
+Young single adults between the ages of 18 and 30 may choose to be members of either their geographic ward or a young single adult ward if one is assigned to the boundaries where they live. The membership record is kept in the ward they attend.
 
 These principles also apply to single adults between the ages of 31 and 45 who choose to be members of a single adult ward.
 
@@ -392,7 +393,7 @@ See [33.6](33-records-and-reports.md#336-membership-records).
 
 ### 33.6.19 Audits of Membership Records
 
-Each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](https://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 30 of each year.
+Twice each year the stake clerk or an assistant stake clerk ensures that an [audit of membership records](https://churchofjesuschrist.org/help/support/membership-record-audit) is conducted in each ward using [LCR](https://lcr.churchofjesuschrist.org/records/mbr-audit/summary). The stake president may call others who are experienced in membership record keeping to assist with these audits. Audits should be completed by June 15 and December 15 of each year.
 
 ## 33.7 Historical Records
 

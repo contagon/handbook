@@ -24,9 +24,9 @@ Membership in The Church of Jesus Christ of Latter-day Saints is available to pe
 
 For baptism of minor children ages 8 and older, see [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors).
 
-### 38.1.3 Temple Attendance
+### 38.1.3 Temple Worship
 
-Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may attend the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](26-temple-recommends.md).)
+Temples are holy places of worship in which essential ordinances are received and sacred covenants are made. To members of the Church, temples are houses of God. Because of this sacredness and the covenants made, only members of the Church with a current temple recommend may worship in the temple. Members may receive a temple recommend when they faithfully keep the required commandments and live the gospel of Jesus Christ. (See [chapter 26](26-temple-recommends.md).)
 
 ### 38.1.4 Unmarried Member Participation and Blessings
 
@@ -83,7 +83,7 @@ However, when a close family member is not able to attend in person, the bishop 
 
 The bishop may authorize the streaming of baby blessings, baptisms, confirmations, and Aaronic Priesthood ordinations. The stake president may authorize the streaming of Melchizedek Priesthood ordinations and the setting apart of missionaries.
 
-The ordinance of the sacrament is not streamed. If a sacrament meeting is being livestreamed, the stream should be paused during the administration of the sacrament. The bishop may authorize a priest or Melchizedek Priesthood holder to administer the sacrament in person to those who cannot attend the meeting.
+The ordinance of the sacrament is not streamed. If a sacrament meeting is being livestreamed, the stream should be paused during the administration of the sacrament. The bishop may authorize a priest or Melchizedek Priesthood holder to administer the sacrament in person to those who cannot attend the meeting (see [18.9.1](18-priesthood-ordinances-and-blessings.md#1891-approval-to-administer-the-sacrament)).
 
 Streaming of ordinances should not distract from the Spirit. Generally, only one device should be used. It is operated by the ward or stake technology specialist. Both the device and the person using it should be inconspicuous.
 
@@ -233,7 +233,8 @@ Approval from the First Presidency is required before a person can be baptized a
 * Has been convicted of a crime involving sexual misconduct (see [38.2.8.7](38-church-policies-and-guidelines.md#38287-persons-who-have-been-convicted-of-crimes)).
 * Is currently on legal probation or parole for any serious crime or offense (usually punishable by one year in prison or longer) or any crime that involves sexual misconduct (see [38.2.8.7](38-church-policies-and-guidelines.md#38287-persons-who-have-been-convicted-of-crimes)).
 * Has been involved in plural marriage (see [38.2.8.8](38-church-policies-and-guidelines.md#38288-adults-involved-in-plural-marriage)).
-* Has completed transition to the opposite of his or her biological sex at birth (see [38.2.8.9](38-church-policies-and-guidelines.md#38289-persons-who-identify-as-transgender)).
+
+For guidance about baptizing and confirming individuals who identify as transgender, see [38.2.8.9](38-church-policies-and-guidelines.md#38289-individuals-who-identify-as-transgender).
 
 If the person is seeking baptism for the first time, the mission president interviews him or her. If he finds the person to be worthy and if he recommends baptism, he submits a request for approval to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org).
 
@@ -263,15 +264,19 @@ If the person is seeking baptism for the first time, the mission president follo
 
 The request should describe the person’s past involvement in plural marriage. It should also describe his or her repentance and current family situation.
 
-#### 38.2.8.9 Persons Who Identify as Transgender
+#### 38.2.8.9 Individuals Who Identify as Transgender
 
-A transgender person may be baptized and confirmed if he or she is not pursuing elective medical or surgical intervention to attempt to transition to the opposite of his or her biological sex at birth (“sex reassignment”).
+Baptism and confirmation are received according to a person’s biological sex at birth. Worthy individuals who do not pursue surgical, medical, or social transition away from their biological sex at birth may be baptized and confirmed. (For a definition of social transition, see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).)
 
-Mission presidents should counsel with the Area Presidency to address individual situations with sensitivity and Christlike love.
+Any exception to this policy requires the approval of the First Presidency. To request approval, the mission president, or the stake president for an eight-year-old, interviews the person. If he finds the person to be worthy and if he recommends baptism and confirmation, he submits a request for approval to the First Presidency using LCR.
 
-A person who has completed sex reassignment through elective medical or surgical intervention must have First Presidency approval to be baptized. The mission president may request this approval if he has interviewed the person, found him or her to be otherwise worthy, and can recommend baptism. The person will not be able to receive the priesthood, a temple recommend, or some Church callings. However, he or she can participate in the Church in other ways.
+If the First Presidency approves baptism and confirmation, the person will not be able to receive the priesthood, a temple recommend, or some Church callings while transitioned. However, the individual may participate in the Church in other ways.
 
-For more information, see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals).
+Individuals who have taken steps to transition and then transition back to their biological sex at birth and are worthy and committed to keeping God’s commandments may be baptized and confirmed.
+
+Mission presidents, or stake presidents for an eight-year-old, address individual circumstances with sensitivity and Christlike love. They seek counsel from the Area Presidency.
+
+For more information, see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).
 
 ### 38.2.9 Priesthood Ordination
 
@@ -338,15 +343,15 @@ If the man was previously endowed, he is not ordained to a priesthood office. In
 
 For more information and instructions, see [32.17](32-repentance-and-membership-councils.md#3217-church-activity-ordination-and-restoration-of-blessings-after-readmission).
 
-#### 38.2.9.9 Persons Who Identify as Transgender
+#### 38.2.9.9 Individuals Who Identify as Transgender
 
-A member who has received elective medical or surgical intervention to attempt to transition to the opposite of his or her biological sex at birth (“sex reassignment”) may not receive or exercise the priesthood. Nor may a member who has socially transitioned to the opposite of his or her biological sex at birth receive or exercise the priesthood.
+Priesthood ordination is received according to a person’s biological sex at birth. A worthy male Church member who does not pursue surgical, medical, or social transition away from his biological sex at birth may receive and exercise the priesthood. (For a definition of social transition, see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).)
 
-Stake presidents should counsel with the Area Presidency to address individual situations with sensitivity and Christlike love.
+Male members who have taken steps to transition and then transition back to their biological sex at birth and are worthy and committed to keeping God’s commandments may receive and exercise the priesthood.
 
-A worthy male Church member who does not pursue medical, surgical, or social transition away from his biological sex at birth may receive and exercise the priesthood.
+Bishops counsel with the stake president to address individual circumstances with sensitivity and Christlike love. Stake and mission presidents seek counsel from the Area Presidency.
 
-For more information, see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals).
+For more information, see [38.6.23](38-church-policies-and-guidelines.md#38623-individuals-who-identify-as-transgender).
 
 ### 38.2.10 Patriarchal Blessings
 
@@ -519,33 +524,32 @@ The invitation to kiss each other as husband and wife is optional, based on cult
 
 ## 38.4 Sealing Policies
 
-Church members make sacred covenants with God as they receive temple ordinances. The temple sealing ordinances join families for eternity as members strive to honor the covenants they make when they receive the ordinance. Sealing ordinances include:
+Church members make sacred covenants with God as they receive temple ordinances. The temple sealing ordinances unite families for eternity as members strive to honor the covenants they make when they receive the ordinance. Sealing ordinances include:
 
 * Sealing of a husband and wife.
 * Sealing of children to parents.
 
-Those who keep their covenants will retain the individual blessings provided by the sealing. This is true even if the person’s spouse has broken the covenants or withdrawn from the marriage.
+### 38.4.1 Sealing of a Husband and Wife
 
-Faithful children who are sealed to parents or born in the covenant retain the blessing of eternal parentage. This is true even if their parents cancel their marriage sealing, have their Church membership withdrawn, or resign their membership.
-
-Members who have concerns about the eternal nature of the sealing ordinance and their associated family and spousal relationships are encouraged to trust in the Lord and seek His comfort.
-
-Members should counsel with their bishop if they have questions about sealing policies that are not answered in this section. The bishop contacts the stake president if he has questions. Stake presidents may contact the temple presidency in their temple district, the Area Presidency, or the Office of the First Presidency if they have questions.
-
-### 38.4.1 Sealing of a Man and a Woman
+The following table explains where to find policies for sealing of a husband and wife.
 
 | Need | Section |
 | --- | --- |
 | I was married civilly and want to be sealed to my spouse. | [38.4.1.1](38-church-policies-and-guidelines.md#38411-sealing-of-living-members-after-civil-marriage) |
 | I am divorced from a previous spouse and want to be sealed to my current spouse. | [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce) |
 | My spouse to whom I was sealed died. To whom may I now be sealed? | [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death) |
-| I need to apply for a sealing cancellation or a sealing clearance. | [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance) |
-| I need to have a restriction against temple sealing removed. | [38.4.1.5](38-church-policies-and-guidelines.md#38415-removing-a-restriction-against-temple-sealing) |
-| My spouse and I were married for time only in the temple. Can we be sealed to one another? | [38.4.1.6](38-church-policies-and-guidelines.md#38416-sealing-after-temple-marriage-for-time-only) |
-| To whom may my deceased family members be sealed? | [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons) |
-| How does divorce affect my sealing? | [38.4.1.8](38-church-policies-and-guidelines.md#38418-effects-of-divorce) |
-| What are the effects of canceling a sealing? | [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-sealing-cancellation) |
-| How does resignation or withdrawal of Church membership affect my sealing? | [38.4.1.10](38-church-policies-and-guidelines.md#384110-effects-of-resignation-or-withdrawal-of-church-membership) |
+| May I be sealed to a deceased individual with whom I cohabited without being legally married? | [38.4.1.4](38-church-policies-and-guidelines.md#38414-sealing-of-a-living-member-to-a-deceased-individual-with-whom-he-or-she-cohabited) |
+| I need to apply for a sealing cancellation or a sealing clearance. | [38.4.1.5](38-church-policies-and-guidelines.md#38415-applying-for-a-sealing-cancellation-or-a-sealing-clearance) |
+| I need to have a restriction against temple sealing removed. | [38.4.1.6](38-church-policies-and-guidelines.md#38416-removing-a-restriction-against-temple-sealing) |
+| My spouse and I were married for time only in the temple. Can we be sealed to one another? | [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-after-temple-marriage-for-time-only) |
+| To whom may my deceased family members be sealed? | [38.4.1.8](38-church-policies-and-guidelines.md#38418-sealing-of-deceased-persons) |
+| How does divorce affect my sealing? | [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-divorce) |
+| What are the effects of canceling a sealing? | [38.4.1.10](38-church-policies-and-guidelines.md#384110-effects-of-sealing-cancellation) |
+| How does resignation or withdrawal of Church membership affect my sealing? | [38.4.1.11](38-church-policies-and-guidelines.md#384111-effects-of-resignation-or-withdrawal-of-church-membership) |
+
+Members should counsel with their bishop if they have questions about sealing policies that are not answered in this section. The bishop contacts the stake president if he has questions. The stake president contacts the Office of the First Presidency if he has questions.
+
+Members who have concerns about the eternal nature of the sealing ordinance and their associated family and spousal relationships are encouraged to trust in the Lord and seek His comfort. Heavenly Father will ensure that each person receives every blessing that his or her desires and choices allow.
 
 #### 38.4.1.1 Sealing of Living Members after Civil Marriage
 
@@ -558,25 +562,25 @@ When issuing temple recommends for a couple to be sealed, priesthood leaders mak
 
 #### 38.4.1.2 Sealing of Living Members after Divorce
 
-_Women._ A living woman may be sealed to only one husband at a time. If she and a husband were sealed and later divorced, she must receive a cancellation of that sealing before being sealed to another man during her lifetime (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
+_Women._ A living woman may be sealed to only one husband at a time. If she and a husband were sealed and later divorced, she must receive a cancellation of that sealing before being sealed to another man during her lifetime (see [38.4.1.5](38-church-policies-and-guidelines.md#38415-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 
 A living woman who is not currently married or sealed to another man may be sealed to a deceased husband from whom she was divorced in life. She must first receive signed consent from her former husband’s widow (if there is one).
 
 See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
-_Men._ If a man and woman were sealed and later divorced, the man must receive a sealing clearance before being sealed to another woman (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the previous wife is deceased.
+_Men._ If a man and woman were sealed and later divorced, the man must receive a sealing clearance before being sealed to another woman (see [38.4.1.5](38-church-policies-and-guidelines.md#38415-applying-for-a-sealing-cancellation-or-a-sealing-clearance)). A sealing clearance is necessary even if (1) the previous sealing has been canceled or (2) the previous wife is deceased.
 
 A sealing clearance is needed only if a man is divorced from the woman who was most recently sealed to him. For example, if a man received a sealing clearance to be sealed to a second wife after a divorce, and then his second wife dies, he would not need another sealing clearance to be sealed again.
 
-A living man may be sealed to a deceased wife from whom he was divorced in life. He must first receive signed consent from his former wife’s widower (if there is one). He also must receive written consent from his current wife if he is married.
+A living man may be sealed to a deceased wife from whom he was divorced in life. He must first receive signed consent from his former wife’s widower (if there is one). If he is married, he also must receive written consent from his current wife if she is living.
 
 See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
 #### 38.4.1.3 Sealing of Living Members after a Spouse’s Death
 
-_Women._ If a husband and wife have been sealed and the husband dies, the woman may not be sealed to another man unless she receives a cancellation of the first sealing (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
+_Women._ If a husband and wife have been sealed and the husband dies, the woman may not be sealed to another man unless she receives a cancellation of the first sealing (see [38.4.1.5](38-church-policies-and-guidelines.md#38415-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 
-A living woman who is not currently married or sealed to another man may be sealed to a deceased husband (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce).
+A living woman who is not currently married or sealed to another man may be sealed to a deceased husband (see [38.4.1.8](38-church-policies-and-guidelines.md#38418-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce).
 
 A living woman who is currently married may not be sealed to a deceased husband without First Presidency approval.
 
@@ -584,11 +588,33 @@ See [chapter 28](28.md) for information about performing ordinances for a decea
 
 _Men._ If a husband and wife have been sealed and the wife dies, the man may be sealed to another woman if she is not already sealed to another man. In this circumstance, the man does not need a sealing clearance from the First Presidency unless he was divorced from his previous wife before she died (see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce)).
 
-A living man may be sealed to a deceased wife if she is not currently sealed to another man (see [38.4.1.7](38-church-policies-and-guidelines.md#38417-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce). Before being sealed to a deceased wife, a man must receive written consent from his current wife if he is married.
+A living man may be sealed to a deceased wife if she was not sealed to another husband in life. If she was sealed to another husband while living, all men to whom she was married must be deceased before any other man may be sealed to her (see [38.4.1.8](38-church-policies-and-guidelines.md#38418-sealing-of-deceased-persons)). If the marriage ended in divorce, see [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce).
+
+Before being sealed to a deceased wife, a married man must receive written consent from his current wife if she is living.
 
 See [chapter 28](28.md) for information about performing ordinances for a deceased spouse.
 
-#### 38.4.1.4 Applying for a Sealing Cancellation or a Sealing Clearance
+#### 38.4.1.4 Sealing of a Living Member to a Deceased Individual with Whom He or She Cohabited
+
+_Women._ As an exception, a living woman who is not currently married or sealed to another man may be sealed to a deceased man with whom she cohabited. This exception may be considered only if their relationship was of such a nature and duration to show a determination to do all of the following:
+
+* Be faithful to one another in a permanent relationship.
+* Fulfill all marital responsibilities to each other.
+* Fulfill all parental responsibilities to any children they had.
+
+If the member’s stake president feels that such an exception is warranted, he submits a request to the Office of the First Presidency.
+
+_Men._ As an exception, a living man may be sealed to a deceased woman with whom he cohabited if she was not sealed to another man during her life. This exception may be considered only if their relationship was of such a nature and duration to show a determination to do all of the following:
+
+* Be faithful to one another in a permanent relationship.
+* Fulfill all marital responsibilities to each other.
+* Fulfill all parental responsibilities to any children they had.
+
+Before being sealed to a deceased woman, a married man must receive written consent from his current wife if she is living.
+
+If the member’s stake president feels that such an exception is warranted, he submits a request to the Office of the First Presidency.
+
+#### 38.4.1.5 Applying for a Sealing Cancellation or a Sealing Clearance
 
 See [38.4.1.2](38-church-policies-and-guidelines.md#38412-sealing-of-living-members-after-divorce) for information about the sealing of living members after a divorce. See [38.4.1.3](38-church-policies-and-guidelines.md#38413-sealing-of-living-members-after-a-spouses-death) for information about the sealing of living members after a spouse’s death.
 
@@ -613,9 +639,9 @@ The process for seeking a sealing cancellation or sealing clearance is outlined 
 6. If the request is approved, the First Presidency provides a letter stating that the sealing cancellation or sealing clearance has been granted.
 7. After receiving the letter, the member may schedule an appointment for a temple sealing. The member presents the letter at the temple.
 
-See [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-sealing-cancellation).
+See [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-divorce).
 
-#### 38.4.1.5 Removing a Restriction against Temple Sealing
+#### 38.4.1.6 Removing a Restriction against Temple Sealing
 
 A person who commits adultery while married to a spouse to whom he or she has been sealed may not be sealed to the partner in the adultery without approval from the First Presidency.
 
@@ -624,17 +650,17 @@ A couple may seek approval after they have been married for at least five years.
 1. The couple meets with their bishop and stake president.
 2. If these leaders feel that the restriction should be removed, they write letters to the First Presidency with their recommendations. Their letters should describe the applicants’ temple worthiness and the stability of their marriage for at least five years. See [6.2.3](6-stake-leadership.md#623-common-judge) about the stake president’s responsibility when submitting applications to the First Presidency.
 3. The couple also writes a letter of request to the First Presidency.
-4. The stake president submits all of these letters to the First Presidency. He may submit the request with an application for a sealing cancellation or sealing clearance (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
+4. The stake president submits all of these letters to the First Presidency. He may submit the request with an application for a sealing cancellation or sealing clearance (see [38.4.1.5](38-church-policies-and-guidelines.md#38415-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 5. If the request is approved, the First Presidency provides a letter stating that the restriction against temple sealing has been removed.
 6. After receiving the letter, the couple may schedule an appointment to be sealed. They present the letter at the temple.
 
-#### 38.4.1.6 Sealing after Temple Marriage for Time Only
+#### 38.4.1.7 Sealing after Temple Marriage for Time Only
 
 Couples who were married in a temple for time only are not usually sealed later. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. If the bishop and stake president both feel that a cancellation is justified, the stake president submits an application to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org). See [6.2.3](6-stake-leadership.md#623-common-judge) about the stake president’s responsibility when submitting applications to the First Presidency.
 
 Time-only marriages in the temple are no longer performed (see [27.3.3](27-temple-ordinances-for-the-living.md#2733-marriage-in-a-temple-for-time-only)).
 
-#### 38.4.1.7 Sealing of Deceased Persons
+#### 38.4.1.8 Sealing of Deceased Persons
 
 _Deceased Women._ A deceased woman may be sealed to all men to whom she was legally married during her life. The following table shows when these sealings may take place.
 
@@ -646,23 +672,27 @@ _Deceased Men._ A deceased man may be sealed to all women to whom he was legally
 
 Before a deceased man may be sealed to a deceased woman to whom he was married in life, the woman’s widower (if there is one) must give written consent.
 
-_Deceased Couples Who Were Divorced._ Deceased couples who were divorced may be sealed by proxy so their children can be sealed to them. See [28.3.5](28.md#2835-persons-whose-church-membership-was-withdrawn-or-who-resigned-membership) if either the husband or wife had Church membership withdrawn or had resigned membership and had not been rebaptized at the time of death.
+_Deceased Couples Who Were Divorced._ Deceased couples who were divorced may be sealed by proxy so their children can be sealed to them. See [28.3.5](28.md#2835-persons-whose-church-membership-was-withdrawn-or-who-resigned-membership) if either the husband or wife had Church membership withdrawn or had resigned membership.
 
 First Presidency approval is required before sealing a deceased couple who obtained a cancellation of their sealing in life.
 
-#### 38.4.1.8 Effects of Divorce
+#### 38.4.1.9 Effects of Divorce
 
-If a couple was sealed and later divorced, the blessings of that sealing remain in effect for individuals who are worthy unless the sealing is canceled (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance) and [38.4.1.9](38-church-policies-and-guidelines.md#38419-effects-of-sealing-cancellation)). A member who remains faithful to temple covenants will receive every blessing promised in the temple, even if the person’s spouse has broken the covenants or withdrawn from the marriage.
+If a couple was sealed and later divorced, the blessings of that sealing remain in effect for individuals who are worthy (see [38.4.1.5](38-church-policies-and-guidelines.md#38415-applying-for-a-sealing-cancellation-or-a-sealing-clearance) and [38.4.1.10](38-church-policies-and-guidelines.md#384110-effects-of-sealing-cancellation)). A member who remains faithful to temple covenants will receive the personal blessings promised in the temple, even if the person’s spouse has broken the covenants or withdrawn from the marriage. God promises His faithful sons and daughters peace and strength in this life and eternal life in the world to come.
 
 See [38.4.2.1](38-church-policies-and-guidelines.md#38421-children-who-are-born-in-the-covenant) for information about children who are born after a divorce.
 
-#### 38.4.1.9 Effects of Sealing Cancellation
+#### 38.4.1.10 Effects of Sealing Cancellation
 
-Once a sealing cancellation has been approved by the First Presidency, the blessings related to that sealing are no longer in force. Priesthood leaders counsel with members seeking a cancellation of a sealing to help them understand these principles. Leaders should honor members’ agency in these decisions.
+While a sealing remains in place, a member who is faithful to temple covenants will receive the personal blessings promised in the temple. This is true even if the person’s spouse has broken the covenants or withdrawn from the marriage. Moreover, God will not require anyone to remain in a sealed relationship throughout eternity against his or her will. Heavenly Father will ensure that each person receives every blessing that his or her desires and choices allow.
 
-Any children born to a woman after her sealing to a former husband has been canceled are not born in the covenant unless she has been sealed to another man.
+Once a sealing cancellation has been granted by the First Presidency, the blessings related to that sealing are no longer in force.
 
-#### 38.4.1.10 Effects of Resignation or Withdrawal of Church Membership
+Any children born to a woman after her sealing to a former husband has been canceled are not born in the covenant unless the mother was sealed to another man before the child’s birth.
+
+Priesthood leaders counsel with members seeking a cancellation of a sealing to help them understand these principles. Local leaders honor members’ agency in these decisions.
+
+#### 38.4.1.11 Effects of Resignation or Withdrawal of Church Membership
 
 After a couple has been sealed in a temple, if one of them resigns Church membership or has his or her membership withdrawn, his or her temple blessings are also withdrawn. However, the personal blessings of the sealing ordinance for the person’s spouse and children remain in effect if they remain faithful.
 
@@ -670,7 +700,11 @@ Any children born to a couple after one or both of them have resigned their memb
 
 ### 38.4.2 Sealing Children to Parents
 
-Parents must be sealed to each other before children are sealed to them (see [38.4.1](38-church-policies-and-guidelines.md#3841-sealing-of-a-man-and-a-woman)).
+Parents must be sealed to each other before children are sealed to them (see [38.4.1](38-church-policies-and-guidelines.md#3841-sealing-of-a-husband-and-wife)).
+
+Members should counsel with their bishop if they have questions about sealing policies that are not answered in this section. The bishop contacts the stake president if he has questions. The stake president contacts the Office of the First Presidency if he has questions.
+
+Members who have concerns about the eternal nature of the sealing ordinance and their associated family relationships are encouraged to trust in the Lord and seek His comfort. Heavenly Father will ensure that each person receives every blessing that his or her desires and choices allow.
 
 #### 38.4.2.1 Children Who Are Born in the Covenant
 
@@ -688,20 +722,26 @@ Children who are not born in the covenant can become part of an eternal family b
 
 These children receive the same blessings as if they had been born in the covenant.
 
-See [27.4.1](27-temple-ordinances-for-the-living.md#2741-issuing-a-recommend-for-sealing-living-children-to-parents) for information about issuing temple recommends for children being sealed to their parents.
-
-Members who are 21 or older must be endowed before being sealed to their parents.
-
-Married members who are younger than 21 do not need to be endowed to be sealed to their parents. However, they must have a current temple recommend (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
-
 _Sealing living children to living parents._ A living child is sealed to only two parents—a husband and wife. If both parents are living, they must be married and sealed to each other.
 
-_Sealing living children to deceased parents._ A living child is sealed to only one set of parents. The following table shows sealing options available to members who have not been sealed to their parents and whose parents are deceased.
+See [27.4.1](27-temple-ordinances-for-the-living.md#2741-issuing-a-recommend-for-sealing-living-children-to-parents) for information about issuing temple recommends for children being sealed to their parents.
+
+Members who are 21 or older must be endowed to be sealed to their parents (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
+
+_Sealing living children to deceased parents._ A living child is sealed to only one set of parents. The parents must be sealed to each other before children are sealed to them.
+
+A member who is an adult at the time his or her parents die is generally sealed to those parents. As used here, the term _parents_ means natural parents, adoptive parents, or a natural parent and a stepparent.
+
+The following table shows sealing options available to a person whose parents died when he or she was still a minor or who is not accountable due to intellectual disabilities.
 
 | Circumstance | Options |
 | --- | --- |
-| Minor child or person who is not accountable due to intellectual disabilities | • Be sealed to legal guardians or adoptive parents who are raising him or her<br/>• Wait until he or she is an adult and then be sealed to deceased parents |
-| Adult | • Be sealed to deceased parents<br/>• Be sealed to legal guardians or adoptive parents who raised him or her |
+| Minor child | • Be sealed to adoptive parents or legal guardians who are raising him or her<br/>• Wait until he or she is an adult and then choose to be sealed either (1) to the deceased parents or (2) to the adoptive parents or legal guardians who raised him or her |
+| Person who is not accountable due to intellectual disabilities | • Be sealed to adoptive parents or legal guardians who are caring for him or her |
+
+See [27.4.1](27-temple-ordinances-for-the-living.md#2741-issuing-a-recommend-for-sealing-living-children-to-parents) for information about issuing temple recommends for children being sealed to their parents.
+
+Members who are 21 or older must be endowed to be sealed to their parents (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
 
 _Sealing deceased children to parents (living or deceased)._ A deceased person is usually sealed to his or her birth or adoptive parents. However, a deceased child may also be sealed to:
 
@@ -732,7 +772,11 @@ _Minor children and children who are not accountable._ Living minor children and
 
 * The child was not born in the covenant or sealed previously.
 * The child has not been adopted by another parent.
-* The other natural parent has given a signed letter of consent for the sealing to take place. A court decree granting legal custody is not sufficient clearance for a sealing. The letter of consent should use wording similar to the following: “I, [name of natural parent], give permission for [name of child or children] to be sealed in the temple to [name of parents]. I understand that the sealing is a religious ceremony and does not have legal implications.” This letter is presented at the temple before the sealing.
+* The other natural parent has given a signed letter of consent for the sealing to take place. A court decree granting legal custody is not sufficient clearance for a sealing. The letter of consent should use wording similar to the following:
+
+“I, [name of natural parent], give permission for [name of child or children] to be sealed in the temple to [name of parents]. I understand that the sealing is a religious ceremony and does not have legal implications.”
+
+This letter is presented at the temple before the sealing.
 
 If the other natural parent is deceased or if his or her parental rights have been fully terminated by legal process, no consent is required. Likewise, no consent is required if the child is considered an adult in the jurisdiction where he or she lives.
 
@@ -744,6 +788,8 @@ Members who are 21 or older must be endowed before being sealed to a natural p
 
 Married members who are younger than 21 do not need to be endowed to be sealed to a natural parent and a stepparent. However, they must have a current temple recommend to be sealed to parents (see [26.4.4](26-temple-recommends.md#2644-temple-recommends-for-sealing-living-children-to-parents)).
 
+See [27.4.1](27-temple-ordinances-for-the-living.md#2741-issuing-a-recommend-for-sealing-living-children-to-parents) for information about issuing temple recommends for children being sealed to their parents.
+
 #### 38.4.2.6 Children Conceived by Artificial Insemination or In Vitro Fertilization
 
 Children conceived by artificial insemination or in vitro fertilization are born in the covenant if their parents are already sealed. If the children are born before their parents are sealed, they may be sealed to their parents after their parents are sealed to each other.
@@ -754,7 +800,10 @@ If a child was born to a surrogate mother, the stake president refers the matter
 
 #### 38.4.2.8 Status of Children When a Sealing Is Canceled or Withdrawn
 
-Children who are born in the covenant or sealed to parents remain so even if the sealing of the parents is later (1) canceled or (2) withdrawn because of the resignation or withdrawal of Church membership of either parent.
+Faithful children who are born in the covenant or sealed to parents retain the blessings of eternal parentage. This is true even if:
+
+* The sealing of their parents is later canceled.
+* The Church membership of either parent is later resigned or withdrawn.
 
 Children who are born after their parents’ sealing is canceled or withdrawn are not born in the covenant. These children may be sealed to their parents after their parents’ temple blessings are restored (if applicable) and any other obstacles are removed.
 
@@ -772,17 +821,23 @@ During the endowment and sealing ordinances, members put on additional ceremonia
 
 Ward and stake leaders encourage endowed members to obtain their own temple clothing. Temple clothing and garments may be purchased from a Church Distribution store or at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org). Stake and ward clerks may help members order the clothing.
 
+The bishop may use fast-offering funds to help members in need purchase temple clothing and garments (see [chapter 22](22-providing-for-temporal-needs.md)).
+
 Some temples have clothing available for rent. If a temple does not have rental clothing, members need to bring temple clothing with them. See [temples.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/temples) to learn whether a particular temple has rental clothing available.
 
 Temples maintain a limited supply of temple clothing that full-time missionaries may use. There is no rental charge while they are in missionary training centers and when they are authorized to participate in temple ordinances while serving in the mission field. If needed, this clothing may be used by missionaries receiving their own endowment.
 
-For information about garment fabrics and styles, see [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
+The garment is available in a variety of fabrics and styles, including for women who are pregnant or nursing ([store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org)).
+
+Members who need garments in a size that is not offered may contact a clothing consultant to place a special order. Contact information is available at [store.ChurchofJesusChrist.org/contactus](https://store.churchofjesuschrist.org/contactus).
+
+For information about trying on garments before purchasing them, see [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
 
 ### 38.5.3 Garments and Temple Clothing for Members Who Have Disabilities or Allergies
 
-Special garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments. See [Special Order Garments](https://www.churchofjesuschrist.org/tools/help/special-needs-garments) at ChurchofJesusChrist.org.
+Special-order garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Garments and Sacred Clothing](https://store.churchofjesuschrist.org/clothing),” store.ChurchofJesusChrist.org).
 
-Shorter temple robes are available for members who are in wheelchairs or who have other needs. See [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/new-category/clothing/5637160336.c).
+Shorter temple robes are available for members who are in wheelchairs or who have other needs (see [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/new-category/clothing/5637160336.c)).
 
 ### 38.5.4 Making Temple Clothing
 
@@ -798,9 +853,17 @@ The garment should be worn beneath the outer clothing. It is a matter of persona
 
 Members should not modify or alter the garment to accommodate different styles of clothing.
 
+Members should not inappropriately display the garment to those who do not understand its significance.
+
 See [26.3.3](26-temple-recommends.md#2633-conducting-a-temple-recommend-interview).
 
-### 38.5.6 Wearing the Garment in the Military, Fire Service, Law Enforcement, or a Similar Agency
+### 38.5.6 Caring for the Garment
+
+The garment is a sacred symbol of Jesus Christ. The way we care for our garments should reflect that sacred symbolism.
+
+Members may mend tears in the garment as long as the original design is not altered. However, if a mark is completely unraveled or missing, members should replace the garment.
+
+### 38.5.7 Wearing the Garment in the Military, Fire Service, Law Enforcement, or a Similar Agency
 
 The guidelines in this section apply to endowed members who have specific uniform requirements while serving:
 
@@ -809,23 +872,31 @@ The guidelines in this section apply to endowed members who have specific unifor
 * As law enforcement officers.
 * As government security agents.
 
-Bishops ensure that endowed members who work in these capacities understand the following guidelines.
+When possible, these members should wear the garment the same as any other member. However, they should avoid inappropriately displaying the garment to the view of those who do not understand its significance. Members should seek the guidance of the Spirit and use tact, discretion, and wisdom. In some cases, it may be best to lay the garment aside temporarily and wear it again when conditions allow. However, mere inconvenience in wearing the garment does not justify laying it aside.
 
-When possible, they should wear the garment the same as any other member. However, they should avoid exposing the garment to the view of those who do not understand its significance. Members should seek the guidance of the Spirit and use tact, discretion, and wisdom. It may be best to lay the garment aside temporarily and wear it again when conditions allow. However, mere inconvenience in wearing the garment does not justify laying it aside.
+Sometimes service regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected. The Lord focuses on the heart and a willing mind (see [Doctrine and Covenants 64:34](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=eng&id=p34#p34)). As long as the member remains worthy, he or she will still receive the blessings associated with wearing the garment. If members are unable to wear the garment, they should wear it again as soon as circumstances allow.
 
-Sometimes service regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected as long as he or she remains worthy. The member will still receive the blessings associated with wearing the garment. If members are unable to wear the garment, they should wear it again as soon as circumstances allow.
+Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided in [Garment Guidelines for Military, Law Enforcement, and Firefighters](https://assets.churchofjesuschrist.org/d7/da/d7dace85affa11eea186eeeeac1ee4396c92cc3b/beehive_clothing_form_military_markings_order_form.pdf).
 
-Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Guidelines for Military, Law Enforcement, and Firefighters](https://assets.churchofjesuschrist.org/d7/da/d7dace85affa11eea186eeeeac1ee4396c92cc3b/beehive_clothing_form_military_markings_order_form.pdf).
+### 38.5.8 Medical Conditions That May Prevent Members from Wearing the Garment
 
-### 38.5.7 Disposing of Garments and Ceremonial Temple Clothing
+When possible, members with medical conditions should wear the garment the same as any other member.
+
+Special-order garments may be purchased for members who have medical conditions or use medical devices. Members who need special-order garments may contact a clothing consultant to place an order. Contact information is available at [store.ChurchofJesusChrist.org/contactus](https://store.churchofjesuschrist.org/contactus).
+
+Some medical conditions or medical devices may make it difficult for members to wear one or both parts of the garment. Members should seek the guidance of the Spirit in such situations. In some cases, it may be best to lay the garment aside temporarily and wear it again when conditions allow.
+
+When a member cannot wear the garment because of a medical condition or device, his or her religious status is not affected. The Lord focuses on the heart and a willing mind (see [Doctrine and Covenants 64:34](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=eng&id=p34#p34)). As long as the member remains worthy, he or she will receive the blessings associated with wearing the garment.
+
+### 38.5.9 Disposing of Garments and Ceremonial Temple Clothing
 
 To dispose of worn-out temple garments, members should cut out and destroy the marks. Members then cut up the remaining fabric so it cannot be identified as a garment. The remaining cloth can be discarded.
 
 To dispose of worn-out ceremonial temple clothing, members should cut it up so the original use cannot be recognized. The cloth should then be discarded.
 
-Members may give garments and temple clothing that are in good condition to other endowed members. Priesthood and Relief Society leaders can identify those who might need such clothing. Members should not give garments or ceremonial temple clothing to thrift stores, bishops’ storehouses, temples, or charities.
+Members may give garments and temple clothing that are in good condition to other endowed members. Members should not give garments or ceremonial temple clothing to thrift stores, bishops’ storehouses, temples, or charities.
 
-### 38.5.8 Temple Burial Clothing
+### 38.5.10 Temple Burial Clothing
 
 If possible, deceased members who are endowed should be buried or cremated in temple clothing. If cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body.
 
@@ -885,12 +956,12 @@ When abuse occurs, the first and immediate responsibility of Church leaders is t
 
 In some countries, the Church has established a confidential abuse help line to assist stake presidents and bishops. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused. They should also call it if they become aware of a member viewing, purchasing, or distributing child pornography.
 
-The help line is available for bishops and stake presidents to call 24 hours a day, 7 days a week. Phone numbers are shown below.
+The help line is available for bishops and stake presidents to call 24 hours a day, 7 days a week. Contact information is provided below.
 
 * United States and Canada: 1-801-240-1911 or 1-800-453-3860, extension 2-1911
 * United Kingdom: 0800 970 6757
 * Ireland: 1800 937 546
-* France: 0805 710 531
+* Countries in the Europe Central Area: +49 69 54802 016 or [EURC-Abuse@ChurchofJesusChrist.org](mailto:EURC-Abuse@ChurchofJesusChrist.org)
 * Australia: 02 9841 5454 (from within the country)
 * New Zealand: 09 488 5592 (from within the country)
 
@@ -1076,7 +1147,7 @@ The Church condemns pornography in any form. Pornography use of any kind damages
 
 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) The Church provides the following resources to help people whose lives are affected by pornography:
 
-* [AddressingPornography.ChurchofJesusChrist.org](https://AddressingPornography.ChurchofJesusChrist.org)
+* [AddressingPornography.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/study/life-help/pornography?lang=eng)
 * [AddictionRecovery.ChurchofJesusChrist.org](https://AddictionRecovery.ChurchofJesusChrist.org)
 * Helping Those Who Struggle with Pornography (booklet)
 * [Let Virtue Garnish Thy Thoughts](https://www.churchofjesuschrist.org/study/manual/let-virtue-garnish-thy-thoughts?lang=eng) (booklet)
@@ -1213,29 +1284,39 @@ The pattern of a husband and wife providing bodies for God’s spirit children i
 
 Children who are born to a surrogate mother are not born in the covenant. Following their birth, they may be sealed to parents only with the approval of the First Presidency (see [38.4.2.7](38-church-policies-and-guidelines.md#38427-children-born-to-surrogate-mothers)). The parents write a letter to the First Presidency and give it to the stake president. If he supports the request, he submits the letter along with his own letter.
 
-### 38.6.23 Transgender Individuals
+### 38.6.23 Individuals Who Identify as Transgender
 
-Transgender individuals face complex challenges. Members and nonmembers who identify as transgender—and their family and friends—should be treated with sensitivity, kindness, compassion, and an abundance of Christlike love. All are welcome to attend sacrament meeting, other Sunday meetings, and social events of the Church (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)).
+Gender is an essential characteristic in Heavenly Father’s plan of happiness (see [Genesis 1:27](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng&id=p27#p27)). The intended meaning of _gender_ in “[The Family: A Proclamation to the World](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng)” is biological sex at birth. (For those whose biological sex is not clear at birth, see [38.7.7](38-church-policies-and-guidelines.md#3877-individuals-whose-sex-at-birth-is-not-clear).)
 
-Gender is an essential characteristic of Heavenly Father’s plan of happiness. The intended meaning of _gender_ in the [family proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) is _biological sex at birth._ Some people experience feelings of incongruence between their biological sex and their gender identity. As a result, they may identify as transgender. The Church does not take a position on the causes of people identifying as transgender.
+Some people feel their inner sense of gender does not align with their biological sex at birth. The Church does not take a position on the causes of these feelings. Some who experience these feelings identify as transgender.
 
-Most Church participation and some priesthood ordinances are gender neutral. Transgender persons may be baptized and confirmed as outlined in [38.2.8.9](38-church-policies-and-guidelines.md#38289-persons-who-identify-as-transgender). They may also partake of the sacrament and receive priesthood blessings. However, priesthood ordination and temple ordinances are received according to biological sex at birth.
+These individuals often face complex challenges. They—and their family and friends—should be treated with sensitivity, kindness, compassion, and Christlike love. All are children of God and have divine worth.
 
-Church leaders counsel against elective medical or surgical intervention for the purpose of attempting to transition to the opposite gender of a person’s biological sex at birth (“sex reassignment”). Leaders advise that taking these actions will be cause for Church membership restrictions.
+The ordinances of salvation and exaltation are received according to a person’s biological sex at birth. For guidance about administering these ordinances, refer to the following:
 
-Leaders also counsel against social transitioning. A social transition includes changing dress or grooming, or changing a name or pronouns, to present oneself as other than his or her biological sex at birth. Leaders advise that those who socially transition will experience some Church membership restrictions for the duration of this transition.
+* Baptism and confirmation (see [38.2.8.9](38-church-policies-and-guidelines.md#38289-individuals-who-identify-as-transgender))
+* Priesthood ordination (see [38.2.9.9](38-church-policies-and-guidelines.md#38299-individuals-who-identify-as-transgender))
+* Temple ordinances (see [26.5.7](26-temple-recommends.md#2657-individuals-who-identify-as-transgender))
 
-Restrictions include receiving or exercising the priesthood, receiving or using a temple recommend, and receiving some Church callings. Although some privileges of Church membership are restricted, other Church participation is welcomed.
+Worthy individuals who do not pursue surgical, medical, or social transition away from their biological sex at birth may enjoy all the privileges of Church membership.
 
-Transgender individuals who do not pursue medical, surgical, or social transition to the opposite gender and are worthy may receive Church callings, temple recommends, and temple ordinances.
+Church leaders counsel against pursuing surgical, medical, or social transition away from one’s biological sex at birth. (Social transitioning means intentionally identifying and presenting oneself as other than one’s biological sex at birth, and may include changing dress, grooming, names, or pronouns.) Leaders advise that taking these actions will result in some Church membership restrictions. These restrictions include receiving or exercising the priesthood, receiving or using a temple recommend, and serving in some Church callings.
 
-Some children, youth, and adults are prescribed hormone therapy by a licensed medical professional to ease gender dysphoria or reduce suicidal thoughts. Before a person begins such therapy, it is important that he or she (and the parents of a minor) understands the potential risks and benefits. If these members are not attempting to transition to the opposite gender and are worthy, they may receive Church callings, temple recommends, and temple ordinances.
+Individuals who transition away from their biological sex at birth are welcome to attend sacrament meetings and participate in the Church in many other ways. These individuals and their families are encouraged to counsel with their local leaders regarding Church participation. Church leaders teach gospel truth and minister in a Christlike way. They consider the needs of all involved. Sections of this handbook—such as attendance at Church meetings and activities (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)), participation in family history work (see [25.1](25-temple-and-family-history-work.md#251-member-and-leader-participation-in-temple-and-family-history-work) and [25.4](25-temple-and-family-history-work.md#254-family-history-resources)), service to others (see [22.2.3](22-providing-for-temporal-needs.md#2223-service)), and so on—should guide leaders as they counsel with individuals and their families. For further guidance on Church participation of individuals who identify as transgender, refer to these [guiding principles](https://assets.churchofjesuschrist.org/1d/76/1d76991533df11efbaeeeeeeac1ed7e66fbf94a7/general_handbook_guiding_principles_for_local_leaders.pdf).
 
-If a member decides to change his or her preferred name or pronouns of address, the name preference may be noted in the preferred name field on the membership record. The person may be addressed by the preferred name in the ward.
+Members who have taken steps to transition and then transition back to their biological sex at birth and are worthy and committed to keeping God’s commandments may enjoy all the privileges of Church membership.
 
-Circumstances vary greatly from unit to unit and person to person. Members and leaders counsel together and with the Lord. Area Presidencies will help local leaders sensitively address individual situations. Bishops counsel with the stake president. Stake presidents and mission presidents must seek counsel from the Area Presidency (see [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary) and [32.6.3.1](32-repentance-and-membership-councils.md#32631-other-action)).
+Circumstances vary greatly from person to person and can change over time. Members who feel their inner sense of gender does not align with their biological sex at birth or who identify as transgender, as well as the parents or guardians of minors facing such circumstances, are encouraged to seek counsel from their bishop. Bishops counsel with the stake president to address individual circumstances with sensitivity and Christlike love. Stake and mission presidents seek counsel from the Area Presidency.
 
-For further information on understanding and supporting transgender individuals, see “[Transgender](https://www.churchofjesuschrist.org/topics/transgender)” on ChurchofJesusChrist.org.
+National and local laws vary regarding individuals who identify as transgender. In the United States and Canada, stake presidents and mission presidents who have questions about legal requirements should contact the Church’s Office of General Counsel:
+
+1-800-453-3860, extension 2-6301
+
+1-801-240-6301
+
+Outside the United States and Canada, these leaders should contact the area legal counsel at the area office.
+
+For more information about understanding and supporting individuals who feel their inner sense of gender does not align with their biological sex at birth or who identify as transgender, see “[Transgender](https://www.churchofjesuschrist.org/topics/transgender)” on ChurchofJesusChrist.org.
 
 ## 38.7 Medical and Health Policies
 
@@ -1249,7 +1330,7 @@ The family of the deceased person decides whether his or her body should be buri
 
 In some countries, the law requires cremation. In other cases, burial is not practical or affordable for the family. In all cases, the body should be treated with respect and reverence. Members should be reassured that the power of the Resurrection always applies (see [Alma 11:42–45](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p42-p45#p42)).
 
-Where possible, the body of a deceased member who has been endowed should be dressed in ceremonial temple clothing when it is buried or cremated (see [38.5.8](38-church-policies-and-guidelines.md#3858-temple-burial-clothing)).
+Where possible, the body of a deceased member who has been endowed should be dressed in ceremonial temple clothing when it is buried or cremated (see [38.5.10](38-church-policies-and-guidelines.md#38510-temple-burial-clothing)).
 
 A funeral or memorial service provides an opportunity for families to gather and perpetuate family relations and values (see [29.5.4](29-meetings-in-the-church.md#2954-funeral-services-where-customary)).
 
@@ -1390,7 +1471,7 @@ Members should obey all copyright laws when using audiovisual materials (see [38
 
 Church members should not seek the autographs of General Authorities, General Officers, or Area Seventies. Nor should members ask these leaders to sign their scriptures, hymnals, or programs. Doing so detracts from their sacred callings and the spirit of meetings. It also could prevent them from greeting other members.
 
-Members should not take photographs of General Authorities, General Officers, or Area Seventies in chapels.
+Members should not take photographs of General Authorities, General Officers, or Area Seventies in chapels during meetings (see [29.8](29-meetings-in-the-church.md#298-photographs-and-video-recordings-of-meetings)).
 
 ### 38.8.5 Businesses
 
@@ -1414,18 +1495,18 @@ The Church magazines include:
 
 The First Presidency encourages all members to read the Church magazines. The magazines can help members learn the gospel of Jesus Christ, study the teachings of living prophets, feel connected to the global Church family, face challenges with faith, and draw closer to God.
 
-Leaders help members access the magazines as follows:
+Leaders help members access the magazines at no cost as follows:
 
-* Help members subscribe to print magazines and renew their subscriptions.
+* Help members subscribe to the magazines and renew their subscriptions at [MagazineSubscriptions.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/tools/magazine-subscriptions) or by subscribing for them using Leader and Clerk Resources.
 * Show members how to access magazine content on [ChurchofJesusChrist.org](https://churchofjesuschrist.org), the Gospel Library app, and the Gospel Living app. This digital content is free.
-* Soon after new members are baptized, show them how to access Church magazines digitally. If they prefer a print magazine, give them a one-year subscription using unit budget funds.
-* Provide ongoing subscriptions to all children and youth who attend church without a parent or guardian. Use unit budget funds.
+* Soon after new members are baptized, show them how to access Church magazines digitally or in print.
+* Provide ongoing subscriptions to all children and youth who attend church without a parent or guardian, using Leader and Clerk Resources.
 
 Bishops may call a magazine representative to help members access the magazines. Or they may assign the ward executive secretary to assist (see [7.3](7.md#73-ward-executive-secretary-and-assistant-ward-executive-secretaries)).
 
 The magazine representative or executive secretary can also help gather faith-promoting experiences and testimonies from local members to share with the magazines.
 
-Subscriptions to the print magazines are available at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org), the Global Services Department, and [Distribution Center retail stores](https://store.churchofjesuschrist.org/usa/en/store-locator). In some areas, units order on behalf of their members and distribute magazines at their meetinghouses. For more information, contact the Global Services Department or a distribution center store.
+Members can manage subscriptions at [MagazineSubscriptions.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/tools/magazine-subscriptions), using their Church account. For help, members may contact the ward clerk or magazine representative.
 
 ### 38.8.8 Church Name, Wordmark, and Symbol
 
@@ -1551,7 +1632,7 @@ Membership lists should not be printed for non-Church use.
 
 Men and women are created in the image of God (see [Genesis 1:26–27](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng&id=p26-p27#p26); [Abraham 4:27](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng&id=p27#p27)). Mortal bodies are a sacred gift.
 
-Members of the Church are encouraged to show respect for the body in their choices about appropriate dress and appearance. What is appropriate varies across cultures and for different occasions. For example, for sacrament meeting, individuals wear their best available Sunday clothing to show respect for the sacrament ordinance (see [18.9.3](18-priesthood-ordinances-and-blessings.md#1893-guidelines-for-the-sacrament)). This same principle applies to temple attendance (see [27.1.5](27-temple-ordinances-for-the-living.md#2715-clothing-to-wear-to-a-temple)). Disciples of Jesus Christ will know how best to dress and groom themselves.
+Members of the Church are encouraged to show respect for the body in their choices about appropriate dress and appearance. What is appropriate varies across cultures and for different occasions. For example, for sacrament meeting, individuals wear their best available Sunday clothing to show respect for Jesus Christ and the sacrament ordinance (see [18.9.3](18-priesthood-ordinances-and-blessings.md#1893-guidelines-for-the-sacrament)). This same principle applies to temple attendance (see [27.1.5](27-temple-ordinances-for-the-living.md#2715-clothing-to-wear-to-a-temple)). Disciples of Jesus Christ will know how best to dress and groom themselves.
 
 Members and leaders should not judge others based on dress and appearance. They should love all people, as the Savior commanded (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=p39#p39); [John 13:34–35](https://www.churchofjesuschrist.org/study/scriptures/nt/john/13?lang=eng&id=p34-p35#p34)). All should be welcomed at Church meetings and activities (see [38.1.1](38-church-policies-and-guidelines.md#3811-attendance-at-church-meetings)).
 
@@ -2142,7 +2223,7 @@ The military service orientation helps members entering and serving in the milit
 
 A member of the stake presidency or bishopric calls a military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
 
-For more information, see [Military Service Orientation](https://www.churchofjesuschrist.org/military/pre-military-service-church-orientation) on ChurchofJesusChrist.org.
+For more information, see the “Military Service Orientation” section in the [Church’s Military Members page](https://www.churchofjesuschrist.org/ callings/military-and-chaplain/military).
 
 ### 38.9.4 Church Units for Service Members
 
@@ -2162,7 +2243,9 @@ Wards and branches at military installations are created using the procedures ou
 
 Wards and branches are usually established to support both military members and their families. A ward or branch may also be established for military members without their families. Such units may be established for members attending basic or advanced training or on a remote assignment. The military does not normally allow Church members who are not associated with the military to belong to a ward or branch that uses installation facilities.
 
-If the number of members or if other circumstances do not justify creating a ward or branch at a military installation, the stake or mission president may establish a service member group. A service member group is a small Church unit that holds Church meetings and looks after members. The group leader does not have priesthood keys. Because of this, he is not authorized to receive tithes and offerings, counsel members about serious sins, restrict membership privileges, or perform other duties that require keys (see [37.7](37-specialized-stakes-wards-and-branches.md#377-groups-in-stakes-missions-and-areas)). For information about service member groups, see “[Service Member Groups and Responsibilities of Group Leaders](https://www.churchofjesuschrist.org/military/service-member-groups-and-responsibilities)” on ChurchofJesusChrist.org.
+If the number of members or if other circumstances do not justify creating a ward or branch at a military installation, the stake or mission president may establish a service member group. A service member group is a small Church unit that holds Church meetings and looks after members. The group leader does not have priesthood keys. Because of this, he is not authorized to receive tithes and offerings, counsel members about serious sins, restrict membership privileges, or perform other duties that require keys (see [37.7](37-specialized-stakes-wards-and-branches.md#377-groups-in-stakes-missions-and-areas)).
+
+For information about service member groups, see the “Find a Church Location or Leader” and “Information for Group Leaders” sections in the [Church’s Military Members page](https://www.churchofjesuschrist.org/ callings/military-and-chaplain/military).
 
 When a Church unit is established at a military installation, the unit leader coordinates with the senior installation chaplain to arrange for meeting times and use of base facilities. If there is not an installation chaplain assigned to the base, the stake president consults with the commanding officer.
 
@@ -2180,7 +2263,7 @@ The Church’s Military Relations and Chaplain Services Division should be notif
 
 For countries with mandatory military service, Church members must generally complete their military service before they can serve a mission. Some countries may allow the mandatory military service to be deferred until after missionary service. Stake presidents and bishops should become familiar with their country’s requirements so they can advise members appropriately. Members serving in the Reserves or National Guard may be able to serve missions after they complete basic and advanced training.
 
-For more information, see “[Missionary Service and Military Obligations](https://www.churchofjesuschrist.org/military/missionary-service-and-military-obligations)” on ChurchofJesusChrist.org.
+For more information, see the “Missionary Service and Military Obligations” section in the [Church’s Military Members page](https://www.churchofjesuschrist.org/ callings/military-and-chaplain/military).
 
 ### 38.9.7 Latter-day Saint Chaplains
 
@@ -2208,7 +2291,7 @@ For more information, see “[Latter-day Saint Chaplains](https://www.churchofje
 
 ### 38.9.8 Wearing the Garment in the Military
 
-See [38.5.6](38-church-policies-and-guidelines.md#3856-wearing-the-garment-in-the-military-fire-service-law-enforcement-or-a-similar-agency).
+See [38.5.7](38-church-policies-and-guidelines.md#3857-wearing-the-garment-in-the-military-fire-service-law-enforcement-or-a-similar-agency).
 
 ### 38.9.9 Senior Missionary Couples
 
