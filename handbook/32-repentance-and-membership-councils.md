@@ -24,7 +24,7 @@ __THE CHURCH’S ROLE IN HELPING A PERSON REPENT__
 
 ## 32.1 Repentance and Forgiveness
 
-The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11.37?lang=eng#p37); see also [3 Nephi 27:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27.19?lang=eng#p19)). Our sins make us unclean﻿—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
+The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11.37?lang=eng#p37); see also [3 Nephi 27:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27.19?lang=eng#p19)). Our sins make us unclean—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
 
 God’s law of justice requires a consequence when we sin (see [Alma 42:14, 17–18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42.14,17-18?lang=eng#p14)). However, His great plan of mercy “can satisfy the demands of justice, and encircles [us] in the arms of safety” ([Alma 34:16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34.16?lang=eng#p16); see also [Mosiah 15:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15.9?lang=eng#p9)).
 
@@ -67,7 +67,7 @@ The second purpose is to help a person access the redeeming power of Jesus Chris
 
 ### 32.2.3 Protect the Integrity of the Church
 
-The third purpose is to protect the integrity of the Church. Restricting or withdrawing a person’s Church membership may be necessary if his or her conduct significantly harms the Church (see [Alma 39:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39.11?lang=eng#p11)). The integrity of the Church is not protected by concealing or minimizing serious sins﻿—but by addressing them.
+The third purpose is to protect the integrity of the Church. Restricting or withdrawing a person’s Church membership may be necessary if his or her conduct significantly harms the Church (see [Alma 39:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39.11?lang=eng#p11)). The integrity of the Church is not protected by concealing or minimizing serious sins—but by addressing them.
 
 ## 32.3 The Role of Judges in Israel
 
@@ -79,7 +79,7 @@ For some serious sins, leaders assist with repentance by holding a membership co
 
 Bishops and stake presidents help Church members understand that God loves all His children, regardless of their sins. Because He wants them to be happy and receive blessings, He also cares immensely about their obedience.
 
-Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.3-11?lang=eng#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”﻿—to repent and change her life.
+Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.3-11?lang=eng#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”—to repent and change her life.
 
 These leaders teach that there is “joy … in heaven over one sinner that repenteth” ([Luke 15:7](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/15.7?lang=eng#p7)). They are patient, supportive, and positive. They inspire hope. They teach and testify that because of the Savior’s atoning sacrifice, all can repent and become clean.
 
@@ -101,7 +101,7 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 ### 32.4.1 Confession
 
-Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins﻿—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.43?lang=eng#p43); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.29?lang=eng#p29)).
+Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.43?lang=eng#p43); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.29?lang=eng#p29)).
 
 When Church members commit serious sins, their repentance also includes confession to their bishop or stake president. He is then able to exercise the keys of the gospel of repentance on their behalf (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13.1?lang=eng#p1); [84:26–27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.26-27?lang=eng#p26); [107:18, 20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.18,20?lang=eng#p18)). This helps them heal and return to the gospel path through the power of the Savior’s Atonement.
 
@@ -150,7 +150,7 @@ Consistent with their duty of confidentiality, a bishop, stake president, or the
 
 In all other situations, the leader should refer to [32.4.5](32-repentance-and-membership-councils.md#3245-reporting-to-government-authorities). These cases include when the law may require that a crime, such as child abuse, be reported to government authorities.
 
-To assist leaders in protecting others and complying with the law, the Church provides help from trained professionals. To receive this guidance, leaders promptly call the Church’s abuse help line where it is available (see [32.4.5](32-repentance-and-membership-councils.md#3245-reporting-to-government-authorities); [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). Where it is not available, the stake president contacts the area legal counsel at the area office.
+To assist leaders in protecting others and complying with the law, the Church provides help from trained professionals. To receive this guidance, leaders promptly call the Church’s abuse help line where it is available (see [32.4.5](32-repentance-and-membership-councils.md#3245-reporting-to-government-authorities) and [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). Where it is not available, the stake president contacts the area legal counsel at the area office.
 
 In only one situation should a bishop or stake president disclose confidential information without first seeking such guidance. That is when disclosure is necessary to prevent life-threatening harm or serious injury and there is not time to seek guidance. In such cases, the duty to protect others is more important than the duty of confidentiality. Leaders should contact civil authorities immediately.
 
@@ -170,9 +170,9 @@ Repentance of some sins requires a person to report to government authorities if
 
 In many places, priesthood leaders are required by law to report some illegal behaviors of which they become aware. For example, some states and countries require that child abuse be reported to law enforcement authorities.
 
-In some countries, the Church has established a confidential abuse help line to assist bishops and stake presidents. These leaders should promptly call the help line about every situation in which a person may have been abused﻿—or is at risk of being abused (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). It is available 24 hours a day, 7 days a week.
+In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). It is available 24 hours a day, 7 days a week.
 
-In countries that do not have a help line, a bishop who learns of abuse should contact his stake president. He will seek guidance from the area legal counsel at the area office.
+In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office.
 
 For more information about reporting abuse, see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line) and [38.6.2.7](38-church-policies-and-guidelines.md#38627-legal-issues-relating-to-abuse).
 
@@ -196,7 +196,7 @@ Settings for Helping a Person Repent
 | --- | --- |
 | Stake Membership Council | • For members who have received the temple endowment.<br/>• Is required if a man or woman who has been endowed will likely have his or her Church membership withdrawn for any of the serious sins or actions addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required), [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary), or [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). |
 | Ward Membership Council | • For any member.<br/>• Is required for the serious sins addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required).<br/>• May be necessary for the serious sins and actions addressed in [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary) and [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary).<br/>• Is insufficient if a man or woman who has been endowed will likely have his or her Church membership withdrawn for any of the serious sins or actions addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required), [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary), or [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). |
-| Personal Counseling (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)) | • For any member.<br/>• May include informal Church membership restrictions.<br/>• May be insufficient for serious sins or actions for which a membership council would be helpful in the repentance process (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary); [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary)).<br/>• Is insufficient for serious sins that require a membership council (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)).<br/>• Is insufficient if a man or woman who has been endowed will likely have his or her Church membership withdrawn for any of the serious sins or actions addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required), [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary), or [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). |
+| Personal Counseling (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)) | • For any member.<br/>• May include informal Church membership restrictions.<br/>• May be insufficient for serious sins or actions for which a membership council would be helpful in the repentance process (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary) and [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary)).<br/>• Is insufficient for serious sins that require a membership council (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)).<br/>• Is insufficient if a man or woman who has been endowed will likely have his or her Church membership withdrawn for any of the serious sins or actions addressed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required), [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary), or [32.6.3](32-repentance-and-membership-councils.md#3263-when-the-stake-president-counsels-with-the-area-presidency-about-whether-a-membership-council-or-other-action-is-necessary). |
 
 Personal counseling and informal restrictions by the bishop or stake president are sometimes not sufficient to help a person repent of serious sins. The Lord has provided membership councils to assist a judge in Israel in these situations. (See [Exodus 18:12–27](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/18.12-27?lang=eng#p12); [Mosiah 26:29–36](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26.29-36?lang=eng#p29); [Doctrine and Covenants 42:80–83](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.80-83?lang=eng#p80); [102](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng).) For some serious sins, a council is required by Church policy (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)). Violating temple covenants increases the likelihood of a membership council being necessary (see [32.7.4](32-repentance-and-membership-councils.md#3274-violation-of-temple-covenants)).
 
@@ -298,7 +298,7 @@ The Lord commanded, “Thou shalt not … kill, _nor do anything like unto it_�
 
 _Attempted Murder._ Deliberately trying to kill someone.
 
-_Sexual Abuse, Including Assault and Harassment._ Sexual abuse covers a broad range of actions (see [38.6.17](38-church-policies-and-guidelines.md#38617-sexual-abuse)). A membership council may be necessary for a person who has sexually assaulted or abused someone. See [38.6.17](38-church-policies-and-guidelines.md#38617-sexual-abuse) for when a council is required.
+_Sexual Abuse, Including Assault and Harassment._ Sexual abuse covers a broad range of actions (see [38.6.18](38-church-policies-and-guidelines.md#38618-sexual-abuse-rape-and-other-forms-of-sexual-assault)). A membership council may be necessary for a person who has sexually assaulted or abused someone. See [38.6.18.3](38-church-policies-and-guidelines.md#386183-membership-councils) for when a council is required.
 
 _Abuse of a Spouse or Another Adult._ There is a spectrum of severity in abusive behavior (see [38.6.2.4](38-church-policies-and-guidelines.md#38624-abuse-of-a-spouse-or-another-adult)). A membership council may be necessary for a person who has abused a spouse or another adult. See [38.6.2.4](38-church-policies-and-guidelines.md#38624-abuse-of-a-spouse-or-another-adult) for when a council is required.
 
@@ -334,7 +334,7 @@ When a Membership Council Is Required or May Be Necessary
 
 | Type of Sin | Membership Council Is Required (see [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required)) | Membership Council May Be Necessary (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary)) |
 | --- | --- | --- |
-| Violent Acts and Abuse | • Murder<br/>• Rape<br/>• Sexual assault conviction<br/>• Child or youth abuse<br/>• Violent predatory behavior | • Attempted murder<br/>• Sexual abuse, including assault and harassment (see [38.6.17](38-church-policies-and-guidelines.md#38617-sexual-abuse) for when a council is required)<br/>• Abuse of a spouse or another adult (see [38.6.2.4](38-church-policies-and-guidelines.md#38624-abuse-of-a-spouse-or-another-adult) for when a council is required) |
+| Violent Acts and Abuse | • Murder<br/>• Rape<br/>• Sexual assault conviction<br/>• Child or youth abuse<br/>• Violent predatory behavior | • Attempted murder<br/>• Sexual abuse, including assault and harassment (see [38.6.18](38-church-policies-and-guidelines.md#38618-sexual-abuse-rape-and-other-forms-of-sexual-assault) for when a council is required)<br/>• Abuse of a spouse or another adult (see [38.6.2.4](38-church-policies-and-guidelines.md#38624-abuse-of-a-spouse-or-another-adult) for when a council is required) |
 | Sexual Immorality | • Incest<br/>• Child pornography<br/>• Plural marriage<br/>• Sexual predatory behavior | • Adultery, fornication, and same-sex relations<br/>• Cohabitation, civil unions and partnerships, and same-sex marriage<br/>• Intensive or compulsive use of pornography that has caused significant harm to a member’s marriage or family |
 | Fraudulent Acts | • Financial predatory behavior, such as fraud and similar activities | • Robbery, burglary, theft, or embezzlement<br/>• Perjury |
 | Violations of Trust | • Serious sin while holding a prominent Church position | • Serious sin while holding a position of authority or trust in the Church or the community<br/>• Serious sin that is widely known |
@@ -384,7 +384,7 @@ Generally, if a Church member embezzles Church funds or steals valuable Church p
 
 #### 32.6.3.4 Transgender Individuals
 
-Bishops and stake presidents working with persons who identify as transgender should follow the guidelines in [38.6.22](38-church-policies-and-guidelines.md#38622-transgender-individuals).
+Bishops and stake presidents working with persons who identify as transgender should follow the guidelines in [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals).
 
 ### 32.6.4 When a Membership Council Is Not Normally Necessary
 
@@ -698,7 +698,7 @@ The bishop or stake president conducts the council in a spirit of love, as outli
 1. He invites someone to offer an opening prayer.
 2. He states the reported misconduct. He gives the person (if present) an opportunity to confirm, deny, or clarify this statement.
 3. If the member confirms the misconduct, the bishop or stake president proceeds to number 5 below. If the member denies it, the bishop or stake president presents information about it. This may include presenting reliable documents and reading aloud any written statements from victims (see [32.10.2](32-repentance-and-membership-councils.md#32102-obtain-statements-from-victims)). If he reads such a statement, he protects the identity of the victim.
-4. If the member denies the misconduct, he or she may present information to the council. This could be written. Or the member may ask persons who could provide relevant information to speak to the council, one at a time. Such persons should be Church members unless the bishop or stake president has determined in advance that a nonmember may attend. They wait in a separate room until they are asked to speak. Each person leaves the council room when he or she is finished. They must be willing to comply with the respectful nature of the council, including its procedures and confidentiality. Members may not have legal counsel present. Nor may they have supporters beyond those referred to in the first paragraph in this section.
+4. If the member denies the misconduct, he or she may present information to the council. This could be written. Or the member may ask persons who could provide relevant information to speak to the council, one at a time. Such persons should be Church members unless the bishop or stake president has determined in advance that a nonmember may attend. They wait in a separate room until they are asked to speak. Each person leaves the council room when he or she is finished. They must be willing to comply with the respectful nature of the council, including its procedures and confidentiality. Members may not have legal counsel present. Nor may they have supporters beyond those referred to in the second paragraph in this section.
 5. The bishop or stake president may ask questions of the member in a polite and respectful way. He may also ask questions of other persons the member has asked to provide information. Counselors in the bishopric or stake presidency may also ask questions. Any questions should be brief and limited to the essential facts.
 6. After all relevant information has been presented, the bishop or stake president excuses the member from the room. The clerk is also excused, unless the high council has participated in a stake membership council. If the member’s bishop is present for a stake membership council, he is excused. If the Relief Society president or the elders quorum president is attending to provide support, she or he is also excused.
 7. The bishop or stake president asks for comments or insights from his counselors. If the high council has participated in a stake membership council, he asks for their comments and insights.
@@ -727,7 +727,7 @@ In some instances, a person may be innocent and remains in good standing. In som
 
 ### 32.11.2 Personal Counseling with the Bishop or Stake President
 
-In some membership councils, leaders may determine that the member is not in good standing﻿—but that formal membership restrictions are not warranted. In these instances, the council may decide that the person should receive personal counseling and correction from the bishop or stake president. This counseling may include informal membership restrictions as outlined in [32.8.3](32-repentance-and-membership-councils.md#3283-informal-membership-restrictions).
+In some membership councils, leaders may determine that the member is not in good standing—but that formal membership restrictions are not warranted. In these instances, the council may decide that the person should receive personal counseling and correction from the bishop or stake president. This counseling may include informal membership restrictions as outlined in [32.8.3](32-repentance-and-membership-councils.md#3283-informal-membership-restrictions).
 
 Personal counseling and informal membership restrictions are not an option when a council is held for the sins listed in [32.6.1](32-repentance-and-membership-councils.md#3261-when-a-membership-council-is-required).
 
@@ -798,7 +798,7 @@ The First Presidency has final authority over all Church membership restrictions
 
 ## 32.12 Notifications and Announcements
 
-The decision of a membership council is communicated to the person﻿—and to others as necessary﻿—as explained below.
+The decision of a membership council is communicated to the person—and to others as necessary—as explained below.
 
 ### 32.12.1 Notifying a Person of the Decision
 
@@ -890,7 +890,7 @@ As authorized by the First Presidency, Church headquarters annotates a person’
 	3. Involvement with child pornography as outlined in [38.6.6](38-church-policies-and-guidelines.md#3866-child-pornography)
 	4. Plural marriage
 	5. Adult sexual predatory behavior
-	6. Transgender﻿—actions to transition to the opposite of a person’s birth sex (see [38.6.22](38-church-policies-and-guidelines.md#38622-transgender-individuals))
+	6. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals))
 	7. Embezzling Church funds or stealing Church property
 	8. Church welfare abuse
 	9. Threatening behavior (such as sexual, violent, or financial) or conduct that harms the Church
@@ -930,7 +930,7 @@ A person can also resign membership by sending a signed, notarized request to Ch
 
 A minor who wishes to resign his or her Church membership follows the same procedure as an adult, with one exception: the request should be signed by the minor (if over the age of 8) and by the parent(s) or guardian(s) who have legal custody of the minor.
 
-If a member resigning membership threatens legal action against the Church or its leaders, the stake president follows the instructions in [38.8.26](38-church-policies-and-guidelines.md#38826-legal-counsel-for-church-matters).
+If a member resigning membership threatens legal action against the Church or its leaders, the stake president follows the instructions in [38.8.27](38-church-policies-and-guidelines.md#38827-legal-counsel-for-church-matters).
 
 A request to resign membership should be acted on even if priesthood leaders have information about a serious sin. Any information about unresolved sins is noted when the request is submitted through Leader and Clerk Resources. This allows priesthood leaders to resolve such matters in the future if the person applies for readmission into the Church (see [32.16.2](32-repentance-and-membership-councils.md#32162-being-readmitted-after-resigning-church-membership)).
 
@@ -954,7 +954,7 @@ The bishop or stake president’s role as a common judge does not end when a mem
 
 The time just after a person’s membership has been restricted or withdrawn is difficult and critical for his or her family. Leaders should be sensitive to these needs and encourage and assist family members.
 
-The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members.
+The bishop ensures that caring members are assigned to minister to a person whose Church membership has been restricted or withdrawn, as the person allows. They also minister to other family members. Individuals under membership restrictions may benefit from participating in indexing (see [25.4.3](25-temple-and-family-history-work.md#2543-indexing)).
 
 If the person moves from the ward, the bishop informs the new bishop and explains what still needs to occur before Church membership restrictions can be removed. If the person’s membership was withdrawn from the Church or the person resigned membership, the bishop makes this same contact if the person has consented to be assisted by Church leaders.
 
@@ -993,7 +993,7 @@ The following guidelines apply when holding a membership council to consider rem
 	5. Apostasy
 	6. Plural marriage
 	7. Committing a serious sin while holding a prominent Church position
-	8. Transgender﻿—actions to transition to the opposite of a person’s birth sex (see [38.6.22](38-church-policies-and-guidelines.md#38622-transgender-individuals))
+	8. Transgender—actions to transition to the opposite of a person’s biological sex at birth (see [38.6.23](38-church-policies-and-guidelines.md#38623-transgender-individuals))
 	9. Embezzling Church funds or property
 10. _Give written notice of the decision._ The bishop or stake president ensures that the person receives prompt written notice of the decision and its effects.
 11. _Baptize and confirm._ If a person’s Church membership was withdrawn in the initial council, he or she must be baptized and confirmed again. If First Presidency approval is necessary, these ordinances may be performed only after this approval is received. A Baptism and Confirmation Certificate is not created (see [32.14.4](32-repentance-and-membership-councils.md#32144-records-after-readmission-to-the-church)).

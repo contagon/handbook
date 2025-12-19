@@ -94,11 +94,11 @@ The bishopric selects subjects for talks and music in sacrament meetings. Talks 
 
 #### 29.2.2.6 Selecting and Orienting Participants
 
-_Selecting Participants._ The bishopric selects members to participate in sacrament meetings. Most opportunities to participate are given to ward members. If the bishopric invites members from outside the ward to speak, the guidelines in [38.8.22](38-church-policies-and-guidelines.md#38822-guest-speakers-or-instructors) should be followed.
+_Selecting Participants._ The bishopric selects members to participate in sacrament meetings. Most opportunities to participate are given to ward members. If the bishopric invites members from outside the ward to speak, the guidelines in [38.8.23](38-church-policies-and-guidelines.md#38823-guest-speakers-or-instructors) should be followed.
 
 Members of the bishopric regularly invite youth to speak in sacrament meeting. Youth should speak briefly (about five minutes each) on assigned gospel subjects. They should prepare their own talks, though the bishopric may encourage parents to help.
 
-The bishopric usually invites missionaries to speak in sacrament meeting just before they depart and when they return (see [24.8.1](24.md#2481-temple-recommends); [24.10.3.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number81-p167#title_number81)). The bishopric makes it clear that this is a regular sacrament meeting and is not to be a missionary farewell or homecoming. The bishopric plans and conducts these meetings. Family members and friends of the missionary are not invited to speak. However, other departing or returning missionaries or other members may be invited to speak.
+The bishopric usually invites missionaries to speak in sacrament meeting just before they depart and when they return (see [24.8.1](24.md#2481-temple-recommends) and [24.10.3.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number81-p167#title_number81)). The bishopric makes it clear that this is a regular sacrament meeting and is not to be a missionary farewell or homecoming. The bishopric plans and conducts these meetings. Family members and friends of the missionary are not invited to speak. However, other departing or returning missionaries or other members may be invited to speak.
 
 The bishopric schedules high councilors to speak as assigned by the stake president. The stake president determines the frequency of such assignments. It is not necessary for high councilors to speak in sacrament meeting every month.
 
@@ -216,6 +216,10 @@ See [14.3.4](14-single-members.md#1434-ward-young-single-adult-committee).
 
 See [23.1.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/23-participating-in-missionary-work?lang=eng¶=title_number7-p28#title_number7).
 
+### 29.2.12 Ward Temple and Family History Coordination Meeting
+
+See [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings).
+
 ## 29.3 Stake Meetings
 
 The stake president oversees stake meetings. He presides at these meetings unless an Area Seventy or General Authority attends. His counselors may conduct stake meetings and may preside if he is absent. Stake meetings should not conflict with Sunday ward meetings.
@@ -269,7 +273,7 @@ The stake presidency uses these meetings to instruct and inspire priesthood hold
 
 In these meetings the stake presidency also conducts stake priesthood business, such as:
 
-* Presenting the names of brethren who have been recommended for ordination to the offices of elder and high priest and asking for a sustaining vote (see [38.2.7.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title46#title46)).
+* Presenting the names of brethren who have been recommended for ordination to the offices of elder and high priest and asking for a sustaining vote (see [38.2.5.3](38-church-policies-and-guidelines.md#38253-prospective-elders)).
 * Presenting the names of newly called stake officers and asking for a sustaining vote (see the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), [30.7](30-callings-in-the-church.md#307-chart-of-callings), for guidelines about who is to be presented for this vote).
 ### 29.3.3 Stake Priesthood Leadership Meeting
 
@@ -290,7 +294,7 @@ In these groups, the stake presidency may provide instruction or invite high cou
 
 ### 29.3.4 Stake High Priests Quorum Meeting
 
-The stake presidency convenes a high priests quorum meeting for all members of the high priests quorum in the stake at least once a year. During this meeting, they teach quorum members the doctrine of the gospel (see [Alma 13:1–6](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/13.1-6?lang=eng#p1)), instruct them in their duties, and conduct quorum business. An annual meeting of all ordained high priests in the stake is no longer held.
+The stake presidency convenes a high priests quorum meeting for all members of the high priests quorum in the stake at least once a year (see [5.2.1.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number5-p16#title_number5)). During this meeting, they teach quorum members the doctrine of the gospel (see [Alma 13:1–6](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/13.1-6?lang=eng#p1)), instruct them in their duties, and conduct quorum business. An annual meeting of all ordained high priests in the stake is no longer held.
 
 ### 29.3.5 Stake Presidency Meeting
 
@@ -304,50 +308,106 @@ Other agenda items for this meeting may include reporting on assignments, planni
 
 ### 29.3.6 High Council Meeting
 
-The stake president presides over the high council meeting, which is attended by the stake presidency, high council, stake clerk, and stake executive secretary. The stake presidency may invite others to attend as needed.
+The high council meets with the stake presidency twice a month, where feasible. In this meeting, they may:
 
-The high council meets twice monthly, where feasible. The agenda may include the following items:
+* Receive instruction from the stake presidency on doctrine and on their assignments.
+* Counsel together about how to strengthen individuals and families in the stake.
+* Discuss how to help accomplish the work of salvation and exaltation in the stake.
+* Report on assignments.
+* Counsel with the stake presidency and sustain their decisions to ordain brethren to the offices of elder and high priest.
+* Counsel with the stake presidency and sustain their decisions to issue callings.
+* Hear reports from returning missionaries.
+* Help plan stake priesthood leadership meetings (see [29.3.3](29-meetings-in-the-church.md#2933-stake-priesthood-leadership-meeting)).
 
-1. Receive instruction from the stake presidency on doctrine and priesthood duties.
-2. Counsel together about how to strengthen individuals and families, solve problems in the stake, and improve in areas such as leadership, ministering, member missionary work, retention, activation, temple and family history work, welfare, and gospel instruction.
-3. Receive instruction pertaining to assignments with the Melchizedek Priesthood quorums, Aaronic Priesthood quorums, and wards.
-4. Report on assignments to wards and elders quorums. Report on stake organizations as needed.
-5. Ask high councilors to sustain the stake presidency’s decisions to ordain brethren to the offices of elder and high priest and to issue callings.
-6. Report on other assignments.
-7. Hear reports from returning missionaries.
-8. Plan stake priesthood leadership meetings.
+The stake president presides at this meeting. In addition to the high council and stake presidency, the stake clerk and executive secretary also attend. The clerk keeps a record of assignments and decisions. The stake president may invite others as needed.
+
+In some cases, a brief high council meeting could be immediately followed by a stake council meeting (see [29.3.7](29-meetings-in-the-church.md#2937-stake-council-meeting)). This can help reduce the number of meetings for leaders to attend.
+
+To understand principles that guide council meetings in the Church, all council members should study [chapter 7](7.md).
+
 ### 29.3.7 Stake Council Meeting
 
-The stake president presides over the stake council. This council is composed of the stake presidency, high council, stake clerk, stake executive secretary, and stake Relief Society, Young Men, Young Women, Primary, and Sunday School presidents. The stake presidency may invite others to attend as needed.
+The stake council meets monthly if possible. This council includes:
 
-The stake council meets two to four times a year as needed. The agenda may include the following items:
+* The stake presidency.
+* The high council.
+* The stake clerk and executive secretary.
+* The stake Relief Society, Young Women, and Primary presidents.
 
-1. Receive instruction from the stake presidency on doctrine and duties.
-2. Counsel together about how to strengthen individuals and families, solve problems in the stake, and improve in areas such as leadership, retention, activation, and gospel instruction.
-3. Plan and report on the missionary efforts and temple and family history efforts in the stake.
-4. Counsel together about welfare matters. Plan how to encourage members to be self-reliant. Ensure that welfare resources within the stake are made available to the wards as needed. Develop and maintain a simple written plan for the stake to respond to emergencies. Additional information is provided in [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies).
-5. Report on stake organizations and on stake activities and programs as needed.
-6. Coordinate the planning of stake programs and activities.
-7. Review the progress of the Perpetual Education Fund program where it is approved.
-### 29.3.8 Meeting with Bishoprics
+The stake presidency may invite others to attend stake council meetings as needed.
 
-The stake presidency meets with bishoprics to instruct them in their duties, review Church policies, and counsel together. These meetings are held one to four times a year as needed.
+The stake president presides at this meeting. During the meeting, council members may:
 
-The stake presidency, all bishoprics, the stake clerk, and the stake executive secretary attend this meeting. If desired, the stake president may limit the meeting to bishops only.
+* Receive instruction from the stake presidency on doctrine and on their assignments.
+* Counsel together about how to strengthen individuals and families in the stake.
+* Discuss overall vision for the work of salvation and exaltation in the stake.
+* Discuss temporal needs of stake members and how to help them be self-reliant. Identify resources available in the community and stake. Examples may include local schools and BYU–Pathway Worldwide. (See [22.10.1](22-providing-for-temporal-needs.md#22101-aoresources-coordinated-by-the-stake), [22.12](22-providing-for-temporal-needs.md#2212-government-and-community-resources), and [22.13](22-providing-for-temporal-needs.md#2213-church-resources).)
+* Develop and maintain a simple plan for the stake to respond to emergencies (see [22.9.1.3](22-providing-for-temporal-needs.md#22913-respond-to-emergencies)).
+* Plan ways to give service in the community (see [22.2.3](22-providing-for-temporal-needs.md#2223-service)).
+* Report on stake organizations, activities, and programs.
 
-### 29.3.9 Stake Aaronic Priesthood–Young Women Committee Meeting
+In some cases, a stake council meeting could immediately follow a brief high council meeting (see [29.3.6](29-meetings-in-the-church.md#2936-high-council-meeting)). This can help reduce the number of meetings for leaders to attend.
 
-The stake president assigns a counselor to preside over the stake Aaronic Priesthood–Young Women committee. Other committee members are the high councilors assigned to the stake Young Women and Primary organizations, the stake Young Men presidency and secretary, and the stake Young Women presidency and secretary. The stake presidency may also invite the stake Sunday School president to serve as a member of the committee.
+To understand principles that guide council meetings in the Church, all council members should study [chapter 7](7.md).
 
-The stake presidency may invite youth to attend the committee’s meetings as needed. The high councilor who serves as the stake activities committee chairman and others may also be invited to attend.
+### 29.3.8 Stake Bishops’ Council Meeting
 
-This committee meets as needed to plan stake-sponsored combined activities for young men and young women. Youth should be included as much as possible in planning and carrying out activities such as youth conferences, dances, devotionals, and multistake events. Youth may also participate in discussions about challenges that the youth in the stake are facing.
+The stake bishops’ council meets quarterly. The council includes all bishops and branch presidents in the stake. The stake president invites one of the bishops to chair the council. The stake president may choose to attend some or all of the meetings. A stake clerk also attends and keeps a record of assignments and decisions. When needed, the stake president may also invite bishopric counselors to attend.
 
-Stake activities should supplement ward activities, not compete with them. They are coordinated in stake council meetings. Ward leaders should be notified well in advance of the events.
+The purpose of the council is to share experiences and address questions that pertain specifically to bishops. These may include:
 
-### 29.3.10 Stake Bishops’ Welfare Council Meeting
+* Helping youth progress spiritually.
+* Caring for those in need and helping members build self-reliance (see [chapter 22](22-providing-for-temporal-needs.md), especially [22.11](22-providing-for-temporal-needs.md#2211-role-of-the-stake-bishops-council)).
+* Helping members repent and experience a change of heart (see [chapter 32](32-repentance-and-membership-councils.md)).
+* Managing Church finances (see [chapter 34](34-finances-and-audits.md)).
 
-Information on the stake bishops’ welfare council is provided in [22.7](22-providing-for-temporal-needs.md#227-stake-bishops-welfare-council).
+On occasion, the stake president could share instruction from Church leaders, including instruction from Area Seventies in coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
+
+This meeting does not take the place of the stake president’s regular interviews with each bishop (see [5.2.1.2](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number6-p130#title_number6)).
+
+To understand principles that guide council meetings in the Church, all council members should study [chapter 7](7.md).
+
+### 29.3.9 Stake Adult Leadership Committee Meeting
+
+The stake adult leadership committee meets as needed. Committee members include:
+
+* The stake presidency (the stake president presides).
+* The stake Relief Society presidency (and secretary if called).
+* High councilors assigned to work with elders quorums.
+
+The stake president may invite elders quorum presidents and ward Relief Society presidents to attend the committee’s meetings as needed.
+
+Committee members counsel together about how to support ward leaders in the work of salvation and exaltation. They plan ways to help implement the stake council’s vision for this work in the stake.
+
+The stake adult leadership committee supports elders quorum and ward Relief Society presidencies. Committee members give special emphasis to ward efforts to share the gospel, strengthen new and returning members, and participate in temple and family history work.
+
+In addition, this committee coordinates stake efforts related to welfare and self-reliance, including JustServe (where available) and BYU–Pathway Worldwide (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)).
+
+Meetings of this committee could be extensions of stake council meetings. For example, at the end of some stake council meetings, the adult leadership committee could meet to continue a discussion about specific matters.
+
+### 29.3.10 Stake Youth Leadership Committee Meeting
+
+The stake youth leadership committee meets as needed. The purpose of this committee is to help youth in the stake participate in the work of salvation and exaltation (see [1.2](1-work-of-salvation-and-exaltation.md#12-the-work-of-salvation-and-exaltation)).
+
+A member of the stake presidency presides over this committee. Other committee members include:
+
+* The stake Young Men presidency (and secretary if called).
+* The stake Young Women presidency (and secretary if called).
+* The high councilors assigned to the Young Women and Primary organizations.
+
+The stake presidency may invite the stake Sunday School president to serve as a member of this committee.
+
+The stake presidency invites youth to participate on this committee as needed.
+
+Committee members counsel together about how to support ward organization leaders in the work of salvation and exaltation. They plan ways to help implement the stake council’s vision for this work in the stake.
+
+As part of this discussion, committee members may do the following:
+
+* Plan service and activities for youth in the stake. These could include youth conferences, dances, devotionals, and multistake events. Youth should lead out in planning and carrying out these activities as much as possible. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
+* Plan ways to support For the Strength of Youth conferences.
+* Coordinate stake efforts related to the [Children and Youth program](https://www.churchofjesuschrist.org/youth/childrenandyouth).
+
+Meetings of this committee could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
 
 ### 29.3.11 Stake Leadership Meetings
 
@@ -449,11 +509,11 @@ Music for funerals might include prelude music, an opening hymn, special musical
 
 ### 29.6.6 Burial or Cremation
 
-Where possible, deceased members who were endowed should be buried in temple clothing. Where cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body in the casket. Additional instructions on temple burial clothing and dressing the dead are provided in [8.2.2.4](8-elders-quorum.md#8224-when-a-ward-member-dies), [9.2.2.4](9-relief-society.md#9224-when-a-ward-member-dies), and [27.3.9](27-temple-ordinances-for-the-living.md#2739-temple-burial-clothing).
+Where possible, deceased members who were endowed should be buried or cremated in temple clothing. Where cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body in the casket. Additional instructions on temple burial clothing and dressing the dead are provided in [8.2.2.4](8-elders-quorum.md#8224-when-a-ward-member-dies), [9.2.2.4](9-relief-society.md#9224-when-a-ward-member-dies), and [38.5.8](38-church-policies-and-guidelines.md#3858-temple-burial-clothing).
 
 If possible, at least one member of the bishopric accompanies the cortege to the cemetery. If the grave will be dedicated, he consults with the family and asks a Melchizedek Priesthood holder to do so according to the instructions in [18.16](18-priesthood-ordinances-and-blessings.md#1816-dedicating-graves). If the family prefers, a graveside prayer rather than a dedicatory prayer may be offered.
 
-The Church does not normally encourage cremation. However, if the body of an endowed member is being cremated, it should be dressed in temple clothing if possible. For information about dedicating the place where the ashes are kept, see [18.16.2](18-priesthood-ordinances-and-blessings.md#18162-instructions).
+If the body of an endowed member is being cremated, it should be dressed in temple clothing if possible. For information about dedicating the place where the ashes are kept, see [18.16.2](18-priesthood-ordinances-and-blessings.md#18162-instructions).
 
 ### 29.6.7 Financial Policies
 
@@ -482,7 +542,8 @@ Bishops may offer the use of Church meetinghouses for the funeral services of no
 | Ward council meeting | Plan ways to strengthen individuals and families. Coordinate efforts in spiritual and temporal welfare, ministering, missionary work, retention, activation, temple and family history work, and gospel teaching and learning. Review and coordinate programs and activities. | Bishopric; ward clerk; ward executive secretary; elders quorum, Relief Society, Young Women, Primary, and Sunday School presidents; and others as needed (including counselors in the elders quorum and Relief Society presidencies and, if called, the ward mission leader and ward temple and family history leader) | Normally weekly (but may meet less frequently) |
 | Ward youth council meeting | Identify needs of youth in the ward. Plan ways to meet needs, help youth live Church standards, and encourage participation in Church meetings and activities. Plan youth activities. | Bishopric, one of the bishop’s priests quorum assistants, teachers and deacons quorum presidents, Young Women class presidency (if just one class) or presidents (if multiple classes), Young Women president, and others (such as counselors in quorum and class presidencies) as invited | Usually monthly |
 | Ward young single adult committee meeting | Recommend ways to help young single adults participate in service and leadership. Locate and befriend less-active young single adults. | A counselor in the bishopric, the Relief Society and elders quorum counselors assigned to young single adults, young single adult leaders, and the couple called as young single adult advisers | As needed |
-| Missionary coordination meeting | Coordinate missionary, retention, and activation efforts of full-time missionaries and ward members. | Members of the elders quorum and Relief Society presidencies who lead missionary work, ward mission leader (if called), ward missionaries, and full-time missionaries (where available) | Regularly |
+| Missionary coordination meeting | Coordinate missionary, retention, and activation efforts of full-time missionaries and ward members. | Ward mission leader (if called); members of the elders quorum and Relief Society presidencies who are assigned to missionary work; an assistant in the priests quorum; a presidency member of the oldest Young Women class; ward missionaries; and full-time missionaries (where available) | Regularly |
+| Ward temple and family history coordination meeting | Coordinate temple and family history work in the ward. | Ward temple and family history leader (if called); members of the elders quorum and Relief Society presidencies who are assigned to temple and family history work; an assistant in the priests quorum; a presidency member of the oldest Young Women class; and temple and family history consultants | Regularly |
 
 ## 29.8 Chart of Stake Meetings
 
@@ -494,11 +555,11 @@ Bishops may offer the use of Church meetinghouses for the funeral services of no
 | Stake high priests quorum meeting | Conduct quorum business and instruct quorum members in their duties. | High priests quorum (this meeting is not held in districts) | At least once each year |
 | Stake presidency meeting | Review, plan, and consider matters affecting the stake. | Stake presidency, stake clerk, stake executive secretary, and others as invited | Regularly |
 | High council meeting | Receive instruction, give reports, conduct business, and counsel together. | Stake presidency, high council, stake clerk, stake executive secretary, and others as invited | Twice monthly, where feasible |
-| Stake council meeting | Receive instruction, counsel together, give reports, and coordinate planning of stake programs and activities. | Stake presidency; high council; stake clerk; stake executive secretary; stake Relief Society, Young Men, Young Women, Primary, and Sunday School presidents; and others as invited | Two to four times a year as needed |
-| Meeting with bishoprics | Instruct bishoprics, review policies, and counsel together. | Stake presidency, bishoprics, stake clerk, and stake executive secretary | One to four times a year as needed |
-| Stake Aaronic Priesthood–Young Women committee meeting | Plan stake-sponsored combined activities for young men and young women. | A counselor in the stake presidency, high councilors assigned to the Young Women and Primary, stake Young Men presidency and secretary, stake Young Women presidency and secretary, stake Sunday School president (as needed), and youth and others (as invited) | At least quarterly |
-| Stake bishops’ welfare council meeting | Receive instruction in welfare matters. Exchange ideas and experiences. Review trends in fast-offering contributions, welfare needs, and welfare assistance. Identify work opportunities for those who receive assistance. Identify welfare resources in the community. Evaluate Church welfare operations. Coordinate welfare assignments. | All bishops and branch presidents in the stake (the stake president appoints one bishop to be chairman); stake president (occasionally); welfare specialists as needed | At least quarterly |
-| Stake leadership meeting (for Relief Society, Young Women, Primary, and Sunday School) | Teach ward organization leaders their duties, instruct them in teaching and leadership skills, strengthen their faith, and share ideas. | Stake presidency member (if desired); high councilor assigned to the organization; stake organization presidency and secretary; ward organization presidencies and secretaries; other ward organization leaders, teachers, advisers, and specialists (as needed); bishopric members assigned to the organization (as needed) | Once each year for each organization, or twice with the stake president’s approval (see [29.3.11](29-meetings-in-the-church.md#29311-stake-leadership-meetings)) |
+| Stake council meeting | Counsel together about the work of salvation and exaltation in the stake. Coordinate planning of stake programs and activities. | Stake presidency; high council; stake clerk; stake executive secretary; stake Relief Society, Young Men, Young Women, Primary, and Sunday School presidents; and others as invited | Monthly if possible |
+| Stake bishops’ council meeting | Share experiences and address questions that pertain specifically to bishops and branch presidents. On occasion, receive instruction from Church leaders, including instruction from coordinating council meetings. | All bishops and branch presidents in the stake; stake president (if he chooses); stake clerk; and bishops’ counselors as invited | Quarterly |
+| Stake adult leadership committee meeting | Counsel together about the work of salvation and exaltation, with special emphasis on missionary work and temple and family history work in the wards. Coordinate stake efforts related to welfare and self-reliance. | Stake presidency; stake Relief Society presidency (and secretary if called); high councilors assigned to work with elders quorums; elders quorum presidents and ward Relief Society presidents as invited | As needed |
+| Stake youth leadership committee meeting | Counsel together about how to support ward organization leaders in the work of salvation and exaltation. Plan service and activities for youth in the stake. Coordinate stake efforts related to the Children and Youth program. | A member of the stake presidency; stake Young Men presidency (and secretary if called); stake Young Women presidency (and secretary if called); high councilors assigned to the Young Women and Primary; stake Sunday School president (optional); and youth and others (as invited) | As needed |
+| Stake leadership meetings for Relief Society, Young Women, Primary, and Sunday School | Teach ward organization leaders their duties, instruct them in teaching and leadership skills, and strengthen their faith. Counsel together, correlate activities, give reports, and share ideas. | Stake presidency member (if desired); high councilor assigned to the organization; stake organization presidency (and secretary if called); ward organization presidencies (and secretaries if called); other ward organization leaders, teachers, advisers, and specialists (as needed); and bishopric members assigned to the organization (as needed) | Once each year for each organization, or twice with the stake presidency’s approval |
 | Stake young single adult committee meeting | Address the needs of young single adults in the stake. Provide opportunities for young single adults to come together for service, gospel learning, and sociality beyond their wards. Ensure that ward young single adult committees are functioning well in wards where they are established. | A counselor in the stake presidency, the high councilor assigned to young single adults, a member of the stake Relief Society presidency, stake young single adult advisers, and ward young single adult leaders (if they are called) or other young single adults in the stake | As needed |
 | Stake single adult committee meeting | Address the needs of single adults in the stake. As needed, provide opportunities for single adults to come together for service, gospel learning, and sociality beyond their wards. | A counselor in the stake presidency, a high councilor, a member of the stake Relief Society presidency, and several single adults | As needed |
 
@@ -547,8 +608,8 @@ In these meetings, participants:
 * Coordinate the work of salvation and exaltation.
 * Coordinate multistake matters, some of which are referenced below.
 
-	+ Activities (see [20.3.1](20-activities.md#2031-general-guidelines); [20.6.24](20-activities.md#20624-travel))
-	+ Welfare and self-reliance resources and emergency response efforts (see [22.3.2](22-providing-for-temporal-needs.md#2232-stake-council))
+	+ Activities (see [20.3.1](20-activities.md#2031-general-guidelines) and [20.6.24](20-activities.md#20624-travel))
+	+ Welfare and self-reliance resources and emergency response efforts (see [22.9](22-providing-for-temporal-needs.md#229-roles-of-stake-leaders))
 	+ Finances and audits (see [34.9.4](34-finances-and-audits.md#3494-area-auditors-and-assistant-area-auditors))
 
-Several stake Relief Society presidents and other stake officers may be invited to attend these meetings as necessary. They may participate in part or all of the meeting. Their perspective as stake officers may be needed. Their participation may also be helpful when discussions relate to their organizations (see [5.1.1.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number8-p28#title_number8)). Area Seventies consider distance, family, and travel when making these invitations.
+Several stake Relief Society presidents and other stake officers may be invited to attend these meetings as necessary. They may participate in part or all of the meeting. Their perspective as stake officers may be needed. Their participation may also be helpful when discussions relate to their organizations (see [5.2.1.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number8-p27#title_number8)). Area Seventies consider distance, family, and travel when making these invitations.

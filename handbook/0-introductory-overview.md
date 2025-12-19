@@ -56,7 +56,7 @@ If leaders have questions about information in this handbook or about issues it 
 
 Except where indicated otherwise:
 
-* The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies.
+* The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see [5.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number15-p165#title_number15).
 * References to wards and stakes also apply to branches, districts, and missions.
 * References to Sunday apply to whichever day the Sabbath is observed locally.
 

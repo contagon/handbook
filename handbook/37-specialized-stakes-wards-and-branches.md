@@ -167,7 +167,7 @@ Groups are small authorized gatherings of members overseen by a bishop, branch p
 
 * Travel for its potential members to meet with a ward or branch is difficult.
 * A small number of members speak a language that is different from those in the ward or branch.
-* Members in the military are best served by being in a group (see [38.10](38-church-policies-and-guidelines.md#3810-military-relations-and-chaplain-services)).
+* Members in the military are best served by being in a group (see [38.9.4](38-church-policies-and-guidelines.md#3894-church-units-for-service-members)).
 
 To propose creating a group, the stake or mission president submits a request to the Area Presidency. Only the Area Presidency can approve the request.
 
@@ -196,4 +196,4 @@ When a group qualifies, the stake or mission president may propose for it to bec
 
 ## 37.8 Church Units at Military Installations
 
-For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.10.4](38-church-policies-and-guidelines.md#38104-church-units-for-service-members).
+For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.9.4](38-church-policies-and-guidelines.md#3894-church-units-for-service-members).
