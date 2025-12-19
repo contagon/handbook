@@ -29,7 +29,7 @@ A member of the bishopric presents Sunday School presidency members in sacrament
 
 The Sunday School president has the following responsibilities. If he has counselors, they assist him.
 
-* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [7.6.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number10-p29#title_number10)).
+* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [29.2.5](29-meetings-in-the-church.md#2925-ward-council-meeting)).
 * Oversee efforts to improve gospel learning and teaching at home and at church.
 * Organize Sunday School classes, with the bishopric’s approval (see [13.3](13-sunday-school.md#133-sunday-school-classes)). Recommend to the bishopric adult members to serve as Sunday School teachers.
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng). Encourage them to study [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng).
@@ -95,7 +95,7 @@ The ward council may organize teacher council meetings for parents to help them 
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also assigns a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [5.7.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number32-p252#title_number32) and [5.7.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number38-p268#title_number38). If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [6.7.1](6-stake-leadership.md#671-stake-relief-society-young-women-primary-and-sunday-school-presidencies) and [6.7.3](6-stake-leadership.md#673-aostake-organization-secretaries). If counselors are called, they assist him.
 
 ## 13.7 Additional Guidelines
 

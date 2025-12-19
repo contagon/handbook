@@ -23,7 +23,7 @@ Minimum Requirements to Create a Language Ward or Branch in a Stake
 
 Boundaries for language units generally follow the boundaries of conventional wards, branches, and stakes.
 
-The children and youth of a language unit may combine classes with a conventional unit if desired (see [29.2.8](29-meetings-in-the-church.md#2928-aoschedules-for-sunday-meetings)).
+The children and youth of a language unit may combine classes with a conventional unit if desired (see [29.2.8](29-meetings-in-the-church.md#2928-ao-schedules-for-sunday-meetings)).
 
 See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) for language branches in a mission. See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
 

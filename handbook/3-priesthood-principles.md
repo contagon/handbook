@@ -43,7 +43,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8?lang=eng#p8)). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.18?lang=eng#p18)). “All other authorities or offices in the church are appendages to this priesthood” ([Doctrine and Covenants 107:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.5?lang=eng#p5)).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also [chapter 5](5-general-and-area-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also chapter 6 in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.65-67?lang=eng#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.8,10?lang=eng#p8); see also chapter 5 in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107.17?lang=eng#p17); see also [chapter 7](7.md) in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](8-elders-quorum.md#81-purpose-and-organization).
 
@@ -136,13 +136,13 @@ Presiding Church leaders can delegate authority by assignment. When men and wome
 
 Authority that is delegated by assignment is limited to the specific responsibilities and duration of the assignment.
 
-For more information about assignment through delegation, see [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-delegate-responsibility-and-ensure-accountability).
+For more information about assignment through delegation, see [4.2.5](4-leadership-in-the-church-of-jesus-christ.md#425-delegate-responsibility-and-ensure-accountability).
 
 ### 3.4.4 Exercising Priesthood Authority Righteously
 
 Church leaders and members use conferred or delegated priesthood authority to bless the lives of others.
 
-This authority can be used only in righteousness (see [Doctrine and Covenants 121:36](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.36?lang=eng#p36)). It is exercised by persuasion, long-suffering, gentleness, meekness, love, and kindness (see [Doctrine and Covenants 121:41–42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.41-42?lang=eng#p41)). Leaders counsel with others in a spirit of unity and seek the Lord’s will through revelation (see [Doctrine and Covenants 41:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/41.2?lang=eng#p2)). For information about counseling with others, see [4.2.5](4-leadership-in-the-church-of-jesus-christ.md#425-counsel-together-and-build-unity).
+This authority can be used only in righteousness (see [Doctrine and Covenants 121:36](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.36?lang=eng#p36)). It is exercised by persuasion, long-suffering, gentleness, meekness, love, and kindness (see [Doctrine and Covenants 121:41–42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.41-42?lang=eng#p41)). Leaders counsel with others in a spirit of unity and seek the Lord’s will through revelation (see [Doctrine and Covenants 41:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/41.2?lang=eng#p2)). For information about counseling with others, see [4.4.3](4-leadership-in-the-church-of-jesus-christ.md#443-discussion-and-decisions).
 
 Those who exercise priesthood authority do not force their will on others. They do not use it for selfish purposes. If a person uses it unrighteously, “the heavens withdraw themselves [and] the Spirit of the Lord is grieved” ([Doctrine and Covenants 121:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121.37?lang=eng#p37)).
 

@@ -27,7 +27,7 @@ General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints pro
 	+ Uniting families for eternity
 * _Church Administration:_ These chapters present additional guidelines for administering the Church. Subjects include meetings, callings, records, finances, and policies.
 
-The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instructions about temple marriage are provided in 27.2.1. The number _27_ refers to the chapter, the number _2_ refers to a section in that chapter, and the number _1_ refers to a subsection.
+The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instructions about temple marriage are provided in [27.3.1](27-temple-ordinances-for-the-living.md#2731-who-may-be-sealed-in-a-temple). The number _27_ refers to the chapter, the number _3_ refers to a section in that chapter, and the number _1_ refers to a subsection.
 
 ## 0.2 Adaptation and Optional Resources
 
@@ -56,11 +56,11 @@ If leaders have questions about information in this handbook or about issues it 
 
 Except where indicated otherwise:
 
-* The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see [5.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number15-p165#title_number15).
+* The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents).
 * References to wards and stakes also apply to branches, districts, and missions.
 * References to Sunday apply to whichever day the Sabbath is observed locally.
-
-References to parents generally also apply to legal guardians.
+* The term _unit_ refers to wards and branches.
+* References to parents generally also apply to legal guardians.
 
 The callings of bishop and branch president are not equivalent in authority and responsibility, nor are the callings of stake president and district president. The bishop is an office in the priesthood, and ordination is authorized only by the First Presidency. Stake presidents are called by General Authorities and Area Seventies.
 

@@ -31,7 +31,7 @@ There may be needs that ministering brothers or sisters cannot meet alone. In su
 
 ## 21.2 Organizing Ministering
 
-The Savior gave His disciples meaningful assignments (see [Luke 10:1–17](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/10.1-17?lang=eng#p1); see also [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-delegate-responsibility-and-ensure-accountability) in this handbook). Following this pattern, we receive assignments to minister to specific individuals and families. An organized approach to ministering helps give each person opportunities to feel the Savior’s love.
+The Savior gave His disciples meaningful assignments (see [Luke 10:1–17](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/10.1-17?lang=eng#p1); see also [4.2.6](4-leadership-in-the-church-of-jesus-christ.md#426-prepare-others-to-be-leaders-and-teachers) in this handbook). Following this pattern, we receive assignments to minister to specific individuals and families. An organized approach to ministering helps give each person opportunities to feel the Savior’s love.
 
 ### 21.2.1 Making Assignments
 

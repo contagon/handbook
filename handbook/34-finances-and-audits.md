@@ -203,7 +203,7 @@ Only the stake president and his counselors should receive funds for the stake. 
 
 ### 34.6.2 Verifying Tithing and Other Offerings
 
-Contribution envelopes should be opened and verified on Sunday, except during tithing settlement, when they are opened and verified on the day they are received. Two persons—a member of the bishopric and a clerk, or two members of the bishopric—open each envelope together to verify that the funds enclosed are the same as the amount written on the Tithing and Other Offerings form. If the funds and the written amount differ, the contributor should be contacted as soon as possible to resolve the difference.
+Contribution envelopes should be opened and verified on Sunday, except during tithing settlement, when they are opened and verified on the day they are received. Contributions should be opened and verified in a location that affords privacy. Two persons—a member of the bishopric and a clerk, or two members of the bishopric—open each envelope together to verify that the funds enclosed are the same as the amount written on the Tithing and Other Offerings form. If the funds and the written amount differ, the contributor should be contacted as soon as possible to resolve the difference.
 
 ### 34.6.3 Depositing Tithing and Other Offerings
 
@@ -326,7 +326,7 @@ The budget allowance was created to reduce the financial and time burdens on mem
 
 Stake and ward budget funds should be used to pay for all activities, programs, manuals, and supplies. Members should not pay fees to participate. Nor should they provide materials, supplies, rental or admission fees, or long-distance transportation at their own expense. Activities in which many members provide food may be held if doing so does not place undue burdens on members.
 
-Possible exceptions to the funding policy in the preceding paragraph may be made for annual camps or similar activities (see [20.2.8](20-activities.md#2028-funding-for-activities)), optional activities (see [20.5](20-activities.md#205-optional-activities)), and occasional young single adult activities (see [14.3.7](14-single-members.md#1437-funding-for-activities)).
+Possible exceptions to the funding policy in the preceding paragraph may be made for annual camps or similar activities (see [20.2.6](20-activities.md#2026-funding-for-activities)), optional activities, and occasional young single adult activities (see [14.3.7](14-single-members.md#1437-funding-for-activities)).
 
 Members who want to contribute additional funds to the Church may not designate them for the stake or ward budget. Instead, leaders encourage them to contribute the funds to fast offerings, missionary funds, or other authorized donation categories.
 
@@ -352,15 +352,11 @@ See [20.4](20-activities.md#204-youth-conference).
 
 #### 34.7.3.3 Annual Camps or Similar Activities and Equipment
 
-See [20.2.8](20-activities.md#2028-funding-for-activities) and [20.2.9](20-activities.md#2029-funding-for-equipment-and-supplies).
-
-#### 34.7.3.4 Optional Activities
-
-See [20.5](20-activities.md#205-optional-activities).
+See [20.2.6](20-activities.md#2026-funding-for-activities) and [20.6.4](20-activities.md#2064-funding-for-equipment-and-supplies).
 
 ## 34.8 Fundraising
 
-See [20.6.8](20-activities.md#2068-fundraising-activities).
+See [20.6.5](20-activities.md#2065-fundraising-events).
 
 ## 34.9 Audits
 
