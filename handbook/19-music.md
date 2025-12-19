@@ -37,7 +37,7 @@ Sacred music that is written or sung in culturally diverse musical styles may he
 
 Members gather in sacrament meeting to remember Jesus Christ by partaking of the sacrament. They gather to build faith and testimony and to worship Heavenly Father and Jesus Christ. Music should be selected to help achieve these purposes.
 
-Music in sacrament meeting includes congregational singing of hymns to open and close the meeting and before the administration of the sacrament. Congregational hymns provide an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title8-p19#title8),” Hymns, 380–81.
+Music in sacrament meeting includes congregational singing of hymns to open and close the meeting and before the administration of the sacrament. Congregational hymns provide an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&para=title8-p19#title8),” Hymns, 380–81.
 
 Prelude music is played as members gather before the meeting. Its purpose is to create an atmosphere of worship that invites the Spirit. After the closing prayer, an instrumental postlude is played as members leave the meeting. Hymns and other sacred music can be selected for prelude and postlude music.
 
@@ -91,11 +91,11 @@ Where there are enough members, wards may organize choirs that sing in sacrament
 
 Ward members may volunteer to sing in the choir. Members and others may also be invited to participate. Auditions are not held.
 
-Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
+Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&para=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
 
 Choir rehearsals do not usually exceed one hour.
 
-If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1](19-music.md#1971-obtaining-and-using-music)). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.10](38-church-policies-and-guidelines.md#38810-copyrighted-materials)).
+If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1](19-music.md#1971-obtaining-and-using-music)). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.11](38-church-policies-and-guidelines.md#38811-copyrighted-materials)).
 
 In addition to the ward choir, families and groups of women, men, youth, or children may be invited to sing in Church meetings.
 
@@ -120,7 +120,7 @@ The bishop is responsible for ward music. He may assign this responsibility to o
 The ward music coordinator serves under the direction of the bishopric. He or she has the following responsibilities:
 
 * Be a resource to the bishopric and other ward leaders on music matters. Attend ward council meeting as invited by the bishop to help coordinate music in the ward.
-* Work with the bishopric to plan music for sacrament meetings (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings) and [19.3.2](19-music.md#1932-music-in-sacrament-meeting).).
+* Work with the bishopric to plan music for sacrament meetings (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings) and [19.3.2](19-music.md#1932-music-in-sacrament-meeting)).
 * Recommend and supervise music training in the ward, if needed (see [19.6](19-music.md#196-music-training-and-resources)). Help members find opportunities to develop and use their musical talents in the ward.
 * As requested by the bishopric, recommend members to serve in ward music callings. Orient those who serve in these callings, offering support, instruction, and training as needed.
 * Serve in other ward music callings if others have not been called.

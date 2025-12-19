@@ -29,7 +29,7 @@ The stake president:
 * Prepares and manages the annual stake budget (see [34.6](34-finances-and-audits.md#346-budget-and-expenditures)).
 * Ensures that stake budget allowance guidelines are followed (see [34.6.2](34-finances-and-audits.md#3462-budget-allowance)).
 * Regularly counsels with each bishop to discuss the ward’s finances.
-* Verifies that each ward conducts tithing settlement annually.
+* Verifies that each ward receives members’ tithing declarations annually.
 * Ensures that passwords to access Church financial systems are never shared.
 * Ensures that the stake audit committee is organized and functioning properly (see [34.7.1](34-finances-and-audits.md#3471-stake-audit-committee)).
 * Is available to answer questions during audits of stake financial records (see [34.7](34-finances-and-audits.md#347-audits)).
@@ -65,7 +65,7 @@ The bishop:
 * Ensures that organization leaders and clerks learn their responsibility for sacred Church funds.
 * Prepares and manages the annual ward budget (see [34.6](34-finances-and-audits.md#346-budget-and-expenditures)).
 * Ensures that ward budget allowance guidelines are followed (see [34.6.2](34-finances-and-audits.md#3462-budget-allowance)).
-* Conducts tithing settlement with ward members annually.
+* Meets with ward members annually to receive their tithing declaration.
 * Ensures that passwords to access Church financial systems are never shared.
 * Is available to answer questions during audits of ward financial records and ensures that any issues are resolved promptly (see [34.7](34-finances-and-audits.md#347-audits)).
 
@@ -79,7 +79,7 @@ The clerk has the following responsibilities:
 * Review the financial statement each month and ensure that any issues are resolved promptly.
 * Help the bishopric prepare the annual ward budget (see [34.6.1](34-finances-and-audits.md#3461-stake-and-ward-budgets) and [34.6.2](34-finances-and-audits.md#3462-budget-allowance)).
 * Ensure that members have access to their statements of contributions and assist as needed.
-* Help the bishop prepare for tithing settlement.
+* Help the bishop prepare and record tithing declarations.
 * Participate in financial audits by stake auditors and take corrective actions if needed (see [34.7](34-finances-and-audits.md#347-audits)).
 
 Clerks should hold the Melchizedek Priesthood and have a current temple recommend. For more information about calling ward clerks, see [33.4.2](33-records-and-reports.md#3342-ward-clerk) and [33.4.3](33-records-and-reports.md#3343-ao-assistant-ward-clerks).
@@ -102,20 +102,20 @@ Tithes are holy to the Lord, and members honor Him by paying tithing. This is an
 
 Tithing donations are always used for the Lord’s purposes, as directed by the Council on the Disposition of the Tithes (see [Doctrine and Covenants 120](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/120?lang=eng)). Some of these purposes are outlined in [34.0](34-finances-and-audits.md#340-introduction).
 
-#### 34.3.1.2 Tithing Settlement
+#### 34.3.1.2 Tithing Declaration
 
-The bishop holds tithing settlement near the end of each year. In rare circumstances when the bishop is absent, the stake president may authorize one of the bishop’s counselors to conduct tithing settlement.
+The bishop meets with each member during the last few months of each year to receive his or her tithing declaration. In rare circumstances when the bishop is absent, the stake president may authorize one of the bishop’s counselors to fulfill this responsibility.
 
-All members are invited to attend tithing settlement to:
+All members are invited to meet with the bishop to:
 
-* Ensure their contribution records are accurate.
 * Declare to the bishop their status as tithe payers.
+* Ensure their contribution records are accurate.
 
-If possible, all members of a family, including children, should attend tithing settlement together.
+Whenever possible, all members of a family, including children, should attend together.
 
-During tithing settlement, the bishop expresses appreciation to members for their faithfulness. He also teaches the principle of tithing, encourages members to give a generous fast offering, and discusses other relevant matters.
+During tithing declaration, the bishop expresses appreciation to members for their faithfulness. He also teaches the principle of tithing, encourages members to give a generous fast offering, and discusses other relevant matters.
 
-Instructions for tithing settlement are provided by Church headquarters or the assigned area office.
+Instructions for tithing declaration are provided by Church headquarters or the assigned area office.
 
 ### 34.3.2 Fast Offerings
 

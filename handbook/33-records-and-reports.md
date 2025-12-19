@@ -25,7 +25,7 @@ Records can help leaders:
 The following types of records are kept in Church units:
 
 * Member participation reports (see [33.5](33-records-and-reports.md#335-reports-on-member-participation))
-* Membership records (see [33.6](33-records-and-reports.md#336-membership-records))
+* Membership records (see 33.6)
 * Historical records (see [33.7](33-records-and-reports.md#337-historical-records))
 * Financial records (see [chapter 34](34-finances-and-audits.md))
 
@@ -112,7 +112,7 @@ If needed, one assistant clerk may be called to each of the following positions:
 
 * Assistant stake clerk
 * Assistant stake clerk—finance (see [34.1.2](34-finances-and-audits.md#3412-stake-clerks))
-* Assistant stake clerk—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and [33.6](33-records-and-reports.md#336-membership-records))
+* Assistant stake clerk—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and 33.6)
 
 ## 33.4 Ward Records and Reports
 
@@ -176,7 +176,7 @@ If needed, one assistant clerk may be called to each of the following positions:
 
 * Assistant ward clerk
 * Assistant ward clerk—finance (see [34.2.2](34-finances-and-audits.md#3422-ward-clerks))
-* Assistant ward clerk—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and [33.6](33-records-and-reports.md#336-membership-records))
+* Assistant ward clerk—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and 33.6)
 
 ### 33.4.4 Priesthood and Organization Leaders
 
@@ -260,7 +260,7 @@ He also ensures that the record does not include any of the following:
 * A comment about a sealing or ordinance restriction
 * Formal membership restrictions
 
-Sometimes a member has not lived in the same ward continuously for at least one year. In that case, the bishop contacts the prior bishop before conducting an interview to determine if there are any worthiness matters that need to be considered.
+Sometimes a member has not lived in the same ward continuously for at least one year. In that case, the bishop or an assigned counselor contacts the prior bishop before conducting an interview to issue a temple recommend or to recommend ordination to a Melchizedek Priesthood office. The purpose of this contact is to ask if there are any worthiness matters to be considered. If a counselor learns that there is confidential information, he ends the conversation. He informs his bishop to contact the prior bishop before conducting the interview.
 
 Under no circumstances may membership records be given or shown to anyone other than the bishop or a clerk.
 
@@ -281,7 +281,7 @@ The following individuals are members of record and should have a membership rec
 * Those who have been baptized and confirmed
 * Those under age 9 who have been blessed but not baptized
 * Those who are not accountable because of intellectual disabilities, regardless of age
-* Unblessed children under 8 when both of the following apply:
+* Unblessed children under age 9 when both of the following apply:
 
 	+ At least one parent or one grandparent is a member of the Church.
 	+ Both parents give permission for a record to be created. (If only one parent has legal custody of the child, the permission of that parent is sufficient.)
@@ -394,7 +394,7 @@ See [chapter 18](18-priesthood-ordinances-and-blessings.md).
 
 ### 33.6.18 Recording and Correcting Civil Information
 
-See [33.6](33-records-and-reports.md#336-membership-records).
+See 33.6.
 
 ### 33.6.19 Audits of Membership Records
 
@@ -445,9 +445,9 @@ Leaders and clerks are to safeguard Church records by handling, storing, and dis
 * Used only for approved Church purposes.
 * Given only to those who are authorized to use it.
 
-Information that is stored electronically must be kept secure and protected appropriately (see [33.9.1](33-records-and-reports.md#3391-protection)). Leaders ensure that such data is not used for personal, political, or commercial purposes. Information from Church records, including historical information, may not be given to individuals or agencies conducting research or surveys (see [38.8.36](38-church-policies-and-guidelines.md#38836-research-in-the-church)).
+Information that is stored electronically must be kept secure and protected appropriately (see [33.9.1](33-records-and-reports.md#3391-protection)). Leaders ensure that such data is not used for personal, political, or commercial purposes. Information from Church records, including historical information, may not be given to individuals or agencies conducting research or surveys (see [38.8.37](38-church-policies-and-guidelines.md#38837-research-in-the-church)).
 
-Leaders and members must follow the guidelines in [38.8.12](38-church-policies-and-guidelines.md#38812-directories) to protect stake and ward directories.
+Leaders and members must follow the guidelines in [38.8.13](38-church-policies-and-guidelines.md#38813-directories) to protect stake and ward directories.
 
 ## 33.9 Records Management
 
@@ -499,7 +499,7 @@ In addition, the stake technology specialist has the following responsibilities 
 * Implement direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
 * Maintain a current inventory of all computer hardware in the stake, with serial numbers, models, capacities, and physical locations.
 * Ensure that (1) computers, software, and confidential information are secure and (2) data files are backed up regularly.
-* Be familiar with the general policies for Church computers (see [38.8.9](38-church-policies-and-guidelines.md#3889-computers)).
+* Be familiar with the general policies for Church computers (see [38.8.10](38-church-policies-and-guidelines.md#38810-computers)).
 * Be familiar with guidelines for obtaining and managing Church computers.
 
 As needed, stake technology specialists coordinate the work of ward technology specialists. They also provide instruction.

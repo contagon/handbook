@@ -257,4 +257,4 @@ As soon as the bishop and stake president determine that a prospective elder is 
 
 ## 8.5 Members with Disabilities
 
-The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability) and [38.8.26](38-church-policies-and-guidelines.md#38826-members-with-disabilities).
+The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.

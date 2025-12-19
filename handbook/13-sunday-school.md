@@ -104,7 +104,7 @@ The responsibilities of the stake Sunday School president are outlined in [6.7.1
 
 ### 13.7.1 Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.26](38-church-policies-and-guidelines.md#38826-members-with-disabilities) in this handbook.
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/life/disability); see also [38.8.27](38-church-policies-and-guidelines.md#38827-members-with-disabilities) in this handbook.
 
 ### 13.7.2 Resource Center
 

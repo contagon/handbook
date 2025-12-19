@@ -40,7 +40,7 @@ Leaders seek inspiration about which guidelines and optional resources to use to
 
 ## 0.3 Updates
 
-This handbook will be updated periodically. A list of recent changes is available in the “Summary of Recent Updates.”
+This handbook will be updated periodically. A list of recent changes is available in the “[Summary of Recent Updates](https://www.churchofjesuschrist.org/study/manual/general-handbook/summary-of-recent-updates?lang=eng).”
 
 ## 0.4 Questions about Instructions
 

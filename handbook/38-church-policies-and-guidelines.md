@@ -8,7 +8,7 @@ Church leaders and members are often asked who can attend meetings of The Church
 
 ### 38.1.1 Attendance at Church Meetings
 
-The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19)](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3)](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.3?lang=eng#p3).
+The Savior taught that His disciples should love their neighbors (see [Matthew 22:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.39?lang=eng#p39)). Paul invited new converts to “no more be strangers and foreigners, but fellowcitizens with the saints” ([Ephesians 2:19](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/2.19?lang=eng#p19)). The Savior also taught that Church members are not to “cast any one out from … public meetings, which are held before the world” ([Doctrine and Covenants 46:3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.3?lang=eng#p3)).
 
 All are welcome to attend sacrament meeting, other Sunday meetings, and social events of The Church of Jesus Christ of Latter-day Saints. The presiding officer is responsible to ensure that all who attend are respectful of the sacred setting.
 
@@ -20,7 +20,7 @@ Church meetinghouses remain private property subject to Church policies. Persons
 
 ### 38.1.2 Becoming a Church Member
 
-Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37)](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.37?lang=eng#p37).
+Membership in The Church of Jesus Christ of Latter-day Saints is available to people who “come forth with broken hearts and contrite spirits,” “are willing to take upon them the name of Jesus Christ,” and desire to make and keep sacred baptismal covenants ([Doctrine and Covenants 20:37](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20.37?lang=eng#p37)).
 
 A minor child age 8 or older may be baptized with the permission of his or her custodial parent(s) or legal guardian(s). The custodial parent(s) or legal guardian(s) should understand the Church doctrine their child will be taught and support the child in making and keeping the baptismal covenant. (See [38.2.8.2](38-church-policies-and-guidelines.md#38282-minors).)
 
@@ -32,7 +32,7 @@ Temples are holy places of worship in which essential ordinances are received an
 
 All members, even if they have never married or are without family in the Church, should strive for the ideal of living in an eternal family. This means preparing to be sealed as a worthy husband or wife and to become a loving father or mother. For some, these blessings will not be fulfilled until the next life, but the ultimate goal is the same for all.
 
-Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41)](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41).
+Faithful members whose circumstances do not allow them to receive the blessings of eternal marriage and parenthood in this life will receive all promised blessings in the eternities, provided they keep the covenants they have made with God (see [Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.41?lang=eng#p41)).
 
 ### 38.1.5 Unwed Parents under Age 18
 
@@ -114,9 +114,9 @@ The information below gives reasons an ordinance would not be valid. It also des
 
 In some cases, an ordinance must be performed again. When this happens, a clerk records the new date on the membership record, even if it is out of sequence with the dates of other ordinances.
 
-#### 38.2.6.1 The Year Is Missing or Incorrect
+#### 38.2.6.1 A Membership Record Was Not Created or the Year Is Missing or Incorrect
 
-For record-keeping purposes, an ordinance is considered not valid if the year it was performed is missing or incorrect on the membership record. The ordinance can be validated with the original certificate that was issued when the ordinance was performed. With this certificate, the bishop can authorize a clerk to update the membership record.
+For record-keeping purposes, an ordinance is considered not valid if the year it was performed is missing or incorrect on the membership record. In addition, a baptism is not valid if a membership record was not created. The ordinance can be validated with the original certificate that was issued when the ordinance was performed. With this certificate, the bishop can authorize a clerk to update the membership record.
 
 If the certificate cannot be found, the ordinance can be validated with the testimony of two people who witnessed it. The two witnesses should:
 
@@ -126,7 +126,7 @@ If the certificate cannot be found, the ordinance can be validated with the test
 * Give their testimony in writing, stating either (1) the complete date the ordinance was performed or (2) the year it was performed and the person who performed it.
 * Sign their testimony in the presence of a member of the bishopric or stake presidency.
 
-With this testimony, the bishop can authorize a clerk to update the membership record. The written testimony may then be discarded.
+With this testimony, the bishop can authorize a clerk to create or update the membership record. The written testimony may then be discarded.
 
 If the certificate or witnesses cannot be found, the ordinance must be performed again.
 
@@ -221,13 +221,19 @@ In these cases, the mission president interviews the person. If necessary, the m
 
 Approval from the First Presidency is required before a person can be baptized if he or she:
 
-* Has been convicted of a crime involving sexual misconduct (see [38.2.8.8](38-church-policies-and-guidelines.md#38288-persons-who-have-been-convicted-of-crimes)).
-* Is currently on legal probation or parole for a felony or a crime involving sexual misconduct (see [38.2.8.8](38-church-policies-and-guidelines.md#38288-persons-who-have-been-convicted-of-crimes)).
 * Has committed murder (see [38.2.8.8](38-church-policies-and-guidelines.md#38288-persons-who-have-been-convicted-of-crimes)).
+* Has been convicted of a crime involving sexual misconduct (see [38.2.8.8](38-church-policies-and-guidelines.md#38288-persons-who-have-been-convicted-of-crimes)).
+* Is currently on legal probation or parole for any serious crime or offense (usually punishable by one year in prison or longer) or any crime that involves sexual misconduct (see [38.2.8.8](38-church-policies-and-guidelines.md#38288-persons-who-have-been-convicted-of-crimes)).
 * Has been involved in plural marriage (see [38.2.8.9](38-church-policies-and-guidelines.md#38289-adults-involved-in-plural-marriage)).
 * Has completed transition to the opposite of his or her biological sex at birth (see [38.2.8.10](38-church-policies-and-guidelines.md#382810-persons-who-identify-as-transgender)).
 
-The mission president interviews the person. If he can recommend baptism, he submits a request for approval from the First Presidency for the person to be baptized. If the person is a former member seeking readmission, the bishop or stake president conducts the interview. He follows the instructions in [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church).
+If the person is seeking baptism for the first time, the mission president interviews him or her. If he finds the person to be worthy and if he recommends baptism, he submits a request for approval to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org).
+
+If the person is a former member seeking readmission, the bishop and stake president both interview him or her. They follow the instructions in [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church). If they both find the person to be worthy and recommend baptism, the stake president submits a request to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org).
+
+Any request to the First Presidency should include all pertinent details as determined in the interviews.
+
+See [6.2.3](6-stake-leadership.md#623-common-judge) about the stake (or mission) president’s responsibility when submitting applications to the First Presidency.
 
 #### 38.2.8.8 Persons Who Have Been Convicted of Crimes
 
@@ -237,11 +243,17 @@ Persons who have been convicted of felonies or any crimes involving sexual misco
 
 Full-time missionaries do not teach people who are in prison or jail.
 
-A person who has been convicted of murder or a crime involving sexual misconduct may not be baptized unless the First Presidency gives approval (see [38.2.8.7](38-church-policies-and-guidelines.md#38287-situations-that-require-authorization-from-the-mission-president-or-first-presidency)). The same is true for a person who has confessed to committing murder even if the confession was in private to a priesthood leader. If the person is seeking baptism for the first time, the mission president conducts the interview and submits the request if he can recommend baptism. The bishop or stake president does this for a former member seeking readmission (see [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church)). The request for permission must include all pertinent details as determined in the interview. As used here, _murder_ does not include abortion or police or military action in the line of duty.
+A person who has been convicted of murder or a crime involving sexual misconduct may not be baptized unless the First Presidency gives approval (see [38.2.8.7](38-church-policies-and-guidelines.md#38287-situations-that-require-authorization-from-the-mission-president-or-first-presidency)). The same is true for a person who has confessed to committing murder even if the confession was in private to a priesthood leader. As used here, _murder_ does not include abortion or police or military action in the line of duty.
+
+If the person is seeking baptism for the first time, the mission president follows the instructions in [38.2.8.7](38-church-policies-and-guidelines.md#38287-situations-that-require-authorization-from-the-mission-president-or-first-presidency). If the person is a former member seeking readmission, the bishop and stake president follow the instructions in the same section (see also [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church)).
 
 #### 38.2.8.9 Adults Involved in Plural Marriage
 
-An adult who has encouraged, taught, or been involved in plural marriage must receive approval from the First Presidency before he or she may be baptized. The mission president may request this approval if he has interviewed the person, found him or her to be worthy, and can recommend baptism. If the person is seeking readmission after membership withdrawal or resignation, the stake president conducts the interview and requests this approval. The request should describe the person’s past involvement in plural marriage. It should also describe his or her repentance and current family situation.
+An adult who has encouraged, taught, or been involved in plural marriage must receive approval from the First Presidency before he or she may be baptized.
+
+If the person is seeking baptism for the first time, the mission president follows the instructions in [38.2.8.7](38-church-policies-and-guidelines.md#38287-situations-that-require-authorization-from-the-mission-president-or-first-presidency). If the person is a former member seeking readmission, the bishop and stake president follow the instructions in [38.2.8.7](38-church-policies-and-guidelines.md#38287-situations-that-require-authorization-from-the-mission-president-or-first-presidency) (see also [32.16](32-repentance-and-membership-councils.md#3216-removing-formal-restrictions-or-being-readmitted-to-the-church)).
+
+The request should describe the person’s past involvement in plural marriage. It should also describe his or her repentance and current family situation.
 
 #### 38.2.8.10 Persons Who Identify as Transgender
 
@@ -292,9 +304,7 @@ For more information about helping prospective elders prepare to receive the Mel
 
 #### 38.2.9.4 Brethren Who Have Changed Wards within the Past Year
 
-Sometimes a brother who has lived in a ward for less than one year needs or desires to be ordained to a priesthood office. In that situation, the bishop conducts an interview and contacts the prior bishop to certify the brother’s worthiness.
-
-Sometimes a brother is ordained while living away from home temporarily and his membership record is still in his home ward. In this case, the bishop of the ward where he was ordained informs the bishop of the home ward so the membership record can be updated. The certificate is prepared in the ward where the ordination was performed.
+Sometimes a brother who has lived in a ward for less than one year needs or desires to be ordained to a Melchizedek Priesthood office. In that situation, the bishop or an assigned counselor contacts the prior bishop to ask if there are any worthiness matters to be considered. If a counselor learns that there is confidential information, he ends the conversation. He informs his bishop to contact the prior bishop before conducting the interview.
 
 #### 38.2.9.5 Brethren in Young Single Adult and Single Adult Wards
 
@@ -585,13 +595,13 @@ The process for seeking a sealing cancellation or sealing clearance is outlined 
 	2. The member is current in all legal requirements for child and spousal support related to the divorce.
 3. If the bishop recommends that the sealing cancellation or sealing clearance be granted, he:
 
-	1. Fills out an Application to the First Presidency for the member using [Leader and Clerk Services (LCR)](https://lcr.churchofjesuschrist.org). Leaders who do not have access to [LCR](https://lcr.churchofjesuschrist.org) instead use a physical copy of the Application to the First Presidency form. This form is available from the Confidential Records Office at Church headquarters.
+	1. Fills out an Application to the First Presidency for the member using [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org). Leaders who do not have access to [LCR](https://lcr.churchofjesuschrist.org) instead use a physical copy of the Application to the First Presidency form. This form is available from the Confidential Records Office at Church headquarters.
 	2. Submits the application to the stake president.
 4. The stake president meets with the member. The stake president verifies that:
 
 	1. The divorce is final.
 	2. The member is current in all legal requirements for child and spousal support related to the divorce.
-5. If the stake president recommends that the sealing cancellation or sealing clearance be granted, he submits the application to Church headquarters using [LCR](https://lcr.churchofjesuschrist.org) or the form.
+5. If the stake president recommends that the sealing cancellation or sealing clearance be granted, he submits the application to Church headquarters using [LCR](https://lcr.churchofjesuschrist.org). See [6.2.3](6-stake-leadership.md#623-common-judge) about the stake president’s responsibility when submitting applications to the First Presidency.
 6. If the request is approved, the First Presidency provides a letter stating that the sealing cancellation or sealing clearance has been granted.
 7. After receiving the letter, the member may schedule an appointment for a temple sealing. The member presents the letter at the temple.
 
@@ -604,7 +614,7 @@ A person who commits adultery while married to a spouse to whom he or she has be
 A couple may seek approval after they have been married for at least five years. The process for making a request to remove a restriction against temple sealing is outlined below.
 
 1. The couple meets with their bishop and stake president.
-2. If these leaders feel that the restriction should be removed, they write letters to the First Presidency with their recommendations. Their letters should describe the applicants’ temple worthiness and the stability of their marriage for at least five years.
+2. If these leaders feel that the restriction should be removed, they write letters to the First Presidency with their recommendations. Their letters should describe the applicants’ temple worthiness and the stability of their marriage for at least five years. See [6.2.3](6-stake-leadership.md#623-common-judge) about the stake president’s responsibility when submitting applications to the First Presidency.
 3. The couple also writes a letter of request to the First Presidency.
 4. The stake president submits all of these letters to the First Presidency. He may submit the request with an application for a sealing cancellation or sealing clearance (see [38.4.1.4](38-church-policies-and-guidelines.md#38414-applying-for-a-sealing-cancellation-or-a-sealing-clearance)).
 5. If the request is approved, the First Presidency provides a letter stating that the restriction against temple sealing has been removed.
@@ -612,7 +622,7 @@ A couple may seek approval after they have been married for at least five years.
 
 #### 38.4.1.6 Sealing after Temple Marriage for Time Only
 
-Couples who were married in a temple for time only are not usually sealed later. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. If a bishop and stake president feel that a cancellation may be justified, they may submit an application to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org).
+Couples who were married in a temple for time only are not usually sealed later. For such a sealing to occur, the woman must first receive from the First Presidency a cancellation of her previous sealing. If the bishop and stake president both feel that a cancellation is justified, the stake president submits an application to the First Presidency using [LCR](https://lcr.churchofjesuschrist.org). See [6.2.3](6-stake-leadership.md#623-common-judge) about the stake president’s responsibility when submitting applications to the First Presidency.
 
 Time-only marriages in the temple are no longer performed (see [27.3.3](27-temple-ordinances-for-the-living.md#2733-marriage-in-a-temple-for-time-only)).
 
@@ -685,7 +695,7 @@ Living children who are born in the covenant or have been sealed to parents cann
 
 Living children who are legally adopted and were neither born in the covenant nor sealed to former parents may be sealed to their adoptive parents after the adoption is final. A copy of the final adoption decree should be presented at the temple. A court decree granting legal custody is not sufficient clearance for a sealing. There is no obligation to identify the natural parents of these children.
 
-First Presidency approval is needed for a living member to be sealed to foster parents. This requirement applies even if the natural parents of the foster child are unknown. Such requests are made by the stake president.
+First Presidency approval is needed for a living member to be sealed to foster parents. This requirement applies even if the natural parents of the foster child are unknown. Such requests are made by the stake president using [LCR](https://lcr.churchofjesuschrist.org) (see [6.2.3](6-stake-leadership.md#623-common-judge)).
 
 #### 38.4.2.4 Adopted or Foster Children Who Are Deceased
 
@@ -771,9 +781,22 @@ The garment should not be removed for activities that can reasonably be done whi
 
 The garment is sacred and should be treated with respect. Endowed members should seek the guidance of the Holy Spirit to answer personal questions about wearing the garment.
 
-### 38.5.6 Wearing the Garment in the Military
+### 38.5.6 Wearing the Garment in the Military, Fire Service, Law Enforcement, or a Similar Agency
 
-See [38.9.8](38-church-policies-and-guidelines.md#3898-wearing-the-garment-in-the-military).
+The guidelines in this section apply to endowed members who have specific uniform requirements while serving:
+
+* In the military.
+* As firefighters.
+* As law enforcement officers.
+* As government security agents.
+
+Bishops ensure that endowed members who work in these capacities understand the following guidelines.
+
+When possible, they should wear the garment the same as any other member. However, they should avoid exposing the garment to the view of those who do not understand its significance. Members should seek the guidance of the Spirit and use tact, discretion, and wisdom. It may be best to lay the garment aside temporarily and wear it again when conditions allow. However, mere inconvenience in wearing the garment does not justify laying it aside.
+
+Sometimes service regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected as long as he or she remains worthy. The member will still receive the blessings associated with wearing the garment. If members are unable to wear the garment, they should wear it again as soon as circumstances allow.
+
+Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Marking Order Form](https://assets.ldscdn.org/5c/28/5c284572e58b11eb82d6eeeeac1e5a30d3af98ef/beehive_clothing_form_military_markings_order_form.pdf).
 
 ### 38.5.7 Disposing of Garments and Ceremonial Temple Clothing
 
@@ -922,7 +945,7 @@ If a person abused a child or youth sexually or seriously abused a child or yout
 
 #### 38.6.2.6 Stake and Ward Councils
 
-In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](https://www.churchofjesuschrist.org/letters?clang=eng&id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
+In stake and ward council meetings, stake presidencies and bishoprics regularly review Church policies and guidelines on preventing and responding to abuse. They teach the key messages in “[Preventing and Responding to Abuse](https://www.churchofjesuschrist.org/letters/letter?id=15664),” an enclosure to the First Presidency letter dated March 26, 2018. They invite discussion from council members. Leaders and council members seek the guidance of the Spirit as they teach and discuss this sensitive subject.
 
 Council members are also to complete children and youth protection training (see [38.6.2](38-church-policies-and-guidelines.md#3862-abuse)).
 
@@ -950,7 +973,7 @@ Surgical sterilization is sometimes needed for medical reasons. Members may bene
 
 The Lord’s law of chastity is:
 
-* Abstinence from sexual relations outside of a marriage between a man and a woman according to God’s law.
+* Abstinence from sexual relations outside of a legal marriage between a man and a woman.
 * Fidelity within marriage.
 
 Physical intimacy between husband and wife is intended to be beautiful and sacred. It is ordained of God for the creation of children and for the expression of love between husband and wife.
@@ -959,13 +982,15 @@ Only a man and a woman who are legally and lawfully wedded as husband and wife s
 
 A Church membership council may be necessary if a member:
 
-* Has sexual relations outside of a marital relationship authorized by God’s law, such as adultery, fornication, and same-sex relations (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary)).
-* Is in a form of marriage or partnership that is not authorized by God’s law, such as cohabitation, civil unions and partnerships, and same-sex marriage.
+* Has sexual relations outside of a legal marriage between a man and a woman, such as adultery, fornication, same-sex relations, and sexual encounters online or over the phone (see [32.6.2](32-repentance-and-membership-councils.md#3262-when-a-membership-council-may-be-necessary)).
+* Is in a form of marriage or partnership that is outside of a legal marriage between a man and a woman, such as cohabitation, civil unions and partnerships, and same-sex marriage.
 * Uses pornography intensively or compulsively, causing significant harm to a member’s marriage or family (see [38.6.13](38-church-policies-and-guidelines.md#38613-pornography)).
 
-The decision about whether to hold a membership council in these situations depends on many circumstances. These are outlined in [32.7](32-repentance-and-membership-councils.md#327-circumstances-of-the-person). For example, violating temple covenants increases the likelihood of a council being necessary to help a person repent. In some cases, personal counseling and informal membership restrictions may be sufficient (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)).
+The decision about whether to hold a membership council in these situations depends on many circumstances (see [32.7](32-repentance-and-membership-councils.md#327-circumstances-of-the-person)). For example, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
 
 See [32.6.1.2](32-repentance-and-membership-councils.md#32612-sexual-immorality) for when a council is _required_ for sexual sins.
+
+In some cases, personal counseling and informal membership restrictions may be sufficient (see [32.8](32-repentance-and-membership-councils.md#328-personal-counseling-and-informal-membership-restrictions)).
 
 ### 38.6.6 Child Pornography
 
@@ -1167,7 +1192,7 @@ See [38.6.4](38-church-policies-and-guidelines.md#3864-birth-control).
 
 The pattern of a husband and wife providing bodies for God’s spirit children is divinely appointed (see [2.1.3](2-supporting-individuals-and-families.md#213-parents-and-children)). For this reason, the Church discourages surrogate motherhood. However, this is a personal matter that is ultimately left to the judgment and prayerful consideration of the husband and wife.
 
-Children who are born to a surrogate mother are not born in the covenant. Following their birth, they may be sealed to parents only with the approval of the First Presidency (see [38.4.2.7](38-church-policies-and-guidelines.md#38427-children-born-to-surrogate-mothers)).
+Children who are born to a surrogate mother are not born in the covenant. Following their birth, they may be sealed to parents only with the approval of the First Presidency (see [38.4.2.7](38-church-policies-and-guidelines.md#38427-children-born-to-surrogate-mothers)). The parents write a letter to the First Presidency and give it to the stake president. If he supports the request, he submits the letter along with his own letter.
 
 ### 38.6.23 Transgender Individuals
 
@@ -1255,7 +1280,7 @@ Church members are discouraged from seeking miraculous or supernatural healing f
 
 ### 38.7.9 Medical Marijuana
 
-The Church opposes the use of marijuana for non-medical purposes. See “[Word of Wisdom and Healthy Practices](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&para=title_number131-p2382#title_number131)” ([38.7.14](38-church-policies-and-guidelines.md#38714-word-of-wisdom-and-healthy-practices)).
+The Church opposes the use of marijuana for non-medical purposes. See [38.7.14](38-church-policies-and-guidelines.md#38714-word-of-wisdom-and-healthy-practices).
 
 However, marijuana may be used for medicinal purposes when the following conditions are met:
 
@@ -1340,7 +1365,7 @@ Audiovisual materials can help invite the Spirit and enhance gospel teaching in 
 
 Members should not use audiovisual materials in sacrament meetings or in the general session of stake conference. However, recorded music may be used in these meetings if needed to accompany hymns.
 
-Members should obey all copyright laws when using audiovisual materials (see [38.8.10](38-church-policies-and-guidelines.md#38810-copyrighted-materials)). They should only use materials that are in harmony with the gospel and help invite the Spirit.
+Members should obey all copyright laws when using audiovisual materials (see [38.8.11](38-church-policies-and-guidelines.md#38811-copyrighted-materials)). They should only use materials that are in harmony with the gospel and help invite the Spirit.
 
 ### 38.8.4 Autographs and Photographs of General Authorities, General Officers, and Area Seventies
 
@@ -1352,13 +1377,13 @@ Members should not take photographs of General Authorities, General Officers, or
 
 Church meetinghouses and other facilities, Church meetings and classes, and Church websites and social media channels may not be used to promote any business or non-Church entity.
 
-Lists of Church groups or other information about members may not be given to any business or non-Church entity. These include (but are not limited to) those that promote dating, education, and job opportunities. See [38.8.30](38-church-policies-and-guidelines.md#38830-privacy-of-members).
+Lists of Church groups or other information about members may not be given to any business or non-Church entity. These include (but are not limited to) those that promote dating, education, and job opportunities. See [38.8.31](38-church-policies-and-guidelines.md#38831-privacy-of-members).
 
 ### 38.8.6 Church Employees
 
 Church employees are to live and uphold Church standards at all times. They must also comply with local employment laws.
 
-To begin or continue Church employment, members must have a current temple recommend. Periodically, representatives of the Church Human Resource Department will contact stake presidents or bishops to verify the temple worthiness of current or potential Church employees. Leaders should respond promptly.
+To begin or continue Church employment, members must be worthy of a temple recommend. Periodically, representatives of the Church Human Resource Department will contact stake presidents or bishops to verify the temple worthiness of current or potential Church employees. Leaders should respond promptly.
 
 ### 38.8.7 Church Magazines
 
@@ -1411,7 +1436,15 @@ Fax: 1-801-240-1187
 
 Email: [cor-intellectualproperty@ChurchofJesusChrist.org](mailto:cor-intellectualproperty@churchofjesuschrist.org)
 
-### 38.8.9 Computers
+### 38.8.9 Communications to Stake Presidents and Bishops from Church Employees and Volunteers
+
+When Church employees and volunteers need to contact a stake president or bishop, they direct the communication to the leader’s executive secretary unless the matter is very urgent or confidential. This allows stake presidents and bishops to focus on the many responsibilities that only they can fulfill.
+
+Church employees and volunteers include representatives of all Church departments, education programs and schools, welfare and self-reliance operations, and Church-affiliated businesses.
+
+When an executive secretary is not called or fully functioning, a leader may be contacted directly.
+
+### 38.8.10 Computers
 
 Computers and software used in Church meetinghouses are provided and managed by Church headquarters or the area office. Leaders and members use these resources to support Church purposes, including family history work.
 
@@ -1419,7 +1452,7 @@ All software on these computers must be properly licensed to the Church.
 
 The stake president oversees the placement and use of computers in the stake, including those in family history centers. The stake technology specialist ensures that they are properly updated and maintained as outlined in [33.10](33-records-and-reports.md#3310-stake-and-ward-technology-specialists).
 
-### 38.8.10 Copyrighted Materials
+### 38.8.11 Copyrighted Materials
 
 Copyright is protection given by law to the creators of original works of authorship that are expressed in a tangible (including digital) form, including:
 
@@ -1477,13 +1510,13 @@ _Can I download or duplicate computer software and other programs for Church use
 
 _What permission is needed to present musical and theatrical productions?_ Productions that are owned by the Church or IRI may be performed in Church settings without permission from Church headquarters. If a copyrighted production is not owned by the Church, members must obtain the copyright owner’s permission to perform all or part of it in a Church setting. Usually the copyright owner requires fees or royalties even if no charge is made for the performances. All presentations should have the approval of local priesthood leaders.
 
-### 38.8.11 Curriculum Materials
+### 38.8.12 Curriculum Materials
 
 The Church provides materials to help members learn and live the gospel of Jesus Christ. These include the scriptures, general conference messages, magazines, manuals, books, and other resources. Leaders encourage members to use the scriptures and other resources as needed to study the gospel at home.
 
-Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see [Instructions for Curriculum](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng).
+Gospel learning and teaching should focus on the Savior and His doctrine. To help maintain this focus in Church classes, leaders ensure that teachers use approved materials. For information about approved materials, see Instructions for Curriculum.
 
-### 38.8.12 Directories
+### 38.8.13 Directories
 
 Members and leaders are encouraged to use member directories provided by the Church. These directories are available in Ward Directory and Map on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/maps/directory) and in the Member Tools app. They provide basic contact information for members. Stake and ward leaders are able to view additional information helpful for their callings. Leaders can also view this information in Leader and Clerk Resources.
 
@@ -1495,7 +1528,7 @@ Printed stake and ward directories are generally not needed. If leaders determin
 
 Membership lists should not be printed for non-Church use.
 
-### 38.8.13 Dress and Appearance
+### 38.8.14 Dress and Appearance
 
 Men and women are created in the image of God (see [Genesis 1:26–27](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1.26-27?lang=eng#p26); [Abraham 4:27](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/4.27?lang=eng#p27)). Mortal bodies are a sacred gift.
 
@@ -1505,7 +1538,7 @@ Members and leaders should not judge others based on dress and appearance. They 
 
 When issuing temple recommends and ward and stake callings, leaders consider worthiness and the guidance of the Spirit (see [26.3](26-temple-recommends.md#263-general-guidelines-for-issuing-temple-recommends), [30.1.1](30-callings-in-the-church.md#3011-general-guidelines), and 31.1.1).
 
-### 38.8.14 Extreme Preparation or Survivalism
+### 38.8.15 Extreme Preparation or Survivalism
 
 The Church encourages self-reliance. Members are encouraged to be spiritually and physically prepared for life’s challenges. See [22.1](22-providing-for-temporal-needs.md#221-build-self-reliance).
 
@@ -1513,7 +1546,7 @@ However, Church leaders have counseled against extreme or excessive preparation 
 
 Church leaders have counseled members not to go into debt to establish food storage. Instead, members should establish a home storage supply and a financial reserve over time. See [22.1.4](22-providing-for-temporal-needs.md#2214-temporal-preparedness) and “[Food Storage](https://www.churchofjesuschrist.org/study/manual/gospel-topics/food-storage?lang=eng)” (Gospel Topics, topics.ChurchofJesusChrist.org).
 
-### 38.8.15 Fast Day
+### 38.8.16 Fast Day
 
 Members may fast at any time. However, they usually observe the first Sabbath of the month as a fast day.
 
@@ -1521,11 +1554,11 @@ A fast day typically includes praying, going without food and drink for a 24-hou
 
 Sometimes Churchwide or local meetings are held on the first Sabbath of the month. When this occurs, the stake presidency determines an alternative Sabbath for fast day.
 
-### 38.8.16 Gambling and Lotteries
+### 38.8.17 Gambling and Lotteries
 
 The Church opposes and counsels against gambling in any form. This includes sports betting and government-sponsored lotteries.
 
-### 38.8.17 Guest Speakers or Instructors
+### 38.8.18 Guest Speakers or Instructors
 
 For most Church meetings and activities, speakers and instructors should belong to the local ward or stake.
 
@@ -1536,11 +1569,12 @@ The bishop or stake president carefully screens guest speakers or instructors. T
 The bishop or stake president ensures that:
 
 * The presentation is in harmony with Church doctrine.
+* The presentation does not include speculative topics (topics should be consistent with those addressed in general conference).
 * Guest speakers or instructors are not paid a fee, do not recruit participants, and do not solicit customers or clients.
 * The person’s travel expenses are not paid either with local unit budget funds or by private contributions.
 * Presentations comply with the guidelines for using Church facilities (see [35.5.2](35.md#3552-building-uses-that-are-not-allowed)).
 
-### 38.8.18 Immigration
+### 38.8.19 Immigration
 
 Members who remain in their native lands often have opportunities to build up and strengthen the Church there. However, immigration to another country is a personal choice.
 
@@ -1550,15 +1584,15 @@ Missionaries should not offer to sponsor others’ immigration. Nor should they 
 
 The Church does not sponsor immigration through Church employment.
 
-Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.35?lang=eng#p35); see also [38.8.34](38-church-policies-and-guidelines.md#38834-refugees) in this handbook).
+Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.35?lang=eng#p35); see also [38.8.35](38-church-policies-and-guidelines.md#38835-refugees) in this handbook).
 
-### 38.8.19 Internet
+### 38.8.20 Internet
 
-#### 38.8.19.1 Official Church Internet Resources
+#### 38.8.20.1 Official Church Internet Resources
 
 The Church maintains official websites, blogs, and social media accounts. These resources are clearly identified as official by the use of the Church wordmark or symbol (see [38.8.8](38-church-policies-and-guidelines.md#3888-church-name-wordmark-and-symbol)). They also comply with legal requirements and the Church’s intellectual property and privacy policies.
 
-#### 38.8.19.2 Members’ Use of the Internet in Church Callings
+#### 38.8.20.2 Members’ Use of the Internet in Church Callings
 
 Members may not create websites, blogs, or social media accounts on behalf of the Church or to officially represent the Church and its views, doctrine, policies, and procedures. However, they may create websites, blogs, or social media accounts to assist with their callings. When doing so, members should comply with the following guidelines:
 
@@ -1569,7 +1603,7 @@ Members may not create websites, blogs, or social media accounts on behalf of th
 * All content should be relevant for the intended audience and should be actively moderated.
 * The online resource should include contact information.
 * More than one administrator should be responsible for the online resource. This can provide continuity when a person’s calling or assignment changes. It also keeps one person from being burdened with updating and monitoring the resource.
-* Church-owned artwork, videos, music, or other materials may not be posted unless the use is clearly authorized by the [Terms of Use](https://www.churchofjesuschrist.org/legal/terms-of-use) of an official Church website or by the Church’s Intellectual Property Office. Copyrighted content from other sources should not be used unless the content owner has first given written permission. For more information about using copyrighted material, see [38.8.10](38-church-policies-and-guidelines.md#38810-copyrighted-materials).
+* Church-owned artwork, videos, music, or other materials may not be posted unless the use is clearly authorized by the [Terms of Use](https://www.churchofjesuschrist.org/legal/terms-of-use) of an official Church website or by the Church’s Intellectual Property Office. Copyrighted content from other sources should not be used unless the content owner has first given written permission. For more information about using copyrighted material, see [38.8.11](38-church-policies-and-guidelines.md#38811-copyrighted-materials).
 * When using images, videos, or personal information, consent from the content owner or the individuals involved is required. Consent may be obtained through a release form, a public announcement, a posted sign for a specific event, or written permission when needed. The country’s privacy laws should be followed.
 * Online resources should not duplicate tools and features that are already on ChurchofJesusChrist.org, Member Tools, or other Church resources.
 * Leaders and missionaries should coordinate to prevent duplicate communication.
@@ -1577,7 +1611,7 @@ Members may not create websites, blogs, or social media accounts on behalf of th
 
 For additional guidelines, see [internet.ChurchofJesusChrist.org](https://internet.churchofjesuschrist.org).
 
-#### 38.8.19.3 Personal Internet and Social Media Use
+#### 38.8.20.3 Personal Internet and Social Media Use
 
 The internet and social media have many positive uses. Among these are opportunities to share testimonies of the Savior and His restored gospel. Blogs, social media, and other internet technologies allow members to promote the messages of peace, hope, and joy that accompany faith in Christ.
 
@@ -1589,7 +1623,7 @@ Members should not use threatening, bullying, degrading, violent, or otherwise a
 
 Members should not imply that their messages represent or are sponsored by the Church.
 
-### 38.8.20 Internet, Satellite, and Video Equipment
+### 38.8.21 Internet, Satellite, and Video Equipment
 
 Church internet, satellite, and video equipment is to be used only for noncommercial Church purposes. Any use must be authorized by the stake presidency or bishopric.
 
@@ -1597,11 +1631,11 @@ This equipment may not be used to access or record programs that are not sponsor
 
 Only people who are trained to operate the equipment may do so. It should be locked securely when not in use. Equipment may not be removed from the building for personal use.
 
-### 38.8.21 Laws of the Land
+### 38.8.22 Laws of the Land
 
 Members should obey, honor, and sustain the laws in any country where they live or travel (see [Doctrine and Covenants 58:21–22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58.21-22?lang=eng#p21); [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.12?lang=eng#p12)). This includes laws that prohibit proselyting.
 
-### 38.8.22 Legal Counsel for Church Matters
+### 38.8.23 Legal Counsel for Church Matters
 
 When legal help is needed for Church matters, leaders should contact Church legal counsel. In the United States and Canada, the stake president contacts the Church’s Office of General Counsel:
 
@@ -1611,7 +1645,7 @@ When legal help is needed for Church matters, leaders should contact Church lega
 
 Outside the United States and Canada, the stake president contacts the area legal counsel at the area office.
 
-#### 38.8.22.1 Involvement or Documents in Legal Proceedings
+#### 38.8.23.1 Involvement or Documents in Legal Proceedings
 
 Church leaders should not involve themselves in civil or criminal cases for members in their units without first consulting with Church legal counsel. This same policy applies to speaking with or writing to lawyers or court personnel, including through email.
 
@@ -1625,7 +1659,7 @@ Leaders should speak with Church legal counsel if, in their Church capacities, t
 
 However well intentioned, Church leaders sharing information in legal proceedings can be misinterpreted and damaging. Such sharing can be especially harmful to victims and their families. Following the Church’s policy also helps keep the Church from being inappropriately implicated in legal matters.
 
-#### 38.8.22.2 Testimony in Legal Proceedings
+#### 38.8.23.2 Testimony in Legal Proceedings
 
 Church leaders may not testify on behalf of the Church in any legal proceeding without prior approval from the Office of General Counsel. This policy also applies to sentencing and parole hearings. Church leaders may not provide verbal or written evidence in their leadership capacity without this approval.
 
@@ -1633,23 +1667,23 @@ Leaders should not suggest or imply that their testimony in a legal proceeding r
 
 Leaders should not influence the testimony of a witness in any legal proceeding.
 
-Contact information for Church legal counsel is provided in [38.8.22](38-church-policies-and-guidelines.md#38822-legal-counsel-for-church-matters).
+Contact information for Church legal counsel is provided in [38.8.23](38-church-policies-and-guidelines.md#38823-legal-counsel-for-church-matters).
 
-### 38.8.23 Mailbox Use
+### 38.8.24 Mailbox Use
 
 In many countries, it is a violation of postal regulations to place any material without postage in or on residential mailboxes. This restriction applies to any Church-related materials, such as flyers, newsletters, or announcements. Church leaders should instruct members and missionaries not to place items in or on mailboxes.
 
-### 38.8.24 Members’ Communication with Church Headquarters
+### 38.8.25 Members’ Communication with Church Headquarters
 
 Church members are discouraged from calling, emailing, or writing letters to General Authorities about doctrinal questions, personal challenges, or requests. Responding personally would make it difficult for General Authorities to fulfill their duties. Members are encouraged to reach out to their local leaders, including their Relief Society or elders quorum president, when seeking spiritual guidance (see [31.3](31.md#313-other-opportunities-for-leaders-to-meet-with-members)).
 
 In most cases, correspondence from members to General Authorities will be referred back to local leaders. A stake president who needs clarification about doctrinal or other Church matters may write in behalf of members to the First Presidency.
 
-### 38.8.25 Members’ Employment
+### 38.8.26 Members’ Employment
 
 Church members should seek employment that is consistent with gospel principles and for which they can in good conscience ask the blessings of the Lord. This is a personal matter that is ultimately left to the member’s judgment and prayerful consideration.
 
-### 38.8.26 Members with Disabilities
+### 38.8.27 Members with Disabilities
 
 Leaders and members are encouraged to address the needs of all who live within their unit. Members with disabilities are valued and can contribute in meaningful ways. Disabilities may be intellectual, social, emotional, or physical.
 
@@ -1659,15 +1693,15 @@ Leaders also identify members who may need additional care because a parent, spo
 
 Leaders seek out and minister to members with disabilities who are living in group homes or other facilities away from family members.
 
-#### 38.8.26.1 Increasing Awareness and Understanding
+#### 38.8.27.1 Increasing Awareness and Understanding
 
 Leaders, teachers, and other members seek to understand each individual who has a disability and his or her strengths and needs. They can increase their understanding by talking with the person and his or her family members. Resources are available at [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org).
 
-#### 38.8.26.2 Giving Assistance
+#### 38.8.27.2 Giving Assistance
 
 Leaders assess the needs of those who have disabilities and their caregivers. These leaders determine how ward or stake resources could be used to help meet the needs as appropriate. Leaders encourage members to help and reach out in love and friendship.
 
-The bishopric or stake presidency may call a ward or stake disability specialist to help individuals, families, teachers, and other leaders (see [38.8.26.9](38-church-policies-and-guidelines.md#388269-disability-specialist)).
+The bishopric or stake presidency may call a ward or stake disability specialist to help individuals, families, teachers, and other leaders (see [38.8.27.9](38-church-policies-and-guidelines.md#388279-disability-specialist)).
 
 Leaders may also identify appropriate community resources that could help individuals who have disabilities and their families.
 
@@ -1675,11 +1709,11 @@ For more information on assisting persons who have disabilities, see [disability
 
 Leaders and members should not attempt to explain why someone has a disability or why a family has a child with a disability. They should not suggest that a disability is a punishment from God (see [John 9:2–3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/9.2-3?lang=eng#p2)) or a special privilege.
 
-#### 38.8.26.3 Providing Ordinances
+#### 38.8.27.3 Providing Ordinances
 
 See [38.2.4](38-church-policies-and-guidelines.md#3824-ordinances-for-those-who-have-intellectual-disabilities).
 
-#### 38.8.26.4 Providing Opportunities to Serve and Participate
+#### 38.8.27.4 Providing Opportunities to Serve and Participate
 
 Many members with disabilities can serve in nearly any Church assignment. Leaders prayerfully consider the abilities, circumstances, and desires of each person and then provide appropriate opportunities to serve. Leaders also counsel with the individual and his or her family. They consider the effects of a Church calling on the person and his or her family or caregiver. (See [Doctrine and Covenants 46:15](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/46.15?lang=eng#p15).)
 
@@ -1689,13 +1723,13 @@ Leaders and teachers should include members with disabilities in meetings, class
 
 The bishopric may invite a ward member to help a person with a disability in a meeting or activity. For a class that includes a member with disabilities, the bishopric may call multiple teachers. The teachers work together to meet the needs of all class members.
 
-If a person cannot participate in a meeting, class, or activity, leaders and teachers may consult with the member and his or her family about how to meet the member’s needs. The stake president or bishop may approve organizing special classes or programs for members with disabilities (see [38.8.26.5](38-church-policies-and-guidelines.md#388265-organizing-special-classes-programs-or-units)). If a person is not able to attend Church meetings, leaders and teachers may provide lesson materials, recordings, or streaming.
+If a person cannot participate in a meeting, class, or activity, leaders and teachers may consult with the member and his or her family about how to meet the member’s needs. The stake president or bishop may approve organizing special classes or programs for members with disabilities (see [38.8.27.5](38-church-policies-and-guidelines.md#388275-organizing-special-classes-programs-or-units)). If a person is not able to attend Church meetings, leaders and teachers may provide lesson materials, recordings, or streaming.
 
 Streaming of events, including sacrament meetings and funerals, is intended only for those who cannot attend in person (see [29.7](29-meetings-in-the-church.md#297-streaming-meetings-and-holding-virtual-meetings)). For more information about partaking of the sacrament, see [18.9.3](18-priesthood-ordinances-and-blessings.md#1893-guidelines-for-the-sacrament).
 
 Leaders encourage priesthood holders who have disabilities to participate in ordinances when appropriate. Beginning in January of the year they turn 12, priesthood holders and young women who have been baptized and confirmed and who are worthy may be baptized and confirmed for the dead in a temple. For guidelines about members with disabilities receiving their own temple ordinances, see [27.2.1.3](27-temple-ordinances-for-the-living.md#27213-members-who-have-intellectual-disabilities) and [27.3.1.2](27-temple-ordinances-for-the-living.md#27312-members-who-have-intellectual-disabilities).
 
-#### 38.8.26.5 Organizing Special Classes, Programs, or Units
+#### 38.8.27.5 Organizing Special Classes, Programs, or Units
 
 Members who have disabilities or special needs are encouraged to attend Sunday meetings in their wards unless they live in a care facility or residential treatment program where Church programs are organized (see [37.6](37-specialized-stakes-wards-and-branches.md#376-wards-and-branches-for-members-in-special-circumstances)).
 
@@ -1715,7 +1749,7 @@ When multiple wards participate in a disability activity program, the stake pres
 
 The agent bishop or agent stake president consults with other participating bishops or stake presidents to determine how these programs will be funded.
 
-_Disability activity leaders._ Adult members may be called as disability activity leaders. These leaders plan and carry out the disability activity program. They consult with ward and stake disability specialists (see [38.8.26.9](38-church-policies-and-guidelines.md#388269-disability-specialist)) to invite members with disabilities to participate. They counsel together about how to meet those members’ needs.
+_Disability activity leaders._ Adult members may be called as disability activity leaders. These leaders plan and carry out the disability activity program. They consult with ward and stake disability specialists (see [38.8.27.9](38-church-policies-and-guidelines.md#388279-disability-specialist)) to invite members with disabilities to participate. They counsel together about how to meet those members’ needs.
 
 Disability activity leaders are called and set apart under the direction of the agent bishop or agent stake president. A stake president may also assign a high councilor to serve as a disability activity leader.
 
@@ -1733,7 +1767,7 @@ Adults who help with activities complete the training at [ProtectingChildren.Chu
 
 If inappropriate behavior occurs, leaders’ immediate responsibility is to protect and help the vulnerable person. For information about responding to suspected abuse, see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line) and [abuse.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/get-help/abuse).
 
-#### 38.8.26.6 Interpreters for Members Who Are Deaf or Hard of Hearing
+#### 38.8.27.6 Interpreters for Members Who Are Deaf or Hard of Hearing
 
 Members who are deaf or hard of hearing take initiative in working with leaders to meet communication needs. Members and leaders work together to ensure that interpreters are available.
 
@@ -1749,17 +1783,17 @@ These same principles apply for members who are deaf or hard of hearing and do n
 
 Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints.
 
-#### 38.8.26.7 Privacy
+#### 38.8.27.7 Privacy
 
 Leaders should respect the privacy of members with disabilities both during and outside of leadership meetings where needs are discussed. Leaders do not share diagnoses or other personal information without permission.
 
-#### 38.8.26.8 Service Animals
+#### 38.8.27.8 Service Animals
 
 Bishops and stake presidents may determine whether to allow persons with disabilities to use trained service dogs in meetinghouses. Other types of animals, including emotional support animals (comfort pets), are generally not permitted in meetinghouses or at Church-sponsored events, except as specifically required by law. (In general in the United States, the Church is under no legal obligation to admit service dogs or emotional support animals to houses of worship.) Bishops and stake presidents make local decisions. They take into account the needs of persons with disabilities and the needs of others in the congregation.
 
 For additional guidelines on the use of service animals in Church facilities, see [27.1.3](27-temple-ordinances-for-the-living.md#2713-members-who-have-physical-disabilities) and [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org).
 
-#### 38.8.26.9 Disability Specialist
+#### 38.8.27.9 Disability Specialist
 
 The bishopric or stake presidency may call a ward or stake disability specialist. The specialist helps members with disabilities and their caregivers participate in Church meetings and activities and feel included.
 
@@ -1767,13 +1801,13 @@ The specialist serves members and leaders in the following ways:
 
 * Get to know individuals with disabilities and their families.
 * Respond to disability-related questions and concerns from caregivers, leaders, and others.
-* Help individuals access Church materials, meetings, and activities. This may occur through using technology and in other ways (see [38.8.26.10](38-church-policies-and-guidelines.md#3882610-resources)).
+* Help individuals access Church materials, meetings, and activities. This may occur through using technology and in other ways (see [38.8.27.10](38-church-policies-and-guidelines.md#3882710-resources)).
 * Identify meaningful opportunities for members with disabilities to serve.
 * Identify specific needs of families and, where appropriate, identify community, ward, and stake resources.
 
 The specialist can help members with disabilities and their caregivers share information about the disability with others.
 
-#### 38.8.26.10 Resources
+#### 38.8.27.10 Resources
 
 Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at [disability.ChurchofJesusChrist.org](https://disability.ChurchofJesusChrist.org). This website provides:
 
@@ -1793,7 +1827,7 @@ Telephone: 1-801-240-2477 or 1-800-453-3860, extension 2-2477
 
 Email: [disability@ChurchofJesusChrist.org](mailto:disability@churchofjesuschrist.org)
 
-### 38.8.27 Ministering to Members Affected by Crime and Incarceration
+### 38.8.28 Ministering to Members Affected by Crime and Incarceration
 
 Church leaders are encouraged to follow the Savior’s example of offering hope, understanding, and love to those who are affected by crime and those who are incarcerated (see [Matthew 25:34–36, 40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.34-36,40?lang=eng#p34)).
 
@@ -1805,13 +1839,13 @@ Email: [PrisonMinistry@ChurchofJesusChrist.org](mailto:prisonministry@churchofje
 
 Telephone: 1-801-240-2644 or 1-800-453-3860, extension 2-2644
 
-### 38.8.28 Other Faiths
+### 38.8.29 Other Faiths
 
 Much that is inspiring, noble, and worthy of the highest respect is found in many other faiths. Missionaries and other members must be sensitive and respectful toward the beliefs and traditions of others. They must also avoid giving offense.
 
 Stake and mission presidents who have questions about relationships with other faiths should contact the Area Presidency. Other local leaders who have such questions should contact the stake or mission president.
 
-### 38.8.29 Political and Civic Activity
+### 38.8.30 Political and Civic Activity
 
 Church members are encouraged to participate in political and governmental affairs. In many countries, this may include:
 
@@ -1848,9 +1882,9 @@ Church records, directories, and similar materials may not be used for political
 
 Church facilities may not be used for political purposes. However, facilities may be used for voting or voter registration where there is not a reasonable alternative (see [35.5.2.3](35.md#35523-other-uses)).
 
-### 38.8.30 Privacy of Members
+### 38.8.31 Privacy of Members
 
-Church leaders are obligated to protect the privacy of members. Church records, directories, and similar materials may not be used for personal, commercial, or political purposes (see also [38.8.12](38-church-policies-and-guidelines.md#38812-directories)).
+Church leaders are obligated to protect the privacy of members. Church records, directories, and similar materials may not be used for personal, commercial, or political purposes (see also [38.8.13](38-church-policies-and-guidelines.md#38813-directories)).
 
 Ward and stake leaders should not store or share confidential Church information outside of Church-provided applications, systems, or internet services. Examples of confidential Church information include a person’s:
 
@@ -1866,17 +1900,17 @@ Ward and stake leaders should not respond to these requests.
 
 For the Church’s privacy notice, see “[Privacy Notice](https://www.churchofjesuschrist.org/legal/privacy-notice?country=go)” on ChurchofJesusChrist.org. Members may also ask stake or ward leaders to help them access the policy.
 
-### 38.8.31 Privately Published Writings
+### 38.8.32 Privately Published Writings
 
 Members should not ask General Authorities, General Officers, or Area Seventies to coauthor or endorse Church books or other Church writings.
 
-### 38.8.32 Recording, Transcribing, or Streaming Messages by General Authorities, General Officers, and Area Seventies
+### 38.8.33 Recording, Transcribing, or Streaming Messages by General Authorities, General Officers, and Area Seventies
 
 Members should not record, transcribe, or stream messages by General Authorities, General Officers, and Area Seventies. However, some meetings where these leaders speak can be streamed under the direction of the bishop or stake president. For information, see [29.7](29-meetings-in-the-church.md#297-streaming-meetings-and-holding-virtual-meetings).
 
 Members may record broadcasts of general conference on home equipment for personal, noncommercial use.
 
-### 38.8.33 Referring to the Church and Its Members
+### 38.8.34 Referring to the Church and Its Members
 
 The name of the Church was given by revelation to the Prophet Joseph Smith in 1838: “For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints” ([Doctrine and Covenants 115:4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115.4?lang=eng#p4)). Referring to the Church and its members in the ways described below identifies a connection between Jesus Christ and members of His Church.
 
@@ -1898,11 +1932,11 @@ _Mormon_ is correctly used in proper names such as the Book of Mormon. It is als
 
 The term _Mormonism_ is inaccurate, and its use is discouraged. When describing the combination of doctrine, culture, and lifestyle unique to the Church, the phrase “the restored gospel of Jesus Christ” is accurate and preferred.
 
-### 38.8.34 Refugees
+### 38.8.35 Refugees
 
 Many people have fled their homes seeking relief from violence, war, religious persecution, and life-threatening situations. As part of their responsibility to care for those in need (see [Mosiah 4:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4.26?lang=eng#p26)), Church members offer their time, talents, and friendship to welcome refugees as members of their communities. See [Matthew 25:35](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25.35?lang=eng#p35); [ChurchofJesusChrist.org/refugees](https://www.churchofjesuschrist.org/refugees).
 
-### 38.8.35 Requests for Church Financial Assistance
+### 38.8.36 Requests for Church Financial Assistance
 
 The established programs of the Church provide financial help for people in need and for appropriate causes.
 
@@ -1910,7 +1944,7 @@ Church assistance to members in need is administered by bishops (see [22.3.2](22
 
 Members in need are encouraged to speak with their bishop instead of contacting Church headquarters or requesting money from other Church leaders or members. The bishop will likely ask leaders from the elders quorum or Relief Society to help assess needs.
 
-### 38.8.36 Research in the Church
+### 38.8.37 Research in the Church
 
 The purpose of Church research is to gather reliable information to support the deliberations of general Church leaders. The Correlation Research Division (CRD) is the only authorized research agency of the Church. CRD may also contract with third-party agencies to conduct research.
 
@@ -1932,13 +1966,13 @@ Telephone: 1-801-240-2727 or 1-800-453-3860, extension 2-2727
 
 Email: [research@ChurchofJesusChrist.org](mailto:research@churchofjesuschrist.org)
 
-### 38.8.37 Respecting Local Restrictions for Sharing the Gospel
+### 38.8.38 Respecting Local Restrictions for Sharing the Gospel
 
 The Church works to fulfill Jesus Christ’s commandment to take the gospel to all the world (see [Matthew 28:19](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28.19?lang=eng#p19)). Missionaries serve only in countries where they are officially recognized and welcomed by local governments.
 
 The Church and its members respect all laws and requirements with regard to missionary efforts. For example, in some parts of the world, missionaries are sent only to serve humanitarian or other specialized missions. Those missionaries do not proselytize. The Church does not send missionaries to some countries.
 
-### 38.8.38 Safety in Church Welfare and Self-Reliance Operations
+### 38.8.39 Safety in Church Welfare and Self-Reliance Operations
 
 Many Church welfare and self-reliance operations have equipment and machinery that can cause injury if it is not used properly. Agent stake presidents (or those they assign) and managers of these operations should ensure the safety of employees and volunteers.
 
@@ -1951,9 +1985,9 @@ If an accident occurs, the operations manager reports it to the following:
 * Welfare and Self-Reliance Services: 1-801-240-3001 or 1-800-453-3860, extension 2-3001
 * Risk Management Division at Church headquarters (see [20.7.6.3](20-activities.md#20763-accident-reporting) for contact information)
 
-### 38.8.39 Scriptures
+### 38.8.40 Scriptures
 
-#### 38.8.39.1 Editions of the Holy Bible
+#### 38.8.40.1 Editions of the Holy Bible
 
 The Church identifies editions of the Bible that align well with the Lord’s doctrine in the Book of Mormon and modern revelation (see [Articles of Faith 1:8](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.8?lang=eng#p8)). A preferred edition of the Bible is then chosen for many languages spoken by Church members.
 
@@ -1967,27 +2001,27 @@ Church-published editions of the Bible include footnotes, subject indexes, and o
 
 When possible, members should use a preferred or Church-published edition of the Bible in Church classes and meetings. This helps maintain clarity in the discussion and consistent understanding of doctrine. Other editions of the Bible may be useful for personal or academic study.
 
-#### 38.8.39.2 Scripture Translation
+#### 38.8.40.2 Scripture Translation
 
 The Lord directed His prophets and apostles to preserve the scriptures in safety (see [Doctrine and Covenants 42:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42.56?lang=eng#p56)). The Council of the First Presidency and Quorum of the Twelve Apostles closely supervises the translation of Church scriptures. Using approved processes helps ensure doctrinal accuracy and preserve evidence of the text’s origins.
 
 Area Presidencies submit official requests for new translations of the scriptures to the Church Correlation Department.
 
-#### 38.8.39.3 Modern-Language Scriptures
+#### 38.8.40.3 Modern-Language Scriptures
 
 The Council of the First Presidency and Quorum of the Twelve Apostles has not authorized efforts to translate or rewrite scripture text into modern or informal language. This counsel does not apply to Church publications for children.
 
-#### 38.8.39.4 Accessing Scriptures
+#### 38.8.40.4 Accessing Scriptures
 
 Printed copies of scriptures, including some preferred editions of the Bible, are available from Church Distribution Services. Preferred editions of the Bible may also be available at local booksellers, online, and in Bible mobile applications. Electronic text and audio recordings of Church-published editions and some preferred editions are available in the Gospel Library app and at [scriptures.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/scriptures). These resources also provide [lists of scriptures](https://www.churchofjesuschrist.org/study/manual/translations-and-downloads?lang=eng) that are available by language.
 
-### 38.8.40 Seeking Information from Reliable Sources
+### 38.8.41 Seeking Information from Reliable Sources
 
 In today’s world, information is easy to access and share. This can be a great blessing for those seeking to be educated and informed. However, many sources of information are unreliable and do not edify. Some sources seek to promote anger, contention, fear, or baseless conspiracy theories (see [3 Nephi 11:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11.30?lang=eng#p30); [Mosiah 2:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2.32?lang=eng#p32)). Therefore, it is important that Church members be wise as they seek truth.
 
 Members of the Church should seek out and share only credible, reliable, and factual sources of information. They should avoid sources that are speculative or founded on rumor. The guidance of the Holy Ghost, along with careful study, can help members discern between truth and error (see [Doctrine and Covenants 11:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11.12?lang=eng#p12); [45:57](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.57?lang=eng#p57)). In matters of doctrine and Church policy, the authoritative sources are the scriptures, the teachings of the living prophets, and the General Handbook.
 
-### 38.8.41 Seminars and Similar Gatherings
+### 38.8.42 Seminars and Similar Gatherings
 
 The Church warns members against seminars and similar gatherings that include presentations that:
 
@@ -1998,17 +2032,17 @@ Members should not allow their position or standing in the Church to be used to 
 
 For more information, see [35.5.2](35.md#3552-building-uses-that-are-not-allowed), [38.6.12](38-church-policies-and-guidelines.md#38612-the-occult), and [38.7.8](38-church-policies-and-guidelines.md#3878-medical-and-health-care). See also [Jacob 6:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/6.12?lang=eng#p12).
 
-### 38.8.42 Support to Members in Hospitals and Care Centers
+### 38.8.43 Support to Members in Hospitals and Care Centers
 
 Leaders provide support to members in hospitals and care centers within their units. They follow guidelines established by the facilities.
 
 For information about administering the sacrament for members in these facilities, see [18.9.1](18-priesthood-ordinances-and-blessings.md#1891-approval-to-administer-the-sacrament). For information about creating a ward or branch, see [37.6](37-specialized-stakes-wards-and-branches.md#376-wards-and-branches-for-members-in-special-circumstances).
 
-### 38.8.43 Taxable Activities
+### 38.8.44 Taxable Activities
 
 Ward and stake leaders ensure that local Church activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.8.1](34-finances-and-audits.md#3481-tax-exempt-status).
 
-### 38.8.44 Taxes
+### 38.8.45 Taxes
 
 Church members are to obey the tax laws of the nation where they live (see [Articles of Faith 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1.12?lang=eng#p12); [Doctrine and Covenants 134:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/134.5?lang=eng#p5)). Members who disagree with tax laws can challenge them as the laws of their countries permit.
 
@@ -2022,7 +2056,7 @@ These members may be ineligible for a temple recommend. They should not be calle
 
 A Church membership council is required if a member is convicted of a felony for violating tax laws (see [32.6.1.5](32-repentance-and-membership-councils.md#32615-some-other-acts)).
 
-### 38.8.45 Travel Policies
+### 38.8.46 Travel Policies
 
 A man and a woman should not travel alone together for Church activities, meetings, or assignments unless they are married to each other or are both single. For other travel policies, see [20.7.7](20-activities.md#2077-travel).
 
@@ -2143,7 +2177,7 @@ The Church’s Military Relations and Chaplain Services Division provides centra
 * Civic and veteran organizations.
 * Colleges and universities.
 
-Each organization establishes its own educational and ministry requirements for chaplains. However, most require Church endorsement before a person may serve as a Latter-day Saint chaplain.
+Each organization establishes its own educational and ministry requirements for chaplains. Most organizations require Church endorsement before a person may serve as a Latter-day Saint chaplain. The Church’s Military Relations and Chaplain Services Division provides endorsement for all Latter-day Saint chaplains. Letters of endorsement from bishops and stake presidents are not sufficient and should not be provided.
 
 Latter-day Saint chaplains:
 
@@ -2155,13 +2189,7 @@ For more information, see “[Latter-day Saint Chaplains](https://www.churchofje
 
 ### 38.9.8 Wearing the Garment in the Military
 
-Bishops ensure that endowed members who enter military service understand the following guidelines.
-
-When possible, endowed members in military service should wear the garment the same as any other member. However, members should avoid exposing the garment to the view of those who do not understand its significance. Members should seek the guidance of the Spirit and use tact, discretion, and wisdom. It may be best to lay the garment aside temporarily and put it on again when conditions permit. However, mere inconvenience in wearing the garment does not justify laying it aside.
-
-Sometimes military regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected, provided he or she remains worthy. The member will still receive the spiritual blessings associated with wearing the garment. If members in military service are unable to wear the garment, they should wear it again as soon as circumstances permit.
-
-Members in the military should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. Distribution Services is not able to maintain an inventory of all styles, color, or fabrics. If they do not carry the needed color or type of garment, the service member may place a special order. To place special orders for garments, members may contact Distribution Services or use the [Uniform Garment Marking Order Form](https://www.churchofjesuschrist.org/bc/content/shared/english/military/Garment-Guidelines-for-Military-Police-2017-01-05.pdf).
+See [38.5.6](38-church-policies-and-guidelines.md#3856-wearing-the-garment-in-the-military-fire-service-law-enforcement-or-a-similar-agency).
 
 ### 38.9.9 Senior Missionary Couples
 
