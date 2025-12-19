@@ -34,7 +34,7 @@ __THE CHURCH’S ROLE IN HELPING A PERSON REPENT__
 
 The Lord said that “no unclean thing can inherit the kingdom of heaven” ([Alma 11:37](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p37#p37); see also [3 Nephi 27:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=eng&id=p19#p19)). Our sins make us unclean—unworthy to dwell in the presence of our Heavenly Father. They also bring us anguish in this life.
 
-God’s law of justice requires a consequence when we sin (see [Alma 42:14, 17–18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p14,17-p18#p14)). However, His great plan of mercy “can satisfy the demands of justice, and encircles [us] in the arms of safety” ([Alma 34:16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p16#p16); see also [Mosiah 15:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p9#p9)).
+God’s law of justice requires a consequence when we sin (see [Alma 42:14, 17–18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p14,p17-p18#p14)). However, His great plan of mercy “can satisfy the demands of justice, and encircles [us] in the arms of safety” ([Alma 34:16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p16#p16); see also [Mosiah 15:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p9#p9)).
 
 To bring about His plan of mercy, Heavenly Father sent His Only Begotten Son, Jesus Christ, to atone for our sins (see [Alma 42:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p15#p15)). Jesus suffered the penalty that the law of justice requires for our sins (see [Doctrine and Covenants 19:15–19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/19?lang=eng&id=p15-p19#p15); see also [Alma 42:24–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p24-p25#p24)). Through this sacrifice, both the Father and the Son showed Their infinite love for us (see [John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16#p16)).
 
@@ -112,15 +112,13 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 6:18
 
-How to Care for Sin-burdened Members with Love
-
 ## 32.4 Confession, Confidentiality, and Reporting to Government Authorities
 
 ### 32.4.1 Confession
 
 Repentance requires that sins be confessed to Heavenly Father. Jesus Christ said, “By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them” ([Doctrine and Covenants 58:43](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p43#p43); see also [Mosiah 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng&id=p29#p29)).
 
-When Church members commit serious sins, their repentance also includes confession to their bishop or stake president. He is then able to exercise the keys of the gospel of repentance on their behalf (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=eng&id=p1#p1); [84:26–27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p26-p27#p26); [107:18, 20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p18,20#p18)). This helps them heal and return to the gospel path through the power of the Savior’s Atonement.
+When Church members commit serious sins, their repentance also includes confession to their bishop or stake president. He is then able to exercise the keys of the gospel of repentance on their behalf (see [Doctrine and Covenants 13:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=eng&id=p1#p1); [84:26–27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p26-p27#p26); [107:18, 20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p18,p20#p18)). This helps them heal and return to the gospel path through the power of the Savior’s Atonement.
 
 The purpose of confession is to encourage members to unburden themselves so they can fully seek the Lord’s help in changing and healing. Developing a “broken heart and a contrite spirit” is aided by confession ([2 Nephi 2:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=p7#p7)). Voluntary confession shows that a person desires to repent.
 
@@ -343,17 +341,18 @@ See [32.6.1.4](32-repentance-and-membership-councils.md#32614-violations-of-trus
 
 #### 32.6.2.5 Some Other Acts
 
-King Benjamin taught, “I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many that I cannot number them” ([Mosiah 4:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p29#p29)). A council may be necessary if a person:
+King Benjamin taught, “I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many that I cannot number them” ([Mosiah 4:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng&id=p29#p29)).
+
+A membership council may be necessary if a person:
 
 * Shows a pattern of committing serious sins (see [Doctrine and Covenants 82:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p7#p7)).
 * Deliberately abandons family responsibilities, including nonpayment of child support and alimony.
 * Threatens physical violence, whether in person or online (see [32.2.1](32-repentance-and-membership-councils.md#3221-help-protect-others)).
 * Sells illegal drugs.
 * Commits other serious criminal acts.
+* Submits to, performs, arranges for, pays for, consents to, or encourages an abortion, unless an exception in [38.6.1](38-church-policies-and-guidelines.md#3861-abortion) applies.
 
 In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
-
-A membership council may be necessary if a member submits to, performs, arranges for, pays for, or encourages an abortion. See [38.6.1](38-church-policies-and-guidelines.md#3861-abortion) for guidelines.
 
 When a Membership Council Is Required or May Be Necessary
 
@@ -363,7 +362,7 @@ When a Membership Council Is Required or May Be Necessary
 | Sexual Immorality | • Incest<br/>• Child pornography<br/>• Plural marriage<br/>• Sexual predatory behavior | • Adultery, fornication, same-sex relations, and all other sexual relations outside of a legal marriage between a man and a woman, including sexual encounters online or over the phone<br/>• Cohabitation, civil unions and partnerships, and same-sex marriage<br/>• Intensive or compulsive use of pornography that has caused significant harm to a member’s marriage or family |
 | Fraudulent Acts | • Financial predatory behavior, such as fraud and similar activities (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property) | • Robbery, burglary, theft, or embezzlement (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property; see [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data) if a member was involved in the misuse of personal data)<br/>• Perjury |
 | Violations of Trust | • Serious sin while holding a prominent Church position | • Serious sin while holding a position of authority or trust in the Church or the community (see [32.6.3.3](32-repentance-and-membership-councils.md#32633-embezzling-church-funds) if a member was involved in embezzlement of Church funds or property; see [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data) if a member was involved in the misuse of personal data)<br/>• Serious sin that is widely known |
-| Some Other Acts | • Most felony convictions | • Abortion (unless an exception in [38.6.1](38-church-policies-and-guidelines.md#3861-abortion) applies)<br/>• Pattern of serious sins<br/>• Deliberate abandonment of family responsibilities, including nonpayment of child support and alimony<br/>• Sale of illegal drugs<br/>• Other serious criminal acts |
+| Some Other Acts | • Most felony convictions | • Pattern of serious sins<br/>• Deliberate abandonment of family responsibilities, including nonpayment of child support and alimony<br/>• Threat of physical violence<br/>• Sale of illegal drugs<br/>• Other serious criminal acts<br/>• Abortion (unless an exception in [38.6.1](38-church-policies-and-guidelines.md#3861-abortion) applies) |
 
 ### 32.6.3 When the Stake President Counsels with the Area Presidency about Whether a Membership Council or Other Action Is Necessary
 

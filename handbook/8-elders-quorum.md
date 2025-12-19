@@ -32,10 +32,7 @@ Some wards have a very large number of active Melchizedek Priesthood holders. Fo
 
 ## 8.2 Participating in God’s Work of Salvation and Exaltation
 
-3:42
-
-Efforts Magnified as Presidencies Work Together
-
+3:31
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
@@ -90,10 +87,7 @@ Activities should strengthen quorum members’ desires to make and keep covenant
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
-2:43
-
-How to Care for Those in Need
-
+2:46
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2](22-providing-for-temporal-needs.md#2262-relief-society-and-elders-quorum-presidencies).
 
 #### 8.2.2.1 Ministering
@@ -118,7 +112,7 @@ As coordinated by the bishop, the elders quorum and Relief Society presidencies 
 
 If a person or family needs assistance, the elders quorum and Relief Society presidents counsel together, as coordinated by the bishop, about how to help (see [22.4](22-providing-for-temporal-needs.md#224-principles-for-providing-church-assistance)).
 
-The elders quorum president, Relief Society president, or another leader helps the person or family develop a [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf). Ministering brothers or sisters can also help with the plan. Often, other members of the elders quorum or Relief Society have skills or experience that can help. All who assist treat information with confidentiality. For more information, see [22.3.3](22-providing-for-temporal-needs.md#2233-help-members-build-long-term-self-reliance) and [22.8](22-providing-for-temporal-needs.md#228-role-of-the-ward-youth-council).
+The elders quorum president, Relief Society president, or another leader helps the person or family develop a [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf). Ministering brothers or sisters can also help with the plan. Often, other members of the elders quorum or Relief Society have skills or experience that can help. All who assist treat information with confidentiality. For more information, see [22.3.3](22-providing-for-temporal-needs.md#2233-help-members-build-self-reliance) and [22.8](22-providing-for-temporal-needs.md#228-role-of-the-ward-youth-council).
 
 #### 8.2.2.4 When a Ward Member Dies
 
@@ -138,7 +132,7 @@ The elders quorum president assigns a member of the presidency to help lead effo
 
 This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1](23.md#2361-bishopric) and [23.6.3](23.md#2363-ao-ward-mission-leader).
 
-The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4](23.md#234-hold-weekly-coordination-meetings).
+The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4](23.md#234-hold-weekly-missionary-coordination-meetings).
 
 ### 8.2.4 Uniting Families for Eternity
 
@@ -153,15 +147,13 @@ Presidency members also plan ways to help members increase their understanding o
 
 The presidency encourages quorum members to learn about their family history. They help new and returning members, recently ordained elders, and newly called missionaries find and prepare ancestors’ names for temple ordinances.
 
-The elders quorum president assigns a member of the presidency to help lead temple and family history work in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
+The elders quorum president assigns a member of the presidency to help lead temple and family history efforts in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
 
-This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his work. See [25.2.2](25-temple-and-family-history-work.md#2522-elders-quorum-and-relief-society-presidencies).
+This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his efforts. See [25.2.2](25-temple-and-family-history-work.md#2522-elders-quorum-and-relief-society-presidencies).
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
-2:49
-
-Helping Members Gain the Vision
+2:45
 
 ## 8.3 Elders Quorum Leaders
 
@@ -200,7 +192,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21](21-ministering.md).
 * Under the bishop’s guidance, counsel with adult members of the ward (see [31.1](31.md#311-guiding-principles) and [31.3](31.md#313-other-opportunities-for-leaders-to-meet-with-members)). Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources](https://www.churchofjesuschrist.org/study/manual/counseling-resources?lang=eng). For information about abuse, see [38.6.2](38-church-policies-and-guidelines.md#3862-abuse).
 * With the Relief Society presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3](8-elders-quorum.md#823-inviting-all-to-receive-the-gospel) and [9.2.3](9-relief-society.md#923-inviting-all-to-receive-the-gospel)). Oversee the ward mission leader if one is called.
-* With the Relief Society presidency, help lead temple and family history work in the ward (see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity) and [9.2.4](9-relief-society.md#924-uniting-families-for-eternity)). Oversee the ward temple and family history leader if one is called.
+* With the Relief Society presidency, help lead the ward’s efforts in temple and family history work (see [8.2.4](8-elders-quorum.md#824-uniting-families-for-eternity) and [9.2.4](9-relief-society.md#924-uniting-families-for-eternity)). Oversee the ward temple and family history leader if one is called.
 * Coordinate the elders quorum’s efforts to strengthen young adult brethren, both single and married. One counselor may be assigned to serve with young single adults (see [14.1.2.2](14-single-members.md#14122-elders-quorum-and-relief-society-presidency-members-assigned-to-young-single-adults)).
 * Meet with each quorum member individually at least once a year. Discuss priesthood duties and the well-being of the member and his family.
 * Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p89#p89)). This includes teaching them how to exercise the priesthood in performing ordinances and blessings.

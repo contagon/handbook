@@ -450,7 +450,7 @@ Stake and ward leaders should make effective records management a part of their 
 
 All Church records, reports, and data should be protected against unauthorized access, change, destruction, or disclosure. This information should be kept in a safe place. Highly sensitive records, including computer printouts, should be kept in a locked drawer or cabinet in the leader’s office when they are not being used.
 
-Where possible, electronic copies of records, reports, and data should be encrypted and password protected. Lost or stolen Church-owned devices or storage media should be reported promptly at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). Misuse of Church information, including personal data, should also be reported.
+Where possible, electronic copies of records, reports, and data should be encrypted and password protected. Lost or stolen Church-owned devices or storage media should be reported promptly at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.vf.force.com/apex/IncidentMgmtPortal_mobile). Misuse of Church information, including personal data, should also be reported.
 
 A membership council may be necessary in serious cases of misuse of personal data (see [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data)). Such misuse includes deliberately entering false information in Church systems or intentionally using or sharing personal data for non-Church purposes.
 

@@ -69,7 +69,7 @@ Members increase their financial preparedness by:
 * Minimizing debt.
 * Living within a budget.
 * Saving for the future.
-* Obtaining an appropriate education (see [22.3.3](22-providing-for-temporal-needs.md#2233-help-members-build-long-term-self-reliance)).
+* Obtaining an appropriate education (see [22.3.3](22-providing-for-temporal-needs.md#2233-help-members-build-self-reliance)).
 
 Preparedness also includes planning for emergencies. Members are encouraged to build both a short-term and longer-term supply of food, water, and other necessities.
 
@@ -150,13 +150,15 @@ Members strive to meet their basic needs through their own efforts and help from
 
 Church assistance might include help with short-term needs such as food, clothing, housing, or other basics. Bishops may use fast offerings to respond to these needs. [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where bishops’ orders are available, bishops generally use those to provide food and other basic goods (see “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in Leader and Clerk Resources [LCR]).
 
+Members who receive assistance work with leaders to develop a [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf). When meeting with members, bishops should be attentive to any urgent needs.
+
 When providing Church assistance, leaders follow the principles and policies outlined in sections [22.4](22-providing-for-temporal-needs.md#224-principles-for-providing-church-assistance) and [22.5](22-providing-for-temporal-needs.md#225-policies-for-providing-church-assistance).
 
-### 22.3.3 Help Members Build Long-Term Self-Reliance
+### 22.3.3 Help Members Build Self-Reliance
 
 Members may need ongoing support to address longer-term challenges. Education, vocational training, or other resources can help them build self-reliance and provide for their longer-term needs. Relief Society and elders quorum leaders, ministering brothers and sisters, and others can help members gain access to these resources.
 
-The [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf) helps members identify their strengths, needs, and resources. This plan should be used each time Church assistance is considered. The bishop may assign Relief Society leaders, elders quorum leaders, ministering brothers and sisters, or others to help members fill out the plan.
+The [Self-Reliance Plan](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/welfare/PD60007387_000_SelfReliancePlan_Member_Web_Interactive.pdf) helps members identify their strengths, needs, and resources. This plan is used with all members who receive Church assistance. The bishop may assign Relief Society leaders, elders quorum leaders, ministering brothers and sisters, or others to help members fill out the plan.
 
 As part of a self-reliance plan, leaders may recommend that members participate in a [self-reliance group](https://www.churchofjesuschrist.org/study/books-and-lessons/self-reliance-resources?lang=eng). These groups help them develop skills and resources for better education, employment, or financial management (see [22.13](22-providing-for-temporal-needs.md#2213-church-resources)). The groups are generally organized by stake or ward councils (see [22.10.2](22-providing-for-temporal-needs.md#22102-ao-specialized-working-groups), [22.7](22-providing-for-temporal-needs.md#227-role-of-the-ward-council)).
 
@@ -195,8 +197,6 @@ When providing Church assistance, leaders follow the principles in sections [22.
 Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
 22:58
-
-Sacred Funds, Sacred Responsibilities
 
 Principles for Providing Church Assistance
 
@@ -248,7 +248,9 @@ Church leaders should follow the policies outlined in this section when providin
 
 #### 22.5.1.1 Assistance to Ward Members
 
-Generally, members who receive Church assistance should live in the ward boundaries and have their membership record in the ward. Assistance can be given regardless of whether the member regularly attends Church meetings or follows Church standards.
+Generally, members who receive Church assistance should live in the ward boundaries and have their membership record in the ward.
+
+Members receiving Church assistance should be making efforts to progress both temporally and spiritually. However, temporary assistance can be provided even if members do not yet attend Church meetings or follow Church standards.
 
 If a member recently moved into the ward, the bishop contacts the previous bishop to discuss the person’s situation before providing assistance. Bishops can also review any assistance given during the previous three years in the “[Finance](https://lcrf.churchofjesuschrist.org)” section of [LCR](https://lcr.churchofjesuschrist.org).
 
@@ -555,6 +557,6 @@ The following table lists Church resources that can support members’ efforts t
 | --- | --- |
 | Immediate needs | • The Lord’s storehouse (members’ offerings of time, talents, compassion, materials, and financial resources)<br/>• Fast offerings<br/>• Bishops’ orders for food and other basic goods through a bishops’ storehouse or grocery store.\*<br/>• Bishops’ orders for clothing or household items through a Deseret Industries store.\*<br/><br/>\* Bishops’ orders are placed through “[Bishops’ Orders and Referrals](https://wsrs.churchofjesuschrist.org/LocalUnitResources)” in LCR. |
 | Education and employment | • Self-reliance groups ([Find a Better Job](https://www.churchofjesuschrist.org/study/manual/find-a-better-job-for-self-reliance?lang=eng), [Starting and Growing My Business](https://www.churchofjesuschrist.org/study/manual/starting-and-growing-my-business-for-self-reliance?lang=eng), [Education for Better Work](https://www.churchofjesuschrist.org/study/manual/education-for-better-work-for-self-reliance?lang=eng))<br/>• [Stake Welfare and Self-Reliance Resource Centers](https://assets.ldscdn.org/da/df/dadf5707998611eca190eeeeac1ee215e0a084a1/products_and_services_overview_booklet.pdf)<br/>• [Employment Services](https://www.churchofjesuschrist.org/life/life-help-employment)<br/>• [BYU–Pathway Worldwide](https://www.byupathway.org)<br/>• [EnglishConnect](https://www.englishconnect.org)<br/>• [Perpetual Education Fund loans](https://www.churchofjesuschrist.org/self-reliance/pef-perpetual-education-fund)<br/>• Training programs through [Deseret Industries](https://www.deseretindustries.org) or [Development Counseling Services](https://providentliving.churchofjesuschrist.org/development-counseling-services) |
-| Emotional health | • Self-reliance group ([Emotional Resilience](https://www.churchofjesuschrist.org/study/manual/emotional-resilience-for-self-reliance?lang=eng))<br/>• [Counseling Resources](https://www.churchofjesuschrist.org/study/manual/counseling-resources?lang=eng)<br/>• [Family Services counseling](https://providentliving.churchofjesuschrist.org/lds-family-services/counseling-services). In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals](https://lcr.churchofjesuschrist.org)” in [LCR](https://lcr.churchofjesuschrist.org). Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop.<br/>• [Addiction recovery groups](https://addictionrecovery.churchofjesuschrist.org) and [spouse and family support groups](https://addictionrecovery.churchofjesuschrist.org/spouses-and-families)<br/>• [Strengthening Marriages and Families courses](https://www.churchofjesuschrist.org/topics/family/strengthening-marriages-and-families)<br/>• [Family Services consultations for leaders](https://providentliving.churchofjesuschrist.org/lds-family-services/leader-resources)<br/>• [Life Help resources](https://www.churchofjesuschrist.org/topics/families-and-individuals/lifes-challenges/hope-and-help) |
+| Emotional health | • Self-reliance group ([Emotional Resilience](https://www.churchofjesuschrist.org/study/manual/emotional-resilience-for-self-reliance?lang=eng))<br/>• [Counseling Resources](https://www.churchofjesuschrist.org/study/manual/counseling-resources?lang=eng)<br/>• [Family Services counseling](https://providentliving.churchofjesuschrist.org/lds-family-services/counseling-services). In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals](https://lcr.churchofjesuschrist.org)” in [LCR](https://lcr.churchofjesuschrist.org). Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop.<br/>• [Addiction recovery groups](https://addictionrecovery.churchofjesuschrist.org) and [spouse and family support groups](https://addictionrecovery.churchofjesuschrist.org/spouses-and-families)<br/>• [Strengthening Marriages and Families courses](https://www.churchofjesuschrist.org/topics/family/strengthening-marriages-and-families)<br/>• [Family Services consultations for leaders](https://providentliving.churchofjesuschrist.org/lds-family-services/leader-resources)<br/>• [Life Help resources](https://www.churchofjesuschrist.org/study/life-help?lang=eng) |
 | Temporal preparedness | • Self-reliance group ([Personal Finances](https://www.churchofjesuschrist.org/study/manual/personal-finances-for-self-reliance?lang=eng))<br/>• [Home storage products](https://providentliving.churchofjesuschrist.org/self-reliance/home-storage-centers)<br/>• [Temporal Preparedness Resources](https://www.churchofjesuschrist.org/life/temporal-preparedness-resources)<br/>• [Stake and Ward Preparedness](https://www.churchofjesuschrist.org/study/manual/stake-and-ward-preparedness?lang=eng) |
 | Community service | • [JustServe.org](https://www.justserve.org)<br/>• Other Church-supported projects |

@@ -27,7 +27,7 @@ Sacred music is a vital part of sacrament meeting and other Church meetings. It 
 
 Ward and stake music coordinators work with priesthood leaders to plan music for worship services. They select music that enhances the spirit of worship in the meetings.
 
-Hymns are used for all congregational singing in worship services. Hymns or other sacred musical selections may be used for prelude and postlude music, choir music, and solo or small group presentations. All music in Church meetings should be presented in the spirit of worship of Heavenly Father and Jesus Christ, not as a performance to showcase musical talent.
+Hymns and worshipful children’s songs are used for all congregational singing in worship services. Hymns, children’s songs, or other sacred musical selections may be used for prelude and postlude music, choir music, and solo or small group presentations. All music in Church meetings should be presented in the spirit of worship of Heavenly Father and Jesus Christ, not as a performance to showcase musical talent.
 
 Musical selections should be consistent with the worshipful spirit of the hymns. They should teach the gospel with power and clarity.
 
@@ -39,13 +39,13 @@ For information about music for baptismal services, see [18.7.2](18-priesthood-o
 
 Members gather in sacrament meeting to remember Jesus Christ by partaking of the sacrament. They gather to build faith and testimony and to worship Heavenly Father and Jesus Christ. Music should be selected to help achieve these purposes.
 
-Music in sacrament meeting includes congregational singing of hymns to open and close the meeting and before the administration of the sacrament. Congregational hymns provide an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title8-p19#title8),” Hymns, 380–81.
+Music in sacrament meeting includes congregational singing of hymns or worshipful children’s songs to open and close the meeting. It also includes singing a hymn before the administration of the sacrament. Congregational singing provides an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title8-p19#title8),” Hymns, 380–81.
 
-Prelude music is played as members gather before the meeting. Its purpose is to create an atmosphere of worship that invites the Spirit. After the closing prayer, an instrumental postlude is played as members leave the meeting. Hymns and other sacred music can be selected for prelude and postlude music.
+Prelude music is played as members gather before the meeting. Its purpose is to create an atmosphere of worship that invites the Spirit. After the closing prayer, an instrumental postlude is played as members leave the meeting. Hymns, worshipful children’s songs, and other sacred music can be selected for prelude and postlude music.
 
-A sacrament meeting could also include an additional congregational hymn sung in the middle of the meeting—for example, between spoken messages. Or it may include one or more other musical selections. These could be presented by choirs (see [19.3.7](19-music.md#1937-choirs)), vocal or instrumental soloists, or small groups. Sacrament meetings should not be turned over to outside musical groups.
+A sacrament meeting could also include additional congregational singing in the middle of the meeting—for example, between spoken messages. Or it may include one or more other musical selections. These could be presented by choirs (see [19.3.7](19-music.md#1937-choirs)), vocal or instrumental soloists, or small groups. Sacrament meetings should not be turned over to outside musical groups.
 
-The piano, organ, or another instrument approved by the bishopric may be used to accompany hymn singing in sacrament meeting (see [19.3.6](19-music.md#1936-musical-instruments)).
+The piano, organ, or another instrument approved by the bishopric may be used to accompany congregational singing in sacrament meeting (see [19.3.6](19-music.md#1936-musical-instruments)).
 
 Music coordinators and bishoprics try to find a balance between familiar and less-familiar hymns. Musical selections presented by the ward choir or others can help members become more familiar with hymns that are not as well known.
 
@@ -59,7 +59,7 @@ Sunday quorum meetings and classes do not routinely begin with an opening hymn.
 
 Music for stake conference should be planned to strengthen faith and testimony. It should follow the principles in [19.3.1](19-music.md#1931-planning-music-for-church-meetings). The presiding authority reviews all proposed musical selections early in the planning.
 
-Music for stake conference usually includes congregational hymn singing and other musical selections from a choir, soloists, or small groups. The congregation normally sings a hymn at the midpoint of the meeting. Stake presidencies may approve solo and accompanying instruments other than the piano or organ (see [19.3.6](19-music.md#1936-musical-instruments)).
+Music for stake conference usually includes congregational singing and other musical selections from a choir, soloists, or small groups. The congregation normally sings hymns or worshipful children’s songs in the middle of the meeting. Stake presidencies may approve solo and accompanying instruments other than the piano or organ (see [19.3.6](19-music.md#1936-musical-instruments)).
 
 ### 19.3.5 Other Music in the Chapel
 
@@ -93,7 +93,7 @@ Where there are enough members, wards may organize choirs that sing in sacrament
 
 Ward members may volunteer to sing in the choir. Members and others may also be invited to participate. Auditions are not held.
 
-Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3_p1#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
+Choirs are encouraged to use the hymns and worshipful children’s songs of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3_p1#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
 
 Choir rehearsals do not usually exceed one hour.
 

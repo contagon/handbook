@@ -185,8 +185,6 @@ The stake president and bishop ensure that all Church funds are properly handled
 
 22:58
 
-Sacred Funds, Sacred Responsibilities
-
 ### 34.5.1 Companionship Principle
 
 The companionship principle requires two persons—a member of the bishopric and a clerk, or two members of the bishopric—to be actively involved when recording and disbursing Church funds. This principle is essential to safeguarding sacred funds and protecting Church leaders.
@@ -376,7 +374,7 @@ The stake president and stake audit committee review all audits. After their rev
 
 ### 34.7.4 Area Auditors and Assistant Area Auditors
 
-The Area Presidency follows the guidelines in the [Guide to the Area Audit Program](https://assets.churchofjesuschrist.org/29/ad/29ad9bf50ad011ec8ff1eeeeac1e0b12a0c0c4ee/guide_to_area_audit_program.pdf) when calling an area auditor or assistant area auditor.
+The Area Presidency follows the guidelines in the [Guide to the Area Audit Program](https://assets.churchofjesuschrist.org/c8/df/c8dfbac534c211efba09eeeeac1ebe3c921628a1/2024_auditing_guideline_documents.pdf) when calling an area auditor or assistant area auditor.
 
 ### 34.7.5 Loss, Theft, Embezzlement, or Misappropriation of Church Funds
 

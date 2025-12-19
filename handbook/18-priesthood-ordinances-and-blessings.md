@@ -125,8 +125,6 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 
 1:41
 
-Naming and Blessing of Children
-
 ### 18.6.3 Child Record Form and Blessing Certificate
 
 Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
@@ -152,6 +150,8 @@ The bishop or an assigned counselor interviews children of record for baptism an
 For information about filling out the Baptism and Confirmation Record, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
 
 Bishops give special attention to 7-year-old children in the ward, ensuring that their parents, their Primary leaders and teachers, and those who minister to their families help them prepare for baptism and confirmation. Elders quorum and Relief Society leaders also encourage parents to prepare their children for these ordinances.
+
+For information about Baptism and Confirmation Preparation meetings planned by the Primary presidency, see [12.1.8](12-primary.md#1218-baptism-and-confirmation-preparation-meeting).
 
 #### 18.7.1.2 Converts
 
@@ -228,8 +228,6 @@ To perform the ordinance of baptism, a priest or Melchizedek Priesthood holder:
 
 3:16
 
-Baptism of a New Member
-
 ### 18.7.8 Baptism Record
 
 For information about making a record of a baptism, see [18.8.3](18-priesthood-ordinances-and-blessings.md#1883-baptism-and-confirmation-record-and-certificate).
@@ -269,9 +267,7 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 5. Gives words of blessing as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
 
-1:54
-
-Confirming a Recently Baptized Member
+1:55
 
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
@@ -344,11 +340,9 @@ Although the sacrament is for members of the Church, nothing should be done to p
 
 3:32
 
-Blessing the Sacrament
-
 ## 18.10 Conferring the Priesthood and Ordaining to an Office
 
-There are two divisions of the priesthood: the Aaronic and Melchizedek (see [3.3](3-priesthood-principles.md#33-melchizedek-priesthood-and-aaronic-priesthood); [Doctrine and Covenants 107:1, 6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p1,6#p1)). When the priesthood is conferred on a person, he is also ordained to an office in that priesthood. After either of these priesthoods has been conferred, a man needs only to be ordained to other offices in that priesthood.
+There are two divisions of the priesthood: the Aaronic and Melchizedek (see [3.3](3-priesthood-principles.md#33-melchizedek-priesthood-and-aaronic-priesthood); [Doctrine and Covenants 107:1, 6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p1,p6#p1)). When the priesthood is conferred on a person, he is also ordained to an office in that priesthood. After either of these priesthoods has been conferred, a man needs only to be ordained to other offices in that priesthood.
 
 For information about priesthood ordinations in special circumstances, see [38.2.9](38-church-policies-and-guidelines.md#3829-priesthood-ordination).
 
@@ -403,7 +397,7 @@ For information about ordaining recently baptized brethren, see [38.2.9.1](38-ch
 
 ### 18.10.3 Presenting a Member to Be Sustained before He Is Ordained
 
-After a brother has been interviewed and found worthy to be ordained to a priesthood office, he is presented for sustaining (see [Doctrine and Covenants 20:65, 67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p65,67#p65)). Brethren to be ordained elders or high priests are presented by a stake presidency member in the general session of stake conference (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents) for instructions for district presidents). Brethren to be ordained deacons, teachers, or priests are presented by a bishopric member in sacrament meeting.
+After a brother has been interviewed and found worthy to be ordained to a priesthood office, he is presented for sustaining (see [Doctrine and Covenants 20:65, 67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p65,p67#p65)). Brethren to be ordained elders or high priests are presented by a stake presidency member in the general session of stake conference (see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents) for instructions for district presidents). Brethren to be ordained deacons, teachers, or priests are presented by a bishopric member in sacrament meeting.
 
 The person who conducts the sustaining asks the brother to stand. He announces the proposal to confer the Aaronic or Melchizedek Priesthood (if needed) and to ordain the brother to the priesthood office. He then invites the members to sustain the proposal. For example, to present a brother to be ordained an elder, he could use words like these:
 
@@ -448,9 +442,7 @@ To ordain a person to a priesthood office after he has already had the appropria
 
 An ordination is an opportunity to give a blessing. Detailed counsel and instruction about a person’s duties are given before and after the ordination. They should not be the focus of the blessing. It is not necessary to have prayers, testimonies, or instruction when someone is ordained.
 
-1:58
-
-Ordination to the Priesthood
+1:59
 
 ### 18.10.6 Ordination Record and Certificate
 
@@ -470,7 +462,7 @@ Members who are called and sustained to most Church positions should be set apar
 
 Stake presidents, bishops, and quorum presidents receive keys of presidency when they are set apart (see [3.4.1.1](3-priesthood-principles.md#3411-those-who-hold-priesthood-keys)). However, the word _keys_ should not be used when setting apart members to serve in other callings, including counselors in presidencies.
 
-For information about calling, ordaining, and setting apart bishops, see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops).
+For information about calling, ordaining, and setting apart bishops, see [30.7.2](30-callings-in-the-church.md#3072-calling-ordaining-and-setting-apart).
 
 ### 18.11.1 Who Performs the Setting Apart
 
@@ -515,13 +507,11 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 4. Consecrates the oil (not the container) and sets it apart for anointing and blessing the sick and afflicted.
 5. Closes in the name of Jesus Christ.
 
-1:12
-
-Consecrating Oil
+1:11
 
 ## 18.13 Administering to the Sick
 
-Usually, administering to the sick should be done at the request of the person receiving the blessing or at the request of others who are concerned so the blessing will be according to their faith (see [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng&id=p14#p14); [Doctrine and Covenants 24:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=eng&id=p13-p14#p13); [42:43–44, 48–52](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p43-p44,48-p52#p43)).
+Usually, administering to the sick should be done at the request of the person receiving the blessing or at the request of others who are concerned so the blessing will be according to their faith (see [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng&id=p14#p14); [Doctrine and Covenants 24:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=eng&id=p13-p14#p13); [42:43–44, 48–52](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p43-p44,p48-p52#p43)).
 
 Administering to the sick “by the laying on of hands” has two parts: anointing with oil and sealing the anointing with a blessing. If consecrated oil is not available, a blessing may be given by the authority of the Melchizedek Priesthood without an anointing.
 
@@ -555,8 +545,6 @@ To seal the anointing, one or more Melchizedek Priesthood holders place their ha
 4. Closes in the name of Jesus Christ.
 
 2:3
-
-Administering to the Sick
 
 ## 18.14 Blessings of Comfort and Counsel, Including Father’s Blessings
 
@@ -622,15 +610,17 @@ If a Church member’s body is cremated, the presiding leader uses his judgment 
 
 1:58
 
-Dedication of Graves
-
 ## 18.17 Patriarchal Blessings
 
-Every worthy, baptized member is entitled to receive a patriarchal blessing, which provides inspired direction from Heavenly Father (see [Genesis 48:14–16](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=eng&id=p14-p16#p14); [49](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng); [2 Nephi 4:3–11](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=eng&id=p3-p11#p3)). Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings.
+A patriarchal blessing is a priesthood blessing received from an ordained patriarch by the laying on of hands. Every worthy, baptized member is invited to receive a patriarchal blessing, which provides personal, inspired direction from Heavenly Father (see [Genesis 48:14–16](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=eng&id=p14-p16#p14); [49](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng); [2 Nephi 4:3–11](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=eng&id=p3-p11#p3)).
+
+The main purpose of a patriarchal blessing is to declare a person’s lineage within the house of Israel. It may also offer spiritual guidance, reassurance, and comfort throughout life, especially as the individual follows the counsel it provides.
+
+Parents and Church leaders encourage members to prepare spiritually to obtain their patriarchal blessings.
 
 The bishop or an assigned counselor interviews members who desire to receive a patriarchal blessing. If the member is worthy, the interviewer prepares a Patriarchal Blessing Recommend. He submits it through the [Patriarchal Blessing System](https://pb.churchofjesuschrist.org/pbrequest) on ChurchofJesusChrist.org.
 
-The person who issues a Patriarchal Blessing Recommend ensures that the member is mature enough to understand the significance and sacred nature of the blessing. Ideally the member should be young enough that many important decisions in life are still ahead. However, older adults are also encouraged to receive their patriarchal blessings. Priesthood leaders should not establish a minimum age for a member to receive a patriarchal blessing.
+The person who issues a Patriarchal Blessing Recommend ensures that the member understands the significance and sacred nature of patriarchal blessings. Ideally the member should be young enough that many important decisions in life are still ahead. However, older adults are also encouraged to receive their patriarchal blessings. Priesthood leaders should not establish a minimum age for a member to receive a patriarchal blessing.
 
 A new convert should understand the basic doctrine of the gospel before receiving a patriarchal blessing.
 
@@ -640,11 +630,11 @@ For information about patriarchal blessings in special circumstances, see [38.2.
 
 After receiving a recommend, the member contacts the patriarch to set up an appointment to receive a patriarchal blessing. On the day of the appointment, the member should go to the patriarch with a prayerful attitude and in Sunday attire. Members may fast, but fasting is not required.
 
-Each patriarchal blessing is sacred, confidential, and personal. Therefore, it is given in private except for a limited number of family members who may be present.
+Each patriarchal blessing is sacred, confidential, and personal. Therefore, it is given in private. If the member desires, he or she may invite a limited number of family members or a close friend to be present.
 
 A person who receives a patriarchal blessing should treasure its words, ponder them, and live to be worthy to receive the promised blessings in this life and in eternity.
 
-Church members should not compare blessings and should not share them except with close family members. Patriarchal blessings should not be read in Church meetings or other public gatherings.
+Church members should not compare blessings with others and should not share them except with close family members. Patriarchal blessings should not be read in Church meetings or other public gatherings.
 
 If a patriarchal blessing does not include a declaration of lineage, the patriarch may later give an addendum to declare lineage.
 
@@ -667,6 +657,6 @@ For information on the temple endowment and sealing ordinances, see [chapter 27
 | Patriarch | Stake presidency | Quorum of the Twelve Apostles | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve Apostles; or a member of the First Presidency or Quorum of the Twelve Apostles |
 | High priest | Bishop and stake presidency | Stake presidency and high council | Members in stake conference | Interviewed by the bishop and by the stake president or an assigned counselor; ordained under the direction of the stake president |
 | Elder | Bishop | Stake presidency and high council | Members in stake conference or district conference | Interviewed by the bishop and by the stake president or an assigned counselor (in a district, interviewed by a member of the mission presidency or by the district president if assigned; see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents))<br/>Ordained under the direction of the stake president (in a district, ordained under the direction of the mission president or the district president if assigned) |
-| Bishop | Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7](30-callings-in-the-church.md#307-calling-ordaining-and-setting-apart-bishops)) |
+| Bishop | Stake presidency, using [LCR](https://lcr.churchofjesuschrist.org) | First Presidency and Quorum of the Twelve Apostles | Members in sacrament meeting | The stake president after receiving approval from the First Presidency (see [30.7.2](30-callings-in-the-church.md#3072-calling-ordaining-and-setting-apart)) |
 | Priest | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop; ordained under the direction of the bishop |
 | Teacher or deacon | Bishop | Bishopric | Members in sacrament meeting | Interviewed by the bishop or an assigned counselor; ordained under the direction of the bishop |

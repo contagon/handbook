@@ -186,10 +186,10 @@ As individuals and as groups, single members can help unite families for eternit
 * Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2](27-temple-ordinances-for-the-living.md#2722-deciding-when-to-receive-the-endowment)).
 * Serve as temple workers (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
 * Participate in ordinances for the deceased.
-* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
+* Learn about their extended families and ancestors.
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
 * Serve as temple and family history consultants (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
-* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
+* Participate in family history volunteer activities (see [25.4.3](25-temple-and-family-history-work.md#2543-family-history-volunteer-activities)).
 
 ## 14.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Young Single Adult Wards and Stakes and Single Adult Wards
 
@@ -226,7 +226,7 @@ A gathering place is a designated location where young single adults and their f
 * Self-reliance courses, educational opportunities, and support groups
 * Service and activities
 * Sharing the gospel and community outreach
-* Temple and family history work
+* Temple and family history efforts
 * Other Church programs
 
 All designated gathering places must be approved by the Area Presidency. Gathering places are overseen by stake presidents and bishops. They are established in existing Church facilities, such as a meetinghouse or institute building. Stake presidents who desire to establish a gathering place for young single adults should contact the Area Presidency.
@@ -269,7 +269,7 @@ As an exception, the stake president of a young single adult stake may authorize
 In large young single adult wards, bishops may authorize counselors to conduct interviews for members who are:
 
 * Receiving their own endowment.
-* Being sealed to a spouse. (See [26.3.1](26-temple-recommends.md#2631-temple-recommend-interviews-for-members-in-wards-and-branches).)
+* Being sealed to a spouse. (See [26.3.3](26-temple-recommends.md#2633-issuing-temple-recommends-for-living-ordinances).)
 
 ### 14.4.7 Participation in Activities for Single Members
 

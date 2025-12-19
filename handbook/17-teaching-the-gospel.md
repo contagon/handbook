@@ -10,15 +10,11 @@ Leaders share the following principles of Christlike teaching with teachers in t
 
 3:45
 
-Welcome Teachers
-
 ### 17.1.1 Love Those You Teach
 
 Everything the Savior does is an expression of His love (see [2 Nephi 26:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p24#p24)). Leaders and teachers follow His example by showing love for those they teach. They pray for those they teach by name, seek to connect with and understand them, and focus on individual needs. They reach out to members of their class or quorum who do not attend.
 
-3:20
-
-Love Those You Teach
+3:19
 
 ### 17.1.2 Teach by the Spirit
 
@@ -26,15 +22,11 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the Spir
 
 3:47
 
-Prepare And Teach By The Spirit
-
 ### 17.1.3 Teach the Doctrine
 
 The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current [Instructions for Curriculum](https://go.churchofjesuschrist.org/x/ngEh) on ChurchofJesusChrist.org.
 
 3:33
-
-Teach The Doctrine
 
 ### 17.1.4 Invite Diligent Learning
 
@@ -47,8 +39,6 @@ To become converted to the Lord Jesus Christ, each member of the Church is respo
 Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me](https://www.churchofjesuschrist.org/study/come-follow-me?lang=eng) and [Church magazines](https://www.churchofjesuschrist.org/study/magazines?lang=eng).
 
 3:35
-
-Invite Diligent Learning
 
 ## 17.3 Leaders’ Responsibilities
 
@@ -81,8 +71,6 @@ The ward council oversees and schedules teacher council meetings. A member of th
 For more information, see “[Teacher Council Meetings](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way-2022/12-part-3/17-teacher-council-meetings-for-parents-and-teachers?lang=eng)” in Teaching in the Savior’s Way (pages 38–39).
 
 6:7
-
-Introduction To Teacher Council Meetings
 
 ## 17.5 Teacher Council Meetings for Parents
 

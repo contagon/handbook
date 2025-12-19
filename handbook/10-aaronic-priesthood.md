@@ -50,7 +50,7 @@ Young men join the priests quorum beginning in January of the year they turn 16
 
 The bishop is the president of the priests quorum (see [Doctrine and Covenants 107:87–88](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p87-p88#p87)). He calls one or two quorum members to serve as his assistants. A secretary may also be called. The assistants and secretary should be ordained priests.
 
-Priests have the same duties as deacons and teachers. Additional duties are described in [Doctrine and Covenants 20:46–52, 73–79](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p46-p52,73-p79#p46).
+Priests have the same duties as deacons and teachers. Additional duties are described in [Doctrine and Covenants 20:46–52, 73–79](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p46-p52,p73-p79#p46).
 
 ### 10.1.4 Priesthood Keys
 
@@ -123,7 +123,7 @@ _Annual Activities._ In addition to regular youth activities, young men may also
 * [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://fsy.churchofjesuschrist.org). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
-_Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+_Age Requirements._ With their parents’ approval, young men may attend Aaronic Priesthood quorum activities, including overnight camps, beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. Eighteen-year-olds, including those who have been ordained elders and those who have been endowed, may attend Aaronic Priesthood activities (see [8.1.2](8-elders-quorum.md#812-membership-in-the-elders-quorum) and [10.6](10-aaronic-priesthood.md#106-helping-young-men-prepare-to-receive-the-melchizedek-priesthood)).
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -179,10 +179,10 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 * Prepare to have their own eternal family.
 * Have a current temple recommend.
 * Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
-* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
+* Learn about their extended families and ancestors.
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
-* Participate in baptisms and confirmations for the dead as often as circumstances allow.
-* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
+* Participate in proxy baptisms and confirmations in the temple as often as circumstances allow.
+* Participate in family history volunteer activities (see [25.4.3](25-temple-and-family-history-work.md#2543-family-history-volunteer-activities)).
 * Serve as temple and family history consultants, as called by the bishopric (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
 
 ## 10.3 Bishopric
@@ -226,7 +226,7 @@ Aaronic Priesthood quorum presidents, including the bishop, have the following r
 * Lead the quorum’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Get to know and serve each quorum member, including those who do not attend quorum meetings. Be aware of their needs and circumstances.
 * Serve on the ward youth council (see [10.4.4](10-aaronic-priesthood.md#1044-ward-youth-council)).
-* Participate in ward efforts to share the gospel and strengthen new and returning members. An assistant in the priests quorum attends coordination meetings (see [23.4](23.md#234-hold-weekly-coordination-meetings)).
+* Participate in ward efforts to share the gospel and strengthen new and returning members. An assistant in the priests quorum attends coordination meetings (see [23.4](23.md#234-hold-weekly-missionary-coordination-meetings)).
 * Participate in ward temple and family history efforts. An assistant in the priests quorum attends coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)).
 * Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:85–88](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p85-p88#p85)). Support them in fulfilling those duties.
 * Plan and conduct quorum meetings (see [10.2.1.2](10-aaronic-priesthood.md#10212-gospel-learning)).

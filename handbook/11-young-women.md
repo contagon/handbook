@@ -92,7 +92,7 @@ _Annual Activities._ In addition to regular youth activities, young women may al
 * [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy). For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy/about/leaders) (for the U.S. and Canada) or the [FSY Planning Guide](https://www.churchofjesuschrist.org/youth/fsy/bc/fsy/2020/PD60003410_000%20FSY%20Planning%20Guide.pdf) (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices](https://www.churchofjesuschrist.org/study/manual/for-the-strength-of-youth?lang=eng). This event could include both young men and young women. Parents may also be invited.
 
-_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+_Age Requirements._ With their parents’ approval, young women may attend Young Women activities, including overnight camps, beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. Eighteen-year-olds, including those who have been endowed, may attend Young Women activities (see [9.1.2](9-relief-society.md#912-membership-in-relief-society) and [11.4](11-young-women.md#114-helping-young-women-prepare-to-join-relief-society)).
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -149,10 +149,10 @@ Young women can help unite families for eternity in many ways. Some of these way
 * Prepare to have their own eternal family.
 * Have a current temple recommend.
 * Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
-* Learn about their extended families and ancestors (see  [My Family: Stories That Bring Us Together](https://assets.churchofjesuschrist.org/a3/6d/a36d2fc1743311ee97a6eeeeac1e7b776ff34d50/my_family_stories_that_bring_us_together.pdf)).
+* Learn about their extended families and ancestors.
 * Identify ancestors who need temple ordinances (see [FamilySearch.org](https://www.familysearch.org)).
-* Participate in baptisms and confirmations for the dead as often as circumstances allow.
-* Participate in indexing (see [FamilySearch.org/indexing](https://www.familysearch.org/indexing)).
+* Participate in proxy baptisms and confirmations in the temple as often as circumstances allow.
+* Participate in family history volunteer activities (see [25.4.3](25-temple-and-family-history-work.md#2543-family-history-volunteer-activities)).
 * Serve as temple and family history consultants, as called by the bishopric (see [25.2.4](25-temple-and-family-history-work.md#2524-ward-temple-and-family-history-consultants)).
 
 ## 11.3 Ward Young Women Leadership
@@ -217,7 +217,7 @@ Class presidents serve on the ward youth council (see [11.3.4.4](11-young-women.
 
 * Lead the class’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1](1-work-of-salvation-and-exaltation.md)).
 * Get to know and serve each young woman, including those who do not attend class meetings. Be aware of their needs and circumstances.
-* Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.4](23.md#234-hold-weekly-coordination-meetings)).
+* Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.4](23.md#234-hold-weekly-missionary-coordination-meetings)).
 * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see [25.2.7](25-temple-and-family-history-work.md#2527-ward-temple-and-family-history-coordination-meetings)).
 * Organize the youth to minister by welcoming visitors and members as they enter the chapel (see [29.2.1.3](29-meetings-in-the-church.md#29213-time-before-the-meeting)).
 * Plan and conduct Sunday class meetings (see [11.2.1.2](11-young-women.md#11212-gospel-learning)).

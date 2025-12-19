@@ -37,7 +37,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p8#p8)). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p18#p18)).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p65-p67#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,10#p8); see also [chapter 6](6-stake-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p17#p17); see also [chapter 7](7.md) in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p65-p67#p65)). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p8,p10#p8); see also [chapter 6](6-stake-leadership.md) in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p17#p17); see also [chapter 7](7.md) in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1](8-elders-quorum.md#81-purpose-and-organization).
 
@@ -69,7 +69,7 @@ Priesthood keys are the authority to direct the use of the priesthood on behalf 
 
 Jesus Christ holds all the keys of the priesthood. Under His direction, priesthood keys are given to men to use in specific callings to help accomplish God’s work, as explained below.
 
-The Lord has conferred on each of His Apostles all the keys that pertain to the kingdom of God on earth. The senior living Apostle, the President of the Church, is the only person on earth authorized to exercise all of those priesthood keys (see [Doctrine and Covenants 81:1–2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=eng&id=p1-p2#p1); [107:64–67, 91–92](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p64-p67,91-p92#p64); [132:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p7#p7)).
+The Lord has conferred on each of His Apostles all the keys that pertain to the kingdom of God on earth. The senior living Apostle, the President of the Church, is the only person on earth authorized to exercise all of those priesthood keys (see [Doctrine and Covenants 81:1–2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=eng&id=p1-p2#p1); [107:64–67, 91–92](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p64-p67,p91-p92#p64); [132:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p7#p7)).
 
 Under the direction of the President of the Church, the following local priesthood leaders are given keys so they can preside in their areas of responsibility:
 
@@ -156,7 +156,7 @@ A covenant is a sacred promise between God and His children. God gives the condi
 
 Members make covenants with God as they receive the ordinances of salvation and exaltation (see [18.1](18-priesthood-ordinances-and-blessings.md#181-ordinances-of-salvation-and-exaltation)). All who endure to the end in keeping their covenants will receive eternal life (see [2 Nephi 31:17–20](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p17-p20#p17); [Doctrine and Covenants 14:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/14?lang=eng&id=p7#p7)).
 
-Parents, Church leaders, and others help individuals prepare to make covenants as they receive the ordinances of the gospel. They ensure that the person understands the covenants he or she will make. After a person makes a covenant, they help him or her keep it. (See [Mosiah 18:8–11, 23–26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p11,23-p26#p8).)
+Parents, Church leaders, and others help individuals prepare to make covenants as they receive the ordinances of the gospel. They ensure that the person understands the covenants he or she will make. After a person makes a covenant, they help him or her keep it. (See [Mosiah 18:8–11, 23–26](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p11,p23-p26#p8).)
 
 ### 3.5.2 Ordinances
 
