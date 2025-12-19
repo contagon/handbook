@@ -22,7 +22,7 @@ Church activities should be planned to fulfill gospel-centered purposes. In addi
 
 Before planning an activity, leaders consider the spiritual and temporal needs of members. Leaders seek the guidance of the Spirit to determine what kind of activity would help meet those needs. Careful planning is necessary to ensure that activities accomplish gospel-centered purposes and meet the needs of those who participate.
 
-Under the direction of the bishopric, the ward council oversees the planning of ward activities. When an activity is for a specific organization or group in the ward, it is planned under the direction of the leaders who are responsible for the organization. When an activity is for the entire ward, the bishop may assign responsibility for it to one or more organizations represented on the ward council. He may also assign responsibility for an activity to other individuals or to a committee, working under the direction of the ward council. Normally these assignments are temporary for a specific activity.
+Under the bishopric’s guidance, the ward council oversees the planning of ward activities. When an activity is for a specific organization or group in the ward, it is planned under the direction of the leaders who are responsible for the organization. When an activity is for the entire ward, the bishop may assign responsibility for it to one or more organizations represented on the ward council. He may also assign responsibility for an activity to other individuals or to a committee, working under the direction of the ward council. Normally these assignments are temporary for a specific activity.
 
 Under the direction of the stake presidency, the stake council oversees the planning of stake activities. For more information about stake activities, see [20.3](20-activities.md#203-stake-multistake-and-area-activities).
 
@@ -129,7 +129,7 @@ To help meet the needs of young single adults, multistake activities should be h
 
 All stake activities must be approved by the stake presidency and are coordinated in stake council meetings. Stake leaders notify ward leaders of stake activities well in advance. They also ensure that stake activities supplement ward activities rather than compete with them.
 
-If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Special occasions such as holidays or the commemoration of a significant local event may provide opportunities for such activities. Youth conferences (see [20.4](20-activities.md#204-youth-conference)), service activities, cultural arts activities, and sports or recreational activities can all be held on a multistake level. Such activities are often coordinated in coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
+If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Special occasions such as holidays or the commemoration of a significant local event may provide opportunities for such activities. Youth conferences (see [20.4](20-activities.md#204-youth-conference)), service activities, cultural arts activities, and sports or recreational activities can all be held on a multistake level. Such activities are often coordinated in coordinating council meetings (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)).
 
 Before proposing a multistake activity, stake presidents determine whether it is the best way to meet the needs they have identified. The stake presidents also consider the cost, time, and travel the activity would require. In addition, the stake presidents consider safety factors and the availability of needed resources.
 
@@ -168,7 +168,7 @@ Beginning in January of the year they turn 14, young men and young women are in
 
 The purposes of youth conferences are to help youth build faith in Jesus Christ, strengthen their testimonies, develop talents, make new friends, and have fun with youth who share similar beliefs and standards. Youth can also learn leadership skills as they assist in planning youth conferences.
 
-Ward youth conferences are planned and carried out by the ward youth council, under the direction of the bishopric. The bishopric obtains the stake presidency’s approval of plans for a ward youth conference.
+Ward youth conferences are planned and carried out by the ward youth council, under the bishopric’s guidance. The bishopric obtains the stake presidency’s approval of plans for a ward youth conference.
 
 Stake youth conferences are planned and carried out by the stake youth leadership committee, under the direction of the stake presidency. Youth should take the lead in planning stake youth conferences with the support of adult leaders. The stake presidency may invite youth to attend the committee’s meetings as needed.
 
@@ -178,8 +178,8 @@ As leaders and youth plan a youth conference, they should observe the policies i
 
 * Select a gospel theme, such as a scripture, that will inspire the youth and help them understand the expectations of the conference. The annual youth theme could be used as the youth conference theme. The bishopric or stake presidency should approve the theme.
 * Plan activities such as devotionals, group meetings, learning experiences, and service projects that are consistent with the theme.
-* Obtain approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. Speakers who primarily entertain, with only casual reference to the gospel, should not be selected. Nor should speakers who would have to travel long distances be selected. See [38.8.23](38-church-policies-and-guidelines.md#38823-guest-speakers-or-instructors) for other guidelines concerning speakers.
-* Avoid scheduling events for Sunday that are not appropriate for the Sabbath day. Testimony meetings, bishopric youth discussions, or similar meetings are permitted. However, sacrament meetings are not to be held﻿—and the sacrament is not to be administered﻿—outside the boundaries of the ward or stake where the priesthood leaders preside. Any exceptions must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
+* Obtain approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. Speakers who primarily entertain, with only casual reference to the gospel, should not be selected. Nor should speakers who would have to travel long distances be selected. See [38.8.20](38-church-policies-and-guidelines.md#38820-guest-speakers-or-instructors) for other guidelines concerning speakers.
+* Avoid scheduling events for Sunday that are not appropriate for the Sabbath day. Testimony meetings, bishopric youth discussions, or similar meetings are permitted. However, sacrament meetings are not to be held—and the sacrament is not to be administered—outside the boundaries of the ward or stake where the priesthood leaders preside. Any exceptions must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
 * Ensure that adequate adult supervision is present at all times (see [20.6.2](20-activities.md#2062-adult-supervision)).
 
 Members of the bishopric or stake presidency are invited to attend as much of the conference as possible. Aaronic Priesthood quorum advisers and Young Women presidencies are encouraged to attend the entire conference.
@@ -208,7 +208,7 @@ Activities that would use Church facilities for any commercial or political purp
 
 ### 20.6.4 Copyrighted Materials
 
-See [38.8.13](38-church-policies-and-guidelines.md#38813-copyrighted-materials).
+See [38.8.11](38-church-policies-and-guidelines.md#38811-copyrighted-materials).
 
 ### 20.6.5 Curfew Laws
 
@@ -412,7 +412,7 @@ If multistake sports activities are held, they are administered by sports specia
 
 Participants in Church-sponsored sports activities do not need to be Church members. However, they should live in the stake’s boundaries and agree to follow Church standards and policies.
 
-The stake presidency establishes guidelines that specify the ages at which players may participate in Church sports. These guidelines should take into account the local culture, geographical setting, school system, and rules of governing sports organizations. Such decisions should be made before the start of a season so everyone who is involved understands the age and eligibility rules.
+The stake presidency establishes guidelines that specify the ages at which players may participate in Church sports. These guidelines should take into account the local culture, geographic setting, school system, and rules of governing sports organizations. Such decisions should be made before the start of a season so everyone who is involved understands the age and eligibility rules.
 
 Schools, states, provinces, and national sports organizations often establish rules about playing on school teams and Church teams in the same sport season. Church leaders and participants in Church sports ensure that they follow these rules. Violating them can result in the loss of eligibility for school teams and individuals.
 
@@ -440,7 +440,7 @@ Long-distance travel for activities is discouraged. If a stake president or bish
 
 If long-distance travel for an activity is approved, members should not provide it at their own expense. Nor should significant portions of the stake or ward budget allowance be retained from one year to the next to cover travel expenses.
 
-Travel practices and the application of guidelines in this section should be consistent among units in the same coordinating council. Stake presidents may discuss and agree on general consistency in travel practices during coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
+Travel practices and the application of guidelines in this section should be consistent among units in the same coordinating council. Stake presidents may discuss and agree on general consistency in travel practices during coordinating council meetings (see [29.4](29-meetings-in-the-church.md#294-coordinating-council-meetings)).
 
 Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/activity-plan.pdf) for activities that involve travel outside the local area.
 

@@ -65,9 +65,9 @@ Young Women classes meet on Sundays to strengthen faith, build unity, strengthen
 
 Class meetings are held on the second and fourth Sundays of the month. They last 50 minutes. A member of the class presidency conducts. She leads the class in reciting the theme and counseling together about assignments and other matters.
 
-A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me﻿—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)).
+A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)).
 
-If a ward has more than one Young Women class, they meet separately. However, they may meet together when there is a special need. Young women and young men may occasionally combine for a Sunday lesson, as directed by the bishopric.
+If a ward has more than one Young Women class, they meet separately. However, they may meet together when there is a special need. Young women and young men may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
 Young women are encouraged to participate in seminary (see [15.1](15-seminaries-and-institutes.md#151-seminary)).
 
@@ -81,7 +81,7 @@ Some service and activities should include both young men and young women, espec
 
 Youth can benefit from socializing in larger groups. The youth in two or more wards may occasionally meet together for service and activities. Stakes or districts may occasionally plan service and activities for youth.
 
-Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://safety.churchofjesuschrist.org/); see also [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting) in this handbook). At least two responsible adult leaders should be present at all activities (see [11.6.1](11-young-women.md#1161-safeguarding-youth)).
+Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/callings/church-safety-and-health); see also [20.6.20](20-activities.md#20620-safety-precautions-and-accident-response-and-reporting) in this handbook). At least two responsible adult leaders should be present at all activities (see [11.6.1](11-young-women.md#1161-safeguarding-youth)).
 
 For more information, see [YoungWomen.ChurchofJesusChrist.org](https://youngwomen.churchofjesuschrist.org/). [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)See also [JustServe.org](https://www.justserve.org/) where it is available. These resources provide service and activity ideas.
 
@@ -139,7 +139,7 @@ If young women desire to serve full-time missions, parents and leaders help them
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org/) provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23](23.md) and [24](24.md) for more information.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org/) provides additional resources that can help young women who desire to prepare to serve a mission. See chapters 23 and 24 for more information.
 
 ### 11.2.4 Uniting Families for Eternity
 
@@ -175,7 +175,7 @@ If a branch does not have a Young Women president, the Relief Society president 
 The Young Women president has the following responsibilities. Her counselors assist her.
 
 * Serve on the ward council. She serves as (1) a ward council member who helps address needs in the ward and find solutions and (2) a representative of the Young Women (see [7.6.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number10-p29#title_number10)).
-* Serve as a member of the ward youth council (see [29.2.9](29-meetings-in-the-church.md#2929-ward-youth-council-meeting)).
+* Serve as a member of the ward youth council (see [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting)).
 * Minister to individual young women.
 * Submit recommendations to the bishopric for sisters to serve in Young Women.
 * Teach other Young Women leaders and class presidencies their responsibilities.
@@ -246,7 +246,7 @@ The bishop presides over the ward youth council. This council’s members includ
 
 The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.4-5?lang=eng#p4)). They counsel together about the needs of the young women and young men in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
-See [29.2.9](29-meetings-in-the-church.md#2929-ward-youth-council-meeting) for more information about the ward youth council.
+See [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting) for more information about the ward youth council.
 
 ### 11.3.5 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)Advisers
 
@@ -258,7 +258,7 @@ Advisers have the following responsibilities:
 * Support and guide class presidencies as they learn and carry out their responsibilities.
 * Teach Sunday lessons as needed. Help young women who have been invited to teach a lesson to effectively prepare and teach.
 * Attend class activities.
-* Attend ward Young Women presidency meetings as invited.
+* Attend ward Young Women presidency meetings when invited.
 
 At least two responsible adult women should be present at each class meeting and activity. Advisers must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [11.6.1](11-young-women.md#1161-safeguarding-youth)).
 
@@ -282,7 +282,7 @@ A member of the stake presidency calls an adult woman to serve as the stake Youn
 
 A counselor in the stake presidency has responsibility for the Young Women organization in the stake. He also has responsibility for the work of the stake Young Women presidency. He also instructs bishops in their responsibilities for young women.
 
-The stake presidency assigns a high councilor to work with the stake Young Women presidency (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)). This high councilor and the Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)).
+The stake presidency assigns a high councilor to work with the stake Young Women presidency (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)). This high councilor and the Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-aostake-youth-leadership-committee-meeting)).
 
 ## 11.6 Additional Guidelines and Policies
 

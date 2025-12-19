@@ -77,7 +77,7 @@ Often bishops and stake presidents assist with repentance through personal couns
 
 For some serious sins, leaders assist with repentance by holding a membership council (see [32.6](32-repentance-and-membership-councils.md#326-severity-of-the-sin-and-church-policy) and [32.9–32.14](32-repentance-and-membership-councils.md#329-participation-and-responsibility)). This assistance may include formally restricting some privileges of Church membership or withdrawing a person’s membership for a time (see [32.11.3](32-repentance-and-membership-councils.md#32113-formal-membership-restrictions) and [32.11.4](32-repentance-and-membership-councils.md#32114-withdrawal-of-membership)).
 
-Bishops and stake presidents help Church members understand that God loves all His children, regardless of their sins. Because He wants them to be happy and receive blessings, He also cares immensely about their obedience.
+Bishops and stake presidents help Church members understand that God loves His children. Because He wants them to be happy and receive blessings, He also cares immensely about their obedience and repentance.
 
 Bishops and stake presidents are loving and caring as they help members repent. The Savior’s interaction with the woman taken in adultery is a guide (see [John 8:3–11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.3-11?lang=eng#p3)). Although He did not say her sins were forgiven, He did not condemn her. Instead, He told her to “sin no more”—to repent and change her life.
 
@@ -170,7 +170,7 @@ Repentance of some sins requires a person to report to government authorities if
 
 In many places, priesthood leaders are required by law to report some illegal behaviors of which they become aware. For example, some states and countries require that child abuse be reported to law enforcement authorities.
 
-In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). It is available 24 hours a day, 7 days a week.
+In some countries, the Church has established a confidential abuse help line to assist bishops and stake presidents. These leaders should promptly call the help line about every situation in which a person may have been abused—or is at risk of being abused (see [38.6.2.1](38-church-policies-and-guidelines.md#38621-abuse-help-line)). It is available 24 hours a day, 7 days a week.
 
 In countries that do not have a help line, a bishop who learns of abuse should contact his stake president, who should seek guidance from the area legal counsel at the area office.
 
@@ -308,7 +308,7 @@ The Lord’s law of chastity is abstinence from sexual relations outside of a ma
 
 #### 32.6.2.3 Fraudulent Acts
 
-The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, and perjury. See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts.
+The Ten Commandments teach, “Thou shalt not steal” or “bear false witness” ([Exodus 20:15–16](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20.15-16?lang=eng#p15)). A membership council may be necessary for acts such as robbery, burglary, theft, embezzlement, perjury, and fraud. See [38.8.2](38-church-policies-and-guidelines.md#3882-affinity-fraud) for affinity fraud. See [32.6.1.3](32-repentance-and-membership-councils.md#32613-fraudulent-acts) for when a council is required for fraudulent acts.
 
 #### 32.6.2.4 Violations of Trust
 
@@ -643,7 +643,7 @@ If a member objects to the participation of the bishop or his counselors, the me
 
 ### 32.9.8 Determining Which Leader Holds a Council in Special Circumstances
 
-Membership councils are almost always held in the geographical Church unit that has the person’s membership record.
+Membership councils are almost always held in the geographic Church unit that has the person’s membership record.
 
 Sometimes a membership council is necessary for a person who moves. If the move is within the same stake, the stake president confers with the bishops of both wards and decides where it should take place.
 
@@ -930,7 +930,7 @@ A person can also resign membership by sending a signed, notarized request to Ch
 
 A minor who wishes to resign his or her Church membership follows the same procedure as an adult, with one exception: the request should be signed by the minor (if over the age of 8) and by the parent(s) or guardian(s) who have legal custody of the minor.
 
-If a member resigning membership threatens legal action against the Church or its leaders, the stake president follows the instructions in [38.8.27](38-church-policies-and-guidelines.md#38827-legal-counsel-for-church-matters).
+If a member resigning membership threatens legal action against the Church or its leaders, the stake president follows the instructions in [38.8.24](38-church-policies-and-guidelines.md#38824-legal-counsel-for-church-matters).
 
 A request to resign membership should be acted on even if priesthood leaders have information about a serious sin. Any information about unresolved sins is noted when the request is submitted through Leader and Clerk Resources. This allows priesthood leaders to resolve such matters in the future if the person applies for readmission into the Church (see [32.16.2](32-repentance-and-membership-councils.md#32162-being-readmitted-after-resigning-church-membership)).
 

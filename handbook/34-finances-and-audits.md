@@ -21,7 +21,7 @@ This section outlines the stake president’s responsibilities for stake finance
 
 The stake president assigns the stake clerk or an assistant stake clerk to help with stake financial record keeping. These duties are outlined in this section and explained further in instructions from Church headquarters or the assigned area office.
 
-* With a member of the stake presidency, this clerk properly records any funds received. He or another Melchizedek Priesthood holder accompanies the member of the stake presidency who deposits the funds. Only members of the stake presidency﻿—not clerks﻿—may receive funds for the stake.
+* With a member of the stake presidency, this clerk properly records any funds received. He or another Melchizedek Priesthood holder accompanies the member of the stake presidency who deposits the funds. Only members of the stake presidency—not clerks—may receive funds for the stake.
 * This clerk makes sure stake financial obligations are paid promptly. He prepares checks or, in locations where checks are not used, payment approval forms.
 * He helps the stake presidency prepare the annual stake budget and keep track of the stake budget allowance (see [34.7.1](34-finances-and-audits.md#3471-stake-and-ward-budgets) and [34.7.2](34-finances-and-audits.md#3472-budget-allowance)). He informs the stake president of the status of stake expenditures in relation to the budget allowance.
 * He reconciles the stake checking account each month as instructed in [34.6.7](34-finances-and-audits.md#3467-managing-stake-and-ward-checking-accounts). As needed, he helps reconcile ward checking accounts.
@@ -45,7 +45,7 @@ This section outlines the bishop’s responsibilities for ward finances. He may 
 
 The bishop assigns the ward clerk or an assistant ward clerk to help with ward financial record keeping. These duties are outlined in this section and explained further in instructions from Church headquarters or the assigned area office.
 
-* Each week this clerk helps a member of the bishopric account for all tithes and other offerings (see [34.6.2](34-finances-and-audits.md#3462-verifying-tithing-and-other-offerings)). He normally accompanies the bishopric member who deposits the funds in a bank, although another Melchizedek Priesthood holder may do so. He also submits or transmits the related donation reports to Church headquarters or the assigned area office. Only members of the bishopric﻿—not clerks﻿—may receive funds for the ward.
+* Each week this clerk helps a member of the bishopric account for all tithes and other offerings (see [34.6.2](34-finances-and-audits.md#3462-verifying-tithing-and-other-offerings)). He normally accompanies the bishopric member who deposits the funds in a bank, although another Melchizedek Priesthood holder may do so. He also submits or transmits the related donation reports to Church headquarters or the assigned area office. Only members of the bishopric—not clerks—may receive funds for the ward.
 * This clerk makes sure ward financial obligations are paid promptly. He prepares checks or, in locations where checks are not used, payment approval forms.
 * He helps the bishopric prepare the annual ward budget and keep track of the ward budget allowance (see [34.7.1](34-finances-and-audits.md#3471-stake-and-ward-budgets) and [34.7.2](34-finances-and-audits.md#3472-budget-allowance)). He informs the bishop of the status of ward expenditures in relation to the budget allowance.
 * He reconciles the ward checking account each month as instructed in [34.6.7](34-finances-and-audits.md#3467-managing-stake-and-ward-checking-accounts).
@@ -115,13 +115,13 @@ Guidelines for using fast-offering funds are provided in [22.5.2](22-providing-f
 
 ### 34.4.3 Missionary Funds
 
-Contributions to the ward missionary fund are used primarily to meet the contribution commitments of full-time missionaries from the ward, as identified in [24.6.2](24.md#2462-in-the-field) and [24.6.3](24.md#2463-returning-home-from-a-mission). Excess amounts may be used to meet such commitments of other missionaries in the stake or coordinating council. Ward missionary funds should not be sent directly to individual missionaries. Ward missionary funds should not be used for any missionary activities in the ward or stake.
+Contributions to the ward missionary fund are used primarily to meet the contribution commitments of full-time missionaries from the ward, as identified in [24.3.4](24.md#2434-finances). Excess amounts may be used to meet such commitments of other missionaries in the stake or coordinating council. Ward missionary funds should not be sent directly to individual missionaries. Ward missionary funds should not be used for any missionary activities in the ward or stake.
 
 Contributions to the General Missionary Fund are used by the Church in its overall missionary efforts.
 
 Stake presidents and bishops should send missionary funds that exceed reasonable stake and ward needs to the General Missionary Fund at Church headquarters or the assigned area office. Bishops or individuals may contact the Global Service Department (1-855-537-4357) for further information about contributions to the General Missionary Fund.
 
-For additional information about missionary funds and financing missionary service, see [24.6](24.md#246-service-away-from-home).
+For additional information about missionary funds and financing missionary service, see [24.3.4](24.md#2434-finances).
 
 ### 34.4.4 Humanitarian Aid
 
@@ -203,7 +203,7 @@ Only the stake president and his counselors should receive funds for the stake. 
 
 ### 34.6.2 Verifying Tithing and Other Offerings
 
-Contribution envelopes should be opened and verified on Sunday, except during tithing settlement, when they are opened and verified on the day they are received. Two persons﻿—a member of the bishopric and a clerk, or two members of the bishopric﻿—open each envelope together to verify that the funds enclosed are the same as the amount written on the Tithing and Other Offerings form. If the funds and the written amount differ, the contributor should be contacted as soon as possible to resolve the difference.
+Contribution envelopes should be opened and verified on Sunday, except during tithing settlement, when they are opened and verified on the day they are received. Two persons—a member of the bishopric and a clerk, or two members of the bishopric—open each envelope together to verify that the funds enclosed are the same as the amount written on the Tithing and Other Offerings form. If the funds and the written amount differ, the contributor should be contacted as soon as possible to resolve the difference.
 
 ### 34.6.3 Depositing Tithing and Other Offerings
 

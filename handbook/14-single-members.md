@@ -2,7 +2,7 @@
 
 ## 14.0 Introduction
 
-Men and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. Worthy single members should be given opportunities to hold leadership and teaching positions, including positions in elders quorum and Relief Society presidencies and in other organization presidencies.
+Men and women who have not married or who are divorced or widowed make up a significant portion of Church membership. Leaders reach out to these members and include them in the work of the Church. Worthy single members should be given opportunities to hold leadership and teaching positions as directed by the Spirit. The leadership positions include ward and stake organization presidencies, elders quorum presidencies, bishopric counselors, high councilors, and stake presidency counselors.
 
 Leaders support single members by helping them draw near to the Lord, strengthen their testimonies, and take responsibility for their own spiritual, social, and temporal well-being.
 
@@ -40,7 +40,7 @@ Participation in single adult activities is limited to single adult members, ass
 
 Bishoprics may organize one or more home evening groups for single adults who do not have children in the home and do not live with their parents. These groups are not referred to as families.
 
-Informally and as organized by participants, single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+Informally and as organized by participants, single adults may gather to strengthen one another through gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
 
 ## 14.2 Caring for Young Single Adult Members (Ages 18–30)
 
@@ -76,6 +76,8 @@ The committee helps ensure that ward young single adult committees are functioni
 
 #### 14.3.3.1 Bishopric
 
+The bishop’s foremost responsibility is to the rising generation in the ward, including young single adults. A strong relationship with the bishop and his counselors can help young single adults build greater faith in Jesus Christ and deeper connection to His gospel.
+
 To understand and address the needs of young single adults in the ward, a bishopric member interviews each young single adult at least annually. The bishopric works with the ward council to find meaningful callings for all young single adults. The bishopric may also organize a ward young single adult committee.
 
 A counselor in the bishopric oversees the young single adults in the ward. He receives regular reports from the counselors in the elders quorum and Relief Society presidencies who are assigned to work with young single adults in the ward. He may report on specific young single adults in ward council meeting.
@@ -90,11 +92,11 @@ In a ward with a sufficient number of young single adults, the bishopric may cal
 
 #### 14.3.3.4 Young Single Adult Advisers
 
-The bishopric may call a worthy married couple as ward young single adult advisers. These advisers report to a counselor in the bishopric. They serve on the ward young single adult committee if one is formed. They may also be assigned to serve on the stake young single adult committee. They help young single adults have opportunities to gather for friendship, service, and gospel learning.
+The bishopric may call a married couple or single adults as ward young single adult advisers. These advisers are usually age 30 or older. They report to a counselor in the bishopric. They serve on the ward young single adult committee if one is formed. They may also be assigned to serve on the stake young single adult committee. They help young single adults have opportunities to gather for friendship, service, and gospel learning.
 
 ### 14.3.4 Ward Young Single Adult Committee
 
-In a ward with a significant number of young single adults, the stake president and bishop may feel that a ward young single adult committee is needed. A counselor in the bishopric presides over the committee. Other committee members include the elders quorum and Relief Society counselors assigned to young single adults, the young single adult leaders, and the couple called to serve as young single adult advisers.
+In a ward with a significant number of young single adults, the stake president and bishop may feel that a ward young single adult committee is needed. A counselor in the bishopric presides over the committee. Committee members include the elders quorum and Relief Society counselors assigned to young single adults, the young single adult leaders, and the young single adult advisers.
 
 This committee meets as needed. Committee members discuss ways to help young single adults participate in service, leadership, gospel learning, and social activities. They also find and fellowship less-active young single adults.
 
@@ -120,7 +122,7 @@ Young single adults should frequently be called to serve together on service com
 
 Priesthood leaders may organize one or more home evening groups for young single adults who do not live with their parents and do not have children in their homes. If possible, priesthood leaders appoint a young single adult priesthood holder to lead each group. In stakes with few young single adults, stake leaders may organize home evening groups that cross ward boundaries. Home evening group leaders are accountable to assigned priesthood leaders. These groups are not referred to as families.
 
-Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
 
 #### 14.3.5.4 Sunday School Classes
 
@@ -176,7 +178,7 @@ Officers of conventional stakes and wards should cooperate fully when their memb
 
 The bishopric of a young single adult ward may organize home evening groups as outlined in [14.3.5](14-single-members.md#1435-meetings-classes-and-activities-stake-and-ward).
 
-Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
+Informally and as organized by participants, young single adults may gather to strengthen one another through gospel study. [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families) may be a resource for those who desire to study together.
 
 ### 14.6.4 Ministering
 
@@ -192,7 +194,7 @@ The membership records of young single adults should be in the wards where they 
 
 ### 14.6.7 Missionary Recommendations
 
-For information about missionary recommendations, stake presidents and bishops may refer to [chapter 24](24.md).
+For information about missionary recommendations, stake presidents and bishops may refer to chapter 24.
 
 ### 14.6.8 Priesthood Ordinations
 
@@ -218,4 +220,4 @@ Young single parents who have children at home normally remain in their conventi
 
 When needed, missionary couples (local Church-service missionaries or full-time missionaries) may be called to assist in retention and rescue efforts. They encourage service, build institute enrollment, assist with social activities, and mentor young single adults during this important stage of their lives.
 
-Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](https://www.churchofjesuschrist.org/csm).” See also [chapter 24](24.md).
+Information on missionary opportunities for couples is available on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org). For information about Church-service missionary opportunities, see “[Church-Service Missionary](https://www.churchofjesuschrist.org/csm).” See also chapter 24.

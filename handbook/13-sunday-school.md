@@ -33,7 +33,7 @@ The Sunday School president has the following responsibilities. If he has counse
 * Oversee efforts to improve gospel learning and teaching at home and at church.
 * Organize Sunday School classes, with the bishopric’s approval (see [13.3](13-sunday-school.md#133-sunday-school-classes)). Recommend to the bishopric adult members to serve as Sunday School teachers.
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng). Encourage them to study [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng).
-* Lead teacher council meetings as directed by the bishop (see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng)).
+* Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [3](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/teacher-council-meetings?lang=eng)).
 * Encourage teachers to reach out to members who do not attend classes.
 ### 13.2.3 Sunday School Teachers
 
@@ -41,7 +41,7 @@ The Sunday School president may recommend members to serve as Sunday School teac
 
 Sunday School teachers get to know class members, including those who do not attend classes. Teachers support them in their efforts to learn and live the gospel of Jesus Christ.
 
-To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me﻿—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
+To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/manual/come-follow-me/individuals-and-families), and [Come, Follow Me—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school). They follow the principles in [Teaching in the Savior’s Way](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/preface?lang=eng) and [chapter 17](17-teaching-the-gospel.md) of this handbook.
 
 Sunday School teachers attend quarterly teacher council meetings (see [17.4](17-teaching-the-gospel.md#174-teacher-council-meetings)).
 
@@ -67,14 +67,14 @@ In a small branch, the Sunday School president may be the only Sunday School lea
 
 ### 13.3.2 Sunday School Classes for Specific Groups
 
-As needed, the Sunday School president may organize Sunday School classes for specific groups. The curriculum for these classes is [Come, Follow Me﻿—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
+As needed, the Sunday School president may organize Sunday School classes for specific groups. The curriculum for these classes is [Come, Follow Me—For Sunday School](https://www.churchofjesuschrist.org/manual/come-follow-me/sunday-school).
 
 Groups that could benefit from their own Sunday School class include:
 
 * Young single adults.
 * Members who do not speak the ward’s primary language.
 * New members, returning members, and those who are learning about the Church.
-* Other groups, as directed by the bishop.
+* Other groups, as noted by the bishop.
 ## 13.4 Improving Learning and Teaching in the Ward
 
 Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [38](https://www.churchofjesuschrist.org/study/manual/teaching-in-the-saviors-way/appendix/orienting-new-teachers-a-responsibility-of-priesthood-and-auxiliary-leaders?lang=eng)). They can ask the ward Sunday School president for help if needed.

@@ -99,6 +99,6 @@ Relief Society and elders quorum presidencies meet together at least quarterly. 
 
 In units with few active members, the Relief Society and elders quorum presidencies may decide not to assign both ministering sisters and ministering brothers to some members. Leaders make this decision together and seek the bishop’s approval. If a sister is assigned ministering sisters but not ministering brothers, leaders ensure that she has someone she can ask for a priesthood blessing.
 
-The Relief Society and elders quorum presidents meet together quarterly with the bishop. They discuss the needs of ward members. They also talk about possible changes in ministering assignments.
+The Relief Society and elders quorum presidents meet together at least quarterly with the bishop. They discuss the needs of ward members. They also talk about possible changes in ministering assignments.
 
-When needed, Relief Society and elders quorum presidents discuss with the ward council information shared by ministering sisters and brothers. As they do, they respect members’ requests for confidentiality. Under the direction of the bishop, the ward council makes plans to serve and bless ward members. The ward youth council also discusses ministering (see [29.2.9](29-meetings-in-the-church.md#2929-ward-youth-council-meeting)).
+When needed, Relief Society and elders quorum presidents discuss with the ward council information shared by ministering sisters and brothers. As they do, they respect members’ requests for confidentiality. As coordinated by the bishop, the ward council makes plans to serve and bless ward members. The ward youth council also discusses ministering (see [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting)).

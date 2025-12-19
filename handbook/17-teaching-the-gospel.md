@@ -28,7 +28,7 @@ Teachers encourage members to be responsible for their own learning. They suppor
 
 To become converted to the Lord Jesus Christ, each member of the Church is responsible to learn the gospel for himself or herself. In addition, parents are responsible to teach the gospel to their children. Gospel learning and teaching should be centered in the home. Church leaders and teachers encourage and support home-centered gospel learning and teaching.
 
-Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me﻿—For Individuals and Families](https://www.churchofjesuschrist.org/study/come-follow-me/individuals-and-families?lang=eng) and [Church magazines](https://www.churchofjesuschrist.org/study/magazines?lang=eng).
+Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me—For Individuals and Families](https://www.churchofjesuschrist.org/study/come-follow-me/individuals-and-families?lang=eng) and [Church magazines](https://www.churchofjesuschrist.org/study/magazines?lang=eng).
 
 ## 17.3 Leaders’ Responsibilities
 

@@ -96,9 +96,9 @@ Aaronic Priesthood quorums meet on Sundays to strengthen faith, build unity, str
 
 Quorum meetings are held on the second and fourth Sundays of the month. They last 50 minutes. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts. He leads the quorum in reciting the theme and counseling together about assignments, duties, and other matters.
 
-A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me﻿—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)).
+A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org](https://comefollowme.churchofjesuschrist.org/)).
 
-Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5](10-aaronic-priesthood.md#1015-aoadapting-quorums-to-local-needs)). Young men and young women may occasionally combine for a Sunday lesson, as directed by the bishopric.
+Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5](10-aaronic-priesthood.md#1015-aoadapting-quorums-to-local-needs)). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
 Young men are encouraged to participate in seminary (see [15.1](15-seminaries-and-institutes.md#151-seminary)).
 
@@ -171,7 +171,7 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/missionary-standards-for-disciples-of-jesus-christ?lang=eng), and [Preach My Gospel](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng). This class is not held during regular Sunday meetings.
 
-[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org/) provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23](23.md) and [24](24.md) for more information.
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources)[Missionary.ChurchofJesusChrist.org](https://missionary.churchofjesuschrist.org/) provides additional resources that can help young men as they prepare to serve as missionaries. See chapters 23 and 24 for more information.
 
 ### 10.2.4 Uniting Families for Eternity
 
@@ -237,7 +237,7 @@ Members of the bishopric teach the young men about their responsibilities (see [
 
 ### 10.4.3 Quorum Presidency Meeting
 
-Aaronic Priesthood quorum presidencies meet regularly. The quorum president conducts these meetings. At least two adults attend﻿—a member of the bishopric, an adviser, or a specialist. During these meetings, leaders counsel together and seek revelation about the Lord’s will for their quorum. The agenda could include discussion of the following items:
+Aaronic Priesthood quorum presidencies meet regularly. The quorum president conducts these meetings. At least two adults attend—a member of the bishopric, an adviser, or a specialist. During these meetings, leaders counsel together and seek revelation about the Lord’s will for their quorum. The agenda could include discussion of the following items:
 
 * Accomplishing the work of salvation and exaltation
 * Serving quorum members, with special attention to supporting new members and rescuing less-active members
@@ -260,7 +260,7 @@ The bishop presides over the ward youth council. This council’s members includ
 
 The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/6.4-5?lang=eng#p4)). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
-See [29.2.9](29-meetings-in-the-church.md#2929-ward-youth-council-meeting) for more information about the ward youth council.
+See [29.2.6](29-meetings-in-the-church.md#2926-ward-youth-council-meeting) for more information about the ward youth council.
 
 ## 10.5 Advisers and Specialists
 
@@ -293,7 +293,7 @@ The elders quorum presidency and ministering brothers can help provide this inst
 
 The stake presidency assigns a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may serve as his counselors. Or, if a stake is large enough, other Melchizedek Priesthood holders from the stake may be called as counselors (see [5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number19-p190#title_number19)).
 
-The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-stake-youth-leadership-committee-meeting)). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
+The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.10](29-meetings-in-the-church.md#29310-aostake-youth-leadership-committee-meeting)). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
 
 A brother from the membership of the stake may be called as the stake Young Men secretary.
 

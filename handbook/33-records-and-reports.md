@@ -52,7 +52,7 @@ Other record-keeping duties the stake presidency may give the stake clerk or an 
 * Designing and printing boundary models to use in proposing realignment of stake and ward boundaries.
 * Overseeing the transfer of ward records, correspondence, and accounts when a new ward is created, a ward is discontinued, or a bishop is released.
 * Recording information for stake membership councils (see [32.9.6](32-repentance-and-membership-councils.md#3296-stake-or-ward-clerk)).
-* Maintaining and updating the stake’s website if the stake has a Church-approved site (see [38.8.25](38-church-policies-and-guidelines.md#38825-internet)).
+* Maintaining and updating the stake’s website if the stake has a Church-approved site (see [38.8.22](38-church-policies-and-guidelines.md#38822-internet)).
 #### 33.3.2.2 Review of Ward Records and Reports
 
 The stake clerk (and assistant stake clerks as assigned) reviews ward records and reports to ensure that they are accurate and complete. He resolves record-keeping problems before giving reports to the stake president. He works directly with ward clerks and assistant ward clerks to resolve minor problems. He discusses serious problems with the stake president or, at his request, the bishop.
@@ -83,28 +83,12 @@ The stake president or an assigned counselor may call and set apart assistant st
 If needed, one assistant stake clerk may be called to each of the following positions:
 
 * Stake assistant clerk
-* Stake assistant clerk﻿—finance (see [chapter 34](34-finances-and-audits.md))
-* Stake assistant clerk﻿—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and [33.6](33-records-and-reports.md#336-membership-records))
+* Stake assistant clerk—finance (see [chapter 34](34-finances-and-audits.md))
+* Stake assistant clerk—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and [33.6](33-records-and-reports.md#336-membership-records))
 
 The stake presidency may also assign an assistant stake clerk to gather historical records (see [33.7](33-records-and-reports.md#337-historical-records)).
 
-#### 33.3.3.1 Church Materials
-
 The stake presidency may assign an assistant stake clerk to become familiar with Church resource materials and know how to order them from Church Distribution Services. This clerk coordinates efforts to help stake members be informed about these materials and know how to obtain them.
-
-#### 33.3.3.2 Computers and Technology
-
-The stake presidency may assign an assistant stake clerk to be the stake technology specialist. The stake clerk could be given this assignment if necessary. The stake technology specialist has the following responsibilities for managing Church computers in the stake, including those in family history centers:
-
-* He takes direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
-* He serves as the primary contact for technology services and electronic devices in all Church meetinghouses in the stake. As requested, he provides support for all who use computers in Church meetinghouses.
-* He maintains a current inventory of all computer hardware, with serial numbers, models, capacities, and physical locations.
-* He ensures that (1) computers, software, and confidential information are secure, (2) data files are backed up regularly, and (3) backup files are stored away from the building (see [33.8](33-records-and-reports.md#338-confidentiality-of-records) and [33.9](33-records-and-reports.md#339-records-management)).
-* He should be familiar with the general policies for Church computers in [38.8.12](38-church-policies-and-guidelines.md#38812-computers). He should also be familiar with guidelines for obtaining and managing Church computers. These guidelines are available from Church headquarters or the area office. They provide information about matters such as hardware and software, donated computers, internet connections, repairs, disposal of computers, stolen or damaged computers, security, and use by members.
-
-To assist the stake technology specialist, the stake presidency may assign worthy youth and adults (brethren or sisters) to serve as assistant technology specialists. These individuals may be organized by building, ward, or other criteria determined by the stake presidency. They are referred to as assistant technology specialists, not assistant stake technology specialists.
-
-The stake technology specialist oversees and coordinates the work of assistant technology specialists. If the stake does not have a stake technology specialist, the stake clerk or an assistant stake clerk oversees the assistant technology specialists and communicates assignments from the stake presidency.
 
 ## 33.4 Ward Records and Reports
 
@@ -139,7 +123,7 @@ Other record-keeping duties the bishopric may give the ward clerk or an assistan
 * Ensuring that certificates for blessing, baptism and confirmation, and priesthood ordination are given to ward members and that these ordinances are properly and promptly recorded.
 * Preparing the [Officers Sustained form](https://lcr.churchofjesuschrist.org/form/officers-sustained) for ward conference.
 * Recording information for ward membership councils (see [32.9.6](32-repentance-and-membership-councils.md#3296-stake-or-ward-clerk)).
-* Maintaining and updating the ward’s website if the ward has a Church-approved site (see [38.8.25](38-church-policies-and-guidelines.md#38825-internet)).
+* Maintaining and updating the ward’s website if the ward has a Church-approved site (see [38.8.22](38-church-policies-and-guidelines.md#38822-internet)).
 #### 33.4.2.2 Record-Keeping Instruction
 
 The ward clerk coordinates record-keeping instruction for assistant clerks and for quorum and organization secretaries. He makes sure they receive instruction when they are newly called, when a Church record-keeping program is introduced or updated, and when records are not completed properly.
@@ -152,33 +136,17 @@ See [33.7](33-records-and-reports.md#337-historical-records).
 
 ### 33.4.3 Assistant Ward Clerks
 
-Assistant ward clerks may be called as needed. They are recommended by the bishopric and called and set apart by a member of the stake presidency or an assigned high councilor. These brethren should be priesthood holders who are worthy to have a temple recommend. If an assistant ward clerk is assigned to finances, he should hold the Melchizedek Priesthood. Assistant ward clerks work under the direction of the bishopric and the ward clerk.
+Assistant ward clerks may be called as needed. They are recommended by the bishopric and called and set apart by a member of the stake presidency or an assigned high councilor. These brethren should be priesthood holders who are worthy to have a temple recommend. If an assistant ward clerk is assigned to finances, he should hold the Melchizedek Priesthood. Assistant ward clerks work under the guidance of the bishopric and the ward clerk.
 
 If needed, one assistant ward clerk may be called to each of the following positions:
 
 * Ward assistant clerk
-* Ward assistant clerk﻿—finance (see [chapter 34](34-finances-and-audits.md))
-* Ward assistant clerk﻿—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and [33.6](33-records-and-reports.md#336-membership-records))
+* Ward assistant clerk—finance (see [chapter 34](34-finances-and-audits.md))
+* Ward assistant clerk—membership (see [33.5](33-records-and-reports.md#335-reports-on-member-participation) and [33.6](33-records-and-reports.md#336-membership-records))
 
 The bishopric may also assign an assistant ward clerk to gather historical records (see [33.7](33-records-and-reports.md#337-historical-records)) and become familiar with Church resource materials and know how to order them from Church Distribution Services. This clerk coordinates efforts to help ward members be informed about these materials and know how to obtain them.
 
-### 33.4.4 Ward Executive Secretary
-
-The ward executive secretary is recommended by the bishopric and called and set apart by a member of the stake presidency or an assigned high councilor. He should hold the Melchizedek Priesthood and be worthy to have a temple recommend.
-
-The executive secretary is an administrative assistant to the bishopric. He meets with the bishopric and prepares agendas as assigned. He is also a member of the ward council. As directed by the bishopric, he follows up on assignments made in these meetings (see [7.6.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/7-councils-in-the-church?lang=eng¶=title_number14-p51#title_number14)).
-
-He coordinates ward business between the bishopric and other leaders.
-
-He schedules appointments for the bishopric. He also distributes Church publications and correspondence promptly.
-
-If assigned by the bishop, he coordinates the ward’s Church magazine subscription efforts, helping members receive the blessings of having Church magazines in their homes. He may be assisted by the ward magazine representative and others appointed by the bishopric.
-
-He may help the bishopric with seminary and institute matters, such as registration for classes (see [chapter 15](15-seminaries-and-institutes.md)).
-
-He keeps a current list of the names and addresses of ward members who are in the military and circulates this list to the ward council. He also informs the stake executive secretary when members plan to enter the military.
-
-### 33.4.5 Priesthood and Organization Leaders
+### 33.4.4 Priesthood and Organization Leaders
 
 Priesthood and organization leaders oversee record keeping in their organizations. They may assign secretaries to do much of this work under their direction. They meet regularly with secretaries to ensure that records are accurate, complete, and on time.
 
@@ -202,7 +170,7 @@ See [21.4](21-ministering.md#214-coordinating-ministering-efforts).
 
 The [Quarterly Report](https://lcr.churchofjesuschrist.org/report/quarterly-report) generally includes information for only the last month of each quarter. An exception is the report of ministering interviews, which are reported for the entire quarter. The stake president or bishop may request some information monthly.
 
-The ward clerk or an assistant ward clerk prepares the report under the direction of the bishop. By the 10th of the month following the end of each quarter, quorum and organization leaders or secretaries give attendance information for the previous month to the clerk so he can include it in the report. The elders quorum and Relief Society give ministering interview reports for the quarter. The bishop reviews the report for accuracy and makes sure the clerk submits it on time.
+The ward clerk or an assistant ward clerk prepares the report under the bishop’s guidance. By the 10th of the month following the end of each quarter, quorum and organization leaders or secretaries give attendance information for the previous month to the clerk so he can include it in the report. The elders quorum and Relief Society give ministering interview reports for the quarter. The bishop reviews the report for accuracy and makes sure the clerk submits it on time.
 
 _Units That Use Church Record-Keeping Software._ A clerk from each ward prepares the report on the computer and transmits it electronically to Church headquarters according to instructions on the report. Clerks print, distribute, and retain copies as needed.
 
@@ -253,13 +221,15 @@ For statistical and reporting purposes, the following individuals are members of
 * Those who are not accountable because of intellectual disabilities, regardless of age.
 * Unblessed children under 8 when (1) at least one parent or one grandparent is a member of the Church and (2) both parents give permission for a record to be created. This includes children of converts. (If one parent does not have legal custody of the child, the permission of the parent who has custody is sufficient.)
 
-A person age 9 or older who has a membership record but has not been baptized and confirmed is not considered a member of record. However, the ward in which the person lives retains the membership record until the person is 18. At that time, if the person chooses not to be baptized despite being given every opportunity, the bishop, with written permission from the stake president, cancels the membership record. However, records of unbaptized members who are considered not accountable because of intellectual disabilities are not canceled.
+A person age 9 or older who has a membership record but has not been baptized and confirmed is not considered a member of record. However, the ward in which the person lives retains the membership record until the person is 18. At that time, if the person chooses not to be baptized despite being given every opportunity, the bishop, with permission from the stake president, cancels the membership record.
+
+Records are not canceled for those who have not been baptized because of an intellectual disability unless requested by the person or a legal guardian, including a parent.
 
 ### 33.6.3 Records of New Ward Members
 
 The ward clerk or an assistant ward clerk meets with new ward members soon after their membership records arrive to review the Individual Ordinance Summary for accuracy.
 
-For instructions about introducing new members after their records are received or after they are baptized and confirmed, see [29.2.2.8](29-meetings-in-the-church.md#29228-introducing-new-members).
+For instructions about introducing new members after their records are received or after they are baptized and confirmed, see [29.2.1.1](29-meetings-in-the-church.md#29211-planning-sacrament-meeting).
 
 ### 33.6.4 Records of Members Who Move or Are Temporarily Away from Home
 
@@ -287,7 +257,7 @@ If members have Church assignments outside of their home ward, their membership 
 
 #### 33.6.5.3 Full-Time Missionaries
 
-See [24.9.10](https://www.churchofjesuschrist.org/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number38-p141#title_number38).
+See [24.6.2.8](24.md#24628-membership-records-and-tithing).
 
 ### 33.6.6 Records of Young Single Adults
 
@@ -309,11 +279,19 @@ Members who travel extensively and do not have a permanent address should consul
 
 ### 33.6.10 Records of Members Who Have Intellectual Disabilities
 
-If the bishop determines that a person who is at least 8 years old is not accountable, he instructs a clerk to indicate “Not Accountable” in the baptism section of the person’s membership record (see [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-with-intellectual-disabilities)). The clerk sends the update to Church headquarters or the area office. The membership record should not be canceled.
+If the bishop determines that a person who is at least 8 years old is not accountable, he or a clerk indicates “Not Accountable” in the baptism section of the person’s membership record in Leader and Clerk Resources (LCR) (see [38.2.3.5](38-church-policies-and-guidelines.md#38235-persons-with-intellectual-disabilities)). Where LCR is not available, the clerk sends the update to Church headquarters or the area office. The membership record is not canceled.
 
-### 33.6.11 Records of Members Who Are Deaf or Hearing Impaired
+### 33.6.11 Records of Members Who Are Deaf or Hard of Hearing
 
-Members who use sign language, and their families, may choose to have their Church membership records in one of the following places: (1) their home ward, (2) a ward that is designated to host a group for the deaf or hearing impaired within a specified geographic area, or (3) a ward or branch that is organized for members who are deaf or hearing impaired.
+Members who use sign language, and their immediate family members or legal guardians, may choose to have their Church membership records in any of the following places:
+
+* Their local ward
+* A ward for the deaf and hard of hearing who live within that ward’s boundaries
+* A ward that hosts a group for the deaf and hard of hearing who live within a geographic area specified by the stake president or Area President
+
+To best meet the needs of these members and their families, an individual or family’s records may be in one unit, and they may be “out-of-unit” members in another. For example, an individual, a family, or part of a family may have their records in a unit for the deaf and hard of hearing, and they may be out-of-unit members in their local unit. For more information, see [33.6.25](33-records-and-reports.md#33625-out-of-unit-member-records).
+
+Members who are deaf or hard of hearing may attend virtually a unit or group organized for those who are deaf or hard of hearing outside of the members’ geographic area. They may do so even if their records are not in that unit. Before attending virtually, they should obtain permission from the bishop of the unit they desire to attend.
 
 ### 33.6.12 Records of Adopted Children
 
@@ -375,6 +353,20 @@ Each year the stake clerk or an assistant stake clerk ensures that an audit of m
 
 In addition to these audits, the bishop assigns one or more clerks in the ward to conduct an annual review of the Individual Ordinance Summary with members as explained in [33.6](33-records-and-reports.md#336-membership-records). If errors are found, a clerk ensures that they are corrected on the membership records.
 
+### 33.6.25 Out-of-Unit Member Records
+
+A member’s official membership record may be kept in only one ward at a time. Only the bishop of this ward may oversee updating the membership record, performing ordinances, and conducting worthiness interviews for the member.
+
+Some circumstances require that a member’s name and contact information be recorded in a secondary ward. In these cases, the clerk of the secondary ward creates an out-of-unit member record using Leader and Clerk Resources.
+
+Members with an out-of-unit member record may receive a calling in that ward. They are also included on ward directories and rolls. They will have access to the ward directory of members through the Member Tools app.
+
+Circumstances in which an out-of-unit member record might be used include:
+
+* Children with divorced parents who attend Church meetings in both parents’ wards.
+* Members who serve in callings outside their home ward, such as mission presidents, temple presidents, bishops of young single adult wards, and senior missionaries.
+* Members who attend a ward for the deaf or hard of hearing.
+* Members living away from their home ward temporarily.
 ## 33.7 Historical Records
 
 ### 33.7.1 Ward and Stake Histories
@@ -413,7 +405,7 @@ Information from Church records and reports may be given only to those who are a
 
 Information that is stored electronically must be kept secure and protected by a password (see [33.9.1](33-records-and-reports.md#3391-protection)). Leaders ensure that such data is not used for personal, political, or commercial purposes. Information from Church records, including historical information, may not be given to individuals or agencies conducting research or surveys.
 
-Stake and ward directories that are distributed to members must follow the guidelines in [38.8.16](38-church-policies-and-guidelines.md#38816-directories). Membership lists that have more information, such as age and membership status, may be given only to authorized stake and ward leaders.
+Stake and ward directories that are distributed to members must follow the guidelines in [38.8.14](38-church-policies-and-guidelines.md#38814-directories). Membership lists that have more information, such as age and membership status, may be given only to authorized stake and ward leaders.
 
 ## 33.9 Records Management
 
@@ -436,3 +428,22 @@ Records should be kept only as long as they are needed for administrative, legal
 Records that are outdated or no longer needed should be destroyed in such a way that the information cannot be retrieved or reconstructed. When deleting membership or financial information that is stored on a hard drive or another electronic storage device, a person must ensure that it cannot be recovered through any technical means.
 
 Records that have potential historical value should not be discarded, destroyed, or placed in the resource center. Questions about the historical value of records may be addressed to the Church History Library (see contact information in [33.7.2](33-records-and-reports.md#3372-church-history)).
+
+## 33.10 Stake and Ward Technology Specialists
+
+The stake presidency calls one or more stake members to serve as stake technology specialists. The bishopric may call one or more ward members to serve as ward technology specialists. Men, women, and youth may fill these callings.
+
+Stake technology specialists serve under the direction of the stake clerk. Ward technology specialists serve under the direction of the ward executive secretary. Their responsibilities can include the following:
+
+* Teach members how to access and use Church media, apps, and other technology tools, including FamilySearch.
+* Support leaders and teachers who use technology tools to fulfill their callings.
+* Manage streaming of meetings and classes for those who cannot attend (see [29.7](29-meetings-in-the-church.md#297-streaming-meetings-and-holding-virtual-meetings)).
+
+In addition, the stake technology specialist has the following responsibilities for managing Church computers in the stake, including those in family history centers:
+
+* Take direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
+* Maintain a current inventory of all computer hardware in the stake, with serial numbers, models, capacities, and physical locations.
+* Ensure that (1) computers, software, and confidential information are secure, (2) data files are backed up regularly, and (3) backup files are stored away from the building (see [33.8](33-records-and-reports.md#338-confidentiality-of-records) and [33.9](33-records-and-reports.md#339-records-management)).
+* Be familiar with the general policies for Church computers in [38.8.10](38-church-policies-and-guidelines.md#38810-computers). Be familiar with guidelines for obtaining and managing Church computers. These guidelines are available from Church headquarters or the area office. They provide information about matters such as hardware and software, internet connections, repairs, disposal of computers, stolen or damaged computers, security, and use by members.
+
+As needed, stake technology specialists coordinate the work of ward technology specialists and provide training.

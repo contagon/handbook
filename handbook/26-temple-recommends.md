@@ -157,7 +157,7 @@ New members who are worthy should be issued a limited-use recommend to perform b
 
 ### 26.5.3 Young Missionaries Returning from Service Away from Home
 
-Before a young missionary serving away from home completes his or her service, the mission president conducts a temple recommend interview. If the missionary is worthy, he issues a recommend. The mission president dates and activates the recommend so it expires three months from the date the missionary returns home (see [24.10.1.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number76-p153#title_number76)).
+Before a young missionary serving away from home completes his or her service, the mission president conducts a temple recommend interview. If the missionary is worthy, he issues a recommend. The mission president dates and activates the recommend so it expires three months from the date the missionary returns home.
 
 The bishop interviews returned missionaries to issue a new temple recommend near the end of the three-month expiration period. In urgent cases when the bishop is unavailable, he may authorize one of his counselors to conduct these interviews.
 
@@ -165,7 +165,7 @@ In large young single adult wards, bishops may authorize experienced counselors 
 
 Returned missionaries then meet with a member of their stake presidency for a temple recommend interview.
 
-In these temple recommend interviews, the bishop and member of the stake presidency also review counsel given in the missionary’s release interview (see [24.10.3.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/24-preparing-and-recommending-missionaries?lang=eng¶=title_number80-p164#title_number80)). They discuss the returned missionary’s progress, well-being, and current Church calling. They also encourage him or her to continue on a lifelong path of spiritual growth and service.
+In these temple recommend interviews, the bishop and member of the stake presidency also review counsel given in the missionary’s release interview (see [24.8.2](24.md#2482-missionary-release-interview)). They discuss the returned missionary’s progress, well-being, and current Church calling. They also encourage him or her to continue on a lifelong path of spiritual growth and service.
 
 If the returned missionary does not have a Church calling, the bishop and stake president make certain that one is extended. Returned missionaries may be recommended to serve as temple ordinance workers or volunteers if a temple is nearby (see [25.5](25-temple-and-family-history-work.md#255-recommending-and-calling-temple-workers)).
 
