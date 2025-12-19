@@ -123,6 +123,10 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 5. Gives a blessing to the child as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
 
+1:41
+
+Naming and Blessing of Children
+
 ### 18.6.3 Child Record Form and Blessing Certificate
 
 Before a child is blessed, a clerk uses [Leader and Clerk Resources (LCR)](https://lcr.churchofjesuschrist.org) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
@@ -203,7 +207,7 @@ For safety, a responsible adult must be present while a font is being filled and
 
 A person who performs a baptism and a person who is being baptized wear white clothing that is not transparent when wet. An endowed person wears the temple garment under this clothing while performing a baptism. Local units purchase baptismal clothing with budget funds and do not charge for its use.
 
-Baptismal clothing may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/usa/en/clothing-3074457345616678790-1).
+Baptismal clothing may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/top-cat/units-and-callings/temples/baptistry/5637160427.c).
 
 ### 18.7.6 Witnesses
 
@@ -221,6 +225,10 @@ To perform the ordinance of baptism, a priest or Melchizedek Priesthood holder:
 4. States the person’s full name and says, “Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen” ([Doctrine and Covenants 20:73](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p73#p73)).
 5. Has the person hold his or her nose with the right hand (for convenience); then places his right hand high on the person’s back and immerses the person completely, including clothing. Immersion is easier if the person bends his or her knees.
 6. Helps the person to come up out of the water.
+
+3:16
+
+Baptism of a New Member
 
 ### 18.7.8 Baptism Record
 
@@ -261,6 +269,10 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 5. Gives words of blessing as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
 
+1:54
+
+Confirming a Recently Baptized Member
+
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
 Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR](https://lcr.churchofjesuschrist.org) to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR](https://lcr.churchofjesuschrist.org).
@@ -297,7 +309,7 @@ When there are enough Aaronic Priesthood holders, they usually perform these dut
 
 Because of the sacred nature of the sacrament, priesthood leaders should prepare carefully so it is orderly and reverent. Sacrament tablecloths should be white, clean, and pressed. Sacrament trays should be clean. Sacrament trays and cups should be ordered well in advance.
 
-Sacrament supplies may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/usa/en/sacrament-3074457345616678805-1).
+Sacrament supplies may be ordered at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org/top-cat/units-and-callings/wards-branches-stakes-and-districts/sacrament/5637160445.c).
 
 Those who administer the sacrament should do so in a dignified manner, realizing that they are representing the Lord. The bishopric encourages them to ponder the Savior’s Atonement as they prepare, bless, and pass the sacrament.
 
@@ -329,6 +341,10 @@ Although the sacrament is for members of the Church, nothing should be done to p
 10. After the prayer, priesthood holders reverently pass the water to the members. The presiding leader receives it first, after which there is no set order.
 11. When the water has been passed to all members, those passing the sacrament return the trays to the sacrament table. Those who blessed the sacrament place a cloth over the trays, and those who blessed and passed the sacrament reverently take their seats.
 12. After the meeting, those who prepared the sacrament clean up, fold the tablecloths, and remove any unused bread.
+
+3:32
+
+Blessing the Sacrament
 
 ## 18.10 Conferring the Priesthood and Ordaining to an Office
 
@@ -399,7 +415,7 @@ If a member in good standing opposes the ordination, the presiding leader or ano
 
 Only members in good standing may participate in the sustaining. However, if a member not in good standing or a person who is not a member opposes the action, the bishop or stake president may hear his or her concern in private outside of the meeting.
 
-In some cases, a brother may need to be ordained an elder or high priest before he can be presented in stake conference. When this happens, he is presented in his ward sacrament meeting for sustaining. He is then presented in the next stake conference to ratify the ordination (adapting the process for sustaining, described above). This includes giving stake members an opportunity to sustain or oppose the action.
+In some cases, a brother may need to be ordained an elder or high priest before he can be presented in stake conference. When this happens, a member of the stake presidency or an assigned high councilor presents him in his ward sacrament meeting for sustaining. He is then presented in the next stake conference to ratify the ordination (adapting the process for sustaining, described above). This includes giving stake members an opportunity to sustain or oppose the action.
 
 ### 18.10.4 Who Performs the Ordinance
 
@@ -415,7 +431,7 @@ To participate in an Aaronic Priesthood ordination, a person must be a priest or
 
 A bishop may allow a father who is a priest or a Melchizedek Priesthood holder to ordain his son to the office of deacon, teacher, or priest even if the father is not fully temple worthy (see [18.3](18-priesthood-ordinances-and-blessings.md#183-participation-in-an-ordinance-or-blessing)). Bishops encourage fathers to prepare themselves to ordain their own sons.
 
-To act as voice in this ordinance, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/ordinance/ordinance-recommend) signed by a member of his bishopric.
+To act as voice in this ordinance, a person who is outside his own ward must show a current temple recommend to the presiding leader. Or he may show a [Recommend to Perform an Ordinance](https://lcr.churchofjesuschrist.org/report/forms/recommend-to-perform-an-ordinance) signed by a member of his bishopric.
 
 ### 18.10.5 Instructions
 
@@ -431,6 +447,10 @@ To confer the priesthood and ordain a person to a priesthood office, one or more
 To ordain a person to a priesthood office after he has already had the appropriate priesthood conferred upon him, the person who performs the ordination omits step 3.
 
 An ordination is an opportunity to give a blessing. Detailed counsel and instruction about a person’s duties are given before and after the ordination. They should not be the focus of the blessing. It is not necessary to have prayers, testimonies, or instruction when someone is ordained.
+
+1:58
+
+Ordination to the Priesthood
 
 ### 18.10.6 Ordination Record and Certificate
 
@@ -495,6 +515,10 @@ To consecrate the oil, a Melchizedek Priesthood holder:
 4. Consecrates the oil (not the container) and sets it apart for anointing and blessing the sick and afflicted.
 5. Closes in the name of Jesus Christ.
 
+1:12
+
+Consecrating Oil
+
 ## 18.13 Administering to the Sick
 
 Usually, administering to the sick should be done at the request of the person receiving the blessing or at the request of others who are concerned so the blessing will be according to their faith (see [James 5:14](https://www.churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng&id=p14#p14); [Doctrine and Covenants 24:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/24?lang=eng&id=p13-p14#p13); [42:43–44, 48–52](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p43-p44,48-p52#p43)).
@@ -529,6 +553,10 @@ To seal the anointing, one or more Melchizedek Priesthood holders place their ha
 2. States that he is sealing the anointing by the authority of the Melchizedek Priesthood.
 3. Gives words of blessing as guided by the Spirit.
 4. Closes in the name of Jesus Christ.
+
+2:3
+
+Administering to the Sick
 
 ## 18.14 Blessings of Comfort and Counsel, Including Father’s Blessings
 
@@ -591,6 +619,10 @@ To dedicate a grave, a Melchizedek Priesthood holder:
 6. Closes in the name of Jesus Christ.
 
 If a Church member’s body is cremated, the presiding leader uses his judgment to decide whether to dedicate the place where the ashes are kept. He takes into account the family’s wishes and local customs and laws. The brother who acts as voice adapts the instructions for dedicating a grave.
+
+1:58
+
+Dedication of Graves
 
 ## 18.17 Patriarchal Blessings
 

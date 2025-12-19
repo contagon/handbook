@@ -325,9 +325,9 @@ See [24.6.2.8](24.md#24628-membership-records-and-tithing).
 
 ### 33.6.7 Records of Young Single Adults
 
-Young single adults between the ages of 18 and 30 may choose to be members of either their geographic ward or a young single adult ward if one is assigned to the boundaries where they live. The membership record is kept in the ward they attend.
+Young single adults between the ages of 18 and 35 may choose to be members of either their geographic ward or a young single adult ward if one is assigned to the boundaries where they live. The membership record is kept in the ward they attend.
 
-These principles also apply to single adults between the ages of 31 and 45 who choose to be members of a single adult ward.
+These principles also apply to single adults between the ages of 36 and 45 who choose to be members of a single adult ward.
 
 If a young single adult plans to attend a ward temporarily (for example, while attending school), the membership record is kept in the ward he or she attends. With the member’s permission, the clerk of the ward where the member’s family lives may create an out-of-unit record for him or her (see [33.6.5](33-records-and-reports.md#3365-out-of-unit-member-records)).
 
@@ -450,7 +450,9 @@ Stake and ward leaders should make effective records management a part of their 
 
 All Church records, reports, and data should be protected against unauthorized access, change, destruction, or disclosure. This information should be kept in a safe place. Highly sensitive records, including computer printouts, should be kept in a locked drawer or cabinet in the leader’s office when they are not being used.
 
-Where possible, electronic copies of records, reports, and data should be encrypted and password protected. Lost or stolen Church-owned devices or storage media should be reported promptly at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). Misuse of Church information should also be reported.
+Where possible, electronic copies of records, reports, and data should be encrypted and password protected. Lost or stolen Church-owned devices or storage media should be reported promptly at [incidents.ChurchofJesusChrist.org](https://riskonnectrmd--c.visualforce.com/apex/IncidentMgmtPortal_mobile). Misuse of Church information, including personal data, should also be reported.
+
+A membership council may be necessary in serious cases of misuse of personal data (see [32.6.3.4](32-repentance-and-membership-councils.md#32634-misuse-of-personal-data)). Such misuse includes deliberately entering false information in Church systems or intentionally using or sharing personal data for non-Church purposes.
 
 #### 33.9.1.1 Usernames and Passwords
 

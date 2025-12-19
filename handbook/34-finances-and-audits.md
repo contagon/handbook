@@ -183,6 +183,10 @@ The amount of tithing and other offerings paid by a donor is confidential. Only 
 
 The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities](https://www.churchofjesuschrist.org/help/support/record-keeping/finance/financial-training-lessons/sacred-funds)” at least once a year.
 
+22:58
+
+Sacred Funds, Sacred Responsibilities
+
 ### 34.5.1 Companionship Principle
 
 The companionship principle requires two persons—a member of the bishopric and a clerk, or two members of the bishopric—to be actively involved when recording and disbursing Church funds. This principle is essential to safeguarding sacred funds and protecting Church leaders.

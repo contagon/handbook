@@ -34,6 +34,8 @@ The children and youth of a language unit may combine classes with a geographic 
 
 See [36.3](36-creating-changing-and-naming-new-units.md#363-creating-or-changing-branches-in-missions) for language branches in a mission. See [36.4.2](36-creating-changing-and-naming-new-units.md#3642-naming-wards-and-branches) for ward and branch naming guidelines.
 
+For support regarding the creation of a language _stake_ in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
+
 ### 37.1.1 Membership in a Language Ward or Branch
 
 * Members must live within the boundaries of the language ward or branch.

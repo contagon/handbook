@@ -71,14 +71,14 @@ Jesus Christ holds all the keys of the priesthood. Under His direction, priestho
 
 The Lord has conferred on each of His Apostles all the keys that pertain to the kingdom of God on earth. The senior living Apostle, the President of the Church, is the only person on earth authorized to exercise all of those priesthood keys (see [Doctrine and Covenants 81:1–2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/81?lang=eng&id=p1-p2#p1); [107:64–67, 91–92](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng&id=p64-p67,91-p92#p64); [132:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p7#p7)).
 
-Under the direction of the President of the Church, the following priesthood leaders are given keys so they can preside in their areas of responsibility:
+Under the direction of the President of the Church, the following local priesthood leaders are given keys so they can preside in their areas of responsibility:
 
-* Stake and district presidents.
-* Bishops and branch presidents.
-* Melchizedek and Aaronic Priesthood quorum presidents.
-* Temple presidents.
-* Mission presidents and missionary training center presidents.
-* Church historic site presidents.
+* Stake and district presidents
+* Bishops and branch presidents
+* Melchizedek and Aaronic Priesthood quorum presidents
+* Temple presidents
+* Mission presidents and missionary training center presidents
+* Church historic site presidents
 
 These leaders receive priesthood keys when they are set apart to their callings.
 

@@ -10,7 +10,7 @@ Uniting families for eternity is part of God’s work of salvation and exaltatio
 * Discovering our deceased ancestors and performing ordinances for them in the temple so they can make covenants with God (see [Malachi 4:5–6](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=eng&id=p5-p6#p5); [1 Corinthians 15:29](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=eng&id=p29#p29); [Doctrine and Covenants 128:15–18](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=eng&id=p15-p18#p15)).
 * Going to the house of the Lord regularly, where possible, to worship God and perform ordinances for our ancestors (see [Luke 24:52–53](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=eng&id=p52-p53#p52); [Doctrine and Covenants 109:13–14](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p13-p14#p13)).
 
-This chapter guides Church leaders and members on how to unite families for eternity through temple and family history work. More information is available at “[Temples](https://www.churchofjesuschrist.org/study/manual/gospel-topics/temples?lang=eng),” “[Proxy Baptism](https://www.churchofjesuschrist.org/study/manual/gospel-topics/proxy-baptism?lang=eng),” and “[Family History](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, Gospel Library).
+This chapter guides Church leaders and members on how to unite families for eternity through temple and family history work. More information is available at “[Temples](https://www.churchofjesuschrist.org/study/manual/gospel-topics/temples?lang=eng),” “[Baptisms for the Dead](https://www.churchofjesuschrist.org/study/manual/gospel-topics/baptisms-for-the-dead?lang=eng),” and “[Family History](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history?lang=eng)” (Topics and Questions, Gospel Library).
 
 ## 25.1 Member and Leader Participation in Temple and Family History Work
 
@@ -132,6 +132,10 @@ Examples of what the plan might include are listed below:
 The ward temple and family history plan should not establish quotas or reporting systems for temple worship (see [25.1.1](25-temple-and-family-history-work.md#2511-individual-responsibility-for-temple-worship)).
 
 The bishop reviews and approves the plan. Members of the ward council take the lead in implementing it. They report on progress in ward council meetings. They also update the plan as needed.
+
+2:49
+
+Helping Members Gain the Vision
 
 ### 25.2.7 Ward Temple and Family History Coordination Meetings
 
@@ -310,7 +314,7 @@ Potential temple workers are identified in the following ways:
 * Members identified by the bishop or another ward leader
 * Members who approach the bishop about serving
 * Members recommended by the temple president, the matron, or another temple leader
-* Members who are preparing for or have recently returned from missionary service (see chapter 24)
+* Members who are preparing for or have recently returned from missionary service (see [chapter 24](24.md))
 
 The names of potential temple workers are submitted using the [Recommend Temple Worker tool](https://recommendtempleworker.churchofjesuschrist.org). This tool is available to bishops, stake presidents, and temple presidencies. The process for submitting names is outlined below.
 

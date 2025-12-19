@@ -33,6 +33,8 @@ Musical selections should be consistent with the worshipful spirit of the hymns.
 
 Sacred music that is written or sung in culturally diverse musical styles may help unify congregations. Music coordinators and priesthood leaders may include a variety of appropriate musical styles that appeal to members of various backgrounds.
 
+For information about music for baptismal services, see [18.7.2](18-priesthood-ordinances-and-blessings.md#1872-baptismal-services). For information about music for weddings held in Church buildings, see [38.3.4](38-church-policies-and-guidelines.md#3834-civil-marriages-held-in-church-buildings). For information about music for funerals, see [29.5.4](29-meetings-in-the-church.md#2954-funeral-services-where-customary).
+
 ### 19.3.2 Music in Sacrament Meeting
 
 Members gather in sacrament meeting to remember Jesus Christ by partaking of the sacrament. They gather to build faith and testimony and to worship Heavenly Father and Jesus Christ. Music should be selected to help achieve these purposes.
@@ -91,7 +93,7 @@ Where there are enough members, wards may organize choirs that sing in sacrament
 
 Ward members may volunteer to sing in the choir. Members and others may also be invited to participate. Auditions are not held.
 
-Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
+Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng&id=title15-figure3_p1#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
 
 Choir rehearsals do not usually exceed one hour.
 

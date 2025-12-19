@@ -125,7 +125,7 @@ The primary purpose of councils is to help members work together in seeking divi
 
 Some administrative business, such as calendar planning, may not require discussion in a council setting. Much of this can be handled through communication before and after meetings.
 
-Council members give particular care to individuals and families with pressing needs. Councils help coordinate assistance. For information about some of these needs, along with resources for understanding and assisting, see [Life Help](https://www.churchofjesuschrist.org/study/life-help?lang=eng) in the Gospel Library.
+Council members give particular care to individuals and families with pressing needs. Councils help coordinate assistance. For information about some of these needs, along with resources for understanding and assisting, see Life Help in the Gospel Library.
 
 ### 4.4.2 Preparation for Council Meetings
 
