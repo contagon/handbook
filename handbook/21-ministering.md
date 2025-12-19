@@ -8,7 +8,7 @@ The Lord wants all members of His Church to receive such care. For this reason, 
 
 Ministering is an important way we keep the commandments to love God and to love our neighbors (see [Matthew 22:36–40](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22.36-40?lang=eng#p36)). It is also a vital way to help accomplish the work of salvation and exaltation.
 
-Elders quorum and Relief Society presidencies help ministering brothers and sisters learn how to minister to others. They also give inspiration, guidance, and support. They can do this in ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)), in Sunday meetings, and in personal conversations. They seek inspiration from the scriptures, this chapter, and ministering.ChurchofJesusChrist.org.
+Elders quorum and Relief Society presidencies help ministering brothers and sisters learn how to minister to others. They also give inspiration, guidance, and support. They can do this in ministering interviews (see [21.3](21-ministering.md#213-ministering-interviews)), in Sunday meetings, and in personal conversations. They seek inspiration from the scriptures, this chapter, and [ministering.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/ministering).
 
 ## 21.1 Responsibilities of Ministering Sisters and Brothers
 

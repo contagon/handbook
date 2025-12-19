@@ -2,251 +2,224 @@
 
 ## 19.1 Purpose of Music in the Church
 
-In a revelation to the Prophet Joseph Smith, the Lord said, “My soul delighteth in the song of the heart; yea, the song of the righteous is a prayer unto me, and it shall be answered with a blessing upon their heads” ([Doctrine and Covenants 25:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25.12?lang=eng#p12)).
+In a revelation to the Prophet Joseph Smith, the Lord said, “My soul delighteth in the song of the heart; yea, the song of the righteous is a prayer unto me, and it shall be answered with a blessing upon their heads” ([Doctrine and Covenants 25:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/25.12?lang=eng#p12)). He also said, “The righteous … shall come to Zion, singing with songs of everlasting joy” ([Doctrine and Covenants 45:71](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.71?lang=eng#p71)).
 
-The First Presidency said:
+Sacred music increases faith in Jesus Christ. It invites the Spirit and teaches doctrine. It also creates a feeling of reverence, unifies members, and provides a way to worship Heavenly Father and Jesus Christ.
 
-“Inspirational music is an essential part of our church meetings. The hymns invite the Spirit of the Lord, create a feeling of reverence, unify us as members, and provide a way for us to offer praises to the Lord.
+## 19.2 Music in the Home
 
-“Some of the greatest sermons are preached by the singing of hymns. Hymns move us to repentance and good works, build testimony and faith, comfort the weary, console the mourning, and inspire us to endure to the end” (Hymns, [ix](https://www.churchofjesuschrist.org/study/manual/hymns/first-presidency-preface?lang=eng¶=3-p4#p3)).
+Through His prophets, the Lord has encouraged individuals and families to use uplifting music in their daily lives. Singing and listening to sacred music can invite a spirit of beauty and peace. It can also increase love and unity among family members. The hymns can help individuals gain courage and withstand temptation.
 
-## 19.2 Ward Music Leadership
+Recordings of Church music are available from the following sources:
 
-### 19.2.1 Bishopric
+* Sacred Music app
+* Gospel Library app
+* [Music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music)
+* CDs at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org)
 
-The bishop and his counselors oversee ward music. They have the following responsibilities:
+The Church provides resources to help individuals and families learn basic music skills. They can be found at [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music) (see also [19.6](19-music.md#196-music-training-and-resources)). Developing music skills expands opportunities for members to serve at home and in the Church.
 
-* They call and set apart ward members to serve in music callings as outlined in this section.
-* They consult regularly with the ward music chairman to ensure that musical selections and instruments used in Church meetings are appropriate (see guidelines in [19.4.2](19-music.md#1942-guidelines-for-choosing-appropriate-music-for-church-worship-services)).
-* They support a ward choir by encouraging members to participate and by making available a rehearsal time that is free of other ward conflicts.
-* They encourage members to participate in congregational singing.
-* They encourage members to use uplifting music in their homes (see [19.8](19-music.md#198-music-in-the-home)).
-### 19.2.2 Ward Music Adviser
+## 19.3 Music in Church Meetings
 
-A member of the bishopric serves as the ward music adviser. He supervises the music program in the ward, advises the ward music chairman, and represents the music program in leadership meetings.
+Sacred music is a vital part of sacrament meeting and other Church meetings. It has power to invite the Spirit, bringing individuals closer to God. “Some of the greatest sermons are preached by the singing of hymns.” (See Hymns, [ix](https://www.churchofjesuschrist.org/music/guidelines/first-presidency-preface-to-the-hymns).)
 
-### 19.2.3 Ward Music Chairman
+### 19.3.1 Planning Music for Church Meetings
 
-A man or woman may serve as the ward music chairman. Under the direction of the ward music adviser, the ward music chairman has the following responsibilities:
+Ward and stake music coordinators work with priesthood leaders to plan music for worship services. They select music that enhances the spirit of worship in the meetings.
 
-* Serve as a resource to the bishopric on music matters.
-* Arrange for effective, appropriate music in sacrament meetings and other ward meetings.
-* Serve as a resource to ward leaders in providing music training and in meeting other music needs as requested.
-* Recommend and supervise music training programs in the ward (see [19.7](19-music.md#197-music-training)).
-* Recommend and implement ward music activities as requested.
-* Recommend members to fill ward music callings as requested by the ward music adviser. Supervise those who serve in ward music callings.
+Hymns are used for all congregational singing in worship services. Hymns or other sacred musical selections may be used for prelude and postlude music, choir music, and solo or small group presentations. All music in Church meetings should be presented in the spirit of worship of Heavenly Father and Jesus Christ, not as a performance to showcase musical talent.
 
-The ward music chairman receives training and support from the stake music chairman as needed.
+Musical selections should be consistent with the worshipful spirit of the hymns. They should teach the gospel with power and clarity.
 
-### 19.2.4 Ward Music Director
+Sacred music that is written or sung in culturally diverse musical styles may help unify congregations. Music coordinators and priesthood leaders may include a variety of appropriate musical styles that appeal to members of various backgrounds.
 
-Under the direction of the ward music chairman, the music director recommends and conducts the congregational hymns for sacrament meetings and for other ward meetings as requested. One person may serve as both the ward music chairman and ward music director.
+### 19.3.2 Music in Sacrament Meeting
 
-### 19.2.5 Ward Organist or Pianist
+Members gather in sacrament meeting to remember Jesus Christ by partaking of the sacrament. They gather to build faith and testimony and to worship Heavenly Father and Jesus Christ. Music should be selected to help achieve these purposes.
 
-The ward organist or pianist provides prelude and postlude music and accompaniment for hymns at sacrament meeting and at other ward meetings as requested.
+Music in sacrament meeting includes congregational singing of hymns to open and close the meeting and before the administration of the sacrament. Congregational hymns provide an opportunity for members to unite as they actively participate in worshipping together. The sacrament hymn should refer to the sacrament itself or to the sacrifice of the Savior. For more information, see “[Hymns for Congregations](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title8-p19#title8),” Hymns, 380–81.
 
-### 19.2.6 Ward Choir Director and Choir Accompanist
+Prelude music is played as members gather before the meeting. Its purpose is to create an atmosphere of worship that invites the Spirit. After the closing prayer, an instrumental postlude is played as members leave the meeting. Hymns and other sacred music can be selected for prelude and postlude music.
 
-The ward choir director recommends music to be sung by the choir, directs choir rehearsals, and conducts choir performances (see [19.4.5](19-music.md#1945-choirs)).
+A sacrament meeting could also include an additional congregational hymn sung in the middle of the meeting—for example, between spoken messages. Or it may include one or more other musical selections. These could be presented by choirs (see [19.3.7](19-music.md#1937-choirs)), vocal or instrumental soloists, or small groups. Sacrament meetings should not be turned over to outside musical groups.
 
-The ward choir accompanist plays for choir rehearsals and performances.
+The piano, organ, or another instrument approved by the bishopric may be used to accompany hymn singing in sacrament meeting (see [19.3.6](19-music.md#1936-musical-instruments)).
 
-### 19.2.7 Priesthood Music Director and Pianist or Organist
+Music coordinators and bishoprics try to find a balance between familiar and less-familiar hymns. Musical selections presented by the ward choir or others can help members become more familiar with hymns that are not as well known.
 
-The priesthood music director and pianist or organist callings have been discontinued.
+### 19.3.3 Music in Classes and Other Ward Meetings
 
-## 19.3 Adapting Ward Music to Local Conditions and Resources
+Singing hymns can be an effective way to introduce or reinforce gospel principles. Leaders encourage teachers to use the hymns and other sacred music to enhance their teaching.
 
-The guidelines in this chapter may be adapted according to local needs. For example, in a small branch, the ward music chairman might also direct the choir and lead the music in sacrament meetings and other settings. A pianist could play for sacrament meetings, choir, and other meetings.
+Sunday quorum meetings and classes do not routinely begin with an opening hymn.
 
-When no one can play the piano, the following resources may be useful:
+### 19.3.4 Music in Stake Conference
 
-1. CDs of hymns and children’s songs are available on [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
-2. Hymns and children’s songs can be downloaded in MP3 format at [music.ChurchofJesusChrist.org](https://music.churchofjesuschrist.org).
-3. Some meetinghouses are equipped with digital pianos that have hymns programmed into them.
+Music for stake conference should be planned to strengthen faith and testimony. It should follow the principles in [19.3.1](19-music.md#1931-planning-music-for-church-meetings). The presiding authority reviews all proposed musical selections early in the planning.
 
-Music training and keyboards may be available for those who serve in music callings or who may serve in the future (see [19.7](19-music.md#197-music-training)).
+Music for stake conference usually includes congregational hymn singing and other musical selections from a choir, soloists, or small groups. The congregation normally sings a hymn at the midpoint of the meeting. Stake presidencies may approve solo and accompanying instruments other than the piano or organ (see [19.3.6](19-music.md#1936-musical-instruments)).
 
-## 19.4 Music in the Ward
+### 19.3.5 Other Music in the Chapel
 
-Appropriate music is a vital part of Church meetings, particularly sacrament meetings. Music that is carefully selected and properly presented can greatly enhance the spirit of worship. Music should be worshipful and fit the spirit of the meeting. Priesthood leaders determine what is suitable.
+The chapel may occasionally be used for cultural arts events that include secular music, such as concerts, recitals, and other presentations. While applause is discouraged in worship services, it may be appropriate for these events.
 
-### 19.4.1 Planning Music for Church Worship Services
+Local priesthood leaders answer questions about cultural activities held in the chapel. See [35.5](35.md#355-policies-on-using-church-property) for information about the appropriate use of meetinghouses.
 
-Members who serve in ward music callings work together to select appropriate music for worship services. When feasible, the bishop and his counselors choose meeting topics well in advance. This allows the music chairman, music director, and choir director to plan hymns, special selections, and choir performances that complement and reinforce the meeting topics. This also allows time for the bishopric to approve the musical selections in advance.
+### 19.3.6 Musical Instruments
 
-### 19.4.2 Guidelines for Choosing Appropriate Music for Church Worship Services
+Live instruments are normally used for prelude and postlude music and for hymn accompaniment in Church meetings. Where they are available and where members can play them, organs and pianos are the standard instruments. Bishoprics may approve the use of other instruments to accompany congregational singing, for prelude and postlude music, and in other musical selections.
 
-All Church music should be consistent with the following guidelines.
+Musical instruments should convey a feeling of worship and be played in keeping with the spirit of the meeting.
 
-The hymns are the basic music for worship services and are standard for all congregational singing. In addition, other appropriate selections may be used for prelude and postlude music, choir music, and special musical presentations. If musical selections other than the hymns are used, they should be in keeping with the spirit of the hymns. Texts should be doctrinally correct. (See “Hymns for Congregations,” Hymns, [380–81](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title8-p19#title8).)
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) If a piano, organ, or accompanist is not available, recordings may be used (see [19.2](19-music.md#192-music-in-the-home)).
 
-Secular music should not replace sacred music in Sunday meetings. Some religiously oriented music presented in a popular style is not appropriate for sacrament meetings. Also, much sacred music that is suitable for concerts and recitals is not appropriate for a Latter-day Saint worship service.
+#### 19.3.6.1 Obtaining Musical Instruments
 
-Music in Church meetings should not draw attention to itself or be for demonstration. This music is for worship, not performance.
+Church buildings are usually supplied with an organ, pianos, or electronic keyboards. Leaders may contact the local facilities manager for information about acquiring new or replacement instruments.
 
-Organs and pianos, or their electronic equivalents, are the standard instruments used in Church meetings. If other instruments are used, their use should be in keeping with the spirit of the meeting. Instruments with a prominent or less worshipful sound, such as most brass and percussion, are not appropriate for sacrament meeting.
+#### 19.3.6.2 Maintaining Musical Instruments
 
-Live accompaniment is normally used in sacrament and other ward meetings. If a piano, organ, or accompanist is not available, appropriate recordings may be used (see [19.3](19-music.md#193-adapting-ward-music-to-local-conditions-and-resources)).
+Pianos are tuned and organs are maintained regularly. The bishop or the stake building representative can contact the facilities manager with questions. As needed, he can also submit a request in Facility Issue Reporting (FIR) to maintain and repair pianos and organs (see [35.4.2](35.md#3542-requesting-repairs)).
 
-Music in Church meetings should usually be sung in the language of the congregation.
+### 19.3.7 Choirs
 
-### 19.4.3 Standard Musical Elements in Church Worship Services
+Since Old Testament times, God’s children have sung in choirs to offer praise to Him. Church choirs bring glory to God, unify and edify Church members, and bring joy to participants and congregations.
 
-#### 19.4.3.1 Prelude and Postlude Music
+#### 19.3.7.1 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Ward Choirs
 
-Quiet prelude and postlude music creates an atmosphere of worship that invites the Spirit into Church meetings. The organist or pianist usually plays hymns or other appropriate music for 5–10 minutes before and after a meeting. Playing hymns can help members review gospel teachings in their minds.
+Where there are enough members, wards may organize choirs that sing in sacrament meeting regularly. The bishopric may call a choir director and choir accompanist (see [19.4.3.3](19-music.md#19433-choir-director-and-choir-accompanist)).
 
-#### 19.4.3.2 Congregational Singing
+Ward members may volunteer to sing in the choir. Members and others may also be invited to participate. Auditions are not held.
 
-Most Church meetings are enhanced by the singing of hymns. Music provides a primary means by which members participate in Church worship services. Congregational singing has a unique and often underused power for unifying members as they worship together.
+Choirs are encouraged to use the hymns of the Church. The singing of hymns invites the Spirit and helps choir participants and congregations learn the gospel (see Hymns, [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title15-figure3#title15)). If other sacred musical selections are used, the guidelines in [19.3.1](19-music.md#1931-planning-music-for-church-meetings) should be followed.
 
-As appropriate, a priesthood leader may ask a congregation to stand for an intermediate hymn or a national anthem (see “Hymns for Congregations,” Hymns, [380–81](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title8-p19#title8)).
+Choir rehearsals do not usually exceed one hour.
 
-#### 19.4.3.3 Special Musical Selections
+If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1](19-music.md#1971-obtaining-and-using-music)). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.10](38-church-policies-and-guidelines.md#38810-copyrighted-materials)).
 
-Musical selections may be presented by choirs, vocal and instrumental soloists, and small groups. Hymns and other appropriate selections may be used (see [19.4.2](19-music.md#1942-guidelines-for-choosing-appropriate-music-for-church-worship-services)).
+In addition to the ward choir, families and groups of women, men, youth, or children may be invited to sing in Church meetings.
 
-### 19.4.4 Sacrament Meetings
+#### 19.3.7.2 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake and Multistake Choirs
 
-The bishopric approves music for sacrament meetings. Music and musical texts are to be sacred, dignified, and otherwise suitable for sacrament meeting. Music in sacrament meeting is for worship, not for a performance that draws attention to itself.
+With the approval of stake or area leaders, stake and multistake choirs may be organized for stake conferences and other occasions, such as community events. After the meeting or event, the choir is disbanded until other occasions arise.
 
-Opening and closing hymns are usually sung by the congregation (see “Selecting the Right Hymn,” Hymns, [380](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title10-p14#title10)). In addition to using hymns that are already known and loved, members are encouraged to become acquainted with new or less familiar hymns. Music leaders should try to achieve a good balance between familiar favorites and hymns that are not as well known (see “Hymns for Congregations,” Hymns, [380–81](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title8-p19#title8)).
+## 19.4 Music Leadership in the Ward
 
-The sacrament hymn is always sung by the congregation. It should refer to the sacrament itself or to the sacrifice of the Savior. Vocal solos or instrumental music may not replace this hymn. No music should be played during the sacrament prayer, while the sacrament is being passed, or as a postlude after the sacrament is passed.
+### 19.4.1 Bishopric
 
-Special musical selections or a congregational hymn may be scheduled after the sacrament or between speakers (see [19.4.3.3](19-music.md#19433-special-musical-selections)).
+The bishop is responsible for ward music. He may assign this responsibility to one of his counselors. Bishoprics have the following responsibilities:
 
-If a musical program is presented, it should be simple, reverent, and short enough to allow a spoken message. Sacrament meetings should not be turned over to outside musical groups. Recitals, concerts, and pageantry are not appropriate in sacrament meeting.
+* Call and set apart members to serve in the music callings described in [19.4.2](19-music.md#1942-ward-music-coordinator) and [19.4.3](19-music.md#1943-ao-additional-callings) as needed.
+* Work with the ward music coordinator to plan music for sacrament meetings (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings)).
+* Teach about the importance of worshipping through music in meetings. Encourage members to participate in congregational singing. Encourage members, especially youth, to use uplifting music daily in their personal lives (see [19.2](19-music.md#192-music-in-the-home)).
+* Decide when instruments other than pianos or organs may be used in Church meetings (see [19.3.6](19-music.md#1936-musical-instruments)).
+* Support the ward choir by encouraging members to participate.
 
-### 19.4.5 Choirs
+### 19.4.2 Ward Music Coordinator
 
-Every ward should make an effort to have an active ward choir that sings in sacrament meeting at least once a month. Ward members may participate voluntarily in the choir, or the bishopric may invite or call them to participate.
+The ward music coordinator serves under the direction of the bishopric. He or she has the following responsibilities:
 
-In a very small branch, a choir might consist of the entire congregation. In a large ward with many resources, the bishopric may call choir officers, such as a president, a secretary, a librarian, and section leaders.
+* Be a resource to the bishopric and other ward leaders on music matters. Attend ward council meeting as invited by the bishop to help coordinate music in the ward.
+* Work with the bishopric to plan music for sacrament meetings (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings) and [19.3.2](19-music.md#1932-music-in-sacrament-meeting).).
+* Recommend and supervise music training in the ward, if needed (see [19.6](19-music.md#196-music-training-and-resources)). Help members find opportunities to develop and use their musical talents in the ward.
+* As requested by the bishopric, recommend members to serve in ward music callings. Orient those who serve in these callings, offering support, instruction, and training as needed.
+* Serve in other ward music callings if others have not been called.
+* Consult with the stake music coordinator for training and support as needed.
 
-Church choirs are encouraged to use the hymnbook as their basic resource because the hymns teach the truths of the restored gospel. Hymn arrangements and other appropriate choral works may also be used (see [19.4.2](19-music.md#1942-guidelines-for-choosing-appropriate-music-for-church-worship-services)).
+### 19.4.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Additional Callings
 
-Information about using the hymns for choirs is provided in Hymns, pages [381–83](https://www.churchofjesuschrist.org/study/manual/hymns/using-the-hymnbook?lang=eng¶=title15-figure3#title15). Additional information about conducting choirs is in the Conducting Course manual, pages [73–83](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
+In wards that are large enough, the bishopric may call members to serve in the following callings. Youth and those of other faiths may be called to serve. Bishoprics may adapt these callings as necessary to meet the needs of their ward.
 
-Auditions are not held when organizing ward and stake choirs. Rehearsals usually do not exceed one hour.
+#### 19.4.3.1 Ward Music Leader
 
-In addition to the ward choir, Relief Society, priesthood, youth, children, and family choirs may be invited to sing hymns and other appropriate musical selections in Church meetings.
+The music leader conducts the congregational hymns for sacrament meeting and for other ward meetings as requested.
 
-### 19.4.6 Using Music in the Classroom
+#### 19.4.3.2 Ward Accompanist
 
-Hymn singing can be an effective way to introduce or reinforce gospel principles taught in the classroom. Leaders should encourage teachers to use the hymns to enhance classroom instruction.
+The ward accompanist provides prelude and postlude music and accompaniment for hymns during sacrament meeting and other ward meetings as requested. When needed, the accompanist could also accompany the choir or serve as the Primary pianist.
 
-## 19.5 Stake Music Leadership
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) When no one in the ward can play the piano or organ, the following options are available:
+
+* A member may play an alternate instrument approved by the bishop (see [19.3.6](19-music.md#1936-musical-instruments)).
+* Digital pianos and organs that play preprogrammed hymn accompaniments are available in some meetinghouses (see [19.3.6.1](19-music.md#19361-obtaining-musical-instruments)).
+* Members may use recordings from the following sources:
+
+	+ Sacred Music app
+	+ Gospel Library app
+	+ [Music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music)
+	+ CDs at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org)
+
+#### 19.4.3.3 Choir Director and Choir Accompanist
+
+The ward choir director recommends music to be sung by the choir, directs choir rehearsals, and conducts the choir in sacrament meetings (see [19.3.7](19-music.md#1937-choirs)).
+
+The ward choir accompanist plays for choir rehearsals and for when the choir sings in sacrament meetings.
+
+For more information about conducting choirs, see the Conducting Course manual, pages [73–83](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/callings/music/conducting-course/33619_eng.pdf#page=78).
+
+#### 19.4.3.4 Primary Music Leader and Primary Pianist
+
+See [12.3.4](12-primary.md#1234-music-leader-and-pianist).
+
+#### 19.4.3.5 Music Specialists
+
+The bishopric may call specialists to help with music training in the ward (see [19.6](19-music.md#196-music-training-and-resources)).
+
+## 19.5 Music Leadership in the Stake
 
 ### 19.5.1 Stake Presidency
 
-The stake president and his counselors oversee stake music. They call and set apart stake members to serve in stake music callings as outlined in this section.
+The stake president oversees stake music. He may assign the following responsibilities to one of his counselors or a member of the high council:
 
-### 19.5.2 Stake Music Adviser
+* Call and set apart members to serve in the music callings described in [19.5.2](19-music.md#1952-stake-music-coordinator) and [19.5.3](19-music.md#1953-ao-stake-music-specialists) as needed.
+* Consult with the stake music coordinator to plan music for stake conference and other stake events (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings), [19.3.4](19-music.md#1934-music-in-stake-conference), and [19.3.7.2](19-music.md#19372-ao-stake-and-multistake-choirs)).
+* Teach about the importance of worshipping through music in meetings. Encourage members to participate in congregational singing. Encourage members to use uplifting music daily in their personal lives (see [19.2](19-music.md#192-music-in-the-home)).
+* Decide when instruments other than pianos or organs may be used in stake meetings (see [19.3.6](19-music.md#1936-musical-instruments)).
 
-The stake presidency assigns a high councilor to be the stake music adviser. Under the presidency’s direction, he supervises the music program in the stake, advises the stake music chairman, and represents the music program in stake council meetings.
+### 19.5.2 Stake Music Coordinator
 
-With the stake presidency’s approval, the stake music adviser may call and set apart stake members to serve in stake music positions.
+Under the direction of the stake presidency, the stake music coordinator has the following responsibilities:
 
-### 19.5.3 Stake Music Chairman
+* Serve as a resource to the stake presidency and other stake leaders on music matters.
+* Consult with the stake presidency to plan music for stake conference and other stake events (see [19.3.1](19-music.md#1931-planning-music-for-church-meetings), [19.3.4](19-music.md#1934-music-in-stake-conference), and [19.3.7.2](19-music.md#19372-ao-stake-and-multistake-choirs)).
+* Recommend and supervise music training in the stake (see [19.6](19-music.md#196-music-training-and-resources)).
+* As requested by the stake presidency, recommend members to fill stake music callings. Orient those who serve in these callings. Offer support, instruction, and training as needed.
+* Provide training and support for ward music coordinators as needed.
+* Serve as the music leader and choir director in stake meetings if others have not been called.
 
-A man or woman may serve as the stake music chairman. Under the direction of the stake presidency, the stake music chairman has the following responsibilities:
+### 19.5.3 [[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Stake Music Specialists
 
-* Serve as a resource to the stake presidency on music matters.
-* Arrange for music and musicians for stake conference sessions and other stake meetings and events as requested.
-* As needed, provide training and support for ward music chairmen and serve as a resource to stake leaders.
-* Recommend and supervise music training programs in the stake (see [19.7](19-music.md#197-music-training)).
-* Recommend and implement stake music activities as requested.
-### 19.5.4 Stake Music Specialists
+Stake music specialists may be called as needed. They may include a stake choir director, stake music leader, and stake accompanist. Stake music specialists may also be assigned to provide music training (see [19.6](19-music.md#196-music-training-and-resources)).
 
-Stake music specialists, including a stake organist, may be called as needed. These specialists may be assigned to provide music for a particular stake meeting every time that meeting occurs. They may also be assigned to provide music training (see [19.7](19-music.md#197-music-training)) or to assist with music in stake activities.
+## 19.6 Music Training and Resources
 
-## 19.6 Music in the Stake
+Learning basic music skills prepares members to use their talents to serve in the Church. The following resources can help those with music callings. They can also help all members who are interested in developing musical abilities.
 
-### 19.6.1 Stake Conferences
+Basic music training materials are in the “[Using the Hymnbook](https://www.churchofjesuschrist.org/study/manual/using-the-hymnbook?lang=eng)” section in Hymns and the “[Using the Songbook](https://www.churchofjesuschrist.org/music/resources/using-the-songbook)” section in the Children’s Songbook.
 
-Music for stake conference should be planned with the purpose of strengthening faith and testimony. The presiding authority at a stake conference reviews all proposed musical selections for the conference early in the planning stage.
+The following resources may also be helpful:
 
-Music for the general session of stake conference normally includes four selections. The congregation sings the opening and intermediate hymns. A choir may sing the other two selections, perhaps immediately before the first speaker and at the close of the meeting. At least one of the choir’s selections should be a Latter-day Saint hymn or hymn arrangement. Choirs may be composed of ward choirs, or they may be special choirs of children, youth, priesthood holders, Relief Society sisters, or families.
+* A library of sheet music and music recordings for use at home and at church is available on the Sacred Music app and online at [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music). Listening to recordings can help members become more familiar with the hymns.
+* The interactive music player on [ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music/library/hymns) can help those seeking to learn new music or develop music skills.
+* The Basic Music Course can help members learn how to read and play music. It includes the Conducting Course Kit and Keyboard Course Kit. These resources can be purchased at [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
+* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see [musicfund.ChurchofJesusChrist.org](https://musicfund.churchofjesuschrist.org).
 
-For guidelines on choosing appropriate music, see [19.4.2](19-music.md#1942-guidelines-for-choosing-appropriate-music-for-church-worship-services).
+Stake and ward music coordinators may organize basic music training courses for music leaders, choir directors, or accompanists. Participants could include those who currently serve in music callings and other interested adults, youth, and children. Music coordinators or specialists may teach the courses. Music coordinators may also recommend qualified instructors to provide training.
 
-### 19.6.2 Stake and Multistake Choirs
+[[AO]](0-introductory-overview.md#02-adaptation-and-optional-resources) Where there are enough members, music coordinators may consult with priesthood leaders and recommend organizing stake or multistake training workshops. No fee is charged for Church-sponsored training.
 
-With priesthood leaders’ approval, stake and multistake choirs may be organized for stake conferences, regional conferences, and other occasions, such as community events. After the performance, the choir is disbanded until other occasions arise. These choirs should not interfere with members’ participation in ward choirs.
+## 19.7 Additional Policies and Guidelines
 
-Standing community choirs directed by and consisting primarily of Church members are not sponsored by the Church. These choirs should not use references to the Church such as “LDS,” “Latter-day Saint,” or “Mormon” in their names (see [38.8.34](38-church-policies-and-guidelines.md#38834-referring-to-the-church-and-its-members)). If stake priesthood leaders approve, community choirs may use Church buildings for rehearsals and performances, provided they follow Church standards and policies related to activities and finances.
+### 19.7.1 Obtaining and Using Music
 
-## 19.7 Music Training
+A supply of hymnbooks is provided to new meetinghouses. Additional hymnbooks, choir music, and other music may be purchased with stake or ward budget funds.
 
-Learning basic music skills allows members to use their talents to serve in the Church. With the approval of priesthood leaders, stake and ward music chairmen may arrange for music training courses, seminars, and workshops. Music training programs may be provided for those who currently serve in music positions and those who may serve in the future. Participants could include stake and ward music directors, choir directors, pianists, and organists. Other interested adults and youth, including prospective missionaries, could also participate. No fee is charged for Church-sponsored training.
+### 19.7.2 Use of Meetinghouse Instruments for Practice, Private Instruction, and Recitals
 
-An annual pattern of music training could include music conducting courses, training for choir directors, ward keyboard courses, and stake or ward organ training courses. Music chairmen may consult with priesthood leaders and recommend qualified instructors who could provide this training. If a stake music specialist is not called to provide training, ward choir directors could meet together to exchange ideas, or the stake presidency could request help from outside the stake.
+When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. This authorization is an exception as described in [35.5.2.1](35.md#35521-commercial-uses). No admittance fee should be charged for recitals.
 
-The Conducting Course Kit and the Keyboard Course Kit provide instruction in basic music skills. The [Conducting Course](https://www.churchofjesuschrist.org/music/conducting-music/conducting-course-book-and-audio-examples) manual also provides instruction for organizing and conducting choirs. These resources are available on [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org).
+### 19.7.3 Community Choirs
 
-When there is not a reasonable alternative, priesthood leaders may authorize the use of meetinghouse pianos and organs for practice, paid private instruction, and recitals involving members of the units that use the meetinghouse. No admittance fee should be charged for recitals.
+Long-term community choirs directed by and consisting primarily of Church members are not sponsored by the Church. These choirs should not use references to the Church in their names.
 
-Ward music chairmen help find opportunities for developing musicians to use their talents and encourage them to continue developing their skills.
-
-## 19.8 Music in the Home
-
-Priesthood leaders and music leaders encourage Church members to use uplifting music in their homes, to have a copy of the hymnbook and the [Children’s Songbook](https://www.churchofjesuschrist.org/study/manual/childrens-songbook?lang=eng), and to sing this music as families. Concerning music in the home, the First Presidency said:
-
-“The hymns can bring families a spirit of beauty and peace and can inspire love and unity among family members.
-
-“Teach your children to love the hymns. Sing them on the Sabbath, in home evening, during scripture study, at prayer time. Sing as you work, as you play, and as you travel together. Sing hymns as lullabies to build faith and testimony in your young ones” (Hymns, [x](https://www.churchofjesuschrist.org/study/manual/hymns/first-presidency-preface?lang=eng¶=8-p9#p8)).
-
-Members may use Church-produced recordings to accompany singing and to help them learn the hymns and Primary songs. These recordings are available on [store.ChurchofJesusChrist.org](https://store.churchofjesuschrist.org). Members may also visit [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music) to learn and listen to Church music, learn basic music skills, and find other helpful music resources.
-
-Parents should encourage their children to receive instruction in musical skills, enabling them to use their talents to serve in the Church.
-
-The bishopric may occasionally assign sacrament meeting speakers to talk about using music in the home. Occasionally a family may sing a favorite hymn or Primary song as a musical selection in sacrament meeting.
-
-## 19.9 Additional Music Policies and Guidelines
-
-### 19.9.1 Other Music in the Chapel
-
-Some cultural and recreational music may be presented in the chapel on weekdays. However, the cultural hall is usually a more appropriate setting for such music. Local priesthood leaders resolve questions about what music is appropriate in the chapel. Applause is not usually appropriate in the chapel.
-
-### 19.9.2 Obtaining and Using Music
-
-An initial supply of hymnbooks is provided to new meetinghouses. Additional hymnbooks, choral music, and other music may be purchased with stake or ward budget funds. Priesthood leaders may invite stake and ward music chairmen to submit annual budgets for this music. Music that is purchased with budget funds is usually kept in the resource center and belongs to all units that share the resource center. The stake or ward music chairman may help resource center specialists create an index of this music.
-
-### 19.9.3 Pianos, Organs, and Keyboards
-
-Where an organ is available, it is normally used for prelude and postlude music and hymn accompaniment. A piano may be used for these purposes when an organ or an organist is not available.
-
-Using the piano and organ at the same time is not standard for Church meetings. However, these instruments may be used together occasionally.
-
-A portable electronic music keyboard may be used when a piano or organ is not available.
-
-#### 19.9.3.1 Obtaining Musical Instruments
-
-Church buildings are usually supplied with an organ, pianos, or electronic music keyboards. Priesthood leaders may consult the Purchasing Division at Church headquarters or the area office for information about acquiring new or replacement instruments.
-
-#### 19.9.3.2 Maintaining Musical Instruments
-
-The agent bishop for each meetinghouse and the stake physical facilities representative (a high councilor) are to see that pianos and organs are tuned, maintained, and repaired as needed.
-
-### 19.9.4 Copyright Guidelines
-
-See [38.8.12](38-church-policies-and-guidelines.md#38812-copyrighted-materials).
-
-### 19.9.5 Music for Weddings
-
-A wedding ceremony that is held in a home or Church building might include prelude music, hymns, special musical selections, and postlude music. Civil marriage ceremonies should be simple, conservative, and without pomp in the proceedings. When a wedding ceremony is held in a Church building, a wedding march is not appropriate.
-
-### 19.9.6 Music for Funerals
-
-See [29.5.4](29-meetings-in-the-church.md#2954-funeral-services-where-customary).
-
-### 19.9.7 Music for Baptismal Services
-
-See [18.7.2](18-priesthood-ordinances-and-blessings.md#1872-baptismal-services).
-
-## 19.10 Online Music Resources
-
-For additional resources, visit [music.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/music) and “[Music Callings](https://www.churchofjesuschrist.org/callings/music)” on ChurchofJesusChrist.org.
+If the stake presidency approves, community choirs may use Church buildings for rehearsals and performances. They should follow Church standards and policies related to meetinghouses (see [35.5](35.md#355-policies-on-using-church-property)).

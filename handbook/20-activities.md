@@ -63,7 +63,7 @@ The following sections provide examples of good activities.
 
 Service activities provide opportunities to show love for others, to feel the joy of helping them, and to improve communities.
 
-These activities can include visiting people who are sick or lonely, beautifying Church buildings and grounds, and participating in community projects. Where available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
+These activities can include visiting people who are sick or lonely, beautifying Church buildings and grounds, and participating in community projects. Where it is available, [JustServe.org](https://www.justserve.org) suggests community service opportunities.
 
 Service activities should follow safety guidelines (see [20.7.6.1](20-activities.md#20761-safety-precautions)).
 
@@ -83,7 +83,7 @@ Church activities should be planned as far in advance as feasible. Leaders keep 
 
 Activities should be held at a reasonable hour. They should end early enough that participants can travel home safely.
 
-If an activity will be held at a meetinghouse or another Church facility, the facility should be reserved in advance to avoid scheduling conflicts. See [35.2.5](35.md#3525-stake-building-representative).
+If an activity will be held at a meetinghouse or another Church facility, the facility should be reserved in advance to avoid scheduling conflicts.
 
 Monday nights are reserved for family activities (see [20.5.3](20-activities.md#2053-monday-nights)).
 
@@ -127,6 +127,7 @@ If the stake presidency organizes a stake activities committee, they assign a hi
 * Supervising committee members in planning stake activities.
 * Recommending a detailed stake activities budget to the stake presidency before the beginning of each year. This budget does not include activities that are for individual stake organizations.
 * Serving as a resource to stake organization leaders when they plan activities.
+
 #### 20.3.2.3 Stake Activities Committee Members
 
 A member of the stake presidency or an assigned high councilor may call members to serve on the stake activities committee. They serve under the direction of the committee chair. Committee members help plan and organize activities in the stake.
@@ -137,7 +138,7 @@ In areas with few youth, leaders should hold multistake youth activities periodi
 
 Frequent multistake activities should be held for young single adults where gathering does not require too much time or expense. Area activities for young single adults may also be held occasionally.
 
-For information about multistake activities for single adults ages 31 and older, see [14.1.3](14-single-members.md#1413-multistake-activities) and [14.1.4](14-single-members.md#1414-participation-in-single-adult-activities).
+For information about multistake activities for single members, see [14.2.1.3](14-single-members.md#14213-activities).
 
 Multistake activities should be simple and varied.
 
@@ -177,7 +178,7 @@ As leaders and youth plan a youth conference, they should observe the policies i
 
 * Select a gospel theme, such as a scripture, that will inspire the youth and help them understand the expectations of the conference. The Church’s annual youth theme could be used as the conference theme. The bishopric or stake presidency should approve the theme.
 * Plan activities that are consistent with the theme.
-* Obtain the approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. See [38.8.19](38-church-policies-and-guidelines.md#38819-guest-speakers-or-instructors) for other guidelines concerning speakers.
+* Obtain the approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. See [38.8.17](38-church-policies-and-guidelines.md#38817-guest-speakers-or-instructors) for other guidelines concerning speakers.
 * If an event is planned for Sunday, it should be appropriate for the Sabbath day. Testimony meetings, discussions with the bishopric, or similar meetings are permitted. However, sacrament meetings are not to be held—and the sacrament is not to be administered—outside of meetinghouses in the ward or stake. Any exceptions must be for a Church-sponsored activity and must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
 * Ensure adequate adult supervision at all times (see [20.7.1](20-activities.md#2071-adult-supervision)).
 * Follow all safety guidelines in [20.7.6](20-activities.md#2076-safety-precautions-accident-response-and-accident-reporting).
@@ -190,7 +191,7 @@ Leaders ensure that the following policies and guidelines are observed in select
 
 ### 20.5.1 Commercial or Political Activities
 
-Activities held for any commercial or political purpose are not permitted (see [35.4](35.md#354-maintaining-meetinghouses)).
+Activities held for any commercial or political purpose are not permitted (see [35.5.2](35.md#3552-building-uses-that-are-not-allowed)).
 
 ### 20.5.2 Dances and Music
 
@@ -310,11 +311,11 @@ The expenses or travel for an annual camp should not be excessive. Lack of perso
 
 If funds from ward and stake budgets and from participants are not sufficient for camps, the bishop may authorize one ward fundraising event annually. This event must comply with the guidelines in [20.6.5](20-activities.md#2065-fundraising-events).
 
-For information about funding large multistake or area events for young single adults, see [14.3.7](14-single-members.md#1437-funding-for-activities).
+For information about funding large multistake or area events for young single adults, see [14.2.1.3](14-single-members.md#14213-activities).
 
 ### 20.6.3 Funding for FSY Conferences
 
-Youth may be asked to contribute a fee to attend For the Strength of Youth (FSY) conferences. If the cost would keep a youth from participating, the bishop may use ward budget funds to pay all or part of this fee. See [fsy.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy).
+Youth may be asked to contribute a fee to attend For the Strength of Youth (FSY) conferences. If the cost would keep a youth from participating, the bishop may use ward budget funds to pay all or part of this fee. See [FSY.ChurchofJesusChrist.org](https://www.churchofjesuschrist.org/youth/childrenandyouth/fsy).
 
 ### 20.6.4 Funding for Equipment and Supplies
 
@@ -443,6 +444,7 @@ If an accident or injury occurs on Church property or during a Church activity, 
 * Do not encourage or discourage legal action. Do not make commitments on behalf of the Church.
 * Gather and keep names of witnesses, their contact information, accounts of what happened, and photographs.
 * Report the accident (see [20.7.6.3](20-activities.md#20763-accident-reporting)).
+
 #### 20.7.6.3 Accident Reporting
 
 The following situations should be reported online at [incidents.ChurchofJesusChrist.org](https://incidents.churchofjesuschrist.org). The bishop, stake president, or member he designates who knows about the incident makes the report promptly.
@@ -495,14 +497,14 @@ Leaders ensure that the following policies and guidelines are observed when admi
 
 ### 20.8.1 Copyrighted Materials
 
-See [38.8.12](38-church-policies-and-guidelines.md#38812-copyrighted-materials).
+See [38.8.10](38-church-policies-and-guidelines.md#38810-copyrighted-materials).
 
 ### 20.8.2 Renting Non-Church Facilities for Activities
 
-When Church facilities are inadequate for a stake or multistake activity, facilities may be rented with approval from the stake president. Such requests are usually handled by the Church facilities manager.
+When Church facilities are inadequate for a stake or multistake activity, facilities may be rented with approval from the stake president. Such requests are handled by the Church facilities manager.
 
 Local units may be asked to show evidence of liability insurance when renting or using facilities that are not owned by the Church. For information about how to obtain a certificate of insurance, see [20.7.3.5](20-activities.md#20735-certificates-of-insurance).
 
 ### 20.8.3 Taxable Activities
 
-Leaders ensure that activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.10.1](34-finances-and-audits.md#34101-tax-exempt-status).
+Leaders ensure that activities do not jeopardize the Church’s tax-exempt status. For guidelines, see [34.8.1](34-finances-and-audits.md#3481-tax-exempt-status).

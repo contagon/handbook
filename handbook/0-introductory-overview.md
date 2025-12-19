@@ -10,7 +10,7 @@ You also learn your duties by studying the instructions in this handbook. These 
 
 ## 0.1 This Handbook
 
-General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints provides guidance for general and local Church leaders. It is divided into four sections:
+General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints provides guidance for general and local Church leaders. It is divided into sections:
 
 * _Doctrinal Foundation:_ These chapters present doctrine and principles fundamental to serving in the Church. They explain:
 
@@ -27,24 +27,20 @@ General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints pro
 	+ Uniting families for eternity
 * _Church Administration:_ These chapters present additional guidelines for administering the Church. Subjects include meetings, callings, records, finances, and policies.
 
-The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instructions about temple marriage are provided in [27.3.1](27-temple-ordinances-for-the-living.md#2731-who-may-be-sealed-in-a-temple). The number _27_ refers to the chapter, the number _3_ refers to a section in that chapter, and the number _1_ refers to a subsection.
+The headings and subheadings in this handbook are numbered to make topics easy to find and reference. For example, instruction about who may be sealed in a temple is provided in [27.3.1](27-temple-ordinances-for-the-living.md#2731-who-may-be-sealed-in-a-temple). The number _27_ refers to the chapter, the number _3_ refers to a section in that chapter, and the number _1_ refers to a subsection.
 
 ## 0.2 Adaptation and Optional Resources
 
 Not all stakes and wards have the same needs. This handbook contains guidelines for adaptation as well as optional resources:
 
-* _Guidelines for adaptation_ (
-
-) provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
-* _Optional resources_ (
-
-) contain additional information and direction that may be helpful to stake and ward leaders.
+* _Guidelines for adaptation_ () provide direction on how to adapt Church organizations and programs to units with differing needs and resources.
+* _Optional resources_ () contain additional information and direction that may be helpful to stake and ward leaders.
 
 Leaders seek inspiration about which guidelines and optional resources to use to meet members’ needs.
 
 ## 0.3 Updates
 
-This handbook will be updated periodically. A list of recent changes is available in the “[Summary of Recent Updates](https://www.churchofjesuschrist.org/study/manual/general-handbook/summary-of-recent-updates?lang=eng).”
+This handbook will be updated periodically. A list of recent changes is available in the “Summary of Recent Updates.”
 
 ## 0.4 Questions about Instructions
 
@@ -57,7 +53,7 @@ If leaders have questions about information in this handbook or about issues it 
 Except where indicated otherwise:
 
 * The terms _bishop_ and _bishopric_ in this handbook refer also to branch presidents and branch presidencies. The terms _stake president_ and _stake presidency_ refer also to district presidents and district presidencies. For a summary of how the authority of district presidents differs from that of stake presidents, see [6.3](6-stake-leadership.md#63-differences-between-the-authority-of-district-presidents-and-that-of-stake-presidents).
-* References to wards and stakes also apply to branches, districts, and missions.
+* References to wards and stakes generally also apply to branches, districts, and missions.
 * References to Sunday apply to whichever day the Sabbath is observed locally.
 * The term _unit_ refers to wards and branches.
 * References to parents generally also apply to legal guardians.

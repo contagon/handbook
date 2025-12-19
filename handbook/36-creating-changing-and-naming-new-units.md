@@ -117,6 +117,7 @@ When the name of a city is the same as the state, province, or country, it is no
 
 * Idaho Falls Taylor Mountain Stake, _not_ Idaho Falls Idaho Taylor Mountain Stake
 * México City Azteca Stake, _not_ México City México Azteca Stake
+
 ### 36.4.2 Naming Wards and Branches
 
 A ward or branch is named after an identifying characteristic within its boundaries. Some allowable identifying characteristics for ward and branch names are shown below:
@@ -149,7 +150,7 @@ Stake or mission presidents notify Church headquarters or their area office afte
 
 ### 36.5.2 Ward and Branch Changes
 
-After a stake or mission president receives approval for ward or branch changes, he generally has 90 days to present the changes to the members for their sustaining vote. If he needs to delay longer than 90 days, he requests permission from the Office of the First Presidency.
+After a stake or mission president receives approval for ward or branch changes, he generally has 90 days to present the changes to be sustained by the members. If he needs to delay longer than 90 days, he requests permission from the Office of the First Presidency.
 
 Stake or mission presidents notify Church headquarters or their area office after the changes have been made. Maps and units are not updated until they are recorded by Church headquarters.
 
@@ -164,4 +165,4 @@ The Church has developed the Basic Unit Program for use by some small branches o
 
 An Area Presidency may also authorize the use of the Basic Unit Program in missions or stakes where these conditions exist.
 
-Guidelines for this program are provided in the Basic Unit Program Guidebook. Other information is provided in the Branch Guidebook, Priesthood and Auxiliary Leaders’ Guidebook, Family Guidebook, and Teaching Guidebook.
+Guidelines for this program are provided in the [Basic Unit Program Guidebook](https://www.churchofjesuschrist.org/study/manual/basic-unit-program-guidebook?lang=eng). Other information is provided in the [Branch Guidebook](https://www.churchofjesuschrist.org/study/manual/branch-guidebook?lang=eng), [Priesthood and Auxiliary Leaders’ Guidebook](https://www.churchofjesuschrist.org/study/manual/priesthood-and-auxiliary-leaders-guidebook?lang=eng), [Family Guidebook](https://www.churchofjesuschrist.org/study/manual/family-guidebook?lang=eng), and [Teaching Guidebook](https://www.churchofjesuschrist.org/study/manual/teaching-guidebook?lang=eng).
