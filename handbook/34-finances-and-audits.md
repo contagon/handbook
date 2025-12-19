@@ -143,7 +143,7 @@ Online donations may be made by going to [donate.ldsphilanthropies.org](https://
 
 Members who desire to contribute financially to the construction of temples are invited to do so as their circumstances permit. They may contribute by using the Tithing and Other Offerings form. They indicate the donation by writing “temple construction” in the “Other” category. If members want to designate the donation for a specific temple, they may note this on the form.
 
-Leaders should not conduct fund-raising efforts or establish assessments or goals for contributions to the temple construction fund.
+Leaders should not conduct fundraising efforts or establish assessments or goals for contributions to the temple construction fund.
 
 ### 34.4.6 Perpetual Education Fund
 
@@ -358,9 +358,9 @@ See [20.2.8](20-activities.md#2028-funding-for-activities) and [20.2.9](20-activ
 
 See [20.5](20-activities.md#205-optional-activities).
 
-## 34.8 Fund-Raising
+## 34.8 Fundraising
 
-See [20.6.8](20-activities.md#2068-fund-raising-activities).
+See [20.6.8](20-activities.md#2068-fundraising-activities).
 
 ## 34.9 Audits
 

@@ -97,7 +97,7 @@ Possible exceptions to the funding policy in the preceding paragraph are listed 
 * One annual day camp or similar activity for Primary children ages 8–11.
 * Optional activities as outlined in [20.5](20-activities.md#205-optional-activities).
 
-If funds from participants are not sufficient, the bishop may authorize one group fund-raising activity annually that complies with the guidelines in [20.6.8](20-activities.md#2068-fund-raising-activities).
+If funds from participants are not sufficient, the bishop may authorize one group fundraising activity annually that complies with the guidelines in [20.6.8](20-activities.md#2068-fundraising-activities).
 
 In no case should the expenses or travel for an annual camp or similar activity be excessive. Nor should the lack of personal funds prohibit a member from participating.
 
@@ -107,9 +107,9 @@ For guidelines about funding travel that is associated with activities, see [20.
 
 ### 20.2.9 Funding for Equipment and Supplies
 
-If possible, equipment and supplies that the ward needs for annual youth camps are purchased with ward budget funds. If these funds are not sufficient, the bishop may authorize one group fund-raising activity annually that complies with the guidelines in [20.6.8](20-activities.md#2068-fund-raising-activities).
+If possible, equipment and supplies that the ward needs for annual youth camps are purchased with ward budget funds. If these funds are not sufficient, the bishop may authorize one group fundraising activity annually that complies with the guidelines in [20.6.8](20-activities.md#2068-fundraising-activities).
 
-Equipment and supplies purchased with Church funds, whether from the ward budget or a fund-raising activity, are for Church use only. They are not for the personal use of individuals or families.
+Equipment and supplies purchased with Church funds, whether from the ward budget or a fundraising activity, are for Church use only. They are not for the personal use of individuals or families.
 
 ## 20.3 Stake, Multistake, and Area Activities
 
@@ -129,7 +129,7 @@ To help meet the needs of young single adults, multistake activities should be h
 
 All stake activities must be approved by the stake presidency and are coordinated in stake council meetings. Stake leaders notify ward leaders of stake activities well in advance. They also ensure that stake activities supplement ward activities rather than compete with them.
 
-If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Special occasions such as holidays or the commemoration of a significant local event may provide opportunities for such activities. Youth conferences (see [20.4](20-activities.md#204-youth-conference)), service activities, cultural arts activities, and sports or recreational activities can all be held on a multistake level. Such activities are often coordinated in coordinating council meetings.
+If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Special occasions such as holidays or the commemoration of a significant local event may provide opportunities for such activities. Youth conferences (see [20.4](20-activities.md#204-youth-conference)), service activities, cultural arts activities, and sports or recreational activities can all be held on a multistake level. Such activities are often coordinated in coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 
 Before proposing a multistake activity, stake presidents determine whether it is the best way to meet the needs they have identified. The stake presidents also consider the cost, time, and travel the activity would require. In addition, the stake presidents consider safety factors and the availability of needed resources.
 
@@ -228,20 +228,20 @@ Lights should be bright enough for people to see across the room. Strobe lightin
 
 A brief devotional program may be held as part of an activity. Devotionals typically include a prayer, a hymn or musical selection, remarks by a leader, and a spiritual thought, testimony, or scripture by one or more participants. Such programs can help invite the Spirit and keep activities in perspective.
 
-### 20.6.8 Fund-Raising Activities
+### 20.6.8 Fundraising Activities
 
-Fund-raising activities are not usually approved, because expenses for stake and ward activities are paid with budget funds. As an exception, a stake president or bishop may authorize one group fund-raising activity each year. Such an activity may be held to raise funds for the following purposes only:
+Fundraising activities are not usually approved, because expenses for stake and ward activities are paid with budget funds. As an exception, a stake president or bishop may authorize one group fundraising activity each year. Such an activity may be held to raise funds for the following purposes only:
 
 * To help pay the cost of one annual camp or similar activity as outlined in [20.2.8](20-activities.md#2028-funding-for-activities).
 * To help purchase equipment that the unit needs for annual camps as outlined in [20.2.9](20-activities.md#2029-funding-for-equipment-and-supplies).
 
-If a fund-raising activity is held, it should provide a meaningful value or service. It should be a positive experience that builds unity.
+If a fundraising activity is held, it should provide a meaningful value or service. It should be a positive experience that builds unity.
 
-Contributions to fund-raising activities are voluntary. Priesthood leaders should take special care to ensure that members do not feel obligated to contribute.
+Contributions to fundraising activities are voluntary. Priesthood leaders should take special care to ensure that members do not feel obligated to contribute.
 
-Stakes and wards that sponsor fund-raising activities should not advertise or solicit beyond their boundaries. Nor should they sell products or services door to door.
+Stakes and wards that sponsor fundraising activities should not advertise or solicit beyond their boundaries. Nor should they sell products or services door to door.
 
-Examples of fund-raising activities that are not approved include:
+Examples of fundraising activities that are not approved include:
 
 * Activities that would be taxable.
 * Activities completed with paid labor, either by employees or by contract.
@@ -440,7 +440,7 @@ Long-distance travel for activities is discouraged. If a stake president or bish
 
 If long-distance travel for an activity is approved, members should not provide it at their own expense. Nor should significant portions of the stake or ward budget allowance be retained from one year to the next to cover travel expenses.
 
-Travel practices and the application of guidelines in this section should be consistent among units in the same coordinating council. Stake presidents may discuss and agree on general consistency in travel practices during coordinating council meetings.
+Travel practices and the application of guidelines in this section should be consistent among units in the same coordinating council. Stake presidents may discuss and agree on general consistency in travel practices during coordinating council meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 
 Leaders fill out an [Event and Activity Plan form](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/callings/young-men/activity-plan.pdf) for activities that involve travel outside the local area.
 

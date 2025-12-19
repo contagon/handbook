@@ -96,7 +96,7 @@ As the bishop provides short-term assistance, he may give assignments to elders 
 
 The bishop normally assigns the Relief Society president to visit members who need short-term assistance. She helps assess their needs and suggests to the bishop what assistance to provide. The bishop may ask her to prepare a Bishop’s Order for Commodities form for him to approve and sign.
 
-The Relief Society president’s role in making these family-needs visits is explained more fully in [9.6.1](9-relief-society.md#961-family-needs-visits). For information on other short-term welfare responsibilities that apply specifically to the Relief Society president and her counselors, see [9.6.2](9-relief-society.md#962-compassionate-service) and [9.6.3](9-relief-society.md#963-literacy).
+The Relief Society president’s role in making these family-needs visits is explained more fully in [9.2.2.2](9-relief-society.md#9222-short-term-needs).
 
 #### 22.2.4.2 Long-Term Welfare Needs
 
@@ -147,7 +147,7 @@ In stake council meetings, leaders consider spiritual and temporal welfare matte
 * They identify welfare concerns in the stake and seek ways to address those concerns. However, they do not assume responsibility to resolve ward welfare matters.
 * They plan ways to teach welfare principles to stake and ward leaders.
 * They discuss ways to make ward leaders aware of people in the stake who can serve as resources to help with welfare needs.
-* They develop and maintain a simple written plan for the stake to respond to emergencies (see [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies)). This plan should be coordinated with similar plans of other stakes in the coordinating council and with plans in the community.
+* They develop and maintain a simple written plan for the stake to respond to emergencies (see [22.5.3](22-providing-for-temporal-needs.md#2253-emergencies)). This plan should be coordinated with similar plans of other stakes in the coordinating council and with plans in the community (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 * They plan welfare activities, taking care not to place undue burdens on ward leaders.
 * They plan ways to respond to stake welfare assignments.
 * When assigned by the Area Presidency, they provide leadership and support for a welfare operation.
@@ -184,7 +184,7 @@ Welfare matters may also be discussed in the stake presidency’s training meeti
 
 #### 22.5.1.3 Attend Coordinating Council Meetings
 
-Stake presidents attend coordinating council meetings to receive instruction in various Church matters, including welfare principles and duties. In these meetings, presided over by an assigned Area Seventy, leaders consider ways to foster self-reliance, care for the needy, and encourage fast-offering donations.
+Stake presidents attend coordinating council meetings to receive instruction in various Church matters, including welfare principles and duties. In these meetings, presided over by an assigned Area Seventy, leaders consider ways to foster self-reliance, care for the needy, and encourage fast-offering donations. For information about these meetings, see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings).
 
 #### 22.5.1.4 Preside over the Welfare Work of the Stake Council
 
@@ -204,7 +204,7 @@ If a bishop has been assigned to handle requests for assistance to people who ar
 
 The Area Presidency appoints an agent stake to each bishops’ storehouse, cannery, home storage center, employment resource center, production project, Deseret Industries store, and other Church welfare operation or project in the area. This assignment may change periodically.
 
-All stakes that are served by a welfare operation, not just the agent stake, may be called on to provide volunteer labor for it. These efforts are coordinated in coordinating council meetings. The president of the agent stake represents the welfare operation in these meetings.
+All stakes that are served by a welfare operation, not just the agent stake, may be called on to provide volunteer labor for it. These efforts are coordinated in coordinating council meetings. The president of the agent stake represents the welfare operation in these meetings (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 
 The president of the agent stake organizes an agent stake operating committee to oversee the welfare operation. This committee is composed of the stake president or an assigned counselor, the stake bishops’ welfare council chairman, the stake Relief Society president, the manager of the operation, and other specialists as needed. The committee meets regularly to provide priesthood guidance and support to the manager of the operation, to make sure the operation serves needy members appropriately, and to coordinate volunteer labor.
 
@@ -246,7 +246,7 @@ See [38.8.46](38-church-policies-and-guidelines.md#38846-support-to-members-in-p
 
 ### 22.5.3 Emergencies
 
-The stake president directs the stake council in preparing a simple written plan for the stake to respond to emergencies. This plan should be coordinated with similar plans of other stakes in the coordinating council and with plans in the community.
+The stake president directs the stake council in preparing a simple written plan for the stake to respond to emergencies. This plan should be coordinated with similar plans of other stakes in the coordinating council and with plans in the community (see [29.11](29-meetings-in-the-church.md#2911-coordinating-council-meetings)).
 
 The stake council makes assignments for carrying out the stake’s emergency response plan. The council periodically reviews and updates these assignments.
 
@@ -379,7 +379,7 @@ The welfare work of Melchizedek Priesthood quorums and the Relief Society is exp
 
 The bishop normally assigns the Relief Society president to visit members who need welfare assistance. She helps assess their needs and suggests to the bishop what assistance to provide. This may include preparing a Bishop’s Order for Commodities form for the bishop to approve and sign.
 
-The Relief Society president’s role in making these visits is explained more fully in [9.6.1](9-relief-society.md#961-family-needs-visits).
+The Relief Society president’s role in making these visits is explained more fully in [9.2.2.2](9-relief-society.md#9222-short-term-needs).
 
 #### 22.6.4.4 Ward Welfare Specialists
 

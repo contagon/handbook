@@ -34,6 +34,7 @@ Other ordinances and blessings make it possible for God’s children to receive 
 * Dedicating homes
 * Dedicating graves
 * Patriarchal blessings by ordained patriarchs
+
 ## 18.3 Participation in an Ordinance or Blessing
 
 Those who perform or participate in an ordinance or blessing must have the necessary priesthood authority and be worthy. Generally, the standard of worthiness is that associated with holding a temple recommend. However, as guided by the Spirit and the instructions in this chapter, bishops and stake presidents may allow fathers and husbands who hold the necessary priesthood office to perform or participate in some ordinances and blessings even if they are not fully temple worthy. A priesthood holder who has unresolved serious sins should not participate.
@@ -42,7 +43,7 @@ Generally, only priesthood leaders and other priesthood holders who are close fa
 
 When only one or two priesthood holders participate, each of them places both hands lightly on the person’s head. When several participate, they stand in a circle around the person receiving the ordinance or blessing. Each one places his right hand lightly on the person’s head (or under the baby) and his left hand on the shoulder of the brother to his left. One acts as voice to perform the ordinance or give the blessing.
 
-Performing or receiving some ordinances and blessings requires approval from a presiding leader who holds the necessary priesthood keys (see [3.4.1](3-priesthood-principles.md#341-priesthood-keys)). Approval may also come from someone he has authorized, such as one of his counselors. See the following charts.
+Performing or receiving some ordinances and blessings requires approval from a presiding leader who holds the necessary priesthood keys (see [3.4.1](3-priesthood-principles.md#341-priesthood-keys)). As needed, approval may be given by a counselor he authorizes. See the following charts. References to stake presidents apply also to mission presidents. References to bishops apply also to branch presidents.
 
 Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of Salvation and Exaltation?
 
@@ -109,7 +110,7 @@ Under the direction of the bishopric, Melchizedek Priesthood holders gather in a
 6. Closes in the name of Jesus Christ.
 ### 18.6.3 Child Record Form and Blessing Certificate
 
-Before a child is blessed, a clerk uses the Leader and Clerk Resources system to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
+Before a child is blessed, a clerk uses Leader and Clerk Resources (LCR) to prepare a [Child Record Form](https://lcr.churchofjesuschrist.org/records/create-start). After the blessing, he creates the membership record in that system and prepares a [Blessing Certificate](https://lcr.churchofjesuschrist.org/records/certificates/child-blessing). This certificate is signed by the bishop and given to the child’s parents or guardians.
 
 The name on the membership record and certificate should match the birth certificate, civil birth registry, or current legal name.
 
@@ -239,7 +240,7 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 6. Closes in the name of Jesus Christ.
 ### 18.8.3 Baptism and Confirmation Record and Certificate
 
-Before a child who is a member of record is interviewed for baptism, a clerk uses the Leader and Clerk Resources system to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in the Leader and Clerk Resources system.
+Before a child who is a member of record is interviewed for baptism, a clerk uses LCR to prepare a [Baptism and Confirmation Form](https://lcr.churchofjesuschrist.org/records/ordinances/baptism). he bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in LCR.
 
 When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record except for the information about confirmation. At the baptismal service, the missionaries give this form to the bishop or one of his counselors. After the confirmation, the bishop, a counselor, or a clerk completes the confirmation information and gives two copies of the form to the missionaries. The missionaries send one copy to the mission office so a membership record can be created.
 
@@ -348,13 +349,13 @@ An ordination is an opportunity to give a blessing. Detailed counsel and instruc
 
 ### 18.10.3 Ordination Record and Certificate
 
-Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses the Leader and Clerk Resources system to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a man is interviewed to be ordained to an office in the Melchizedek Priesthood, a clerk uses LCR to prepare a [Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The stake president or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in the Leader and Clerk Resources system and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
+After the ordination, the stake president or his assigned representative completes the form and gives it to a clerk. He records the ordination in LCR and prepares an ordination certificate. This certificate is signed by the stake president and given to the person.
 
-Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses the Leader and Clerk Resources system to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
+Before a brother is interviewed to be ordained to an office in the Aaronic Priesthood, a clerk uses LCR to prepare an [Aaronic Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood). The bishop or an assigned counselor conducts the interview and signs the form if all worthiness conditions are met.
 
-After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in the Leader and Clerk Resources system and prepares an ordination certificate. This certificate is signed by the bishop and given to the person.
+After the ordination, the bishop or an assigned counselor completes the form and gives it to a clerk. He records the ordination in LCR and prepares an ordination certificate.
 
 A person’s current legal name should be used on the ordination record and certificate.
 

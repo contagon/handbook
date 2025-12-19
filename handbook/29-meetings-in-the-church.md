@@ -36,7 +36,7 @@ Wards are to hold the following Sunday meetings in one two-hour period, as outli
 
 * Sacrament meeting weekly
 * Priesthood quorum meetings on the second and fourth Sundays (for all priesthood holders, prospective elders, and unordained young men of Aaronic Priesthood age; young men typically join the deacons quorum in January of the year they turn 12; see [29.2.4](29-meetings-in-the-church.md#2924-priesthood-quorum-meetings))
-* Relief Society on the second and fourth Sundays (for women ages 18 and older and for younger women who are married)
+* Relief Society on the second and fourth Sundays (for women ages 18 and older and for younger women who are married)
 * Young Women on the second and fourth Sundays (for young women ages 11–18; young women typically join the Young Women organization in January of the year they turn 12)
 * Primary weekly (for children ages 3–11; also for children ages 18 months through 2 years if a nursery is organized and parents want their children to attend)
 * Sunday School on the first and third Sundays (for those ages 11 and older; youth typically join Sunday School in January of the year they turn 12)
@@ -144,7 +144,7 @@ Sacrament services should not be held in conjunction with family reunions or oth
 
 ### 29.2.3 Fast and Testimony Meeting
 
-Usually on the first Sunday of each month, sacrament meeting is a fast and testimony meeting. When general conference, stake conference, or New Year’s Day (see [20.6.11](20-activities.md#20611-new-years-eve-parties)) is on a Sunday, fast and testimony meeting may need to be on a different Sunday.
+Usually on the first Sunday of the month, sacrament meeting is a fast and testimony meeting. When general conference, stake conference, or New Year’s Day (see [20.6.11](20-activities.md#20611-new-years-eve-parties)) is on a Sunday, fast and testimony meeting may need to be on a different Sunday.
 
 Under the bishop’s direction, in this meeting children may be named and blessed and confirmations may be performed before the administration of the sacrament.
 
@@ -158,7 +158,7 @@ Priesthood quorum meetings are held on the second and fourth Sundays. In these m
 
 On a fifth Sunday, the bishopric may direct the Aaronic Priesthood quorums or all priesthood holders to hold a combined meeting. The bishopric may also plan a fifth-Sunday meeting for all youth or all adults or for youth and adults together.
 
-For more information about priesthood quorum meetings, see [8.8](8-elders-quorum.md#88-quorum-meetings) and [10.2.1.2](10-aaronic-priesthood.md#10212-gospel-learning).
+For more information about priesthood quorum meetings, see [8.2.1.2](8-elders-quorum.md#8212-gospel-learning-in-quorum-meetings) and [10.2.1.2](10-aaronic-priesthood.md#10212-gospel-learning).
 
 ### 29.2.5 Ward Conference
 
@@ -232,7 +232,7 @@ The primary purpose of stake conference is to strengthen faith and testimony. Al
 
 Another purpose is to conduct stake business. In one stake conference each year, a member of the stake presidency presents general, area, and stake officers to be sustained, using the Officers Sustained form. He also presents the names of stake officers who have been released so the congregation can give an expression of thanks for their service. This business is normally conducted in the first stake conference each year unless a satellite broadcast is incorporated into that conference. In that case, the business is conducted in the second stake conference.
 
-If stake officers are called or released between stake conferences, they should be presented for a sustaining vote or an expression of thanks in the next stake conference unless this has been done in a stake general priesthood meeting (for callings indicated in the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), 30.7) or in ward sacrament meetings (as outlined in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-church-callings)).
+If stake officers are called or released between stake conferences, they should be presented for a sustaining vote or an expression of thanks in the next stake conference unless this has been done in a stake general priesthood meeting (for callings indicated in the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), [30.7](30-callings-in-the-church.md#307-chart-of-callings)) or in ward sacrament meetings (as outlined in [30.3](30-callings-in-the-church.md#303-sustaining-members-in-church-callings)).
 
 Brethren who have been recommended for ordination to the offices of elder and high priest are normally presented for a sustaining vote in a stake conference or a stake general priesthood meeting. Instructions are provided in [38.2.5.1](38-church-policies-and-guidelines.md#38251-melchizedek-priesthood-offices).
 
@@ -240,7 +240,7 @@ Each stake conference normally includes the following meetings:
 
 1. A meeting of the Area Seventy or General Authority (if assigned), stake presidency, stake clerk, and stake executive secretary.
 2. A priesthood leadership meeting attended by the Area Seventy or General Authority (if assigned) and the brethren listed in [29.3.3](29-meetings-in-the-church.md#2933-stake-priesthood-leadership-meeting). This meeting may be held on either Saturday or Sunday as determined by the presiding authority.
-3. A Saturday evening session for all members of the stake who are 18 years of age and older. Temple presidents, stake patriarchs, and full-time mission presidents or their representatives who attend should sit on the stand. Depending on local circumstances, this session may be held on Sunday if approved by the presiding authority.
+3. A Saturday evening session for all members of the stake who are 18 years of age and older. Temple presidents, stake patriarchs, and full-time mission presidents or their representatives who attend should sit on the stand. Depending on local circumstances, this session may be held on Sunday if approved by the presiding authority.
 4. A general session held on Sunday for all members and interested nonmembers. Temple presidents, stake patriarchs, and full-time mission presidents or their representatives who attend should sit on the stand. More than one Sunday general session may be held if facilities are not adequate to seat everyone in the same session. Primary children attend this session with their families, not in a separate meeting.
 
 Instruction in all stake conference sessions is under the direction of the presiding authority. When an Area Seventy or General Authority will preside, he may invite the stake president to suggest subjects. When the stake president will preside, he and his counselors select subjects for instruction.
@@ -270,7 +270,7 @@ The stake presidency uses these meetings to instruct and inspire priesthood hold
 In these meetings the stake presidency also conducts stake priesthood business, such as:
 
 * Presenting the names of brethren who have been recommended for ordination to the offices of elder and high priest and asking for a sustaining vote (see [38.2.7.1](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng¶=title46#title46)).
-* Presenting the names of newly called stake officers and asking for a sustaining vote (see the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), 30.7, for guidelines about who is to be presented for this vote).
+* Presenting the names of newly called stake officers and asking for a sustaining vote (see the [Chart of Callings](https://www.churchofjesuschrist.org/study/manual/general-handbook/30-callings-in-the-church?lang=eng¶=title_number13-figure12_note4_p1#title_number13), [30.7](30-callings-in-the-church.md#307-chart-of-callings), for guidelines about who is to be presented for this vote).
 ### 29.3.3 Stake Priesthood Leadership Meeting
 
 The stake presidency convenes a stake priesthood leadership meeting in connection with each stake conference (see [29.3.1, number 2](29-meetings-in-the-church.md#2931-stake-conference)). The presidency also convenes one other stake priesthood leadership meeting during the year, for a total of three such meetings annually. The purposes of these meetings are to teach priesthood leaders their duties, increase their abilities, and strengthen their faith.
@@ -337,7 +337,7 @@ The stake presidency, all bishoprics, the stake clerk, and the stake executive s
 
 ### 29.3.9 Stake Aaronic Priesthood–Young Women Committee Meeting
 
-The stake president assigns a counselor to preside over the stake Aaronic Priesthood–Young Women committee. Other committee members are the high councilors assigned to the stake Young Women and Primary organizations, the stake Young Men presidency and secretary, and the stake Young Women presidency and secretary. The stake presidency may also invite the stake Sunday School president to serve as a member of the committee. 
+The stake president assigns a counselor to preside over the stake Aaronic Priesthood–Young Women committee. Other committee members are the high councilors assigned to the stake Young Women and Primary organizations, the stake Young Men presidency and secretary, and the stake Young Women presidency and secretary. The stake presidency may also invite the stake Sunday School president to serve as a member of the committee.
 
 The stake presidency may invite youth to attend the committee’s meetings as needed. The high councilor who serves as the stake activities committee chairman and others may also be invited to attend.
 
@@ -415,9 +415,9 @@ When a member dies, the bishop visits the family to comfort them and offer assis
 
 The bishop may offer to help make mortuary and cemetery arrangements according to local laws and customs. As needed, he may offer help from the ward in providing local transportation for the family.
 
-The bishop notifies the elders quorum president so he and other brethren, including ministering brothers, can assist the bereaved family. Such assistance may include dressing the body of a deceased male for burial, safeguarding the home during the funeral, and providing other support (see [8.10.2](8-elders-quorum.md#8102-offering-support-at-times-of-death)).
+The bishop notifies the elders quorum president so he and other brethren, including ministering brothers, can assist the bereaved family. Such assistance may include dressing the body of a deceased male for burial, safeguarding the home during the funeral, and providing other support (see [8.2.2.4](8-elders-quorum.md#8224-when-a-ward-member-dies)).
 
-The bishop also notifies the Relief Society president so she and other sisters, including ministering sisters, can assist the family. Such assistance may include dressing the body of a deceased female for burial, helping with flowers, tending small children, safeguarding the home during the funeral, and preparing meals (see [9.10.3](9-relief-society.md#9103-offering-support-at-times-of-death)).
+The bishop also notifies the Relief Society president so she and other sisters, including ministering sisters, can assist the family. Such assistance may include dressing the body of a deceased female for burial, helping with flowers, tending small children, safeguarding the home during the funeral, and preparing meals (see [9.2.2.4](9-relief-society.md#9224-when-a-ward-member-dies)).
 
 ### 29.6.3 Viewings (Where Customary)
 
@@ -449,7 +449,7 @@ Music for funerals might include prelude music, an opening hymn, special musical
 
 ### 29.6.6 Burial or Cremation
 
-Where possible, deceased members who were endowed should be buried in temple clothing. Where cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body in the casket. Additional instructions on temple burial clothing and dressing the dead are provided in [8.10.2](8-elders-quorum.md#8102-offering-support-at-times-of-death), [9.10.3](9-relief-society.md#9103-offering-support-at-times-of-death), and [27.3.9](27-temple-ordinances-for-the-living.md#2739-temple-burial-clothing).
+Where possible, deceased members who were endowed should be buried in temple clothing. Where cultural traditions or burial practices make this inappropriate or difficult, the clothing may be folded and placed next to the body in the casket. Additional instructions on temple burial clothing and dressing the dead are provided in [8.2.2.4](8-elders-quorum.md#8224-when-a-ward-member-dies), [9.2.2.4](9-relief-society.md#9224-when-a-ward-member-dies), and [27.3.9](27-temple-ordinances-for-the-living.md#2739-temple-burial-clothing).
 
 If possible, at least one member of the bishopric accompanies the cortege to the cemetery. If the grave will be dedicated, he consults with the family and asks a Melchizedek Priesthood holder to do so according to the instructions in [18.16](18-priesthood-ordinances-and-blessings.md#1816-dedicating-graves). If the family prefers, a graveside prayer rather than a dedicatory prayer may be offered.
 
@@ -470,7 +470,7 @@ Bishops may offer the use of Church meetinghouses for the funeral services of no
 | Meeting | Purpose | Participants | Frequency |
 | --- | --- | --- | --- |
 | Sacrament meeting | Partake of the sacrament, worship, provide gospel instruction, perform ordinances, conduct ward business, and strengthen faith and testimony. | All ward members | Each Sunday |
-| Fast and testimony meeting | Partake of the sacrament, worship, perform ordinances, conduct ward business, and bear testimonies. | All ward members | Usually the first Sunday of each month |
+| Fast and testimony meeting | Partake of the sacrament, worship, perform ordinances, conduct ward business, and bear testimonies. | All ward members | Usually the first Sunday of the month |
 | Priesthood quorum meetings | Conduct quorum business, learn priesthood duties, strengthen individuals and families, and teach the gospel. | All priesthood holders, prospective elders, and unordained young men of Aaronic Priesthood age | Second and fourth Sundays |
 | Sunday Relief Society meeting | Conduct business, teach the gospel, increase in faith and righteousness, and strengthen individuals and families. | Women in the ward ages 18 and older (and younger women who are married) | Second and fourth Sundays |
 | Additional Relief Society meetings and activities | Learn and apply principles and skills that will help Relief Society sisters increase in faith and righteousness, strengthen individuals and families, and seek out and help those in need. | Women in the ward ages 18 and older (and younger women who are married) | Usually monthly at a time other than on Sunday or on Monday evening; can also be scheduled quarterly |
@@ -491,7 +491,7 @@ Bishops may offer the use of Church meetinghouses for the funeral services of no
 | Stake conference | Strengthen faith and testimony, provide gospel instruction, and conduct stake business. | General Authority or Area Seventy (if assigned), stake presidency, and all members in the stake | Twice each year |
 | Stake general priesthood meeting | Instruct and inspire priesthood holders and conduct stake priesthood business. | All priesthood holders, prospective elders, and unordained young men of Aaronic Priesthood age in the stake | Once each year |
 | Stake priesthood leadership meeting | Teach priesthood leaders their duties, increase their abilities, and build their faith. | Stake presidency; high council; stake clerk (and assistant clerks as needed); stake executive secretary; stake Young Men presidency (and secretary as needed); bishoprics; ward clerks (and assistant clerks as needed); ward executive secretaries; elders quorum presidencies and secretaries; ward mission leaders and ward temple and family history leaders (if called and as needed); Aaronic Priesthood quorum advisers and specialists (as needed); and others as invited | Three times a year (twice in connection with stake conference) |
-| Stake high priests quorum meeting | Conduct quorum business and instruct quorum members in their duties. | High priests quorum (see [8.1.2](8-elders-quorum.md#812-melchizedek-priesthood-quorums); this meeting is not held in districts) | At least once each year |
+| Stake high priests quorum meeting | Conduct quorum business and instruct quorum members in their duties. | High priests quorum (this meeting is not held in districts) | At least once each year |
 | Stake presidency meeting | Review, plan, and consider matters affecting the stake. | Stake presidency, stake clerk, stake executive secretary, and others as invited | Regularly |
 | High council meeting | Receive instruction, give reports, conduct business, and counsel together. | Stake presidency, high council, stake clerk, stake executive secretary, and others as invited | Twice monthly, where feasible |
 | Stake council meeting | Receive instruction, counsel together, give reports, and coordinate planning of stake programs and activities. | Stake presidency; high council; stake clerk; stake executive secretary; stake Relief Society, Young Men, Young Women, Primary, and Sunday School presidents; and others as invited | Two to four times a year as needed |
@@ -529,3 +529,26 @@ The bishopric and the branch presidency also meet together to determine which me
 One representative from the bishopric and one from the branch presidency attend ward youth council meetings.
 
 To implement this plan, meeting schedules for the two units need to overlap as shown in the chart below.
+
+## 29.11 Coordinating Council Meetings
+
+The Area Presidency establishes coordinating councils. They also ensure that coordinating council meetings are held. They designate an Area Seventy to serve as chairman of each council.
+
+Stake and mission presidents attend these meetings. Temple presidents are invited and attend when practical. District presidents are not usually asked to attend.
+
+The Area Seventy convenes a coordinating council meeting soon after each quarterly area council meeting. Additional meetings may be held when needed.
+
+The purpose of coordinating council meetings is to help leaders encourage members to engage in becoming true followers of Jesus Christ. The Area Seventy directs the meetings and facilitates the discussion. All who attend counsel together as equal participants.
+
+In these meetings, participants:
+
+* Invite revelation about implementing the teachings of the First Presidency and Quorum of the Twelve.
+* Instruct and edify one another.
+* Coordinate the work of salvation and exaltation.
+* Coordinate multistake matters, some of which are referenced below.
+
+	+ Activities (see [20.3.1](20-activities.md#2031-general-guidelines); [20.6.24](20-activities.md#20624-travel))
+	+ Welfare and self-reliance resources and emergency response efforts (see [22.3.2](22-providing-for-temporal-needs.md#2232-stake-council))
+	+ Finances and audits (see [34.9.4](34-finances-and-audits.md#3494-area-auditors-and-assistant-area-auditors))
+
+Several stake Relief Society presidents and other stake officers may be invited to attend these meetings as necessary. They may participate in part or all of the meeting. Their perspective as stake officers may be needed. Their participation may also be helpful when discussions relate to their organizations (see [5.1.1.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/5-stake-leadership?lang=eng¶=title_number8-p28#title_number8)). Area Seventies consider distance, family, and travel when making these invitations.
