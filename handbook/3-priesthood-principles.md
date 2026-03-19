@@ -45,7 +45,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67]). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10]; see also [chapter 5]). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17]; see also [chapter 6]).
 
-For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1.1].
+For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1].
 
 ### 3.3.2 Aaronic Priesthood
 
@@ -98,11 +98,11 @@ All who serve in the Church are set apart or assigned under the direction of one
 
 ### 3.4.2 Priesthood Conferral and Ordination
 
-Under the direction of those who hold priesthood keys, the Aaronic Priesthood and the Melchizedek Priesthood are conferred on worthy male members of the Church (see [Doctrine and Covenants 84:14–17]). After the appropriate priesthood is conferred, the person is ordained to an office in that priesthood, such as deacon or elder. A priesthood holder exercises the priesthood according to the rights and duties of that office (see [Doctrine and Covenants 107:99]).
+Under the direction of those who hold priesthood keys, the Aaronic Priesthood and the Melchizedek Priesthood are conferred on worthy male Church members (see [Doctrine and Covenants 84:14–17]). After the appropriate priesthood is conferred, the person is ordained to an office in that priesthood, such as deacon or elder. A priesthood holder exercises the priesthood according to the rights and duties of that office (see [Doctrine and Covenants 107:99]).
 
 Each man in the Church of Jesus Christ should strive to be worthy to receive and use the Melchizedek Priesthood to serve others. When a man receives this priesthood, he makes a covenant to faithfully fulfill his priesthood responsibilities. He also receives from God an oath, or promise, of eternal blessings (see [Doctrine and Covenants 84:33–44]; see also Guide to the Scriptures, “[Oath and Covenant of the Priesthood]”).
 
-For more information about priesthood conferral and ordination, see [8.6.2], [10.6], [18.10], and [38.2.5].
+For more information about priesthood conferral and ordination, see [8.1.1], [10.6], [18.10], and [38.2.5].
 
 ### 3.4.3 Delegation of Priesthood Authority to Serve in the Church
 

@@ -213,7 +213,7 @@ Some cultural and recreational music may be presented in the chapel on weekdays.
 
 ### 19.9.2 Obtaining and Using Music
 
-An initial supply of hymnbooks is provided to new meetinghouses. Additional hymnbooks, choral music, and other music may be purchased with stake or ward budget funds. Priesthood leaders may invite stake and ward music chairmen to submit annual budgets for this music. Music that is purchased with budget funds is usually kept in the meetinghouse library and belongs to all units that share the library. The stake or ward music chairman may help librarians create an index of this music.
+An initial supply of hymnbooks is provided to new meetinghouses. Additional hymnbooks, choral music, and other music may be purchased with stake or ward budget funds. Priesthood leaders may invite stake and ward music chairmen to submit annual budgets for this music. Music that is purchased with budget funds is usually kept in the resource center and belongs to all units that share the resource center. The stake or ward music chairman may help resource center specialists create an index of this music.
 
 ### 19.9.3 Pianos, Organs, and Keyboards
 
