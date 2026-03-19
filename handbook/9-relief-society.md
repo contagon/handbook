@@ -247,7 +247,7 @@ The stake president calls and sets apart a woman to serve as the stake Relief So
 
 The stake president meets regularly (at least monthly) with the stake Relief Society president or presidency. They counsel together about God’s work of salvation and exaltation. They also discuss (1) the progress and needs of sisters in the stake and (2) Relief Society meetings, instruction, and activities.
 
-The stake Relief Society presidency instructs ward Relief Society presidencies in their responsibilities to help lead the ward’s efforts for ministering, sharing the gospel, and uniting families for eternity through temple and family history work (see [1.2.4]). They do this under the direction of the stake presidency. High councilors are assigned to assist. See [23.1] and [25.2.5].
+The stake Relief Society presidency instructs ward Relief Society presidencies in their responsibilities to help lead the ward’s efforts for ministering, sharing the gospel, and uniting families for eternity through temple and family history work (see [1.2.4]). They do this under the direction of the stake presidency. High councilors are assigned to assist. See [23.1] and [25.2.2].
 
 If the stake has a young single adult committee, a member of the stake Relief Society presidency serves on it. The same is true if the stake has a single adult committee. (See [14.1.1.2].)
 

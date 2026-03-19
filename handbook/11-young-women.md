@@ -55,7 +55,7 @@ Parents are responsible to teach their children the gospel and help them live it
 
 Leaders should be sensitive to youth who lack family support for gospel living.
 
-Parents and leaders strive to be good examples to the youth. They mentor youth in their efforts to become more like Jesus Christ. The Children and Youth program can help in these efforts (see [ChildrenandYouth.ChurchofJesusChrist.org]).
+Parents and leaders strive to be good examples to the youth. They mentor youth in their efforts to become more like Jesus Christ. The Children and Youth program can help in these efforts (see ChildrenandYouth.ChurchofJesusChrist.org).
 
 #### 11.2.1.2 Gospel Learning
 
@@ -85,10 +85,10 @@ Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChr
 
 For more information, see [YoungWomen.ChurchofJesusChrist.org]. See also [JustServe.org] where it is available. These resources provide service and activity ideas.
 
-_Annual Activities._ In addition to regular youth activities, young women may also participate in the following each year:
+_Annual Activities._ In addition to regular youth activities, young women also participate in the following each year:
 
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young women turning 12 during the year may receive their emblems of belonging during this meeting (see [11.6.3]). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
-* A Young Women camp (see [Young Women Camp Guide]). Young women may participate in additional overnight camps, events, and activities throughout the year, where feasible.
+* A Young Women camp (see [Young Women Camp Guide]). The duration of the camp depends on local needs and resources. Where possible, leaders are encouraged to plan an annual camp that lasts long enough for young women to have spiritual experiences and build meaningful relationships. Young women may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 * [[AO]] A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org]. For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org] (for the U.S. and Canada) or the [FSY Planning Guide] (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices]. This event could include both young men and young women. Parents may also be invited.
 
@@ -108,11 +108,11 @@ In their efforts to become more like the Savior, youth are invited to set goals 
 
 Youth are encouraged to complete at least two goals in each of the four areas each year. They can use [Personal Development: Youth Guidebook] or the Gospel Living app to set and record goals.
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
+For more information, see ChildrenandYouth.ChurchofJesusChrist.org.
 
 ### 11.2.2 Caring for Those in Need
 
-Young women should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at [ChildrenandYouth.ChurchofJesusChrist.org]. Where it is available, [JustServe.org] suggests opportunities for service in the community.
+Young women should have regular opportunities to serve others in and with their families, during youth activities, and on their own. Ideas for service are available at ChildrenandYouth.ChurchofJesusChrist.org. Where it is available, [JustServe.org] suggests opportunities for service in the community.
 
 #### 11.2.2.1 Ministering
 
@@ -315,4 +315,4 @@ In January of the year a young woman turns 18, she receives an additional emble
 
 Young women may earn an emblem of achievement by striving to become more like the Savior.
 
-For more information about emblems, see [ChildrenandYouth.ChurchofJesusChrist.org].
+For more information about emblems, see ChildrenandYouth.ChurchofJesusChrist.org.

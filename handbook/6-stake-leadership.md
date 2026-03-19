@@ -175,6 +175,8 @@ In each member district, a Melchizedek Priesthood holder is called as the distri
 * A district president presides over all priesthood holders in the district. However, the mission president is the presiding high priest.
 * With the mission president’s approval, a district president may interview a brother to be ordained an elder. This approval must be given for each situation. A district president or someone under his direction may also (1) present a brother for sustaining and (2) perform the ordination (see [18.10.1.3], [18.10.3], and [18.10.4]). However, a district president cannot ordain patriarchs, high priests, or bishops.
 * With the mission president’s approval, a district president may set apart branch presidents (see [18.11]). This approval must be given for each situation.
+* A member of the mission presidency usually presides at a district conference. However, with the Area Presidency’s approval, the mission president may assign the district president to preside.
+* With the mission president’s approval, a district president may preside at a branch conference. This approval must be given for each conference.
 * He does not release full-time missionaries. However, he may participate with a member of the mission presidency in the release interview. If travel or time constraints make it very difficult for a member of the mission presidency to release a specific missionary, the mission president may authorize the district president to do so (see [24.8.2]).
 * He does not conduct temple recommend interviews or sign temple recommends (see [26.3.2] and [26.3.3]).
 * He does not convene a membership council unless authorized by the mission president (see [32.9.5]).
@@ -332,7 +334,7 @@ The stake president ensures that after the patriarch has given the recipient a c
 
 A patriarch may not be called to a position of Church administration unless the Quorum of the Twelve Apostles approves the call in advance. Such positions include a member of a bishopric; high council; or stake, mission, or temple presidency. If approval is given, the patriarch is given “not actively serving” status.
 
-A patriarch may be called to serve in other callings without approval from the Quorum of the Twelve. He may also serve as a sealer or temple ordinance worker.
+A patriarch may be called to serve in other callings without approval from the Quorum of the Twelve. He may also serve as a sealer or temple worker.
 
 ### 6.6.7 Scribes for Patriarchal Blessings
 

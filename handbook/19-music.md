@@ -12,7 +12,6 @@ Through His prophets, the Lord has encouraged individuals and families to use up
 
 Recordings of Church music are available from the following sources:
 
-* Sacred Music app
 * Gospel Library app
 * [Music.ChurchofJesusChrist.org]
 * CDs at [store.ChurchofJesusChrist.org]
@@ -146,7 +145,6 @@ The ward accompanist provides prelude and postlude music and accompaniment for h
 * Digital pianos and organs that play preprogrammed hymn accompaniments are available in some meetinghouses (see [19.3.6.1]).
 * Members may use recordings from the following sources:
 
-	+ Sacred Music app
 	+ Gospel Library app
 	+ [Music.ChurchofJesusChrist.org]
 	+ CDs at [store.ChurchofJesusChrist.org]
@@ -201,10 +199,10 @@ Basic music training materials are in the “[Using the Hymnbook]” section in 
 
 The following resources may also be helpful:
 
-* A library of sheet music and music recordings for use at home and at church is available on the Sacred Music app and online at [music.ChurchofJesusChrist.org]. Listening to recordings can help members become more familiar with the hymns.
+* A library of sheet music and music recordings for use at home and at church is available on the Gospel Library app and online at [music.ChurchofJesusChrist.org]. Listening to recordings can help members become more familiar with the hymns.
 * The interactive music player on [ChurchofJesusChrist.org] can help those seeking to learn new music or develop music skills.
 * The Basic Music Course can help members learn how to read and play music. It includes the Conducting Course Kit and Keyboard Course Kit. These resources can be purchased at [store.ChurchofJesusChrist.org].
-* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see [musicfund.ChurchofJesusChrist.org].
+* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see “Harman Music Education Fund” at ChurchofJesusChrist.org.
 
 Stake and ward music coordinators may organize basic music training courses for music leaders, choir directors, or accompanists. Participants could include those who currently serve in music callings and other interested adults, youth, and children. Music coordinators or specialists may teach the courses. Music coordinators may also recommend qualified instructors to provide training.
 

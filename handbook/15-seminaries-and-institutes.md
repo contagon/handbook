@@ -60,7 +60,7 @@ All young single adults ages 18–35 should be encouraged to attend institute cl
 
 Classes are divided by ages 18–25 and 26–35 unless the number of participants is insufficient.
 
-BYU Pathway students, including those over 35, are required to attend institute. Pathway students ages 18–35 may choose to attend online or in-person classes. Students over 35 should attend online classes.
+All BYU–Pathway Worldwide students are required to participate in religion courses. Students ages 18–35 may choose to take online religion courses or attend institute in person. Students over 35 take online religion courses.
 
 See [Stake Institute] for guidelines on the following:
 

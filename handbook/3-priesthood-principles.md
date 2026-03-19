@@ -140,7 +140,93 @@ Those who exercise priesthood authority do not force their will on others. They 
 
 Some Church callings include a responsibility to preside. For information about presiding in the Church, see [4.2.4].
 
-## 3.5 Priesthood Power
+## 3.5 Ordinances and Covenants
+
+God provides ordinances and covenants to bless His children and enable them to receive eternal life.
+
+### 3.5.1 Ordinances
+
+An ordinance is a sacred act performed by the authority of the priesthood. Ordinances have always been part of the gospel of Jesus Christ (see [Genesis 1:28]; [Moses 6:64–65]).
+
+In many ordinances, individuals make covenants with God. Examples include baptism, the sacrament, the endowment, and the marriage sealing ordinance. In other ordinances such as patriarchal blessings or blessings on the sick, individuals do not make covenants, but they can receive guidance and strength to keep covenants.
+
+Ordinances have symbolic meanings that point individuals to Heavenly Father and Jesus Christ. In ordinances that include covenants, the words, actions, and other symbolic elements of the ordinance teach individuals about the promises they make with God and the blessings they can receive through their faithfulness.
+
+Each ordinance allows individuals to receive rich spiritual blessings. The Lord revealed, “In the ordinances [of the priesthood], the power of godliness is manifest” ([Doctrine and Covenants 84:20]).
+
+### 3.5.2 Covenants
+
+A covenant is a sacred promise between God and His children. God gives the conditions for the covenant, and His children agree to obey those conditions. God promises to bless His children as they fulfill the covenant.
+
+Covenants are central in God’s work of salvation and exaltation (see [1.2]). Members make covenants with God as they receive the ordinances of salvation and exaltation (see [3.5.3]). All who endure to the end in keeping their covenants will receive eternal life (see [2 Nephi 31:17–20]; [Doctrine and Covenants 14:7]; see also [1.1]).
+
+Parents, Church leaders, and others help individuals prepare to make covenants as they receive the ordinances of the gospel. They ensure that the person understands the covenants he or she will make. (These covenants are explained in section [3.5.3].) After a person makes a covenant, they help him or her keep it (see [Moroni 6:4]).
+
+### 3.5.3 Ordinances and Covenants Necessary for Salvation and Exaltation
+
+Individuals make covenants with God as they receive ordinances that are necessary for salvation and exaltation. The ordinances necessary for salvation and exaltation are:
+
+* Baptism.
+* Confirmation and gift of the Holy Ghost.
+* Conferral of the Melchizedek Priesthood and ordination to an office (for men).
+* Temple endowment.
+* Temple sealing.
+
+Living individuals receive these ordinances for themselves. However, many of God’s children die without an opportunity to receive the ordinances necessary for salvation and exaltation. In His merciful plan, God has provided a way for living individuals to receive these ordinances on behalf of those who have died. These sacred ordinances are performed in temples.
+
+For more information about performing ordinances for the deceased, see [chapter 28].
+
+#### 3.5.3.1 Baptism
+
+By receiving the ordinance of baptism, God’s children enter into a covenant relationship with Him that leads toward eternal life (see [2 Nephi 31:17–18]). Those who are baptized covenant that they are willing to take upon them the name of Jesus Christ, keep God’s commandments, and serve Him to the end (see [2 Nephi 31:7, 13–14]; [Mosiah 18:10]; [Moroni 6:3]; [Doctrine and Covenants 20:37]).
+
+Baptism by water must be followed by the laying on of hands for the gift of the Holy Ghost.
+
+#### 3.5.3.2 Confirmation and Gift of the Holy Ghost
+
+The Savior explained, “Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God” ([John 3:5]). Therefore, baptism by water is followed by confirmation and receiving the gift of the Holy Ghost by the laying on of hands (see [Doctrine and Covenants 20:41]). In this ordinance, individuals are confirmed members of The Church of Jesus Christ of Latter-day Saints and instructed to receive the Holy Ghost.
+
+As members exercise faith in Jesus Christ, repent, and strive to keep the baptismal covenant, they receive the companionship of the Holy Ghost (see [Mosiah 18:10]). The Holy Ghost can guide, direct, and purify them from sin throughout their lives and help them become more like Heavenly Father and Jesus Christ (see [2 Nephi 31:17]; [32:5]; [3 Nephi 12:48]; [27:20]). They are in the “strait and narrow path which leads to eternal life” ([2 Nephi 31:18]).
+
+#### 3.5.3.3 Conferral of the Melchizedek Priesthood and Ordination to an Office
+
+All of God’s eternal blessings are made available to His children—daughters and sons—through Jesus Christ and the ordinances and covenants necessary for salvation and exaltation (see [3.5.3]). Conferral of the Melchizedek Priesthood and ordination to an office is a necessary ordinance for men to receive the fulness of these blessings.
+
+A man who receives the Melchizedek Priesthood makes a covenant to be faithful and magnify his priesthood calling and responsibilities (see [Doctrine and Covenants 84:33]). God promises with an oath that those who honor this covenant will be sanctified by the Spirit and receive all the Father has (see [Doctrine and Covenants 84:33–40]; see also Guide to the Scriptures, “[Oath and Covenant of the Priesthood],” Gospel Library).
+
+Priesthood holders have a sacred calling and responsibility to represent the Lord in helping others come unto Him and in administering the ordinances and covenants necessary for salvation and exaltation (see [Alma 13:1–3, 6, 16]). When priesthood holders magnify this calling and responsibility, they become instruments in God’s hands to bless His children.
+
+God’s blessings of eternal life are available to all worthy men, women, and children. All who receive the Lord’s servants—and who make and keep the covenants associated with the ordinances of salvation and exaltation—receive the Lord Jesus Christ. All who receive Jesus Christ receive the Father and all the Father has (see [Doctrine and Covenants 84:36–38]; see also [Matthew 10:40]; [John 13:20]; [Doctrine and Covenants 76:59]).
+
+#### 3.5.3.4 Temple Endowment
+
+Church members who receive the temple endowment covenant to:
+
+* Live the law of obedience.
+* Obey the law of sacrifice.
+* Obey the law of the gospel of Jesus Christ.
+* Keep the law of chastity.
+* Keep the law of consecration.
+
+As part of the endowment ordinance, an individual is instructed to wear the garment of the holy priesthood throughout his or her life. Keeping the covenants made in the endowment includes the sacred privilege of wearing the temple garment (see [26.4.2]).
+
+The blessings associated with receiving and keeping the covenants of the endowment include greater knowledge of God and His plan, divine protection, and the power of godliness. (See [Doctrine and Covenants 38:32]; [84:19–21]; [109:22]; see also [27.2] in this handbook.)
+
+#### 3.5.3.5 Temple Sealing
+
+In the sealing ordinance, a man and a woman make a covenant with God and with each other. They covenant and promise to receive one another as husband and wife, counsel and labor together in love and righteousness, and fulfill their divinely appointed roles as husband and wife and as father and mother.
+
+A man and woman who are faithful to this covenant are joined together as husband and wife for all eternity. The couple has sealed upon them, through their faithfulness, all the blessings of God’s everlasting covenant, the highest of which is exaltation with eternal posterity (see [Doctrine and Covenants 132:19–20]; see also 66:2; 131:1–4; and [27.3] and [38.4] in this handbook).
+
+### 3.5.4 The Sacrament
+
+The Savior instituted the sacrament and commanded His followers to partake of it in remembrance of Him (see [Matthew 26:26–28]; [3 Nephi 18:1–12]; [Moroni 6:5–6]). The sacrament provides a sacred and regular opportunity for Church members to reflect upon the life, ministry, and Atonement of Jesus Christ (see [Doctrine and Covenants 27:2]; see also [29.2.1] in this handbook).
+
+By partaking of the sacrament, individuals witness, or covenant, that they are willing to take upon themselves the name of Jesus Christ, always remember Him, and keep His commandments. As individuals keep this covenant, they are promised that they will always have the Lord’s Spirit to be with them (see [Doctrine and Covenants 20:77, 79]; see also [3 Nephi 18:7, 11]). Through the sanctifying power of the Holy Ghost, the Lord can purify them throughout their lives (see [3 Nephi 27:20]). Thus, they can retain a remission of their sins (see [Mosiah 4:3–12]).
+
+The ordinance of the sacrament helps Church members endure to the end in keeping all the covenants they have made with God. It is a repeated invitation to repent sincerely and to be renewed spiritually, and thus progress to become more like God.
+
+## 3.6 Priesthood Power
 
 Priesthood power is God’s power, which He uses to bless His children. God’s priesthood power flows to all members of the Church—female and male—as they keep the covenants they have made with Him. Members make these covenants as they receive priesthood ordinances. (See [Doctrine and Covenants 84:19–20].)
 
@@ -150,27 +236,7 @@ The blessings of priesthood power that members can receive include:
 * Revelation to know how to fulfill the work they are ordained, set apart, or assigned to do.
 * Help and strength to become more like Jesus Christ and Heavenly Father.
 
-### 3.5.1 Covenants
-
-A covenant is a sacred promise between God and His children. God gives the conditions for the covenant, and His children agree to obey those conditions. God promises to bless His children as they fulfill the covenant.
-
-Members make covenants with God as they receive the ordinances of salvation and exaltation (see [18.1]). All who endure to the end in keeping their covenants will receive eternal life (see [2 Nephi 31:17–20]; [Doctrine and Covenants 14:7]).
-
-Parents, Church leaders, and others help individuals prepare to make covenants as they receive the ordinances of the gospel. They ensure that the person understands the covenants he or she will make. After a person makes a covenant, they help him or her keep it. (See [Mosiah 18:8–11, 23–26].)
-
-### 3.5.2 Ordinances
-
-An ordinance is a sacred act performed by the authority of the priesthood. Ordinances have always been part of the gospel of Jesus Christ (see [Genesis 1:28]; [Moses 6:64–65]).
-
-In many ordinances, individuals make covenants with God. Examples include baptism, the sacrament, the endowment, and the marriage sealing ordinance. In other ordinances such as patriarchal blessings or blessings on the sick, individuals do not make covenants, but they do receive guidance and strength to keep covenants.
-
-Ordinances have symbolic meaning that point individuals to Heavenly Father and Jesus Christ. In the ordinances that include covenants, the symbolism helps individuals understand the promises they make and the blessings they receive through their faithfulness.
-
-Each ordinance allows individuals to receive rich spiritual blessings. The Lord revealed, “In the ordinances [of the priesthood], the power of godliness is manifest” ([Doctrine and Covenants 84:20]). Ordinances of salvation and exaltation are essential for eternal life. For more information, see [18.1].
-
-Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [chapter 28].
-
-## 3.6 The Priesthood and the Home
+## 3.7 The Priesthood and the Home
 
 All Church members who keep their covenants—women, men, and children—are blessed with God’s priesthood power in their homes to strengthen themselves and their families (see [3.5]). This power will assist members in doing God’s work of salvation and exaltation in their personal lives and families (see [2.2]).
 

@@ -135,7 +135,7 @@ Parents are responsible to teach their children the gospel and help them live it
 
 Leaders should be sensitive to children who lack family support for gospel living.
 
-Parents and leaders strive to be good examples to children. They encourage children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see [ChildrenandYouth.ChurchofJesusChrist.org]).
+Parents and leaders strive to be good examples to children. They encourage children in their efforts to become more like Jesus Christ. The Children and Youth program is a resource to help children ages 8–11 (see ChildrenandYouth.ChurchofJesusChrist.org).
 
 #### 12.2.1.2 Gospel Learning
 
@@ -147,7 +147,7 @@ Primary meetings for children ages 3–11 are held every Sunday for 50 minutes 
 
 | Part of Meeting | Length |
 | --- | --- |
-| Opening (prayer, scripture or Article of Faith, and talk—all given by children) | 5 minutes |
+| Opening (prayer, scripture or Article of Faith, and talk or testimony—all given by children) | 5 minutes |
 | Singing time | 20 minutes |
 | Transition to classes | 5 minutes |
 | Classes and closing prayer | 20 minutes |
@@ -170,19 +170,19 @@ _Activities for All Children._ Primary presidencies may occasionally hold activi
 
 Primary presidencies may also organize an annual community service activity. Where possible, this activity focuses on serving children. Valiant-age children can help plan it. The activity provides children an opportunity to invite friends and ward members to join in community service.
 
-_Valiant Activities._ Beginning in January of the year they turn 8, children may begin attending Valiant activities. Most Valiant activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org]; see also [20.7] in this handbook). At least two responsible adult leaders must be present at all activities (see [12.5.1]).
+_Valiant Activities._ Beginning in January of the year they turn 8, children may begin attending Valiant activities. Valiant activities are usually held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org]; see also [20.7] in this handbook). At least two responsible adult leaders must be present at all activities (see [12.5.1]).
 
 [[AO]] The following guidelines may be adapted to local circumstances:
 
 * Valiant activities are held two times a month when possible. They can be held more or less frequently. Leaders consider family circumstances, travel distance and costs, and safety.
 * Generally, children are organized by age-groups. Boys and girls normally meet separately. However, they may combine for certain activities or in locations with few children.
-* Leaders may choose to plan and hold annual day camps for these children. Valiant activities, including day camps, do not include overnight stays.
+* Leaders may choose to plan and hold an annual super activity for these children. This should be fun and engaging and could include indoor or outdoor games, service, workshops, and other activities that help children feel the joy of following Jesus together. Valiant activities, including super activities, do not include overnight stays.
 
-All supplies and activities, including day camps, are paid for by the ward budget. Travel and expenses should not be excessive.
+All supplies and activities, including super activities, are paid for by the ward budget. Travel and expenses should not be excessive.
 
 The bishopric ensures that the budget and activities for boys and girls in Primary are sufficient and equitable. Budget is allocated according to the number of children.
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org]. See also [JustServe.org], where it is available. These resources provide service and activity ideas.
+For more information, see ChildrenandYouth.ChurchofJesusChrist.org. See also [JustServe.org], where it is available. These resources provide service and activity ideas.
 
 #### 12.2.1.4 Personal Development
 
@@ -190,11 +190,11 @@ In their efforts to become more like the Savior, children—beginning in the yea
 
 Beginning in the year they turn 8, children are encouraged to complete at least one goal in each of the four areas each year. They can use [Personal Development: Children’s Guidebook] to set and record goals.
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
+For more information, see ChildrenandYouth.ChurchofJesusChrist.org.
 
 ### 12.2.2 Caring for Those in Need
 
-Children should have regular opportunities to serve others in and with their families and during Primary activities. Ideas for service can be found at [ChildrenandYouth.ChurchofJesusChrist.org]. Where it is available, [JustServe.org] suggests opportunities for service in the community.
+Children should have regular opportunities to serve others in and with their families and during Primary activities. Ideas for service can be found at ChildrenandYouth.ChurchofJesusChrist.org. Where it is available, [JustServe.org] suggests opportunities for service in the community.
 
 ### 12.2.3 Inviting All to Receive the Gospel
 
@@ -293,7 +293,6 @@ The bishopric must approve the use of any other music in Primary.
 
 [[AO]] If a pianist or piano is not available, leaders may use recordings from the following sources:
 
-* Sacred Music app
 * Gospel Library app
 * [Music.ChurchofJesusChrist.org]
 * CDs at [store.ChurchofJesusChrist.org]
@@ -376,6 +375,6 @@ When children begin the CTR 4 class, the Primary presidency and their Primary t
 
 ### 12.5.7 Introducing the Children and Youth Program
 
-At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the [emblems of belonging] and a copy of [Personal Development: Children’s Guidebook]. These resources are available at [store.ChurchofJesusChrist.org].
+At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the emblems of belonging and a copy of [Personal Development: Children’s Guidebook]. These resources are available at [store.ChurchofJesusChrist.org].
 
-For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
+For more information, see ChildrenandYouth.ChurchofJesusChrist.org.

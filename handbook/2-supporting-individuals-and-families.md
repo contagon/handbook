@@ -108,7 +108,7 @@ Home evening is flexible according to members’ circumstances. It may be held o
 * Gospel study and instruction (the [Come, Follow Me] materials may be used as desired).
 * Serving others.
 * Singing or playing hymns and Primary songs (see [chapter 19]).
-* Supporting family members in [Children and Youth development].
+* Supporting family members in Children and Youth development.
 * A family council to set goals, resolve problems, and coordinate schedules.
 * Recreational activities.
 
