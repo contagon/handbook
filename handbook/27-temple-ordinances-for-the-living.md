@@ -20,7 +20,7 @@ Members should prepare themselves spiritually to receive temple ordinances and t
 
 Parents have the primary responsibility to help their children prepare to receive temple ordinances. Stake and ward leaders, ministering brothers and sisters, and extended family members support parents in this role.
 
-Stake and ward leaders regularly encourage members to prepare to receive their own temple ordinances. Leaders also emphasize the importance of honoring temple covenants and remaining worthy of and holding a temple recommend.
+Stake and ward leaders regularly encourage members to prepare to receive their own temple ordinances. Leaders also emphasize the importance of honoring temple covenants and remaining worthy of and having a temple recommend.
 
 Resources to help members prepare to receive temple ordinances are available at [temples.ChurchofJesusChrist.org].
 
@@ -39,7 +39,7 @@ Members who are planning to receive their own endowment or to be sealed or marri
 
 ### 27.1.3 Members Who Have Physical Disabilities
 
-Worthy members who have physical disabilities may receive all temple ordinances (see [38.2.1.9]). These members are encouraged to attend the temple with endowed relatives or friends who can assist them. Those who assist must have a current temple recommend. If it is not possible to attend with a family member or friend, members may call the temple in advance to see what arrangements can be made. See [temples.ChurchofJesusChrist.org] for each temple’s contact information.
+Worthy members who have physical disabilities may receive all temple ordinances (see [38.2.5]). These members are encouraged to attend the temple with endowed relatives or friends of the same gender who can assist them. Those who assist must have a current temple recommend. If members cannot attend with a family member or friend, they may call the temple in advance to see what arrangements can be made. See [temples.ChurchofJesusChrist.org] for each temple’s contact information.
 
 Service animals and emotional support animals are not allowed in temples. Stake presidents may contact the Temple Department at [TempleDepartment@ChurchofJesusChrist.org] if they have questions.
 
@@ -57,6 +57,7 @@ See [38.5] for information about:
 
 * Clothing to wear during the endowment and sealing ordinances.
 * Obtaining, wearing, and caring for ceremonial temple clothing and garments.
+
 ### 27.1.6 Child Care
 
 Children must have adult supervision if they are on temple grounds. Temple workers are available to supervise children only in the following circumstances:
@@ -64,7 +65,7 @@ Children must have adult supervision if they are on temple grounds. Temple worke
 * If they are being sealed to parents
 * If they are observing the sealing of their living siblings, stepsiblings, or half siblings to their parents
 
-### 27.1.7 Meeting with Members After They Receive Temple Ordinances
+### 27.1.7 Meeting with Members after They Receive Temple Ordinances
 
 Members often have questions after receiving temple ordinances. Endowed family members, the bishop, other ward leaders, and ministering brothers and sisters may meet with members to discuss their temple experience.
 
@@ -89,19 +90,19 @@ During the initiatory, the member is authorized to wear the temple garment. The 
 
 In the second part of the endowment, the plan of salvation is taught, including the Creation, the Fall of Adam and Eve, the Atonement of Jesus Christ, the Apostasy, and the Restoration. Members also receive instruction on how to return to the Lord’s presence.
 
-In the endowment, members are invited to make sacred covenants to:
+In the endowment, members are invited to make sacred covenants as follows:
 
 * Live the law of obedience and strive to keep Heavenly Father’s commandments.
 * Obey the law of sacrifice, which means sacrificing to support the Lord’s work and repenting with a broken heart and contrite spirit.
 * Obey the law of the gospel of Jesus Christ, which is the higher law that He taught while He was on the earth.
-* Keep the law of chastity, which means having sexual relations only with those to whom they are legally and lawfully wedded according to God’s law.
-* Keep the law of consecration, which means dedicating their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
+* Keep the law of chastity, which means that a member has sexual relations only with the person to whom he or she is legally and lawfully wedded according to God’s law.
+* Keep the law of consecration, which means that members dedicate their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
 
 In return, Heavenly Father promises that those who remain faithful to their temple covenants will be endowed “with power from on high” ([Doctrine and Covenants 38:32, 38]; see also [Luke 24:49]; [Doctrine and Covenants 43:16]).
 
 ### 27.2.1 Who May Receive the Endowment
 
-All accountable adult members of the Church are invited to prepare for and receive their own endowment. All prerequisite ordinances must be performed and recorded before members may receive the endowment (see [26.3.1]). See [27.2.2] for information about deciding when to receive the endowment.
+All accountable adult members of the Church are invited to prepare for and receive their own endowment. All prerequisite ordinances must be performed and recorded before members can receive the endowment (see [26.3.1]). See [27.2.2] for information about deciding when to receive the endowment.
 
 #### 27.2.1.1 Newly Baptized Members
 
@@ -123,7 +124,7 @@ Members who have intellectual disabilities may receive their own endowment if:
 * They have received all prerequisite ordinances (see [26.3.1]).
 * They have the intellectual capacity to understand, make, and keep the associated covenants.
 
-The bishop counsels with the member and, where applicable, his or her parents. He also seeks the direction of the Spirit. He may counsel with the stake president. The stake president may direct questions to the Office of the First Presidency if necessary. See [38.2.1.8].
+The bishop counsels with the member and, where applicable, his or her parents. He also seeks the direction of the Spirit. He may counsel with the stake president. The stake president may direct questions to the Office of the First Presidency if necessary. See [38.2.4].
 
 ### 27.2.2 Deciding When to Receive the Endowment
 
@@ -141,6 +142,7 @@ Before issuing a temple recommend for a member to receive the endowment, the bis
 * Reaching a certain age
 * Leaving home for college, employment, or military service
 * Desiring to observe the temple sealing of a family member or friend
+
 ### 27.2.3 Planning and Scheduling the Endowment
 
 #### 27.2.3.1 Receiving a Recommend for Living Ordinances
@@ -153,11 +155,11 @@ Members who are planning to receive the endowment should contact the temple in a
 
 #### 27.2.3.3 Escorts for Members Receiving the Endowment
 
-Members receiving their own endowment may invite an endowed member of the same gender to act as an escort and assist them during the endowment session. The escort must have a current temple recommend. The temple can provide an escort if needed.
+Members receiving their own endowment may invite an endowed member of the same gender to act as an escort and assist them during the endowment session. An escort must have a current temple recommend. The temple can provide an escort if needed.
 
 ## 27.3 Sealing of Husband and Wife
 
-“The family is ordained of God. Marriage between man and woman is essential to His eternal plan” (“[The Family: A Proclamation to the World]”). A temple sealing joins a husband and wife together for time and all eternity if they are faithful to the covenants they make in the temple. Couples who are sealed in the temple are promised glory and joy throughout eternity (see [Doctrine and Covenants 132:19–20]). Through this ordinance, their children may also be part of their eternal family.
+“The family is ordained of God. Marriage between man and woman is essential to His eternal plan” (“[The Family: A Proclamation to the World]”). A temple sealing joins a husband and wife together for time and all eternity. Couples who are sealed in the temple are promised glory and joy throughout eternity (see [Doctrine and Covenants 132:19–20]). They will receive these blessings if they are faithful to the covenants they make in the temple. Through this ordinance, their children may also be part of their eternal family.
 
 Church leaders encourage members to prepare to be married and sealed in a temple. Where temple marriages are not legally recognized, authorized Church leaders or others can perform civil marriages that are followed by a temple sealing (see [38.3]). This pattern may also be followed when a temple marriage could cause parents or immediate family members to feel excluded because they cannot attend the temple ceremony.
 
@@ -178,7 +180,7 @@ Members who have intellectual disabilities may be sealed to their spouse, fianc�
 * They have received all prerequisite ordinances, including the endowment (see [27.2.1.3]).
 * They have the intellectual capacity to understand, make, and keep the associated covenants.
 
-The bishop counsels with the member and his or her spouse, fiancé, or fiancée. He also seeks the direction of the Spirit. He may counsel with the stake president. The stake president may direct questions to the Office of the First Presidency if necessary. See [38.2.1.8].
+The bishop counsels with the member and his or her spouse, fiancé, or fiancée. He also seeks the direction of the Spirit. He may counsel with the stake president. The stake president may direct questions to the Office of the First Presidency if necessary. See [38.2.4].
 
 ### 27.3.2 Planning and Scheduling a Temple Marriage or Sealing
 
@@ -212,7 +214,7 @@ Members are discouraged from asking General Authorities to perform their temple 
 
 _Bride’s Dress._ A bride’s dress worn in the temple should be white, modest in design and fabric, and free of elaborate ornamentation. It also should cover the temple garment. Sheer fabric should be lined.
 
-To be consistent with other dresses worn in the temple, a bride’s dress should be long-sleeve or three-quarter-sleeve. Dresses should not have a train unless it can be pinned up or removed for the sealing ceremony.
+To be consistent with other dresses worn in the temple, a bride’s dress should have long sleeves or three-quarter sleeves. Dresses should not have a train unless it can be pinned up or removed for the sealing ceremony.
 
 The temple can provide a dress if needed or desired.
 
@@ -242,7 +244,7 @@ For the policy on sealing a couple who were married in the temple for time only,
 
 Couples should invite only close family members and friends to a temple marriage or sealing. Accountable members must be endowed and have a current temple recommend to attend.
 
-The stake president may authorize a person who was not baptized or endowed due to intellectual disabilities to observe the temple marriage or sealing of his or her living siblings. The person must:
+The stake president may authorize a person who has not been baptized or endowed due to intellectual disabilities to observe the temple marriage or sealing of his or her living siblings. The person must:
 
 * Be at least 18 years old.
 * Be able to remain reverent during the ceremony.
@@ -253,7 +255,7 @@ Members must be endowed and have a current temple recommend to observe the seali
 
 ### 27.3.5 Wedding Receptions
 
-See [35.4.22] for information about holding wedding receptions in Church buildings.
+See [35.5.15] for information about holding wedding receptions in Church buildings.
 
 ## 27.4 Sealing Living Children to Parents
 
@@ -265,9 +267,11 @@ See [38.4.2] for policies about sealing children to parents.
 
 ### 27.4.1 Issuing a Recommend for Sealing Living Children to Parents
 
-Accountable members ages 8 and older need a recommend to be sealed to their parents. They also need a recommend to observe the sealing of living siblings, stepsiblings, or half siblings to their parents. Children ages 8 and older must be baptized and confirmed to receive a temple recommend. Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
+Accountable members ages 8 and older need a recommend to be sealed to their parents. They also need a recommend to observe the sealing of living siblings, stepsiblings, or half siblings to their parents (see [27.4.4]). Children ages 8 and older must be baptized and confirmed in order to receive a temple recommend. Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
 
-The stake president may authorize persons who were not baptized or endowed due to intellectual disabilities to be sealed to their parents. The stake president writes a letter stating that the person is authorized to be sealed. This letter is presented at the temple.
+Members who are 21 or older must be endowed and have a current temple recommend to be sealed to their parents.
+
+The stake president may authorize persons who have not been baptized or endowed due to intellectual disabilities to be sealed to their parents. The stake president writes a letter stating that the person is authorized to be sealed. This letter is presented at the temple.
 
 See [26.4.4] for information about issuing recommends to children.
 
@@ -281,8 +285,8 @@ See [27.1.6].
 
 ### 27.4.4 Who May Attend a Sealing of Living Children to Parents
 
-To observe the sealing of living siblings, stepsiblings, or half siblings to their parents, children under the age of 21 must be born in the covenant or sealed to their parents. In addition, children ages 8 and older must be baptized and confirmed and must have a temple recommend (see [26.4.4]). Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
+To observe the sealing of living siblings, stepsiblings, or half siblings to their parents, unendowed members under the age of 21 must be born in the covenant or sealed to their parents. In addition, children ages 8 and older must be baptized and confirmed and must have a current temple recommend (see [26.4.4]). Males who are at least 11 and turning 12 during the year of the ordinance must also hold the priesthood.
 
-Members who are married or are 21 or older must be endowed to observe such sealings.
+Members who are 21 or older must be endowed and have a current temple recommend to observe such sealings.
 
-The stake president may authorize persons who were not baptized or endowed due to intellectual disabilities to observe the sealing of their living siblings, stepsiblings, or half siblings to their parents. Such persons must have been either (1) born in the covenant or (2) sealed to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
+Married members who are younger than 21 do not need to be endowed to observe such sealings. However, they must have a current temple recommend (see [26.4.4]).

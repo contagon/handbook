@@ -6,7 +6,7 @@ Heavenly Father gave Jesus Christ a sacred mission to fulfill (see [Luke 4:18–
 
 Callings give members opportunities to feel the joy of serving God by serving His children (see [Mosiah 2:17]). Callings also help members increase their faith and draw closer to the Lord.
 
-It is not appropriate to aspire to callings in the Church (see [Mark 10:42–45]; [Doctrine and Covenants 121:34–36]). Nor do Church members “advance” from one calling to another. After serving in one calling, they should not expect to receive a calling of greater responsibility or prominence. Serving faithfully in a calling is more important than what the calling is. The Lord honors the dedication of all who serve in His Church.
+It is not appropriate to aspire to specific callings in the Church (see [Mark 10:42–45]; [Doctrine and Covenants 121:34–37]). Nor do Church members “advance” from one calling to another. After serving in one calling, they should not expect to receive a calling of greater responsibility or prominence. Serving faithfully in a calling is more important than what the calling is. The Lord honors the dedication of all who serve in His Church.
 
 This chapter describes how members are called to serve in the Church and how they are released from their callings. It also includes a Chart of Callings that gives information about issuing specific callings, sustaining members in their callings, and setting them apart (see [30.8]).
 
@@ -51,7 +51,7 @@ Callings and releases are sacred. Because of this, leaders keep information abou
 
 For example, a person who is being considered for a calling is not notified until the calling is issued. This helps avoid embarrassment if the call is not extended.
 
-Additionally, only those who need to know, such as a spouse and an organization presidency that has responsibility for the position, are informed before the person is presented for a sustaining vote.
+Additionally, only those who need to know, such as a spouse and an organization presidency that has responsibility for the position, are informed before the person is presented for sustaining.
 
 ### 30.1.5 Recommendations and Approvals for Callings
 
@@ -72,7 +72,7 @@ When a leader extends a calling, he explains that it has come from the Lord. If 
 The leader may also:
 
 * Explain the purpose, importance, and responsibilities of the calling.
-* Help the member focus primarily on the people he or she will serve. (As applicable, the leader provides a list of these people from Leader and Clerk Resources.)
+* Help the member focus primarily on the people he or she will serve. (As applicable, the leader provides a list of these people from [Leader and Clerk Resources].)
 * Encourage the member to seek the Spirit of the Lord in fulfilling the calling.
 * Testify that the Lord will help the member and will bless him or her for serving faithfully.
 * Tell the member who will provide training and support for the calling.
@@ -88,9 +88,9 @@ If the calling includes working with children or youth, the leader explains that
 
 ## 30.3 Sustaining Members in Callings
 
-Those who are called to most Church positions should receive a sustaining vote before they begin serving (see [Doctrine and Covenants 28:13]; [42:11]). By sustaining those called to serve, members pledge their support and willingness to help.
+Those who are called to most Church positions should be presented for sustaining before they begin serving (see [Doctrine and Covenants 28:13]; [42:11]). By sustaining those called to serve, members pledge their support and willingness to help.
 
-The Chart of Callings indicates whether a sustaining vote is needed and who participates in it (see [30.8]). The leader who oversaw extending the calling, or a priesthood leader he authorizes, presents the person to be sustained.
+The Chart of Callings indicates whether sustaining is needed and who participates in it (see [30.8]). The leader who oversaw extending the calling, or a priesthood leader he authorizes, presents the person to be sustained.
 
 The person who conducts the sustaining first announces who was released from the position (if applicable). He invites members to give an expression of thanks for the person’s service (see [30.6]).
 
@@ -128,17 +128,17 @@ An authorized priesthood leader announces the release in the same setting where 
 
 “[Name] has been released as [position]. Those who would like to express thanks for [his or her] service may show it by the uplifted hand.”
 
-The leader does not ask for opposing votes.
+The leader does not ask if anyone opposes.
 
 ## 30.7 Calling, Ordaining, and Setting Apart Bishops
 
 The stake presidency recommends brethren to be called or released as bishops. Recommendations are submitted to the First Presidency through [Leader and Clerk Resources (LCR)]. A member of the stake presidency, a clerk, or the executive secretary may prepare the recommendation. However, only the stake president may submit it.
 
-A bishop’s responsibilities are significant (see [7.1]). They require a man of integrity, moral cleanliness, spiritual maturity, and faithfulness to the Savior. The stake presidency seeks confirmation from the Spirit about whom to recommend. When recommending a man to serve as bishop, they carefully consider [1 Timothy 3:2–7]. They do not ask for suggestions from ward members. Additional information about the qualifications of a bishop is given in LCR.
+A bishop’s responsibilities are significant (see [7.1]). They require a man of integrity, moral cleanliness, spiritual maturity, and faithfulness to the Savior. The stake presidency seeks confirmation from the Spirit about whom to recommend. When recommending a man to serve as bishop, they carefully consider [1 Timothy 3:2–7]. They do not ask for suggestions from ward members. Additional information about the qualifications of a bishop is given in [LCR].
 
-Before the stake president can call a new bishop, he must receive written approval of his recommendation from the First Presidency. With this approval, the stake president may ordain and set apart a bishop after ward members have given a sustaining vote. Approval of the First Presidency is also required before a stake president may release a bishop. The stake president may not delegate these responsibilities.
+Before the stake president can call a new bishop, he must receive written approval of his recommendation from the First Presidency. With this approval, the stake president may ordain and set apart a bishop after ward members have sustained him in a sacrament meeting. Approval of the First Presidency is also required before a stake president may release a bishop. The stake president may not delegate these responsibilities.
 
-If a man called as bishop is not a high priest, the stake president ensures that he is ordained a high priest before ordaining him a bishop. If the man was ordained a bishop previously, he needs only to be set apart as bishop of the ward.
+If a man called as bishop is not a high priest, the stake president ensures that he is ordained a high priest before ordaining him a bishop. If the man was ordained a bishop previously, he needs only to be set apart as bishop of the ward. If men called as the bishop’s counselors are not high priests, they are ordained high priests before being set apart.
 
 After the First Presidency has approved the recommendation of a man to serve as bishop, they authorize the stake president to ordain him and set him apart. The stake president:
 
@@ -164,7 +164,7 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
-| [Bishop] | Stake presidency, using LCR | First Presidency and Quorum of the Twelve | Ward members | Stake president after receiving approval from the First Presidency (see [30.7]) |
+| [Bishop] | Stake presidency, using [LCR] | First Presidency and Quorum of the Twelve | Ward members | Stake president after receiving approval from the First Presidency (see [30.7]) |
 | [Counselors in the bishopric] | Bishop | Stake presidency and high council | Ward members | Stake president or an assigned counselor |
 | [Ward clerk (and assistant ward clerks if needed)] | Bishopric | Stake presidency and high council | Ward members | Stake president or an assigned counselor or high councilor |
 | [Ward executive secretary (and assistant ward executive secretaries if needed)] | Bishopric | Stake presidency and high council | Ward members | Stake president or an assigned counselor or high councilor |
@@ -181,23 +181,25 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 | [Ward temple and family history consultants] | Bishopric or elders quorum and Relief Society presidents | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Assistants to the priests quorum president] | Bishop (as the priests quorum president) | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Bishop |
 | [Teachers and deacons quorum presidents] | Bishopric | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Called by the bishop or an assigned counselor; set apart by the bishop |
-| [Counselors in the teachers and deacons quorum presidencies and quorum secretaries] | Quorum presidents | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
+| [Counselors in the teachers and deacons quorum presidencies and quorum secretaries] | Quorum president | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
 | [Young Women class presidents] | Bishopric (in consultation with the Young Women presidency) | Bishopric | Class members (presented in a Young Women meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
 | [Counselors in Young Women class presidencies and class secretaries] | Class president | Bishopric | Class members (presented in a Young Women meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
 | [Ward welfare and self-reliance specialists if needed] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward resource center specialist if needed] | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
+| [Ward music coordinator] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | Other ward callings | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 
-1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for a ratifying vote as soon as reasonable. He adapts the process described in [30.3]. This includes providing an opportunity for ward members to oppose the action.
+1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for ratifying as soon as reasonable. He adapts the process described in [30.3]. This includes providing an opportunity for ward members to oppose the action.
+
 ### 30.8.2 Branch Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
-| [Branch president] | Stake, mission, or district presidency | Stake presidency and high council or mission presidency | Branch members | Stake or mission president (or district president if assigned) |
+| [Branch president] | Stake, mission, or district presidency | Stake presidency and high council or mission presidency | Branch members | Stake or mission president (or the district president if assigned) |
 | [Counselors in the branch presidency] | Branch president | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake, mission, or district president or an assigned counselor |
 | [Branch clerk, assistant clerks, and executive secretary] | Branch presidency | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake president or an assigned counselor or high councilor (for branches in stakes); district president or a priesthood leader he assigns (for branches in missions) |
-| [Elders quorum president] | Stake, district, or mission presidency (in consultation with the branch president) | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake or mission president (or, if assigned, the district president) |
-| [Counselors in the elders quorum presidency] | Quorum president (in consultation with the branch president) | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake or mission president or an assigned counselor or high councilor (or, if assigned, the district president or another priesthood leader) |
+| [Elders quorum president] | Stake, district, or mission presidency (in consultation with the branch president) | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake or mission president (or the district president if assigned) |
+| [Counselors in the elders quorum presidency] | Quorum president (in consultation with the branch president) | Stake presidency and high council or mission presidency (or, when authorized by the mission president, the district presidency) | Branch members | Stake or mission president or an assigned counselor or high councilor (or the district president or another priesthood leader if assigned) |
 | Other branch callings | See [30.8.1], substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.8.1], substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.8.1], substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | | See [30.8.1], substituting _branch president_ for _bishop_ and _branch_ for _ward._ | | | |
 
 ### 30.8.3 Stake Callings
@@ -206,11 +208,11 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 | --- | --- | --- | --- | --- |
 | [Stake president] | An assigned General Authority or Area Seventy | An assigned General Authority or Area Seventy | Members in stake conference | An assigned General Authority or Area Seventy |
 | [Counselors in a new stake presidency] | Stake president | An assigned General Authority or Area Seventy | Members in stake conference | An assigned General Authority or Area Seventy |
-| [New counselor in an existing stake presidency] | Stake president, using LCR | First Presidency | Members in stake conference | Stake president after receiving approval from the First Presidency |
+| [New counselor in an existing stake presidency] | Stake president, using [LCR] | First Presidency | Members in stake conference | Stake president after receiving approval from the First Presidency |
 | [Stake clerk (and assistant stake clerks if needed)] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 | [Stake executive secretary (and assistant stake executive secretaries if needed)] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 | [High councilors] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
-| [Stake patriarch, including a patriarch who was already ordained in another stake] | Stake presidency, using LCR | Quorum of the Twelve | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve; or a member of the First Presidency or Quorum of the Twelve |
+| [Stake patriarch, including a patriarch who was already ordained in another stake] | Stake presidency, using [LCR] | Quorum of the Twelve | Members in stake conference | Stake president after receiving approval from the Quorum of the Twelve; or a member of the First Presidency or Quorum of the Twelve |
 | [Stake Relief Society president] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president |
 | [Stake Young Women and Primary presidents] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 | [Stake Young Men and Sunday School presidents] | The stake presidency calls high councilors to fill these positions | Stake presidency and high council | Members in stake conference (they should be sustained both as high councilors and as presidents of these organizations) | Stake president or an assigned counselor (they should be called and set apart both as high councilors and as presidents of these organizations) |
@@ -218,12 +220,14 @@ _Note:_ Sealers in a temple are called under the direction of the President of t
 | [Stake auditors] | Chairman of the stake audit committee (counselor in the stake presidency) | Stake presidency and high council | Not sustained | Stake president or an assigned counselor (the stake president determines whether setting apart is needed) |
 | [Stake seminary and institute teachers and supervisors if needed] | Stake presidency (after counseling with the bishop and the seminary and institute representative) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | [Stake welfare and self-reliance specialists if needed] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
+| [Stake communication director, assistant directors, and specialists] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | Other stake callings | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 
 1. When, as an exception, new stake officers need to begin their service before the next stake conference, they should be sustained in sacrament meetings. These sustainings should be kept to a minimum. A member of the stake presidency or high council presents the sustainings.
 
-In rare circumstances, a stake member may need to begin service before he or she can be sustained either in a stake conference or in sacrament meetings. When this happens, the person is presented for a ratifying vote as soon as reasonable, adapting the process described in [30.3]. This includes providing an opportunity for stake members to oppose the action.
-2. The stake activities committee chair (if needed) and the stake physical facilities representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
+In rare circumstances, a stake member may need to begin service before he or she can be sustained either in a stake conference or in sacrament meetings. When this happens, the person is presented for ratifying as soon as reasonable, adapting the process described in [30.3]. This includes providing an opportunity for stake members to oppose the action.
+2. The stake activities committee chair (if needed) and the stake building representative are assigned by the stake presidency from the high council. They are not called, sustained, or set apart.
+
 ### 30.8.4 District Callings
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |

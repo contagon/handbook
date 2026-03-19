@@ -7,6 +7,7 @@ The Sunday School helps accomplish the work of salvation and exaltation. It does
 * Strengthen faith in Heavenly Father and Jesus Christ by teaching “the doctrine of the kingdom” ([Doctrine and Covenants 88:77]).
 * Support home-centered and Church-supported gospel learning and teaching.
 * Help members teach in the Savior’s way.
+
 ## 13.2 Ward Sunday School Leadership
 
 ### 13.2.1 Bishopric
@@ -21,9 +22,9 @@ This assigned counselor meets with the Sunday School president regularly. They c
 
 The bishop calls and sets apart a Melchizedek Priesthood holder to be the ward Sunday School president. They discuss whether counselors should be called. If counselors are needed, and if there are enough men to serve in these positions, the Sunday School president may recommend one or two counselors. If the bishopric approves, a member of the bishopric calls them.
 
-A member of the bishopric presents Sunday School presidency members in sacrament meeting for a sustaining vote of ward members. A member of the bishopric also sets them apart.
+A member of the bishopric presents Sunday School presidency members in sacrament meeting for sustaining by ward members. A member of the bishopric also sets them apart.
 
-[[AO]]In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance, if desired.
+[[AO]] In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance if desired.
 
 #### 13.2.2.2 Responsibilities
 
@@ -35,11 +36,12 @@ The Sunday School president has the following responsibilities. If he has counse
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way]. Encourage them to study [Teaching in the Savior’s Way].
 * Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [3]).
 * Encourage teachers to reach out to members who do not attend classes.
+
 ### 13.2.3 Sunday School Teachers
 
-The Sunday School president may recommend members to serve as Sunday School teachers. If the bishopric approves, a member of the bishopric calls them and sets them apart.
+The Sunday School president may recommend members to serve as Sunday School teachers. If the bishopric approves, a member of the bishopric calls them, presents them in sacrament meeting for sustaining by ward members, and sets them apart.
 
-Sunday School teachers get to know class members, including those who do not attend classes. Teachers support them in their efforts to learn and live the gospel of Jesus Christ.
+Sunday School teachers get to know class members, including those who do not attend classes. Teachers support members in their efforts to learn and live the gospel of Jesus Christ.
 
 To prepare to teach, Sunday School teachers use the scriptures, [Come, Follow Me—For Individuals and Families], and [Come, Follow Me—For Sunday School]. They follow the principles in [Teaching in the Savior’s Way] and [chapter 17] of this handbook.
 
@@ -74,7 +76,8 @@ Groups that could benefit from their own Sunday School class include:
 * Young single adults.
 * Members who do not speak the ward’s primary language.
 * New members, returning members, and those who are learning about the Church.
-* Other groups, as noted by the bishop.
+* Other groups as noted by the bishop.
+
 ## 13.4 Improving Learning and Teaching in the Ward
 
 Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [38]). They can ask the ward Sunday School president for help if needed.
@@ -93,7 +96,7 @@ The ward council may organize teacher council meetings for parents to help them 
 
 ## 13.6 Stake Sunday School Leaders
 
-The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also assigns a high councilor to be the stake Sunday School president.
+The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also calls and sets apart a high councilor to be the stake Sunday School president.
 
 The responsibilities of the stake Sunday School president are outlined in [6.7.1] and [6.7.3]. If counselors are called, they assist him.
 
@@ -101,7 +104,7 @@ The responsibilities of the stake Sunday School president are outlined in [6.7.1
 
 ### 13.7.1 Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org].
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org]; see also [38.8.26] in this handbook.
 
 ### 13.7.2 Resource Center
 
@@ -116,4 +119,4 @@ The Sunday School president consults with the resource center specialist to dete
 
 The resource center specialist should attend sacrament meeting each week and other Sunday meetings regularly. If necessary, the bishopric may call an assistant to the specialist.
 
-For more information, see [ChurchofJesusChrist.org].
+For more information, see “[Resource Centers]” at ChurchofJesusChrist.org.

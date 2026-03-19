@@ -43,7 +43,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8]). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18]). “All other authorities or offices in the church are appendages to this priesthood” ([Doctrine and Covenants 107:5]).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67]). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10]; see also chapter 5 in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17]; see also [chapter 7] in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67]). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10]; see also [chapter 6] in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17]; see also [chapter 7] in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1].
 
@@ -179,7 +179,7 @@ Ordinances have symbolic meaning that point individuals to Heavenly Father and J
 
 Each ordinance allows individuals to receive rich spiritual blessings. The Lord revealed, “In the ordinances [of the priesthood], the power of godliness is manifest” ([Doctrine and Covenants 84:20]). Ordinances of salvation and exaltation are essential for eternal life. For more information, see [18.1].
 
-Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the dead, see [chapter 28].
+Living individuals receive the ordinances of salvation and exaltation for themselves. Where possible, they then return to the temple to perform these ordinances vicariously for those who have died. For more information about performing ordinances for the deceased, see [chapter 28].
 
 ## 3.6 The Priesthood and the Home
 

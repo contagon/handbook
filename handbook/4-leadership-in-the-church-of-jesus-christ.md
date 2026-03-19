@@ -72,7 +72,7 @@ Those who preside follow the example of Jesus Christ in serving with gentleness,
 
 If you have been called or assigned to preside, follow the Savior’s teaching that “whosoever will be chief among you, let him be your servant” ([Matthew 20:27]; see [verses 26–28]). Counsel with others and seek unity in understanding the Lord’s will and doing His work (see [Doctrine and Covenants 41:2]; see also [4.4] in this handbook).
 
-It is not wise to aspire to preside in any organization in the Lord’s Church (see [Doctrine and Covenants 121:37]). Rather, humbly and faithfully serve in the position to which you are called. Strive to accomplish the Lord’s work with an eye single to His glory (see [Doctrine and Covenants 4:5]). Trust that the Lord will give you opportunities to grow and to bless Heavenly Father’s children.
+It is not appropriate to aspire to preside in any organization in the Lord’s Church (see [Doctrine and Covenants 121:34–37]). Rather, humbly and faithfully serve in the position to which you are called. Strive to accomplish the Lord’s work with an eye single to His glory (see [Doctrine and Covenants 4:5]). Trust that the Lord will give you opportunities to grow and to bless Heavenly Father’s children.
 
 ### 4.2.5 Delegate Responsibility and Ensure Accountability
 
@@ -88,6 +88,7 @@ Delegating is more than giving an assignment. It also includes teaching and trus
 * Counsel together about the assignment, who else could be involved, and when it should be finished. Ensure that the person understands and willingly accepts the assignment. Express confidence in his or her abilities.
 * Encourage the person to seek inspiration about how to fulfill the assignment. Show your trust and help the person succeed. Provide direction and support as needed.
 * Periodically ask the person to report on the assignment. Accept the person’s best efforts, and express appreciation for what he or she has done.
+
 ### 4.2.6 Prepare Others to Be Leaders and Teachers
 
 The Savior prepared His Apostles to become leaders in His Church. You likewise help others prepare to be leaders and teachers. The Lord’s work focuses on helping people, not just administering Church programs. These programs are not ends in themselves. They exist to help people grow.
