@@ -112,8 +112,6 @@ Helping someone repent, turn back to God, and be healed through the Atonement of
 
 6:18
 
-How to Care for Sin-burdened Members with Love
-
 ## 32.4 Confession, Confidentiality, and Reporting to Government Authorities
 
 ### 32.4.1 Confession
@@ -343,17 +341,18 @@ See [32.6.1.4] for when a council is required. See [32.6.3.3] if a member was in
 
 #### 32.6.2.5 Some Other Acts
 
-King Benjamin taught, “I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many that I cannot number them” ([Mosiah 4:29]). A council may be necessary if a person:
+King Benjamin taught, “I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many that I cannot number them” ([Mosiah 4:29]).
+
+A membership council may be necessary if a person:
 
 * Shows a pattern of committing serious sins (see [Doctrine and Covenants 82:7]).
 * Deliberately abandons family responsibilities, including nonpayment of child support and alimony.
 * Threatens physical violence, whether in person or online (see [32.2.1]).
 * Sells illegal drugs.
 * Commits other serious criminal acts.
+* Submits to, performs, arranges for, pays for, consents to, or encourages an abortion, unless an exception in [38.6.1] applies.
 
 In these situations, a council is more likely to be necessary to help a member repent if he or she has violated temple covenants or if the sin was repetitive.
-
-A membership council may be necessary if a member submits to, performs, arranges for, pays for, or encourages an abortion. See [38.6.1] for guidelines.
 
 When a Membership Council Is Required or May Be Necessary
 
@@ -363,7 +362,7 @@ When a Membership Council Is Required or May Be Necessary
 | Sexual Immorality | • Incest<br/>• Child pornography<br/>• Plural marriage<br/>• Sexual predatory behavior | • Adultery, fornication, same-sex relations, and all other sexual relations outside of a legal marriage between a man and a woman, including sexual encounters online or over the phone<br/>• Cohabitation, civil unions and partnerships, and same-sex marriage<br/>• Intensive or compulsive use of pornography that has caused significant harm to a member’s marriage or family |
 | Fraudulent Acts | • Financial predatory behavior, such as fraud and similar activities (see [32.6.3.3] if a member was involved in embezzlement of Church funds or property) | • Robbery, burglary, theft, or embezzlement (see [32.6.3.3] if a member was involved in embezzlement of Church funds or property; see [32.6.3.4] if a member was involved in the misuse of personal data)<br/>• Perjury |
 | Violations of Trust | • Serious sin while holding a prominent Church position | • Serious sin while holding a position of authority or trust in the Church or the community (see [32.6.3.3] if a member was involved in embezzlement of Church funds or property; see [32.6.3.4] if a member was involved in the misuse of personal data)<br/>• Serious sin that is widely known |
-| Some Other Acts | • Most felony convictions | • Abortion (unless an exception in [38.6.1] applies)<br/>• Pattern of serious sins<br/>• Deliberate abandonment of family responsibilities, including nonpayment of child support and alimony<br/>• Sale of illegal drugs<br/>• Other serious criminal acts |
+| Some Other Acts | • Most felony convictions | • Pattern of serious sins<br/>• Deliberate abandonment of family responsibilities, including nonpayment of child support and alimony<br/>• Threat of physical violence<br/>• Sale of illegal drugs<br/>• Other serious criminal acts<br/>• Abortion (unless an exception in [38.6.1] applies) |
 
 ### 32.6.3 When the Stake President Counsels with the Area Presidency about Whether a Membership Council or Other Action Is Necessary
 

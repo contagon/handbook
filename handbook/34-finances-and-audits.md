@@ -185,8 +185,6 @@ The stake president and bishop ensure that all Church funds are properly handled
 
 22:58
 
-Sacred Funds, Sacred Responsibilities
-
 ### 34.5.1 Companionship Principle
 
 The companionship principle requires two persons—a member of the bishopric and a clerk, or two members of the bishopric—to be actively involved when recording and disbursing Church funds. This principle is essential to safeguarding sacred funds and protecting Church leaders.

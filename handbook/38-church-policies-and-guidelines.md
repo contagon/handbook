@@ -298,7 +298,9 @@ For general information about priesthood ordinations, see [18.10].
 
 #### 38.2.9.1 New Members
 
-When a brother is baptized and confirmed, he is eligible to be ordained to an office in the Aaronic Priesthood if he will be at least 12 years old by the end of the year. The bishop interviews him soon after his confirmation, normally within a week. A member of the bishopric presents him in sacrament meeting so ward members can sustain his proposed ordination (see [18.10.3]). He may then be ordained to the appropriate office:
+When a brother is baptized and confirmed, he is eligible to be ordained to an office in the Aaronic Priesthood if he will be at least 12 years old by the end of the year. The bishop interviews him soon after his confirmation, normally within a week. At the same time, he can interview the new member to receive a temple recommend for proxy baptisms and confirmations (see [26.5.1]). A bishop or branch president may assign one of his counselors to conduct this interview.
+
+A member of the bishopric presents the brother in sacrament meeting so ward members can sustain his proposed ordination (see [18.10.3]). He may then be ordained to the appropriate office:
 
 * Deacon, if he will turn 12 or 13 by the end of the year
 * Teacher, if he will turn 14 or 15 by the end of the year
@@ -372,8 +374,7 @@ For more information, see [38.6.23].
 For general information about patriarchal blessings, see:
 
 * Section [18.17] of this handbook.
-* Information and Suggestions for Patriarchs.
-* Worldwide Leadership Training Meeting: The Patriarch.
+* Information and Suggestions for Patriarchs (a resource for stake presidents and patriarchs).
 
 #### 38.2.10.1 Members Who Have an Intellectual Disability
 
@@ -383,7 +384,7 @@ A member who has an intellectual disability, his or her parents or guardians (wh
 
 A patriarchal blessing can be a source of spiritual strength for a missionary. If possible, a member should receive a patriarchal blessing before beginning missionary service. When this is not possible, he or she may receive a patriarchal blessing during his or her mission. The mission president interviews the missionary and prepares a Patriarchal Blessing Recommend. Instructions are in [18.17].
 
-A missionary at a missionary training center (MTC) may receive a patriarchal blessing only when all of the following apply:
+A missionary at a missionary training center (MTC) may receive a patriarchal blessing when all of the following apply:
 
 * The missionary comes from an area where no patriarch is able to give a blessing in the missionary’s native language.
 * The missionary will serve in a mission where no patriarch is able to give a blessing in the missionary’s native language.
@@ -402,9 +403,9 @@ For more information, the stake president may contact the Office of the Quorum o
 A member normally receives a patriarchal blessing from the patriarch in his or her stake. However, a member may receive a blessing from a patriarch in another stake if he or she:
 
 * Is a direct descendant of the patriarch (child, grandchild, or great-grandchild) through birth or adoption.
-* Lives in a stake that does not have a functioning patriarch.
+* Lives in a stake that does not have an actively serving patriarch.
 * Lives in a district.
-* Does not speak the same language as the stake patriarch, and a patriarch in a nearby stake speaks the member’s language.
+* Does not speak the same language as the stake patriarch, and a patriarch in a nearby stake can provide the blessing in the member’s language.
 
 In each of these cases, a member of the bishopric or the branch president interviews the member as described in [18.17]. A member of the patriarch’s stake presidency and of the recipient’s stake or mission presidency must approve the recommend through the [Patriarchal Blessing System].
 
@@ -412,7 +413,7 @@ In each of these cases, a member of the bishopric or the branch president interv
 
 The inspiration and meaning of a patriarchal blessing is difficult to convey in translation. For this reason, members should receive their blessings in the language they understand best. The Church does not provide written translations of patriarchal blessings.
 
-Members are not encouraged to translate patriarchal blessings. However, sometimes a member needs a blessing translated into a language he or she understands. The member may find a trusted and worthy member of the Church who can provide the translation. The member should select a skilled translator who understands the spiritual nature and confidentiality of the blessing. Translated copies of blessings are not filed at Church headquarters.
+Members are not encouraged to translate patriarchal blessings. However, sometimes a member needs a blessing translated into a language he or she understands. The member may find a trusted and worthy member of the Church who can provide the translation. The member should select a competent translator who understands the spiritual nature and confidentiality of the blessing. Translated copies of blessings are not filed at Church headquarters.
 
 A stake president may request a braille transcription of a patriarchal blessing. He contacts the Office of the Quorum of the Twelve Apostles at [Q12Patriarchs@ChurchofJesusChrist.org].
 
@@ -420,13 +421,13 @@ A stake president may request a braille transcription of a patriarchal blessing.
 
 If a member is deaf or hard of hearing, his or her patriarchal blessing can be interpreted in sign language. The member identifies an interpreter. It is best if this person is a trusted and worthy member of the Church who understands the doctrinal significance of patriarchal blessings. However, when a member of the Church cannot be found, another capable person can provide the interpretation.
 
-#### 38.2.10.7 Second Patriarchal Blessings
+#### 38.2.10.7 Replacement Patriarchal Blessings
 
-In very rare circumstances, a worthy member may request a second patriarchal blessing. However, this is not encouraged, and the request might not be approved. If the member has an important reason for such a request, he or she discusses it with the bishop. If the bishop feels that a second blessing is necessary, he prepares a Patriarchal Blessing Recommend. Instructions are in [18.17].
+In very rare circumstances, a worthy member may request a replacement patriarchal blessing. However, this is not encouraged, and the request might not be approved. If the member has an important reason for such a request, he or she discusses it with the bishop. If the bishop feels that a replacement blessing is appropriate, he prepares a Patriarchal Blessing Recommend. Instructions are found in [18.17].
 
-The stake president then interviews the member and reads the original blessing with him or her. If he feels that a second blessing is necessary, he seeks approval from the Office of the Quorum of the Twelve Apostles at [Q12Patriarchs@ChurchofJesusChrist.org].
+The stake president then interviews the member and reads the original blessing with him or her. If he feels that a replacement blessing is appropriate, he seeks approval from the Office of the Quorum of the Twelve Apostles at [Q12Patriarchs@ChurchofJesusChrist.org].
 
-The stake president informs the recipient and the patriarch of the decision of the Office of the Quorum of the Twelve Apostles. If the request is approved, the stake president approves the recommend in the Patriarchal Blessing System. The stake president tells the recipient that the second blessing replaces the original blessing. The patriarch may then give a second patriarchal blessing.
+The stake president informs the recipient and the patriarch of the decision of the Office of the Quorum of the Twelve Apostles. If the request is approved, the stake president approves the recommend in the Patriarchal Blessing System. The stake president tells the recipient that the replacement blessing replaces the original blessing. The patriarch may then give a replacement patriarchal blessing.
 
 ## 38.3 Civil Marriage
 
@@ -651,7 +652,7 @@ The process for seeking a sealing cancellation or sealing clearance is outlined 
 	2. The member is current in all legal requirements for child and spousal support related to the divorce.
 5. If the stake president recommends that the sealing cancellation or sealing clearance be granted, he submits the application to Church headquarters using [LCR]. See [6.2.3] about the stake president’s responsibility when submitting applications to the First Presidency.
 6. If the request is approved, the First Presidency provides a letter stating that the sealing cancellation or sealing clearance has been granted.
-7. After receiving the letter, the member may schedule an appointment for a temple sealing. The member presents the letter at the temple.
+7. After approval is granted, the member may schedule an appointment for a temple sealing.
 
 See [38.4.1.9].
 
@@ -666,7 +667,8 @@ A couple may seek approval after they have been married for at least five years.
 3. The couple also writes a letter of request to the First Presidency.
 4. The stake president submits all of these letters to the First Presidency. He may submit the request with an application for a sealing cancellation or sealing clearance (see [38.4.1.5]).
 5. If the request is approved, the First Presidency provides a letter stating that the restriction against temple sealing has been removed.
-6. After receiving the letter, the couple may schedule an appointment to be sealed. They present the letter at the temple.
+
+After approval is granted, the couple may schedule an appointment to be sealed.
 
 #### 38.4.1.7 Sealing after Temple Marriage for Time Only
 
@@ -688,11 +690,17 @@ Before a deceased man may be sealed to a deceased woman to whom he was married i
 
 _Deceased Couples Who Were Divorced._ Deceased couples who were divorced may be sealed by proxy so their children can be sealed to them. See [28.3.5] if either the husband or wife had Church membership withdrawn or had resigned membership.
 
+If either deceased person has a surviving spouse, that spouse must give written consent.
+
 First Presidency approval is required before sealing a deceased couple who obtained a cancellation of their sealing in life.
+
+_Deceased Couples Who Cohabited but Were Not Married to Each Other._ A deceased couple may be sealed to each other if they lived together as though they were husband and wife, even if no marriage can be documented. If either deceased person has a surviving spouse, that spouse must give written consent.
+
+These sealings are generally done so that a couple’s children can receive the blessing of being sealed to them.
 
 #### 38.4.1.9 Effects of Divorce
 
-If a couple was sealed and later divorced, the blessings of that sealing remain in effect for individuals who are worthy (see [38.4.1.5] and [38.4.1.10]). A member who remains faithful to temple covenants will receive the personal blessings promised in the temple, even if the person’s spouse has broken the covenants or withdrawn from the marriage. God promises His faithful sons and daughters peace and strength in this life and eternal life in the world to come.
+If a couple was sealed and later divorced, the blessings of that sealing remain in effect for individuals who are worthy (see [38.4.1.5] and [38.4.1.10]). A member who remains faithful to temple covenants will receive the personal blessings promised in the temple. This is true even if the person’s spouse has broken the covenants or withdrawn from the marriage.
 
 See [38.4.2.1] for information about children who are born after a divorce.
 
@@ -700,7 +708,7 @@ See [38.4.2.1] for information about children who are born after a divorce.
 
 While a sealing remains in place, a member who is faithful to temple covenants will receive the personal blessings promised in the temple. This is true even if the person’s spouse has broken the covenants or withdrawn from the marriage. Moreover, God will not require anyone to remain in a sealed relationship throughout eternity against his or her will. Heavenly Father will ensure that each person receives every blessing that his or her desires and choices allow.
 
-Once a sealing cancellation has been granted by the First Presidency, the blessings related to that sealing are no longer in force.
+Once a sealing cancellation has been granted by the First Presidency, the covenants and blessings related to that sealing are no longer in force. See [38.4.2.8] for information on the status of the couple’s children when a sealing is canceled.
 
 Any children born to a woman after her sealing to a former husband has been canceled are not born in the covenant unless the mother was sealed to another man before the child’s birth.
 
@@ -740,7 +748,7 @@ _Sealing living children to living parents._ A living child is sealed to only tw
 
 See [27.4.1] for information about issuing temple recommends for children being sealed to their parents.
 
-Members who are 21 or older must be endowed to be sealed to their parents (see [26.4.4]).
+Members who are 21 or older must be endowed to be sealed to their parents (see [27.4.1] and [27.4.5]).
 
 _Sealing living children to deceased parents._ A living child is sealed to only one set of parents. The parents must be sealed to each other before children are sealed to them.
 
@@ -755,7 +763,7 @@ The following table shows sealing options available to a person whose parents di
 
 See [27.4.1] for information about issuing temple recommends for children being sealed to their parents.
 
-Members who are 21 or older must be endowed to be sealed to their parents (see [26.4.4]).
+Members who are 21 or older must be endowed to be sealed to their parents (see [27.4.1] and [27.4.5]).
 
 _Sealing deceased children to parents (living or deceased)._ A deceased person is usually sealed to his or her birth or adoptive parents. However, a deceased child may also be sealed to:
 
@@ -770,7 +778,11 @@ These sealings may be done even if a deceased child is already sealed to his or 
 
 Living children who are born in the covenant or have been sealed to parents cannot be sealed to any other parents without First Presidency approval.
 
-Living children who are legally adopted and were neither born in the covenant nor sealed to former parents may be sealed to their adoptive parents after the adoption is final. A copy of the final adoption decree should be presented at the temple. A court decree granting legal custody is not sufficient clearance for a sealing. There is no obligation to identify the natural parents of these children.
+Living children who are legally adopted and were neither born in the covenant nor sealed to former parents may be sealed to their adoptive parents after the adoption is final.
+
+Living minor children and adult children who are not accountable due to intellectual disabilities must have a final adoption decree to be sealed to their adoptive parents. The parents present the decree to the bishop when verifying information through Ordinance Preparation in [LCR] (see [27.1.2]). A court decree granting legal custody is not sufficient. There is no obligation to identify the natural parents of these children.
+
+Living adult children who are accountable do not need a formal adoption decree to be sealed to their adoptive parents. Members verify the adoption through Ordinance Preparation in [LCR] (see [27.1.2]).
 
 First Presidency approval is needed for a living member to be sealed to foster parents. This requirement applies even if the natural parents of the foster child are unknown. Such requests are made by the stake president using [LCR] (see [6.2.3]).
 
@@ -782,7 +794,7 @@ A deceased foster child is usually sealed to his or her natural parents.
 
 #### 38.4.2.5 Sealing of Living Children to One Natural Parent and a Stepparent
 
-_Minor children and children who are not accountable._ Living minor children and children who are not accountable due to intellectual disabilities may be sealed to one natural parent and a stepparent only if all the following conditions are met:
+_Minor children and adult children who are not accountable._ Living minor children and adult children who are not accountable due to intellectual disabilities may be sealed to one natural parent and a stepparent only if all the following conditions are met:
 
 * The child was not born in the covenant or sealed previously.
 * The child has not been adopted by another parent.
@@ -790,7 +802,7 @@ _Minor children and children who are not accountable._ Living minor children and
 
 “I, [name of natural parent], give permission for [name of child or children] to be sealed in the temple to [name of parents]. I understand that the sealing is a religious ceremony and does not have legal implications.”
 
-This letter is presented at the temple before the sealing.
+This letter is reviewed when verifying information through Ordinance Preparation in [LCR] before the sealing (see [27.1.2]).
 
 If the other natural parent is deceased or if his or her parental rights have been fully terminated by legal process, no consent is required. Likewise, no consent is required if the child is considered an adult in the jurisdiction where he or she lives.
 
@@ -800,7 +812,7 @@ _Adult children._ A living adult member may be sealed to one natural parent and 
 
 Members who are 21 or older must be endowed before being sealed to a natural parent and a stepparent.
 
-Married members who are younger than 21 do not need to be endowed to be sealed to a natural parent and a stepparent. However, they must have a current temple recommend to be sealed to parents (see [26.4.4]).
+Married members who are younger than 21 do not need to be endowed to be sealed to a natural parent and a stepparent. However, they must have a current temple recommend to be sealed to parents (see [27.4.1] and [27.4.5]).
 
 See [27.4.1] for information about issuing temple recommends for children being sealed to their parents.
 
@@ -825,7 +837,9 @@ Children who are born after their parents’ sealing is canceled or withdrawn ar
 
 ### 38.5.1 Temple Clothing
 
-During the endowment and sealing ordinances in the temple, Church members wear white clothing. Women wear the following white clothing: a long-sleeve or three-quarter-sleeve dress (or a skirt and long-sleeve or three-quarter-sleeve blouse), socks or hosiery, and shoes or slippers.
+During the endowment and sealing ordinances in the temple, Church members wear white clothing.
+
+Women wear the following white clothing: a long-sleeve or three-quarter-sleeve dress (or a skirt and a long-sleeve or three-quarter-sleeve blouse) and shoes or slippers.
 
 Men wear the following white clothing: a long-sleeve shirt, necktie or bow tie, pants, socks, and shoes or slippers.
 
@@ -841,6 +855,8 @@ Some temples have clothing available for rent. If a temple does not have rental 
 
 Temples maintain a limited supply of temple clothing that full-time missionaries may use. There is no rental charge while they are in missionary training centers and when they are authorized to participate in temple ordinances while serving in the mission field. If needed, this clothing may be used by missionaries receiving their own endowment.
 
+Members may not make ceremonial temple clothing or temple garments.
+
 The garment is available in a variety of fabrics and styles, including for women who are pregnant or nursing ([store.ChurchofJesusChrist.org]).
 
 Members who need garments in a size that is not offered may contact a clothing consultant to place a special order. Contact information is available at [store.ChurchofJesusChrist.org/contactus].
@@ -849,13 +865,15 @@ For information about trying on garments before purchasing them, see [store.Chur
 
 ### 38.5.3 Garments and Temple Clothing for Members Who Have Disabilities or Allergies
 
-Special-order garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Garments and Sacred Clothing],” store.ChurchofJesusChrist.org).
+Special-order garments may be purchased for members who are bedridden, have severe physical disabilities, or have allergies to certain fabrics or garments (see “[Obtaining Special-Order Temple Garments and Ceremonial Clothing],” [ChurchofJesusChrist.org/tools/help]).
 
-Shorter temple robes are available for members who are in wheelchairs or who have other needs (see [store.ChurchofJesusChrist.org]).
+Members who have physical needs or disabilities that require modification to their ceremonial clothing may make a request at [store.ChurchofJesusChrist.org/contactus]. For example, shorter temple robes are available for members who are in wheelchairs or who have other needs.
 
-### 38.5.4 Making Temple Clothing
+### 38.5.4 Modifying Ceremonial Temple Clothing
 
-Members should not make ceremonial temple clothing or temple garments.
+Temple ceremonial clothing should not be altered from its authorized design. Members may repair their clothing if doing so does not alter the original design. They may also use a pin or other fastener to secure portions of the clothing as needed.
+
+For information about ordering ceremonial clothing for members who have physical needs or disabilities, see [38.5.3].
 
 ### 38.5.5 Wearing the Garment
 
@@ -869,7 +887,7 @@ Members should not modify or alter the garment to accommodate different styles o
 
 Members should not inappropriately display the garment to those who do not understand its significance.
 
-See [26.3.3].
+See [26.4].
 
 ### 38.5.6 Caring for the Garment
 
@@ -890,13 +908,13 @@ When possible, these members should wear the garment the same as any other membe
 
 Sometimes service regulations prevent a member from wearing the garment. In these cases, the member’s religious status is not affected. The Lord focuses on the heart and a willing mind (see [Doctrine and Covenants 64:34]). As long as the member remains worthy, he or she will still receive the blessings associated with wearing the garment. If members are unable to wear the garment, they should wear it again as soon as circumstances allow.
 
-Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided in [Garment Guidelines for Military, Law Enforcement, and Firefighters].
+Members in these organizations should consult with their individual services on specific requirements that undergarments must meet, such as color or neckline style. These members may send organization-approved apparel that meets garment guidelines to Beehive Clothing to be marked as authorized garments. Guidelines and additional instructions are provided on the [Garment Guidelines for Military, Law Enforcement, and Firefighters] order form.
 
 ### 38.5.8 Medical Conditions That May Prevent Members from Wearing the Garment
 
 When possible, members with medical conditions should wear the garment the same as any other member.
 
-Special-order garments may be purchased for members who have medical conditions or use medical devices. Members who need special-order garments may contact a clothing consultant to place an order. Contact information is available at [store.ChurchofJesusChrist.org/contactus].
+[Special-order garments] may be purchased for members who have medical conditions or use medical devices. Members who need special-order garments may contact a clothing consultant to place an order. Contact information is available at [ChurchofJesusChrist.org/tools/help].
 
 Some medical conditions or medical devices may make it difficult for members to wear one or both parts of the garment. Members should seek the guidance of the Spirit in such situations. In some cases, it may be best to lay the garment aside temporarily and wear it again when conditions allow.
 
@@ -942,19 +960,19 @@ A few policies in this section are about matters that the Church “discourages.
 
 ### 38.6.1 Abortion
 
-The Lord commanded, “Thou shalt not … kill, nor do anything like unto it” ([Doctrine and Covenants 59:6]). The Church opposes elective abortion for personal or social convenience. Members must not submit to, perform, arrange for, pay for, consent to, or encourage an abortion. The only possible exceptions are when:
+Human life is a sacred gift from God and central to His divine plan for the spiritual progression of His children (see [Moses 1:39]; [Abraham 3:23–26]). Elective abortion for personal or social convenience is contrary to God’s plan and His commandments. The Lord declared, “Thou shalt not … kill, nor do anything like unto it” ([Doctrine and Covenants 59:6]). Members must not submit to, perform, arrange for, pay for, consent to, or encourage an abortion. The only possible exceptions are when:
 
-* Pregnancy resulted from forcible rape or incest.
+* Pregnancy resulted from rape or incest.
 * A competent physician determines that the life or health of the mother is in serious jeopardy.
 * A competent physician determines that the fetus has severe defects that will not allow the baby to survive beyond birth.
 
-Even these exceptions do not automatically justify abortion. Abortion is a most serious matter. It should be considered only after the persons responsible have received confirmation through prayer. Members may counsel with their bishops as part of this process.
+Abortion is a most serious matter. Even in these circumstances, members should approach a decision with prayerful deliberation. Members may counsel with their bishops as part of this process. Discussions with members on this subject should always be conducted with love and respect.
 
 Presiding officers carefully review the circumstances if a Church member has been involved in an abortion. A membership council may be necessary if a member submits to, performs, arranges for, pays for, consents to, or encourages an abortion (see [32.6.2.5]). However, a membership council should not be considered if a member was involved in an abortion before baptism. Nor should membership councils or restrictions be considered for members who were involved in an abortion for any of the three reasons outlined earlier in this section.
 
-Bishops refer questions on specific cases to the stake president. The stake president may direct questions to the Office of the First Presidency if necessary.
+A person who seeks forgiveness with “godly sorrow” ([2 Corinthians 7:10]; see also [3 Nephi 9:20]) and “full purpose of heart” ([3 Nephi 18:32]) may repent and be forgiven for the sin of abortion.
 
-As far as has been revealed, a person may repent and be forgiven for the sin of abortion.
+Bishops refer questions on specific cases to the stake president. The stake president may direct questions to the Office of the First Presidency if necessary.
 
 ### 38.6.2 Abuse
 
@@ -1310,7 +1328,7 @@ The ordinances of salvation and exaltation are received according to a person’
 
 * Baptism and confirmation (see [38.2.8.9])
 * Priesthood ordination (see [38.2.9.9])
-* Temple ordinances (see [26.5.7])
+* Temple ordinances (see [26.5.6])
 
 Worthy individuals who do not pursue surgical, medical, or social transition away from their biological sex at birth may enjoy all the privileges of Church membership.
 
@@ -1819,7 +1837,7 @@ The bishopric or stake presidency may call a ward or stake disability specialist
 
 Leaders may also identify appropriate community resources that could help individuals who have disabilities and their families.
 
-For more information on assisting persons who have disabilities, see [disability.ChurchofJesusChrist.org]. Leaders may also contact Family Services (where available; see [31.3.6] for contact information).
+For more information on assisting persons who have disabilities, see disability.ChurchofJesusChrist.org. Leaders may also contact Family Services (where available; see [31.3.6] for contact information).
 
 Leaders and members should not attempt to explain why someone has a disability or why a family has a child with a disability. They should not suggest that a disability is a punishment from God (see [John 9:2–3]) or a special privilege.
 
@@ -1833,7 +1851,7 @@ Many members with disabilities can serve in nearly any Church assignment. Leader
 
 When considering Church assignments or callings for caregivers of people with disabilities, leaders carefully evaluate the circumstances of the caregivers.
 
-Leaders and teachers should include members with disabilities in meetings, classes, and activities as fully as possible. Lessons, talks, and teaching methods should be adapted to meet each person’s needs. For information about adapting lessons, see [disability.ChurchofJesusChrist.org].
+Leaders and teachers should include members with disabilities in meetings, classes, and activities as fully as possible. Lessons, talks, and teaching methods should be adapted to meet each person’s needs. For information about adapting lessons, see disability.ChurchofJesusChrist.org.
 
 The bishopric may invite a ward member to help a person with a disability in a meeting or activity. For a class that includes a member with disabilities, the bishopric may call multiple teachers. The teachers work together to meet the needs of all class members.
 
@@ -1905,7 +1923,7 @@ Leaders should respect the privacy of members with disabilities both during and 
 
 Bishops and stake presidents may determine whether to allow persons with disabilities to use trained service dogs in meetinghouses. Other types of animals, including emotional support animals (comfort pets), are generally not permitted in meetinghouses or at Church-sponsored events, except as specifically required by law. (In general in the United States, the Church is under no legal obligation to admit service dogs or emotional support animals to houses of worship.) Bishops and stake presidents make local decisions. They take into account the needs of persons with disabilities and the needs of others in the congregation.
 
-For additional guidelines on the use of service animals in Church facilities, see [27.1.3] and [disability.ChurchofJesusChrist.org].
+For additional guidelines on the use of service animals in Church facilities, see [27.1.3] and disability.ChurchofJesusChrist.org.
 
 #### 38.8.27.9 Disability Specialist
 
@@ -1923,7 +1941,7 @@ The specialist can help members with disabilities and their caregivers share inf
 
 #### 38.8.27.10 Resources
 
-Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at [disability.ChurchofJesusChrist.org]. This website provides:
+Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at disability.ChurchofJesusChrist.org. This website provides:
 
 * Information to help increase understanding of the challenges faced by those who have disabilities.
 * Resources to help members who have disabilities and their families find comfort in the gospel of Jesus Christ.
@@ -2101,7 +2119,7 @@ If an accident occurs, the operations manager reports it to the following:
 
 ### 38.8.40 Scriptures
 
-#### 38.8.40.1 Editions of the Holy Bible
+#### 38.8.40.1 Editions and translations of the Holy Bible
 
 The Church identifies editions of the Bible that align well with the Lord’s doctrine in the Book of Mormon and modern revelation (see [Articles of Faith 1:8]). A preferred edition of the Bible is then chosen for many languages spoken by Church members.
 
@@ -2113,7 +2131,7 @@ In some languages, the Church publishes its own edition of the Bible. Church-pub
 
 Church-published editions of the Bible include footnotes, subject indexes, and other study aids.
 
-When possible, members should use a preferred or Church-published edition of the Bible in Church classes and meetings. This helps maintain clarity in the discussion and consistent understanding of doctrine. Other editions of the Bible may be useful for personal or academic study.
+Generally, members should use a preferred or Church-published edition of the Bible in Church classes and meetings. This helps maintain clarity in discussions and consistent understanding of doctrine. Other Bible translations may also be used. Some individuals may benefit from translations that are doctrinally clear and also easier to understand. Examples of such translations can be found in the Church’s [Holy Bible list]. When members encounter doctrinal discrepancies between Bible translations, they should refer to the Book of Mormon, Doctrine and Covenants, Pearl of Great Price, and teachings of latter-day prophets.
 
 #### 38.8.40.2 Scripture Translation
 
@@ -2121,9 +2139,11 @@ The Lord directed His prophets and apostles to preserve the scriptures in safety
 
 Area Presidencies submit official requests for new translations of the scriptures to the Church Correlation Department.
 
-#### 38.8.40.3 Modern-Language Scriptures
+Any other efforts to translate scripture text are not authorized. This policy applies to translations accomplished by traditional methods, artificial intelligence, or other means.
 
-The Council of the First Presidency and Quorum of the Twelve Apostles has not authorized efforts to translate or rewrite scripture text into modern or informal language. This counsel does not apply to Church publications for children.
+#### 38.8.40.3 Simplified or Modernized Scriptures
+
+The Church publishes simplified scripture stories intended for children. The Council of the First Presidency and Quorum of the Twelve Apostles has not authorized any other efforts to update or rewrite scripture text into modern or informal language. This policy applies to efforts accomplished by traditional methods, artificial intelligence, or other means.
 
 #### 38.8.40.4 Accessing Scriptures
 
@@ -2173,6 +2193,43 @@ A Church membership council is required if a member is convicted of a felony for
 ### 38.8.46 Travel Policies
 
 A man and a woman should not travel alone together for Church activities, meetings, or assignments unless they are married to each other or are both single. For other travel policies, see [20.7.7].
+
+### 38.8.47 Appropriate Use of Artificial Intelligence
+
+Artificial Intelligence (AI) presents opportunities and risks, and is continuously changing. AI can enhance learning, facilitate communication, and foster innovation. However, AI cannot substitute for the individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others.
+
+AI should be used responsibly. Church members should not use AI to create or disseminate anything that is false, misleading, illegal, or harmful. They should verify AI-generated output for accuracy.
+
+#### 38.8.47.1 Learning and Teaching
+
+AI cannot replace the gift of divine inspiration or the individual work required to receive it. However, AI can be a useful tool to enhance learning and teaching.
+
+Jesus Christ taught with power and authority (see [Matthew 7:28–29]). He sought divine direction from His Father. He relied on the scriptures (see [Matthew 4:3–10]) and prayer (see [Luke 6:12]). He lived and taught only those things He learned from His Father (see [John 8:28]; [12:49–50]).
+
+Church members teach the gospel of Jesus Christ from the scriptures and the words of the living prophets as guided by the Holy Ghost (see [Doctrine and Covenants 42:11–17]; [52:9]). As they seek learning by study, faith, and prayer (see [Doctrine and Covenants 84:85]; [88:118]), they invite the Spirit to inspire their minds and hearts (see [Doctrine and Covenants 8:2–3]; [11:12–14]). Through personal effort and the gift of revelation, they can teach God’s word by the power of the Spirit (see [Alma 17:2–3]; [Doctrine and Covenants 50:17–22]).
+
+#### 38.8.47.2 Relationships with God and Others
+
+Interactions with AI cannot substitute for meaningful relationships with God and others.
+
+Jesus Christ had a personal and sacred relationship with His Father (see [Matthew 3:17]; [John 17]). He prayed to His Father (see [Matthew 6:9–13]), learned from Him (see [John 8:28]), and fulfilled His will (see [3 Nephi 27:13]).
+
+Jesus also had meaningful relationships with others (see [Luke 2:52]). He listened to and talked with them, understood their needs, and ministered to them (see [John 4:5–30]; [Luke 24:13–35]).
+
+Church members are encouraged to follow the Savior’s example by developing genuine relationships with God and others. This requires humility, consistent effort, and patience.
+
+#### 38.8.47.3 Callings and Assignments
+
+Leaders and members seek divine inspiration to fulfill their callings and assignments. When used appropriately, AI can be an effective tool to assist them in their duties.
+
+The following principles should guide leaders and members in the appropriate use of AI in their Church responsibilities:
+
+* If members use AI, they should do so in positive, helpful, and uplifting ways that uphold the integrity, standards, and teachings of the Church.
+* AI cannot replace the individual work and spiritual guidance required to prepare divinely inspired talks, lessons, prayers, or blessings. However, AI can be helpful for research, editing, translation, and similar tasks.
+* Leaders should not rely upon AI to provide advice to members on medical, financial, legal, or other sensitive matters. If members need assistance beyond the spiritual guidance provided by Church leaders, competent professionals may be helpful (see [31.3.6]).
+* Sensitive information, such as Church records, personal member data, or confidential communications, should not be entered into AI tools that are not provided or managed by the Church.
+
+For more information, see [ChurchofJesusChrist.org/AI].
 
 ## 38.9 Military Relations and Chaplain Services
 
@@ -2319,7 +2376,7 @@ For information about patriarchal blessings for service members, see [38.2.10.3]
 
 For information about ordaining service members in isolated locations, see [38.2.9.6].
 
-For information about issuing temple recommends in isolated locations, see [26.3.2].
+For information about issuing temple recommends in isolated locations, see [26.3.4].
 
 If Church leaders have questions about military relations, they may contact:
 

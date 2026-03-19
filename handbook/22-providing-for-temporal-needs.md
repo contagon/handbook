@@ -150,13 +150,15 @@ Members strive to meet their basic needs through their own efforts and help from
 
 Church assistance might include help with short-term needs such as food, clothing, housing, or other basics. Bishops may use fast offerings to respond to these needs. [[AO]] Where bishops’ orders are available, bishops generally use those to provide food and other basic goods (see “[Bishops’ Orders and Referrals]” in Leader and Clerk Resources [LCR]).
 
+Members who receive assistance work with leaders to develop a [Self-Reliance Plan]. When meeting with members, bishops should be attentive to any urgent needs.
+
 When providing Church assistance, leaders follow the principles and policies outlined in sections [22.4] and [22.5].
 
-### 22.3.3 Help Members Build Long-Term Self-Reliance
+### 22.3.3 Help Members Build Self-Reliance
 
 Members may need ongoing support to address longer-term challenges. Education, vocational training, or other resources can help them build self-reliance and provide for their longer-term needs. Relief Society and elders quorum leaders, ministering brothers and sisters, and others can help members gain access to these resources.
 
-The [Self-Reliance Plan] helps members identify their strengths, needs, and resources. This plan should be used each time Church assistance is considered. The bishop may assign Relief Society leaders, elders quorum leaders, ministering brothers and sisters, or others to help members fill out the plan.
+The [Self-Reliance Plan] helps members identify their strengths, needs, and resources. This plan is used with all members who receive Church assistance. The bishop may assign Relief Society leaders, elders quorum leaders, ministering brothers and sisters, or others to help members fill out the plan.
 
 As part of a self-reliance plan, leaders may recommend that members participate in a [self-reliance group]. These groups help them develop skills and resources for better education, employment, or financial management (see [22.13]). The groups are generally organized by stake or ward councils (see [22.10.2], [22.7]).
 
@@ -195,8 +197,6 @@ When providing Church assistance, leaders follow the principles in sections [22.
 Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
 
 22:58
-
-Sacred Funds, Sacred Responsibilities
 
 Principles for Providing Church Assistance
 
@@ -248,7 +248,9 @@ Church leaders should follow the policies outlined in this section when providin
 
 #### 22.5.1.1 Assistance to Ward Members
 
-Generally, members who receive Church assistance should live in the ward boundaries and have their membership record in the ward. Assistance can be given regardless of whether the member regularly attends Church meetings or follows Church standards.
+Generally, members who receive Church assistance should live in the ward boundaries and have their membership record in the ward.
+
+Members receiving Church assistance should be making efforts to progress both temporally and spiritually. However, temporary assistance can be provided even if members do not yet attend Church meetings or follow Church standards.
 
 If a member recently moved into the ward, the bishop contacts the previous bishop to discuss the person’s situation before providing assistance. Bishops can also review any assistance given during the previous three years in the “[Finance]” section of [LCR].
 
