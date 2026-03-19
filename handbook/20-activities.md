@@ -170,7 +170,7 @@ Youth can also learn leadership skills as they help plan youth conferences.
 
 Ward youth conferences are planned and carried out by the ward youth council, under the direction of the bishopric (see [29.2.6]). The bishopric obtains the stake presidency’s approval of plans for a ward youth conference.
 
-Stake youth conferences are planned and carried out by the stake youth leadership committee (see [29.3.10]). Youth should be invited to assist the committee as much as possible.
+Stake youth conferences are planned and carried out by the stake youth leadership committee (see [29.3.9]). Youth should be invited to assist the committee as much as possible.
 
 Youth conferences are funded from the stake or ward budget. Members should not be asked to pay for youth conferences (see [20.6]).
 
@@ -195,7 +195,7 @@ Activities held for any commercial or political purpose are not permitted (see [
 
 ### 20.5.2 Dances and Music
 
-In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see the For the Strength of Youth booklet).
+In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see [For the Strength of Youth: A Guide for Making Choices]).
 
 Leaders use the [Performance Contract] form when hiring a band, orchestra, or disc jockey. This contract helps ensure that conduct and music are appropriate for Church dances. Leaders make clear agreements in writing that commit those who provide music to follow Church standards at Church activities.
 
@@ -225,9 +225,9 @@ Church overnight activities for combined groups of young men and young women mus
 
 Male and female participants and leaders should have separate sleeping accommodations. However, a married couple may share the same room or tent. Each youth should have his or her own bed or sleeping bag.
 
-In most cases, a youth may not stay in the same tent or room as an adult unless the adult is his or her parent or guardian. An exception may be made if there are at least two adults in the tent or room who are the same sex as the youth.
+If adult leaders and youth share overnight facilities, such as a cabin or tent, there must be at least two adults in each facility, and they must be the same sex as the youth.
 
-If adult leaders and youth share other overnight facilities, such as a cabin, there must be at least two adults in each facility, and they must be the same sex as the youth.
+Youth may not stay in the same tent or room as an adult if there is only one adult present. However, a youth may stay alone in a tent or room with his or her parent or guardian.
 
 All Church overnight activities must include at least two adult leaders.
 
@@ -470,9 +470,9 @@ In some cases, the stake president or bishop may have questions about safety iss
 
 ### 20.7.7 Travel
 
-Travel for Church activities should be approved by the bishop or stake president. This travel should not place undue burdens on members. Long-distance travel for activities is discouraged.
+Travel for Church activities should be approved by the bishop or stake president. This travel should not place undue burdens on members.
 
-In some exceptional situations, a stake president or bishop may feel that long-distance travel for an activity is justified. He prayerfully considers the potential spiritual benefits of the activity, the cost, and the effect on families. If he approves such travel, members should not provide it at their own expense.
+Participants should not travel long distances (more than a few hours) for activities. Any exceptions require approval from the Area Presidency. If the Area Presidency approves such travel, members should not provide it at their own expense (see [20.6]).
 
 Travel practices and the application of guidelines in this section should be consistent among units in the same area or coordinating council. Stake presidents may discuss and agree on travel practices during coordinating council meetings.
 

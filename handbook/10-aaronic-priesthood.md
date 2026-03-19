@@ -96,7 +96,7 @@ Aaronic Priesthood quorums meet on Sundays to strengthen faith, build unity, str
 
 Quorum meetings are held on the second and fourth Sundays of the month. They last 50 minutes. Meetings begin with a prayer. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts. He leads the quorum in reciting the theme and counseling together about assignments, duties, and other matters.
 
-A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]). Meetings should end with a prayer.
+A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in [Come, Follow Me]. Meetings should end with a prayer.
 
 Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5]). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
@@ -121,7 +121,7 @@ _Annual Activities._ In addition to regular youth activities, young men may also
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young men turning 12 during the year may receive their emblems of belonging during this meeting (see [10.8.3]). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
 * An Aaronic Priesthood quorum camp (see [Aaronic Priesthood Quorum Camp Guide]). Young men may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 * [[AO]] A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org]. For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org] (for the U.S. and Canada) or the [FSY Planning Guide] (for all other areas).
-* At least one activity emphasizing the standards in [For the Strength of Youth]. This event could include both young men and young women. Parents may also be invited.
+* At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices]. This event could include both young men and young women. Parents may also be invited.
 
 _Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
 
@@ -167,7 +167,7 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 * Provide opportunities to serve in the Church.
 * Provide opportunities to teach the gospel in quorum meetings and other settings.
 
-As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and [Preach My Gospel]. This class is not held during regular Sunday meetings.
+As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ]. This class is not held during regular Sunday meetings.
 
 [[AO]] [Missionary.ChurchofJesusChrist.org] provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23] and [24] for more information.
 
@@ -187,7 +187,7 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 
 ## 10.3 Bishopric
 
-The bishopric is the presidency of the Aaronic Priesthood in the ward (see [Doctrine and Covenants 107:13–15]). They direct the work of Aaronic Priesthood quorums. The bishop’s foremost responsibility is to care for the young men and young women in his ward. He learns their names and understands their home circumstances. He attends their activities and Sunday meetings regularly.
+The bishopric is the presidency of the Aaronic Priesthood in the ward (see [Doctrine and Covenants 107:13–15]). They direct the work of Aaronic Priesthood quorums. The bishop’s foremost responsibility is to care for the [rising generation] in his ward. He learns their names and understands their home circumstances. He attends their activities and Sunday meetings regularly.
 
 The bishop is the president of the priests quorum. His duty “is to preside over [the] priests, and sit in council with them, to teach them the duties of their office” ([Doctrine and Covenants 107:87]).
 
@@ -226,7 +226,7 @@ Aaronic Priesthood quorum presidents, including the bishop, have the following r
 * Lead the quorum’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1]).
 * Get to know and serve each quorum member, including those who do not attend quorum meetings. Be aware of their needs and circumstances.
 * Serve on the ward youth council (see [10.4.4]).
-* Participate in ward efforts to share the gospel and strengthen new and returning members. An assistant in the priests quorum attends coordination meetings (see [23.5.7]).
+* Participate in ward efforts to share the gospel and strengthen new and returning members. An assistant in the priests quorum attends coordination meetings (see [23.4]).
 * Participate in ward temple and family history efforts. An assistant in the priests quorum attends coordination meetings (see [25.2.7]).
 * Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:85–88]). Support them in fulfilling those duties.
 * Plan and conduct quorum meetings (see [10.2.1.2]).
@@ -269,7 +269,7 @@ A member of the bishopric calls and sets apart men to be Aaronic Priesthood quor
 
 [[AO]] The bishopric may also call quorum specialists to assist with a particular event, such as a camp, a youth conference, or sports.
 
-At least two responsible adult men should be present at each quorum meeting and activity. Having advisers and specialists present makes it possible for bishopric members to also visit Young Women and Primary classes and activities. Advisers and specialists must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [10.8.1]).
+At least two responsible adult men should be present at each quorum meeting and activity. Having advisers and specialists present makes it possible for bishopric members to also visit Young Women and Primary classes and activities. Advisers and specialists must complete the training at [ProtectingChildren.ChurchofJesusChrist.org] (see [10.8.1]).
 
 ## 10.6 Helping Young Men Prepare to Receive the Melchizedek Priesthood
 
@@ -286,7 +286,7 @@ Those who receive the Melchizedek Priesthood should strive to understand:
 * The purposes of priesthood ordinances and blessings and how to perform them (see [chapter 18]).
 * How men and women work together to help accomplish God’s work.
 
-[[AO]] For information about these topics, see “[Melchizedek Priesthood],” “[Priesthood],” and “[Women in the Church]” (Gospel Topics, topics.ChurchofJesusChrist.org).
+[[AO]] For information about these topics, see “[Melchizedek Priesthood],” “[Priesthood],” and “[Women in the Church]” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 The elders quorum presidency and ministering brothers can help provide this instruction. It may occur individually in young men’s homes or in a class held outside of regular Sunday meetings.
 
@@ -294,7 +294,7 @@ The elders quorum presidency and ministering brothers can help provide this inst
 
 The stake presidency calls and sets apart a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may be called and set apart to serve as his counselors. Or, if a stake is large enough, other Melchizedek Priesthood holders from the stake may be called as counselors. (See [6.5].)
 
-The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.10]). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
+The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.9]). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
 
 A brother from the membership of the stake may be called as the stake Young Men secretary.
 

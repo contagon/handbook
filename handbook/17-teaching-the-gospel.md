@@ -18,7 +18,7 @@ To inspire people to have faith in Jesus Christ, teachers must teach by the Spir
 
 ### 17.1.3 Teach the Doctrine
 
-The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current Instructions for Curriculum on ChurchofJesusChrist.org.
+The Savior taught His Father’s doctrine. Following the Savior’s example, teachers focus on the essential, saving truths of the gospel. They teach using the scriptures, the teachings of latter-day prophets, and approved curriculum materials. Teachers lead inspired discussions and ensure that their teaching is edifying and doctrinally sound. Approved materials are listed in the current [Instructions for Curriculum] on ChurchofJesusChrist.org.
 
 ### 17.1.4 Invite Diligent Learning
 
@@ -28,7 +28,7 @@ Teachers encourage members to be responsible for their own learning. They suppor
 
 To become converted to the Lord Jesus Christ, each member of the Church is responsible to learn the gospel for himself or herself. In addition, parents are responsible to teach the gospel to their children. Gospel learning and teaching should be centered in the home. Church leaders and teachers encourage and support home-centered gospel learning and teaching.
 
-Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me—For Individuals and Families] and [Church magazines].
+Leaders and teachers encourage members to seek their own inspiration about how to study and teach the gospel. Their main resources should be the scriptures and general conference messages. Supporting resources can include [Come, Follow Me] and [Church magazines].
 
 ## 17.3 Leaders’ Responsibilities
 
@@ -38,7 +38,7 @@ Leaders are responsible for teaching and learning in their organizations. Some o
 * Ensure that the teaching in their organizations builds faith and is doctrinally correct.
 * If leaders are members of the ward council, discuss with other council members how to improve gospel learning and teaching in the ward. The bishop may invite the Sunday School president to lead these discussions.
 * As needed, recommend names to the bishopric of ward members to call as teachers in their organizations, following the guidelines in [30.1].
-* Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, [38]).
+* Meet with newly called teachers and help them prepare for their callings (see Teaching in the Savior’s Way, [40]).
 * Give ongoing support to the teachers in their organizations. Talk to the teachers regularly about their efforts to build faith in the people they teach. If needed, ask the Sunday School president for help.
 
 ## 17.4 Teacher Council Meetings
@@ -56,8 +56,18 @@ The Primary presidency counsels with a member of the bishopric to determine how 
 * Separate teacher council meetings could be held for Primary teachers. These meetings could be held during the 20-minute Primary singing time. As an alternative, they could be held before or after regular Sunday meetings or on another day during the week.
 * Members of the Primary presidency could visit Primary classes and counsel with teachers afterward about teaching in the Savior’s way.
 
-The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during the 50-minute class time on Sunday.
-
 The ward council oversees and schedules teacher council meetings. The Sunday School president usually leads the meetings. However, the bishopric may ask another member to lead them.
 
-For more information, see Teaching in the Savior’s Way, [3], or teaching.ChurchofJesusChrist.org.
+For more information, see “[Teacher Council Meetings]” in Teaching in the Savior’s Way (pages 38–39).
+
+## 17.5 Teacher Council Meetings for Parents
+
+The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during the 50-minute class time on Sunday.
+
+In these meetings, parents counsel together about how to apply principles of Christlike teaching as they teach their children. They use [Teaching in the Savior’s Way] as a resource, including the section titled “[Home and Family]” (pages 30–31). They can also discuss the teaching and scripture study suggestions in Come, Follow Me, such as the section titled “[Preparing Your Children for a Lifetime on God’s Covenant Path].”
+
+The ward council oversees and schedules teacher council meetings for parents. They determine whether to invite specific parents to attend or to extend an invitation to all parents in the ward.
+
+A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
+
+For more information, see “[Teacher Council Meetings]” in Teaching in the Savior’s Way (pages 38–39).

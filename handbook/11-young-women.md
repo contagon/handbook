@@ -65,7 +65,7 @@ Young Women classes meet on Sundays to strengthen faith, build unity, strengthen
 
 Class meetings are held on the second and fourth Sundays of the month. They last 50 minutes. Meetings begin with a prayer. A member of the class presidency conducts. She leads the class in reciting the theme and counseling together about assignments and other matters.
 
-A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]). Meetings should end with a prayer.
+A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in [Come, Follow Me]. Meetings should end with a prayer.
 
 If a ward has more than one Young Women class, they meet separately. However, they may meet together when there is a special need. Young women and young men may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
@@ -90,7 +90,7 @@ _Annual Activities._ In addition to regular youth activities, young women may al
 * A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young women turning 12 during the year may receive their emblems of belonging during this meeting (see [11.6.3]). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
 * A Young Women camp (see [Young Women Camp Guide]). Young women may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 * [[AO]] A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org]. For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org] (for the U.S. and Canada) or the [FSY Planning Guide] (for all other areas).
-* At least one activity emphasizing the standards in [For the Strength of Youth]. This event could include both young men and young women. Parents may also be invited.
+* At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices]. This event could include both young men and young women. Parents may also be invited.
 
 _Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
 
@@ -137,7 +137,7 @@ Parents and leaders can help young women prepare to share the gospel throughout 
 
 If young women desire to serve full-time missions, parents and leaders help them prepare. This includes teaching them about the blessings and expectations of full-time missionary work.
 
-As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and  [Preach My Gospel]. This class is not held during regular Sunday meetings.
+As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and [Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ]. This class is not held during regular Sunday meetings.
 
 [[AO]] [Missionary.ChurchofJesusChrist.org] provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23] and [24] for more information.
 
@@ -159,7 +159,7 @@ Young women can help unite families for eternity in many ways. Some of these way
 
 ### 11.3.1 Bishopric
 
-The bishop’s foremost responsibility is to care for the young women and young men in his ward. He and his counselors learn their names and understand their home circumstances. They meet with each young woman at least twice a year (see [31.3.1]).
+The bishop’s foremost responsibility is to care for the [rising generation] in his ward. He and his counselors learn their names and understand their home circumstances. They meet with each young woman at least twice a year (see [31.3.1]).
 
 The bishop has responsibility for the ward Young Women organization. He meets regularly with the Young Women president. He reports on Young Women matters in bishopric meetings.
 
@@ -217,7 +217,7 @@ Class presidents serve on the ward youth council (see [11.3.4.4]). Class preside
 
 * Lead the class’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1]).
 * Get to know and serve each young woman, including those who do not attend class meetings. Be aware of their needs and circumstances.
-* Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.5.7]).
+* Participate in ward efforts to share the gospel and strengthen new and returning members. A presidency member of the oldest Young Women class attends coordination meetings (see [23.4]).
 * Participate in ward temple and family history efforts. A presidency member of the oldest Young Women class attends coordination meetings (see [25.2.7]).
 * Plan and conduct Sunday class meetings (see [11.2.1.2]).
 * Plan and carry out class service and activities (see [11.2.1.3]).
@@ -266,7 +266,7 @@ Advisers have the following responsibilities:
 * Attend class activities.
 * Attend ward Young Women presidency meetings when invited.
 
-At least two responsible adult women should be present at each class meeting and activity. Advisers must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [11.6.1]).
+At least two responsible adult women should be present at each class meeting and activity. Advisers must complete the training at [ProtectingChildren.ChurchofJesusChrist.org] (see [11.6.1]).
 
 ### 11.3.6 [[AO]] Specialists
 
@@ -290,7 +290,7 @@ A counselor in the stake presidency has responsibility for the Young Women organ
 
 The stake presidency assigns a high councilor to work with the stake Young Women presidency (see [6.5]).
 
-The stake Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.10]).
+The stake Young Women presidency and secretary serve on the stake youth leadership committee (see [29.3.9]).
 
 ## 11.6 Additional Guidelines and Policies
 
