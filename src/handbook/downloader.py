@@ -70,10 +70,10 @@ class HandbookDownloader:
         # Some of the headers are missing header titles ##
         def add_title(match):
             num = len(match.group(1).split("."))
-            return f"{match.group(1)}\n\n{'#'*num} {match.group(3)}"
+            return f"{match.group(1)}\n\n{'#' * num} {match.group(3)}"
 
         text = re.sub(
-            "^(\d{1,2}(\.?\d{0,2}){0,3})\n\n([^#]+?)",
+            r"^(\d{1,2}(\.?\d{0,2}){0,3})\n\n([^#]+?)",
             add_title,
             text,
             flags=re.MULTILINE,
@@ -81,13 +81,13 @@ class HandbookDownloader:
 
         # merge number and header
         text = re.sub(
-            "(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)",
+            r"(\d{1,2}(\.?\d{0,2}){0,3})\n\n(#+) (.*)",
             r"\3 \1 \4",
             text,
         )
 
         # Some of the headers don't start on a new line
-        text = re.sub("([^\n#])(#+ (\d{1,2}(\.?\d{0,2}){0,3}))", r"\1\n\n\2", text)
+        text = re.sub(r"([^\n#])(#+ (\d{1,2}(\.?\d{0,2}){0,3}))", r"\1\n\n\2", text)
 
         return text
 
@@ -102,14 +102,17 @@ class HandbookDownloader:
         print(f"{filename}")
 
         url, delay = self.find_link(date, page)
-        if url is None:
+        if url is None or delay is None:
             return
         response = requests.get(url)
         sleep(delay)
-        soup = BeautifulSoup(response.content, "html.parser")
+        soup = BeautifulSoup(response.content, "html.parser")  # type: ignore
         print("----Downloaded")
 
         body = soup.find("div", {"class": "body"})
+        if body is None:
+            print("----WARNING: No body found, skipping")
+            return
 
         # Save & clean title
         header = body.find("header")

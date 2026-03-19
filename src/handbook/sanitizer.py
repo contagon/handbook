@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-TITLE_NUM_REGEX = "(\d{1,2}(\.?\d{0,2}){0,3})"
+TITLE_NUM_REGEX = r"(\d{1,2}(\.?\d{0,2}){0,3})"
 
 
 class LinkSanitizer:
@@ -14,7 +14,7 @@ class LinkSanitizer:
         with open(self.dir.parent / "missing.txt", "r", encoding="utf8") as f:
             self.missing = f.read().splitlines()
         self.missing = [
-            re.search("(\d+)[\.\-]", x.split("/")[-1]).group(1)
+            re.search(r"(\d+)[\.\-]", x.split("/")[-1]).group(1)  # type: ignore
             for x in self.missing
             if x.startswith(str(self.dir))
         ]
@@ -30,22 +30,22 @@ class LinkSanitizer:
             slug_title = re.sub(
                 r"\[(.*?)\]\((.*?)\)", r"\1", slug_title
             )  # replace links with their name
-            slug_title = re.sub("\s+", "-", slug_title)  # replace whitespace with -
+            slug_title = re.sub(r"\s+", "-", slug_title)  # replace whitespace with -
             slug_title = re.sub(
-                "[\]\[\!'\#\$\%\&'\(\)\*\+\,\.\/\:\;\<\=\>\?\@\\\^\_\{\|\}\~\`。，、；：？’]",
+                r"[\]\[\!'\#\$\%\&'\(\)\*\+\,\.\/\:\;\<\=\>\?\@\\\^\_\{\|\}\~\`。，、；：？’]",
                 "",
                 slug_title,
             )  # remove punctuation
-            slug_title = re.sub("^\-+", "", slug_title)  # leading -
-            slug_title = re.sub("\-+$", "", slug_title)  # trailing -
+            slug_title = re.sub(r"^\-+", "", slug_title)  # leading -
+            slug_title = re.sub(r"\-+$", "", slug_title)  # trailing -
             slug_title = f"{filename}#{slug_title}"
             self.cache[num] = slug_title
 
-        num = re.split("[\.-]", filename)[0]
+        num = re.split(r"[\.-]", filename)[0]
         self.cache[num] = filename
 
     def process_links(self, text, filename):
-        file_num = re.split("[\.-]", filename)[0]
+        file_num = re.split(r"[\.-]", filename)[0]
 
         # Sanitize all links
         def process(match):
