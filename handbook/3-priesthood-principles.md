@@ -43,7 +43,7 @@ The Melchizedek Priesthood is “the Holy Priesthood, after the Order of the Son
 
 “The Melchizedek Priesthood holds the right of presidency.” It has “power and authority over all the offices in the church in all ages of the world, to administer in spiritual things” ([Doctrine and Covenants 107:8]). Through this authority, Church leaders direct and administer all the spiritual work of the Church (see [Doctrine and Covenants 107:18]). “All other authorities or offices in the church are appendages to this priesthood” ([Doctrine and Covenants 107:5]).
 
-The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67]). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10]; see also [chapter 5] in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17]; see also chapter 6 in this handbook).
+The President of the Church is the presiding high priest over the Melchizedek Priesthood (see [Doctrine and Covenants 107:65–67]). The stake president is the presiding high priest in the stake (see [Doctrine and Covenants 107:8, 10]; see also chapter 5 in this handbook). The bishop is the presiding high priest in the ward (see [Doctrine and Covenants 107:17]; see also [chapter 7] in this handbook).
 
 For information about the offices and responsibilities of the Melchizedek Priesthood, see [8.1].
 
@@ -136,13 +136,13 @@ Presiding Church leaders can delegate authority by assignment. When men and wome
 
 Authority that is delegated by assignment is limited to the specific responsibilities and duration of the assignment.
 
-For more information about assignment through delegation, see [4.2.6].
+For more information about assignment through delegation, see [4.2.5].
 
 ### 3.4.4 Exercising Priesthood Authority Righteously
 
 Church leaders and members use conferred or delegated priesthood authority to bless the lives of others.
 
-This authority can be used only in righteousness (see [Doctrine and Covenants 121:36]). It is exercised by persuasion, long-suffering, gentleness, meekness, love, and kindness (see [Doctrine and Covenants 121:41–42]). Leaders counsel with others in a spirit of unity and seek the Lord’s will through revelation (see [Doctrine and Covenants 41:2]). For information about counseling with others, see [4.2.5].
+This authority can be used only in righteousness (see [Doctrine and Covenants 121:36]). It is exercised by persuasion, long-suffering, gentleness, meekness, love, and kindness (see [Doctrine and Covenants 121:41–42]). Leaders counsel with others in a spirit of unity and seek the Lord’s will through revelation (see [Doctrine and Covenants 41:2]). For information about counseling with others, see [4.4.3].
 
 Those who exercise priesthood authority do not force their will on others. They do not use it for selfish purposes. If a person uses it unrighteously, “the heavens withdraw themselves [and] the Spirit of the Lord is grieved” ([Doctrine and Covenants 121:37]).
 

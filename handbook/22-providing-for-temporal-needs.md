@@ -8,7 +8,7 @@ Church members are also counseled to strengthen their own self-reliance through 
 
 ---
 
-__INDIVIDUAL AND FAMILY EFFORTS__
+__INDIVIDUAL AND FAMILY EFFORTS__ 
 
 ---
 
@@ -119,11 +119,11 @@ Service can be coordinated in the ward, stake, or community. Where [JustServe] i
 
 The Church provides humanitarian aid throughout the world. It does this both directly and through partnerships with other relief organizations. This aid is typically delivered through the Church organization called Latter-day Saint Charities. It is given without regard to race, religion, or nationality.
 
-[[AO]]Members and others who wish to support these efforts may donate to the Church Humanitarian Aid Fund. Members may give their donation and a completed Tithing and Other Offerings form to the bishop or one of his counselors. In some areas, they can also make their [donation online].
+ [[AO]]Members and others who wish to support these efforts may donate to the Church Humanitarian Aid Fund. Members may give their donation and a completed Tithing and Other Offerings form to the bishop or one of his counselors. In some areas, they can also make their [donation online].
 
 ---
 
-__LEADER EFFORTS__
+__LEADER EFFORTS__ 
 
 ---
 
@@ -177,7 +177,7 @@ A person’s struggle with emotional challenges can also affect his or her famil
 
 The Church provides “[Counseling Resources]” to help leaders support members on a wide range of emotional and social issues. Additional resources for members include the following:
 
-* [Emotional Resilience for Self-Reliance]
+* [Finding Strength in the Lord: Emotional Resilience]
 * [Addiction recovery groups]
 * [Spouse and family support groups]
 * [Courses for strengthening marriages and families]
@@ -186,7 +186,7 @@ See also “[Emotional Health]” in 22.13.
 
 Bishops may consult with Family Services staff to better understand a member’s emotional challenges and to identify available resources and services. Stake and mission presidents may also consult with Family Services. As part of this consultation, Family Services staff may help these leaders evaluate if a member with serious emotional or social challenges may need professional counseling. These leaders can request a consultation by contacting their Family Services office or their welfare and self-reliance manager. See [31.2.6] for contact information.
 
-[[AO]] Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals]” in LCR). Alternatively, members may seek help from reputable professional counselors in the community.
+ [[AO]] Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals]” in LCR). Alternatively, members may seek help from reputable professional counselors in the community.
 
 Sometimes bishops counsel members who need help to repent of sinful behavior. This behavior may include sins related to or caused by addictions. In these situations, bishops should refer to the guidelines in [32.8.1] and [32.8.2].
 
@@ -219,7 +219,7 @@ Before providing Church assistance, the bishop (or another leader or member he a
 
 ### 22.4.2 Provide Temporary Assistance for Essential Needs
 
-The goal of Church assistance is to temporarily meet basic needs while members strive to become self-reliant. Fast-offering assistance is generally used to pay for essential items, such as food and clothing. However, it may also be used to pay for housing or utilities. It may also be used to pay for personal services such as counseling, medical care, or vocational training.
+The goal of Church assistance is to temporarily meet basic needs while members strive to become self-reliant. Fast-offering assistance is generally used to pay for essential items, such as food and clothing. However, it may also be used to pay for housing or utilities. It may also be used to pay for personal services such as counseling, medical care, or short-term skills training.
 
 Church assistance is meant to sustain life—not to maintain lifestyle. Members may need support and empathy as they work to reduce or eliminate expenses to better provide for their own needs.
 
@@ -333,7 +333,7 @@ The bishop and his counselors have the following responsibilities:
 * Teach the law of the fast and encourage members to give a generous fast offering (see [22.2.2]).
 * Oversee the gathering and accounting of fast offerings (see [34.4.2]).
 
-As the presidency of the Aaronic Priesthood, the bishopric also oversees the efforts of Aaronic Priesthood quorums and Young Women classes to serve those with temporal needs in the ward and community (see [10.2.2] and [11.2.2]). These efforts are coordinated in ward youth council meetings (see [22.8]) and in quorum and class presidency meetings (see [10.4.3] and [11.3.4.2]).
+As the presidency of the Aaronic Priesthood, the bishopric also oversees the efforts of Aaronic Priesthood quorums and Young Women classes to serve those with temporal needs in the ward and community (see [10.2.2] and [11.2.2]). These efforts are coordinated in ward youth council meetings (see [22.8]) and in quorum and class presidency meetings (see [10.4.3] and [11.3.4.3]).
 
 ### 22.6.2 Relief Society and Elders Quorum Presidencies
 
@@ -346,7 +346,7 @@ Under the direction of the bishop, the Relief Society and elders quorum presiden
 
 Relief Society and elders quorum presidencies apply the pattern described in [22.3] as they help care for those in need.
 
-[[AO]] In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods (see [22.13]). The bishop generally assigns the Relief Society president to meet with the members and fill out the order form (see [9.2.2.2]). However, he may also assign the elders quorum president (see [8.2.2.2]). A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
+ [[AO]] In some locations, bishops have the option to provide members in need with a bishop’s order for food and other basic goods (see [22.13]). The bishop generally assigns the Relief Society president to meet with the members and fill out the order form (see [9.2.2.2]). However, he may also assign the elders quorum president (see [8.2.2.2]). A counselor in the Relief Society or elders quorum presidency may be assigned if the president is unavailable. The assigned leader submits the completed form to the bishop for his approval.
 
 ### 22.6.3 Ministering Brothers or Sisters
 
@@ -380,7 +380,7 @@ The following table summarizes the callings and roles discussed in [22.6].
 
 ## 22.7 Role of the Ward Council
 
-An important role of the ward council is to plan how to care for those in need and to help them become self-reliant (see [7.5.1] and [7.6.2]). Council members base these plans on information from ministering interviews and from their own personal contacts with those in need. In discussing the needs of members, the council respects the desires of any who request confidentiality.
+An important role of the ward council is to plan how to care for those in need and to help them become self-reliant (see [4.4]). Council members base these plans on information from ministering interviews and from their own personal contacts with those in need. In discussing the needs of members, the council respects the desires of any who request confidentiality.
 
 As ward councils consider how to care for those with temporal and emotional needs, they do the following:
 
@@ -392,7 +392,7 @@ As ward councils consider how to care for those with temporal and emotional need
 * Identify other government, community, or Church resources that can benefit members (see [22.12] and [22.13]).
 * Plan ways to give service in the community. Where [JustServe] is available, it may be used to identify such service opportunities.
 
-Ward councils also prepare a simple written plan for the ward to respond to emergencies. This plan should be coordinated with the stake’s emergency plan (see “Stake and Ward Preparedness”; see also [22.9.1.3] in this handbook).
+Ward councils also prepare a simple written plan for the ward to respond to emergencies. This plan should be coordinated with the stake’s emergency plan (see “[Stake and Ward Preparedness]”; see also [22.9.1.3] in this handbook).
 
 Ward welfare and self-reliance specialists may be invited to ward council meetings as needed.
 
@@ -445,7 +445,7 @@ Where applicable, the Area Presidency assigns an agent stake president to each w
 
 The assigned stake president helps find volunteers to support the needs of the operation. The volunteers may come from the agent stake and from other stakes served by the operation.
 
-[[AO]] The agent stake president may organize an agent stake operating committee to oversee the operation. Committee members include the following:
+ [[AO]] The agent stake president may organize an agent stake operating committee to oversee the operation. Committee members include the following:
 
 * The stake president or an assigned counselor
 * A high councilor
@@ -462,7 +462,7 @@ Ministering brothers and sisters report the conditions and needs of members to q
 
 The stake presidency reports information to (1) the Area Presidency or an assigned Area Seventy and (2) the welfare and self-reliance manager. This report includes the status of members, missionaries, Church facilities, and the community. If Church members have been affected by a disaster, bishops may use fast offerings to help meet basic needs. Bishops follow the principles in [22.4].
 
-The stake president approves public information that is released locally by the Church. He coordinates this with the stake communication director if one is called (see [5.2.1.7]). He ensures that information is accurate and timely. He may serve as the Church spokesman to respond to questions from the media. He may also assign the stake communication director or another spokesperson to do this. In disasters that cover more than one stake, the Area Presidency or an assigned Area Seventy may manage public communications.
+The stake president approves public information that is released locally by the Church. He coordinates this with the stake communication director if one is called (see [6.2.1.7]). He ensures that information is accurate and timely. He may serve as the Church spokesman to respond to questions from the media. He may also assign the stake communication director or another spokesperson to do this. In disasters that cover more than one stake, the Area Presidency or an assigned Area Seventy may manage public communications.
 
 Church leaders may make the resources of the Church available to civil authorities during an emergency. With approval from the Area Presidency, Church buildings (except temples) may be used as shelters, first-aid stations, or feeding locations. Such use of a Church building should be coordinated with the assigned facilities manager. If another charitable or community organization is permitted to use the building, a usage agreement should be signed. See “[Use of Church Buildings in a Disaster]” for more information.
 
@@ -512,7 +512,7 @@ Based on local availability, the stake council may access or implement any of th
 * Self-reliance groups on [employment], [self-employment], [education], [personal finances], or [emotional resilience]
 * [Addiction recovery groups]
 * [BYU–Pathway Worldwide]
-* JustServe (see the [JustServe Community Service Guidebook])
+* [JustServe] (see the [JustServe Community Service Guidebook])
 * [Temporal preparedness resources]
 * [Stake welfare and self-reliance resource centers]
 * A directory of local government and community resources that serve those in need (see [22.12] for examples)
@@ -525,7 +525,7 @@ To help organize and manage the optional resources outlined in [22.10.1], the st
 * Others as needed
 ## 22.11 Role of the Stake Bishops’ Council
 
-The stake bishops’ council is held to counsel about responsibilities pertaining to bishops. It includes regular discussion of the principles of (1) caring for those who have temporal and emotional needs and (2) building self-reliance (see [29.3.11]).
+The stake bishops’ council is held to counsel about responsibilities pertaining to bishops. It includes regular discussion of the principles of (1) caring for those who have temporal and emotional needs and (2) building self-reliance. (See [29.3.11].)
 
 Council members are encouraged to:
 
@@ -534,7 +534,7 @@ Council members are encouraged to:
 
 ---
 
-__GOVERNMENT, COMMUNITY, AND CHURCH RESOURCES__
+__GOVERNMENT, COMMUNITY, AND CHURCH RESOURCES__ 
 
 ---
 

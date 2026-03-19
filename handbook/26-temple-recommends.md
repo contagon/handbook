@@ -6,16 +6,16 @@ Entering the temple is a sacred privilege. Ward and stake leaders encourage all 
 
 Church leaders make every effort to see that all who enter the temple are worthy to do so (see [Psalm 24:3–5]). Authorized priesthood leaders conduct temple recommend interviews and issue temple recommends to members who answer the interview questions appropriately and sincerely (see [26.3]). The Lord promises that if those who enter the temple are clean, His presence will be there (see [Doctrine and Covenants 97:15–16]).
 
-Members must have a valid temple recommend to enter a temple. Children younger than 8 who are being sealed to their parents or observing the sealing of their siblings to their parents do not need a recommend (see [26.4.4]).
+Members must have a current temple recommend to enter a temple. Children younger than 8 who are being sealed to their parents or observing the sealing of their siblings to their parents do not need a recommend (see [26.4.4]).
 
 This chapter provides instructions for leaders who issue temple recommends. A bishop counsels with his stake president if he has questions about temple recommends that are not answered in this chapter. The stake president may contact the Office of the First Presidency with questions.
 
 ## 26.1 Types of Temple Recommends
 
-A valid temple recommend allows a member to enter all temples. Priesthood leaders ensure that members receive the correct recommend for their circumstances. There are three types of recommends:
+A current temple recommend allows a member to enter all temples. Priesthood leaders ensure that members receive the correct recommend for their circumstances. There are three types of recommends:
 
 1. _Limited-use recommend._ These recommends are for unendowed members. They are issued through Leader and Clerk Resources (LCR). For more information, see [26.4].
-2. _Recommend for living ordinances._ These recommends are for members receiving their own endowment, being sealed to a spouse, or being married in a temple for time only. They are issued from recommend book 2. The recommend for living ordinances is attached to a regular temple recommend (described below). The temple retains the living ordinance recommend when the ordinance is performed. The member retains the regular recommend and uses it when returning to the temple.
+2. _Recommend for living ordinances._ These recommends are for members receiving their own endowment or being sealed to a spouse. They are issued from recommend book 2. The recommend for living ordinances is attached to a regular temple recommend (described below). The temple retains the living ordinance recommend when the ordinance is performed. The member retains the regular recommend and uses it when returning to the temple.
 3. _Temple recommend._ These recommends are for members who have previously been endowed. They are issued from recommend book 1. They authorize a member to participate in all temple ordinances for the deceased. They are also used when an endowed member is sealed to living or deceased parents or children. For more information, see [26.5].
 ## 26.2 Safeguarding Temple Recommends
 
@@ -59,7 +59,6 @@ In a ward, the bishop personally interviews members who:
 
 * Are receiving their own endowment (see [27.1] and [27.2]).
 * Are being sealed to a spouse (see [27.3]).
-* Are being married in a temple for time only (see [27.3.3]).
 
 In urgent cases when the bishop is unavailable, he may authorize one of his counselors to conduct these interviews.
 
@@ -78,7 +77,6 @@ The stake or mission president personally interviews members who:
 
 * Are receiving their own endowment.
 * Are being sealed to a spouse.
-* Are being married in a temple for time only.
 
 If the stake president is unavailable, he may authorize his counselors to conduct these interviews.
 
