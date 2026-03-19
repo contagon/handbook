@@ -33,7 +33,7 @@ Nursery lasts the entire time scheduled for Primary. For more information, see [
 
 ### 12.1.4 [[AO]] Classes
 
-Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the [Come, Follow Me] curriculum. On fifth Sundays, teachers are encouraged to use “[Preparing Children for a Lifetime on God’s Covenant Path].”
+Primary classes help children feel Heavenly Father’s love and learn about His plan of happiness. Lessons follow the [Come, Follow Me] curriculum. On fifth Sundays, teachers are encouraged to use “[Appendix B: For Primary—Preparing Children for a Lifetime on God’s Covenant Path].”
 
 Primary classes are organized by age and the number of teachers available. Units with fewer children or teachers may combine two or more age-groups into one class. In larger units, Primary leaders may form more than one class for an age-group and more than one nursery.
 
@@ -190,7 +190,7 @@ Children can help unite families for eternity in many ways. Some of these ways a
 * Honor their parents and set an example of Christlike living in their home.
 * Prepare to have their own eternal family.
 * Strive to be worthy to receive a temple recommend at the appropriate age.
-* Prepare to receive ordinances, including eternal marriage.
+* Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together]).
 * Identify ancestors who need temple ordinances (see [FamilySearch.org]).
 * Prepare to participate in baptisms and confirmations for the dead.
@@ -258,7 +258,7 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly study of the scriptures as outlined in [Come, Follow Me]. [[AO]] The following resources may be used:
 
 * [Come, Follow Me]
-* [Instructions for Singing Time and the Children’s Sacrament Meeting Program]
+* Instructions for Singing Time and the Children’s Sacrament Meeting Program
 * [Children’s Songbook]
 * [Hymns]
 * [Primary Music Collections] on ChurchofJesusChrist.org
@@ -287,7 +287,7 @@ It is a sacred privilege to teach children. Jesus Christ taught, “Behold your 
 
 The Primary presidency recommends to the bishopric men and women to serve as Primary teachers and nursery leaders. The bishopric considers these recommendations and extends the callings. These members are called to teach and minister to specific age-groups of children.
 
-Primary teachers teach from [Come, Follow Me] (ages 3–11). On fifth Sundays, they are encouraged to teach lessons from “[Preparing Your Children for a Lifetime on God’s Covenant Path].”
+Primary teachers teach from [Come, Follow Me] (ages 3–11). On fifth Sundays, they are encouraged to teach lessons from “[Appendix B: For Primary—Preparing Your Children for a Lifetime on God’s Covenant Path].”
 
 Nursery leaders teach from [Behold Your Little Ones].
 
