@@ -7,19 +7,20 @@ For those not familiar with the Church of Jesus Christ, I recommend you check ou
 The easiest way to visualize changes is via the links below. Removed text from previous editions will be shown in red on the left, and the new version with changes in green on the right.
 
 | Edition | Compare to Previous                                                    | Compare to Current                                                     |
-| ------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2025-12 | [Link](https://github.com/contagon/handbook/compare/2025-02...2025-12) | NA                                                                     |
-| 2025-02 | [Link](https://github.com/contagon/handbook/compare/2024-08...2025-02) | [Link](https://github.com/contagon/handbook/compare/2024-05...2025-12) |
-| 2024-05 | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-08) | [Link](https://github.com/contagon/handbook/compare/2024-05...2025-12) |
-| 2024-05 | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-05) | [Link](https://github.com/contagon/handbook/compare/2024-05...2025-12) |
-| 2023-08 | [Link](https://github.com/contagon/handbook/compare/2022-08...2023-08) | [Link](https://github.com/contagon/handbook/compare/2023-08...2025-12) |
-| 2022-08 | [Link](https://github.com/contagon/handbook/compare/2021-12...2022-08) | [Link](https://github.com/contagon/handbook/compare/2022-08...2025-12) |
-| 2021-12 | [Link](https://github.com/contagon/handbook/compare/2021-07...2021-12) | [Link](https://github.com/contagon/handbook/compare/2021-12...2025-12) |
-| 2021-07 | [Link](https://github.com/contagon/handbook/compare/2021-03...2021-07) | [Link](https://github.com/contagon/handbook/compare/2021-07...2025-12) |
-| 2021-03 | [Link](https://github.com/contagon/handbook/compare/2020-12...2021-03) | [Link](https://github.com/contagon/handbook/compare/2021-03...2025-12) |
-| 2020-12 | [Link](https://github.com/contagon/handbook/compare/2020-07...2020-12) | [Link](https://github.com/contagon/handbook/compare/2020-12...2025-12) |
-| 2020-07 | [Link](https://github.com/contagon/handbook/compare/2020-03...2020-07) | [Link](https://github.com/contagon/handbook/compare/2020-07...2025-12) |
-| 2020-03 | NA                                                                     | [Link](https://github.com/contagon/handbook/compare/2020-03...2025-12) |
+|---------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 2026-03 | [Link](https://github.com/contagon/handbook/compare/2025-12...2026-03) | NA                                                                     |
+| 2025-12 | [Link](https://github.com/contagon/handbook/compare/2025-02...2025-12) | [Link](https://github.com/contagon/handbook/compare/2025-12...2026-03) |
+| 2025-02 | [Link](https://github.com/contagon/handbook/compare/2024-08...2025-02) | [Link](https://github.com/contagon/handbook/compare/2024-05...2026-03) |
+| 2024-05 | [Link](https://github.com/contagon/handbook/compare/2024-05...2024-08) | [Link](https://github.com/contagon/handbook/compare/2024-05...2026-03) |
+| 2024-05 | [Link](https://github.com/contagon/handbook/compare/2023-08...2024-05) | [Link](https://github.com/contagon/handbook/compare/2024-05...2026-03) |
+| 2023-08 | [Link](https://github.com/contagon/handbook/compare/2022-08...2023-08) | [Link](https://github.com/contagon/handbook/compare/2023-08...2026-03) |
+| 2022-08 | [Link](https://github.com/contagon/handbook/compare/2021-12...2022-08) | [Link](https://github.com/contagon/handbook/compare/2022-08...2026-03) |
+| 2021-12 | [Link](https://github.com/contagon/handbook/compare/2021-07...2021-12) | [Link](https://github.com/contagon/handbook/compare/2021-12...2026-03) |
+| 2021-07 | [Link](https://github.com/contagon/handbook/compare/2021-03...2021-07) | [Link](https://github.com/contagon/handbook/compare/2021-07...2026-03) |
+| 2021-03 | [Link](https://github.com/contagon/handbook/compare/2020-12...2021-03) | [Link](https://github.com/contagon/handbook/compare/2021-03...2026-03) |
+| 2020-12 | [Link](https://github.com/contagon/handbook/compare/2020-07...2020-12) | [Link](https://github.com/contagon/handbook/compare/2020-12...2026-03) |
+| 2020-07 | [Link](https://github.com/contagon/handbook/compare/2020-03...2020-07) | [Link](https://github.com/contagon/handbook/compare/2020-07...2026-03) |
+| 2020-03 | NA                                                                     | [Link](https://github.com/contagon/handbook/compare/2020-03...2026-03) |
 
 I hope you enjoy! I've enjoyed having an easy visualization of changes to see how the church is continuing to focus on Christ, His work, and bringing others unto Him. 
 
@@ -37,6 +38,6 @@ Please feel free to open an issue/pull request/etc if you have any questions or 
 
 ## Running the Scraper
 
-If you feel like running this yourself, python package requirements are found in the `pyproject.toml` and ran using an activated `uv` python venv. Getting all the editions can be done via running `run.sh`, individual downloading/sanitizing/copying missing can be done via the cli interface in `run.py`. Making the diff branch is done via `branch.sh`.
+If you feel like running this yourself, python package requirements are found in the `pyproject.toml` and ran using an activated `uv` python venv. Getting all the editions can be done via running `run.sh`, individual downloading/sanitizing/copying missing can be done via the cli interface in `execute.py`. Making the diff branch is done via `branch.sh`.
 
 To add a new version, simply add the new date to the `src/handbook/const.py` file and run!

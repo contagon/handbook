@@ -12,7 +12,7 @@ for dir in editions/202*; do
 done
 
 # Remove links
-python run.py sanitize --date all --rm-links
+python execute.py sanitize --date all --rm-links
 
 # Create new branch
 git checkout -b diff
