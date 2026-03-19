@@ -77,7 +77,7 @@ Before the meeting starts, members of the congregation prepare spiritually for t
 
 #### 29.2.1.4 Selecting Speakers
 
-The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.17]). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
+The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.18]). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
 
 The bishopric extends invitations to speak well in advance of the meeting. Speakers bear testimony of Jesus Christ and teach His gospel using the scriptures (see [Doctrine and Covenants 42:12]; [52:9]). Messages should build faith and be consistent with the sacred nature of the sacrament.
 
@@ -480,6 +480,7 @@ Participants
 * High council.
 * Stake clerk and executive secretary.
 * Stake Relief Society, Young Women, and Primary presidents (the stake Young Men and Sunday School presidents are present as members of the high council).
+* Stake young single adult leaders and single adult leaders (if called).
 
 The stake president may invite others to attend as needed.
 

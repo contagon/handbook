@@ -301,7 +301,7 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### 11.6.2 Young Women with Disabilities
 
-Class presidencies give special care to young women who have disabilities. [[AO]] For information about helping these young women, see [disability.ChurchofJesusChrist.org].
+Class presidencies give special care to young women who have disabilities. [[AO]] For information about helping these young women, see [disability.ChurchofJesusChrist.org]; see also [38.8.27] in this handbook.
 
 ### 11.6.3 Children and Youth Emblems
 

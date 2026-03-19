@@ -80,7 +80,7 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 
 ## 18.4 Ordinances for Minor Children
 
-A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.22]).
+A minor child may be blessed, baptized, confirmed, ordained to a priesthood office, or set apart to a calling only with the consent of (1) parents who have a legal right to participate in the decision or (2) legal guardians. For questions about the legal rights of noncustodial parents, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.23]).
 
 For guidelines about baptizing and confirming minor children, see [38.2.8.2].
 

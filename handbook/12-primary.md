@@ -216,7 +216,7 @@ The Primary presidency helps parents prepare children to enter and progress alon
 
 To accomplish this, the Primary president may assign a member of the presidency to help parents prepare their children to be baptized and confirmed. The Primary president may assign another presidency member to help parents with temple and priesthood preparation for their children.
 
-These presidency members make parents aware of resources in the Gospel Library that can help. See, for example, “[Baptism],” “[Holy Ghost],” and “[Temples]” (Gospel Topics, topics.ChurchofJesusChrist.org). See also “[Priesthood Principles]” (chapter 3 in this handbook). Presidency members may work with ministering brothers and sisters, teachers, and others to support parents.
+These presidency members make parents aware of resources in the Gospel Library that can help. See, for example, “[Preparing Your Children for a Lifetime on God’s Covenant Path]” in Come, Follow Me—For Individuals and Families. Presidency members may work with ministering brothers and sisters, teachers, and others to support parents.
 
 The Primary president has the following additional responsibilities. Her counselors assist her.
 
@@ -239,6 +239,7 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 
 * Help the Primary presidency prepare agendas for presidency meetings. She attends these meetings, takes notes, and keeps track of assignments.
 * Work closely with teachers and leaders to keep accurate attendance records.
+* Using LCR, work with elders quorum and Relief Society secretaries to keep attendance records for adults serving in Primary
 * Make sure the Primary presidency is aware of:
 
 	+ New children and visitors.
@@ -320,7 +321,7 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-[[AO]] For more information, see [disability.ChurchofJesusChrist.org]; see also [38.8.26] in this handbook.
+[[AO]] For more information, see [disability.ChurchofJesusChrist.org]; see also [38.8.27] in this handbook.
 
 ### 12.5.3 Men Serving in Primary
 
@@ -336,10 +337,10 @@ Leaders and teachers should be careful when acting out sacred events in Primary.
 
 ### 12.5.6 [[AO]] CTR Rings
 
-When children begin the CTR 4 class, the Primary presidency and their Primary teacher remind them to “choose the right.” These leaders also give each child a green CTR ring.
+When children begin the CTR 4 class, the Primary presidency and their Primary teacher remind them to “choose the right.” These leaders also give each child a green [CTR ring].
 
 ### 12.5.7 Introducing the Children and Youth Program
 
-At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the emblems of belonging and a copy of [Personal Development: Children’s Guidebook].
+At the beginning of each year, the bishop, one of his counselors, or members of the Primary presidency may visit the home or Primary class of each child who will turn 8 during the year. They introduce children and their parents to the Children and Youth program. Each child receives the [emblems of belonging] and a copy of [Personal Development: Children’s Guidebook]. These resources are available at [store.ChurchofJesusChrist.org].
 
 For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
