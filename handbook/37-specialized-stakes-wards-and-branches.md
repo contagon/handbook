@@ -23,7 +23,7 @@ Minimum Requirements to Create a Language Ward or Branch in a Stake
 
 Boundaries for language units generally follow the boundaries of conventional wards, branches, and stakes.
 
-The children and youth of a language unit may combine classes with a conventional unit if desired (see [29.10]).
+The children and youth of a language unit may combine classes with a conventional unit if desired (see [29.2.8]).
 
 See [36.3] for language branches in a mission. See [36.4.2] for ward and branch naming guidelines.
 
@@ -66,9 +66,9 @@ See [36.4.2] for ward and branch naming guidelines.
 * Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5] for single adult members ages 31–45.
 ### 37.2.2 Leadership in a Young Single Adult Ward or Branch in a Conventional Stake
 
-* The bishop or branch president should be a married man of mature judgment and experience. First Presidency approval is required before calling a bishop.
-* The bishop’s counselors may include young or older married men and must be high priests. The first counselor is usually a more experienced leader. A branch president and his counselors may be high priests or elders.
-* Generally, the bishop or branch president and his counselors are called from within the boundaries of the young single adult unit. Exceptions may be made for young single adult units that serve universities and colleges.
+* The bishop or branch president should be a married man of mature judgment and experience. First Presidency approval is required before calling a bishop. Generally, the bishop or branch president lives within the boundaries of the young single adult unit. Exceptions may be made for young single adult units that serve universities and colleges.
+* The bishop’s counselors may be members of the unit. Or they may be other single or married men who live within the unit boundaries. They must be high priests. If a man called as a counselor in a bishopric is not a high priest, the stake president ensures that he is ordained a high priest before setting him apart.
+* A branch president and his counselors may be high priests or elders.
 * Other leaders and teachers are called from among the young single adults who are members of the unit.
 ## 37.3 Young Single Adult Stakes and Their Wards and Branches
 
@@ -100,9 +100,9 @@ See [36.4.1] and [36.4.2] for stake and ward naming guidelines.
 * Members do not attend a young single adult unit when they marry or reach the age of 31. See [37.5] for single adult members (ages 31–45).
 ### 37.3.2 Leadership in a Young Single Adult Stake and Its Wards or Branches
 
-* The stake presidency, high councilors, stake patriarch, bishoprics, branch presidencies, and stake Relief Society presidency should be married people of mature judgment and experience. First Presidency approval is required before calling a bishop.
-* A bishop’s or branch president’s counselors may include married students or young or older married men. _They may be high priests or elders._ The first counselor is usually a more experienced leader. A branch president and his counselors may be high priests or elders.
-* The stake presidency, high councilors, stake patriarch, bishoprics, branch presidencies, and stake Relief Society presidency may be called from a broader geographical area than the boundaries of the stake, as determined by the Area Presidency. Those who extend such callings first consult with the person’s stake president to obtain approval. For guidelines, see [chapter 30].
+* The stake president, stake patriarch, bishops, and branch presidents should be married men of mature judgment and experience. First Presidency approval is required before calling a bishop. They may be called from outside the boundaries of the stake as determined by the Area Presidency. Those who extend such callings first consult with the person’s stake president to obtain approval. For guidelines, see [chapter 30].
+* The stake president’s counselors, high councilors, bishopric counselors, and branch presidency counselors may be single or married men. Stake Relief Society presidents and counselors may be single or married women. Stake Sunday School presidents and counselors may be single or married men. These leaders may be members of the stake. Or they may be called from outside the boundaries of the stake as determined by the Area Presidency.
+* A bishop’s counselors must be high priests. If a man called as a counselor in a bishopric is not a high priest, the stake president ensures that he is ordained a high priest before setting him apart. A branch president and his counselors may be high priests or elders.
 * Quorum of the Twelve approval is required before calling a patriarch.
 * In wards and branches, other leaders and teachers are called from among the young single adults who are members of the unit.
 ## 37.4 Married Student Stakes and Wards
@@ -149,7 +149,8 @@ See [36.4.2] for ward naming guidelines.
 * Members do not attend a single adult ward when they marry or reach the age of 46.
 ### 37.5.2 Leadership in a Single Adult Ward
 
-* The bishop and his counselors should be married high priests of mature judgment and experience. First Presidency approval is required before calling a bishop.
+* The bishop should be a married high priest of mature judgment and experience. First Presidency approval is required before calling a bishop.
+* A bishop’s counselors may be members of the unit. Or they may be other single or married men who live within the unit boundaries. They must be high priests. If a man called as a counselor in a bishopric is not a high priest, the stake president ensures that he is ordained a high priest before setting him apart.
 * Other leaders and teachers are called from among the single adults who are members of the ward.
 ## 37.6 Wards and Branches for Members in Special Circumstances
 

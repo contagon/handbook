@@ -18,7 +18,7 @@ Each ward has an elders quorum. It includes the following brethren:
 
 * All elders in the ward.
 * All prospective elders in the ward (see [8.4]).
-* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [5.2.1.1] and [29.3.4].
+* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [5.2.1.1] and [29.3.5].
 
 A young man may begin attending elders quorum meetings when he turns 18, even if he has not yet been ordained an elder. He counsels with his parents and bishop to make this decision. By age 19 or when moving from home, such as to attend a university or serve a mission, he should be ordained an elder if he is worthy. See [10.6].
 
@@ -49,7 +49,7 @@ Elders quorum leaders support members in living the gospel of Jesus Christ. They
 
 #### 8.2.1.1 Gospel Learning at Home
 
-When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. Come, Follow Me﻿—For Individuals and Families and other resources can supplement their study.
+When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. Come, Follow Me—For Individuals and Families and other resources can supplement their study.
 
 Home evenings are an important way to learn the gospel at home. They are usually held weekly on Sunday, on Monday evening, or at another time. They could include prayers, gospel study, testimonies, singing, and fun activities.
 
@@ -100,15 +100,15 @@ For more information, see [22.6.2] and “[Welfare Resources]” in Leader and C
 
 #### 8.2.2.3 Long-Term Needs and Self-Reliance
 
-Under the bishop’s direction, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22] and “[Self-Reliance]” in the Gospel Library app.
+As coordinated by the bishop, the elders quorum and Relief Society presidencies help members with long-term needs and self-reliance. They teach principles of temporal and spiritual self-reliance. See [chapter 22] and “[Self-Reliance]” in the Gospel Library app.
 
-If a person or family needs assistance, the elders quorum and Relief Society presidents counsel together under the direction of the bishop about how to help (see [22.4]).
+If a person or family needs assistance, the elders quorum and Relief Society presidents counsel together, as coordinated by the bishop, about how to help (see [22.4]).
 
 The elders quorum president, Relief Society president, or another leader helps the person or family develop a [Self-Reliance Plan]. Ministering brothers or sisters can also help with the plan. Often, other members of the elders quorum or Relief Society have skills or experience that can help. All who assist treat information with confidentiality. For more information, see [22.3.3] and [22.8].
 
 #### 8.2.2.4 When a Ward Member Dies
 
-When a ward member dies, elders quorum and Relief Society presidencies offer comfort and assistance. Under the direction of the bishop, they can help with the funeral.
+When a ward member dies, elders quorum and Relief Society presidencies offer comfort and assistance. Under the bishop’s guidance, they can help with the funeral.
 
 If possible, deceased members who were endowed are buried or cremated in temple clothing. The body of a man may be dressed by his wife or by an endowed male family member. If a family member is not available or would prefer not to do the dressing, the bishop may ask the elders quorum president to invite an endowed man to dress the body or oversee the dressing. For more information, see [38.5.8].
 
@@ -122,9 +122,9 @@ In presidency and quorum meetings, the elders quorum presidency discusses ways t
 
 The elders quorum president assigns a member of the presidency to help lead member missionary work in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
 
-This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.1.1] and [23.1.3].
+This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.5.1] and [23.5.3].
 
-The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. They also include the assigned member of the Relief Society presidency, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
+The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
 
 ### 8.2.4 Uniting Families for Eternity
 
@@ -149,7 +149,7 @@ The ward temple and family history leader, who may be a member of the elders quo
 
 The elders quorum president is directly responsible to the stake presidency. He meets regularly with a member of the presidency to receive direction and report on his responsibilities.
 
-The elders quorum president also receives direction from the bishop, who is the presiding officer in the ward. They meet regularly. They discuss the work of salvation and exaltation, including the service of ministering brothers. They also discuss (1) the progress and needs of ward members and (2) elders quorum meetings, instruction, and activities.
+The elders quorum president also receives guidance from the bishop, who is the presiding officer in the ward. They meet regularly. They discuss the work of salvation and exaltation, including the service of ministering brothers. They also discuss (1) the progress and needs of ward members and (2) elders quorum meetings, instruction, and activities.
 
 ### 8.3.2 High Councilor
 
@@ -178,7 +178,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the elders quorum (see [7.6.1]).
 * Lead the quorum’s efforts to participate in the work of salvation and exaltation (see [chapter 1]).
 * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21].
-* Under the direction of the bishop, counsel with adult members of the ward about matters other than those that are the bishop’s responsibility, such as worthiness, abuse, and approval to use fast-offering funds. See [CounselingResources.ChurchofJesusChrist.org].
+* Under the bishop’s guidance, counsel with adult members of the ward. Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources].
 * With the Relief Society presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3] and [9.2.3]). Oversee the ward mission leader if one is called.
 * With the Relief Society presidency, help lead temple and family history work in the ward (see [8.2.4] and [9.2.4]). Oversee the ward temple and family history leader if one is called.
 * Coordinate the elders quorum’s efforts to strengthen young adult brethren, both single and married.
@@ -257,4 +257,4 @@ As soon as the bishop and stake president determine that a prospective elder is 
 
 ### 8.5.1 Members with Disabilities
 
-The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org] and [38.8.32].
+The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org] and [38.8.28].

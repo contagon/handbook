@@ -39,13 +39,14 @@ As members do these things, they receive guidance from the Holy Spirit on how to
 
 Heavenly Father wants His children to develop physical and emotional strength. This includes doing the following:
 
-* Obey the Word of Wisdom (see [Doctrine and Covenants 89]; see also [38.7.13] in this handbook).
+* Obey the Word of Wisdom (see [Doctrine and Covenants 89]; see also [38.7.14] in this handbook).
 * Strive to eat nutritious food, exercise regularly, get enough sleep, and maintain a healthy weight.
 * Avoid substances and behaviors that are harmful or addictive.
 * Practice good hygiene and receive proper medical care.
 * Develop and strengthen healthy relationships with family and others.
 * Learn to manage stress.
 * Seek help for mental or emotional challenges as needed.
+
 ### 22.1.3 Education and Employment
 
 The Savior taught that “the glory of God is intelligence” ([Doctrine and Covenants 93:36]). He also taught, “Seek learning, even by study and also by faith” ([Doctrine and Covenants 88:118]; see also [130:18]). Education or vocational training can lead to better employment so members can provide for personal and family needs.
@@ -191,11 +192,13 @@ Sometimes bishops counsel members who need help to repent of sinful behavior. Th
 
 ## 22.4 Principles for Providing Church Assistance
 
-With the help of the Lord, members seek to provide for themselves and their families. When members need assistance with financial and other basic needs, they should turn to the following sources in this order:
+With the help of the Lord, members seek to provide for themselves and their families. When members need financial assistance, they should turn to the following sources in this order:
 
 1. Their extended family
-2. Government and community resources
-3. Church assistance through fast offerings or bishops’ orders for food and other basic goods
+2. Government and community financial resources
+3. Church assistance through fast offerings
+
+When members need short-term help with food or other basic goods, bishops may use fast offerings to provide assistance (see [22.3.2]). Where bishops’ orders are available, bishops generally use those to provide food and other basic goods.
 
 Church assistance is intended to help members develop independence, not dependence. Any assistance given should strengthen members in their efforts to become self-reliant.
 
@@ -218,7 +221,7 @@ Before providing Church assistance, the bishop (or another leader or member he a
 
 The goal of Church assistance is to temporarily meet basic needs while members strive to become self-reliant. Fast-offering assistance is generally used to pay for essential items, such as food and clothing. However, it may also be used to pay for housing or utilities. It may also be used to pay for personal services such as counseling, medical care, or vocational training.
 
-Church assistance is meant to sustain life﻿—not to maintain lifestyle. Members may need support and empathy as they work to reduce or eliminate expenses to better provide for their own needs.
+Church assistance is meant to sustain life—not to maintain lifestyle. Members may need support and empathy as they work to reduce or eliminate expenses to better provide for their own needs.
 
 Bishops should exercise good judgment and seek spiritual direction when considering the amount and duration of the assistance given. They should be compassionate and generous while not creating dependence.
 
@@ -226,7 +229,7 @@ Bishops should exercise good judgment and seek spiritual direction when consider
 
 If possible, the bishop should avoid giving cash. Instead, he should use fast offerings or bishops’ orders to provide members with groceries or services. Members can then use their own money to pay for other needs.
 
-When this is not sufficient, the bishop may assist by using fast offerings to temporarily pay essential bills (see [22.5]). If possible, these payments should be sent directly to the service provider (see [22.5.3]).
+When this is not sufficient, the bishop may assist by using fast offerings to temporarily pay essential bills (see [22.5.2]). If possible, these payments should be sent directly to the service provider (see [22.5.3]).
 
 ### 22.4.4 Offer Work or Service Opportunities
 
@@ -330,7 +333,7 @@ The bishop and his counselors have the following responsibilities:
 * Teach the law of the fast and encourage members to give a generous fast offering (see [22.2.2]).
 * Oversee the gathering and accounting of fast offerings (see [34.4.2]).
 
-As the presidency of the Aaronic Priesthood, the bishopric also leads the efforts of Aaronic Priesthood quorums and Young Women classes to serve those with temporal needs in the ward and community (see [10.2.2] and [11.2.2]). These efforts are coordinated in ward youth council meetings (see [22.8]) and in quorum and class presidency meetings (see [10.4.3] and [11.3.4.2]).
+As the presidency of the Aaronic Priesthood, the bishopric also oversees the efforts of Aaronic Priesthood quorums and Young Women classes to serve those with temporal needs in the ward and community (see [10.2.2] and [11.2.2]). These efforts are coordinated in ward youth council meetings (see [22.8]) and in quorum and class presidency meetings (see [10.4.3] and [11.3.4.2]).
 
 ### 22.6.2 Relief Society and Elders Quorum Presidencies
 
@@ -395,9 +398,9 @@ Ward welfare and self-reliance specialists may be invited to ward council meetin
 
 ## 22.8 Role of the Ward Youth Council
 
-One purpose of the ward youth council is to help youth become consecrated followers of Jesus Christ (see [29.2.9]). Serving those who have temporal needs is important to achieving this purpose. Among others, persons who may have temporal needs could include those who are elderly, ill, or disabled.
+One purpose of the ward youth council is to help youth become consecrated followers of Jesus Christ (see [29.2.6]). Serving those who have temporal needs is important to achieving this purpose. Among others, persons who may have temporal needs could include those who are elderly, ill, or disabled.
 
-Under the direction of the bishopric, the ward youth council plans ways to serve those in need in their ward and community. Specific service activities can be planned during quorum and class presidency meetings. Where [JustServe] is available, it may be used to identify service opportunities in the community.
+Under the bishopric’s guidance, the ward youth council plans ways to serve those in need in their ward and community. Specific service activities can be planned during quorum and class presidency meetings. Where [JustServe] is available, it may be used to identify service opportunities in the community.
 
 ## 22.9 Roles of Stake Leaders
 
@@ -437,7 +440,7 @@ Where applicable, the Area Presidency assigns an agent stake president to each w
 
 * Bishops’ storehouses
 * Family Services offices
-* BYU–Pathway Worldwide
+* [BYU–Pathway Worldwide]
 * Deseret Industries stores
 
 The assigned stake president helps find volunteers to support the needs of the operation. The volunteers may come from the agent stake and from other stakes served by the operation.
@@ -500,7 +503,7 @@ Stake specialists coordinate efforts with welfare and self-reliance specialists 
 
 ## 22.10 Role of the Stake Council
 
-Members of the stake council discuss the needs of stake members and plan how to help members become self-reliant (see [29.3.7]). They identify resources in the community and stake that can help ward leaders care for the temporal and emotional needs of their members (see [22.12] and [22.13]). They develop and maintain a simple written plan for the stake to respond to emergencies (see “[Stake and Ward Preparedness]”). Stake councils may also plan ways of providing service in the community.
+Members of the stake council discuss the needs of stake members and plan how to help members become self-reliant (see [29.3.8]). They identify resources in the community and stake that can help ward leaders care for the temporal and emotional needs of their members (see [22.12] and [22.13]). They develop and maintain a simple written plan for the stake to respond to emergencies (see “[Stake and Ward Preparedness]”). Stake councils may also plan ways of providing service in the community.
 
 ### 22.10.1 [[AO]]Resources Coordinated by the Stake
 
@@ -522,7 +525,7 @@ To help organize and manage the optional resources outlined in [22.10.1], the st
 * Others as needed
 ## 22.11 Role of the Stake Bishops’ Council
 
-The stake bishops’ council is held to counsel about responsibilities pertaining to bishops. It includes regular discussion of the principles of (1) caring for those who have temporal and emotional needs and (2) building self-reliance (see [29.3.8]).
+The stake bishops’ council is held to counsel about responsibilities pertaining to bishops. It includes regular discussion of the principles of (1) caring for those who have temporal and emotional needs and (2) building self-reliance (see [29.3.11]).
 
 Council members are encouraged to:
 
@@ -547,7 +550,7 @@ In many areas, members have access to government or community resources that hel
 * Senior assistance programs.
 * Housing assistance.
 
-Members are encouraged to explore these resources before seeking fast-offering assistance or a bishop’s order for food and other basic goods from the Church.
+Members are encouraged to explore these resources, in addition to resources provided by the Church (see [22.13]).
 
 ## 22.13 Church Resources
 

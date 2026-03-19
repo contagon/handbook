@@ -294,7 +294,7 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-For more information, see [[AO]][disability.ChurchofJesusChrist.org] and [38.8.32].
+For more information, see [[AO]][disability.ChurchofJesusChrist.org] and [38.8.28].
 
 ### 12.5.3 Men Serving in Primary
 

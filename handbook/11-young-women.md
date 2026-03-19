@@ -65,9 +65,9 @@ Young Women classes meet on Sundays to strengthen faith, build unity, strengthen
 
 Class meetings are held on the second and fourth Sundays of the month. They last 50 minutes. A member of the class presidency conducts. She leads the class in reciting the theme and counseling together about assignments and other matters.
 
-A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me﻿—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]).
+A class member or adult leader then leads gospel instruction. Class presidencies counsel with adult leaders about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]).
 
-If a ward has more than one Young Women class, they meet separately. However, they may meet together when there is a special need. Young women and young men may occasionally combine for a Sunday lesson, as directed by the bishopric.
+If a ward has more than one Young Women class, they meet separately. However, they may meet together when there is a special need. Young women and young men may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
 Young women are encouraged to participate in seminary (see [15.1]).
 
@@ -139,7 +139,7 @@ If young women desire to serve full-time missions, parents and leaders help them
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and [Preach My Gospel]. This class is not held during regular Sunday meetings.
 
-[[AO]][Missionary.ChurchofJesusChrist.org] provides additional resources that can help young women who desire to prepare to serve a mission. See [chapters 23] and [24] for more information.
+[[AO]][Missionary.ChurchofJesusChrist.org] provides additional resources that can help young women who desire to prepare to serve a mission. See chapters 23 and 24 for more information.
 
 ### 11.2.4 Uniting Families for Eternity
 
@@ -175,7 +175,7 @@ If a branch does not have a Young Women president, the Relief Society president 
 The Young Women president has the following responsibilities. Her counselors assist her.
 
 * Serve on the ward council. She serves as (1) a ward council member who helps address needs in the ward and find solutions and (2) a representative of the Young Women (see [7.6.1]).
-* Serve as a member of the ward youth council (see [29.2.9]).
+* Serve as a member of the ward youth council (see [29.2.6]).
 * Minister to individual young women.
 * Submit recommendations to the bishopric for sisters to serve in Young Women.
 * Teach other Young Women leaders and class presidencies their responsibilities.
@@ -246,7 +246,7 @@ The bishop presides over the ward youth council. This council’s members includ
 
 The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5]). They counsel together about the needs of the young women and young men in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
-See [29.2.9] for more information about the ward youth council.
+See [29.2.6] for more information about the ward youth council.
 
 ### 11.3.5 [[AO]]Advisers
 
@@ -258,7 +258,7 @@ Advisers have the following responsibilities:
 * Support and guide class presidencies as they learn and carry out their responsibilities.
 * Teach Sunday lessons as needed. Help young women who have been invited to teach a lesson to effectively prepare and teach.
 * Attend class activities.
-* Attend ward Young Women presidency meetings as invited.
+* Attend ward Young Women presidency meetings when invited.
 
 At least two responsible adult women should be present at each class meeting and activity. Advisers must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [11.6.1]).
 
