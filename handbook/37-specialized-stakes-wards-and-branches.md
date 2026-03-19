@@ -43,7 +43,7 @@ See [36.3] for language branches in a mission. See [36.4.2] for ward and branch 
 
 A stake president may propose creating a young single adult ward or branch (for members ages 18–30) if the stake has enough active young single adults who would like to attend. The following should be considered:
 
-* The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of the work of salvation and exaltation (see [1.2]).
+* The effect on the personal progress and spiritual development of the young single adults. This includes their ability to participate in all aspects of God’s work of salvation and exaltation (see [1.2]).
 * The effect on the geographic units from which the young single adult unit will draw members.
 * The travel time and expense required of young single adults and leaders.
 

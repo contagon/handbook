@@ -2,7 +2,7 @@
 
 ## 22.0 Introduction
 
-Members of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” ([Mosiah 18:8–9]). Caring for those who have temporal needs is part of the work of salvation and exaltation (see [1.2]). This responsibility applies to all members of the Church as they minister to one another.
+Members of the Church covenant to “bear one another’s burdens, … mourn with those that mourn … , and comfort those that stand in need of comfort” ([Mosiah 18:8–9]). Caring for those who have temporal needs is part of God’s work of salvation and exaltation (see [1.2]). This responsibility applies to all members of the Church as they minister to one another.
 
 Church members are also counseled to strengthen their own self-reliance through diligent work and with the help of the Lord. Self-reliance is the ability, commitment, and effort to provide the spiritual and temporal necessities of life for self and family. As members become more self-reliant, they are also better able to serve others.
 
