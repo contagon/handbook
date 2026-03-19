@@ -58,7 +58,7 @@ if __name__ == "__main__":
         "--date",
         default=const.DATES[-1],
         choices=const.DATES + ["all"],
-        help="Date to download.",
+        help="Date to download. Defaults to the latest date.",
     )
 
     # ------------------------- Filler ------------------------- #
@@ -75,7 +75,7 @@ if __name__ == "__main__":
         "--date",
         default=const.DATES[-1],
         choices=const.DATES + ["all"],
-        help="Date to sanitize.",
+        help="Date to sanitize. Defaults to the latest date.",
     )
     sanitize_parser.add_argument(
         "--rm-links", action="store_true", help="Remove links."
