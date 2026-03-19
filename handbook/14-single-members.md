@@ -124,7 +124,7 @@ Informally and as organized by participants, young single adults may gather to s
 
 #### 14.3.5.4 Sunday School Classes
 
-Wards with enough young single adults may have a separate Sunday School class for young single adults (see [13.4.2]).
+Wards with enough young single adults may have a separate Sunday School class for young single adults (see [13.3.2]).
 
 #### 14.3.5.5 Weekday Gospel Study Classes
 

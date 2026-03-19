@@ -72,7 +72,11 @@ The person who is being presented should participate in the sustaining vote. If 
 
 If a member in good standing gives a dissenting vote when someone is presented to be sustained, the presiding officer or another assigned priesthood officer confers with the dissenting member in private after the meeting. The officer determines whether the dissenting vote was based on knowledge that the person who was presented is guilty of conduct that should disqualify him or her from serving in the position. Dissenting votes from nonmembers need not be considered.
 
-When, as an exception, new stake officers need to begin their service before the next stake conference or stake general priesthood meeting in which they would normally be sustained, they should be sustained in the sacrament meetings of the wards and branches of the stake. These sustainings should be kept to a minimum. Members of the stake presidency or high council present the sustainings.
+In unusual circumstances, ward members may need to begin service in a calling before they can be presented for a sustaining vote. When this occurs, a member of the bishopric presents them for a ratifying vote as soon as reasonable. He adapts the process outlined above for presenting a person for a sustaining vote. This includes providing an opportunity for ward members to give an opposing vote.
+
+As an exception, new stake officers may need to begin their service before the next stake conference or stake general priesthood meeting in which they would normally be sustained. When this occurs, they should be sustained in the sacrament meetings of the wards and branches of the stake. These sustainings should be kept to a minimum. Members of the stake presidency or high council present the sustainings.
+
+In unusual circumstances, stake members may need to begin service in a calling before they can be presented for a sustaining vote in a general stake meeting or in sacrament meetings. When this occurs, a member of the stake presidency or high council presents them for a ratifying vote as soon as reasonable. This includes providing an opportunity for members to give an opposing vote.
 
 ## 30.4 Setting Apart Officers and Teachers
 
@@ -121,10 +125,10 @@ The following chart includes a list of selected stake callings. For other callin
 | [Counselors in the stake presidency] | Stake president | An assigned General Authority or Area Seventy, or written notification from the First Presidency | Members in stake conference or stake general priesthood meeting | An assigned General Authority or Area Seventy, or the stake president with written approval from the First Presidency |
 | [Stake clerk] | Stake presidency | Stake presidency and high council | Members in stake conference or stake general priesthood meeting | Stake president |
 | [Assistant stake clerks] | Stake presidency | Stake presidency and high council | Members in stake conference or stake general priesthood meeting | Stake president or an assigned counselor |
-| [Stake executive secretary] | Stake presidency | Stake presidency and high council | Members in stake conference or stake general priesthood meeting | Stake president or an assigned counselor |
+| Stake executive secretary | Stake presidency | Stake presidency and high council | Members in stake conference or stake general priesthood meeting | Stake president or an assigned counselor |
 | [High councilors] | Stake presidency | Stake presidency and high council | Members in stake conference or stake general priesthood meeting | Stake president or an assigned counselor |
-| [Stake patriarch] | Stake presidency | Quorum of the Twelve | Members in stake conference or stake general priesthood meeting | A member of the First Presidency or Twelve, or the stake president with approval from the Quorum of the Twelve |
-| [Stake patriarch who is already ordained but has moved to another stake] | Presidency of the stake into which he has moved | Quorum of the Twelve | Members in stake conference or stake general priesthood meeting | Not ordained but set apart to begin service in a new stake |
+| Stake patriarch | Stake presidency | Quorum of the Twelve | Members in stake conference or stake general priesthood meeting | A member of the First Presidency or Twelve, or the stake president with approval from the Quorum of the Twelve |
+| Stake patriarch who is already ordained but has moved to another stake | Presidency of the stake into which he has moved | Quorum of the Twelve | Members in stake conference or stake general priesthood meeting | Not ordained but set apart to begin service in a new stake |
 | [Stake Relief Society president] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president |
 | [Stake Young Men, Young Women, Primary, and Sunday School presidents] | Stake presidency (high councilors are assigned as the stake Young Men president and the stake Sunday School president) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor |
 | [Counselors in stake organization presidencies, secretaries, and other organization leaders] | President of the stake organization (in consultation with the assigned high councilor) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
@@ -195,7 +199,7 @@ The following chart includes a list of selected ward callings. For other calling
 | [Ward temple and family history consultant(s)] | Bishopric (in consultation with the elders quorum president) | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward young single adult leader(s)] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward magazine representative] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
-| [Ward welfare specialists (including ward employment specialist)] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
+| Ward welfare specialists (including ward employment specialist) | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 
 ### 30.7.6 Branch Callings in Stakes
 
@@ -226,7 +230,7 @@ The following chart includes a list of selected ward callings. For other calling
 | Office | Recommended By | Approved By | Sustained By | Called and Set Apart By |
 | --- | --- | --- | --- | --- |
 | [Elders quorum president] | Mission presidency or district presidency | Mission presidency or, when authorized by the mission president, the district presidency | Branch members | Mission president or, if assigned, the district president |
-| [Counselors in the elders quorum presidency] | Quorum president (in consultation with the branch president) | Mission presidency or, when authorized by the mission president, the district presidency | Branch members | Mission president or, if assigned, the district president or another priesthood officer |
+| Counselors in the elders quorum presidency | Quorum president (in consultation with the branch president) | Mission presidency or, when authorized by the mission president, the district presidency | Branch members | Mission president or, if assigned, the district president or another priesthood officer |
 | [Elders quorum secretary, teacher(s), and other callings] | Quorum president (in consultation with the branch president and counselors to the quorum president) | Branch president and quorum presidency | Quorum members | Quorum president or an assigned counselor |
 | [Ministering brothers] | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | | Serving as a ministering brother is a priesthood responsibility of Melchizedek Priesthood holders. Accordingly, these brethren are _assigned_ as ministering brothers by the elders quorum presidency, under the direction of the branch president. They are not called, sustained, or set apart. | | | |
 

@@ -2,7 +2,7 @@
 
 ## 10.1 Purpose and Organization
 
-The Aaronic Priesthood helps God’s children prepare to return to His presence. It holds “the keys of the ministering of angels, and of the gospel of repentance, and of baptism” ([Doctrine and Covenants 13]; see also [3.3.2]).
+The Aaronic Priesthood helps God’s children prepare to return to His presence. It holds “the keys of the ministering of angels, and of the gospel of repentance, and of baptism” ([Doctrine and Covenants 13]; see also [3.3.2] in this handbook).
 
 ### 10.1.1 Purpose
 
@@ -112,7 +112,7 @@ Some service and activities should include both young men and young women, espec
 
 Youth can benefit from socializing in larger groups. The youth in two or more wards may occasionally meet together for service and activities. Stakes or districts may occasionally plan service and activities for youth.
 
-Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org]; see also [20.6.20]). At least two responsible adult leaders should be present at all activities (see [10.8.1]).
+Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org]; see also [20.6.20] in this handbook). At least two responsible adult leaders should be present at all activities (see [10.8.1]).
 
 For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org]. [[AO]]See also [JustServe.org] where it is available. These resources provide service and activity ideas.
 
@@ -185,7 +185,7 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 * Identify ancestors who need temple ordinances (see [[AO]][FamilySearch.org]).
 * Participate in baptisms and confirmations for the dead as often as circumstances allow.
 * Participate in indexing (see [[AO]][FamilySearch.org/indexing]).
-* Serve as temple and family history consultants, as called by the bishopric (see [25.4.4]).
+* Serve as temple and family history consultants, as called by the bishopric (see [25.2.4]).
 ## 10.3 Bishopric
 
 The bishopric is the presidency of the Aaronic Priesthood in the ward (see [Doctrine and Covenants 107:13–15]). They direct the work of Aaronic Priesthood quorums. The bishop’s foremost responsibility is to care for the young men and young women in his ward. He learns their names and understands their home circumstances. He attends their activities and Sunday meetings regularly.
@@ -291,13 +291,13 @@ The elders quorum presidency and ministering brothers can help provide this inst
 
 ## 10.7 [[AO]]Stake Young Men Leaders
 
-The stake presidency assigns a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may serve as his counselors. Or, if a stake is large enough, other Melchizedek Priesthood holders from the stake may be called as counselors (see [5.3.1]).
+The stake presidency assigns a high councilor to be the stake Young Men president. The high council members assigned to the Young Women and Primary may serve as his counselors. Or, if a stake is large enough, other Melchizedek Priesthood holders from the stake may be called as counselors (see [5.5]).
 
-The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake Aaronic Priesthood–Young Women committee (see [29.3.9]). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
+The stake Young Men president serves under the direction of the stake presidency. He and his counselors and secretary serve on the stake youth leadership committee (see [29.3.10]). He and his counselors help bishoprics by teaching them their duties for Aaronic Priesthood quorums.
 
 A brother from the membership of the stake may be called as the stake Young Men secretary.
 
-For more information about the responsibilities of the stake Young Men presidency and secretary, see [5.4.2] and [5.4.4].
+For more information about the responsibilities of the stake Young Men presidency and secretary, see [5.7.2] and [5.7.3].
 
 ## 10.8 Additional Guidelines and Policies
 
@@ -307,7 +307,7 @@ When adults are interacting with youth in Church settings, at least two responsi
 
 All adults who work with youth must complete the children and youth protection training within one month of being sustained ([ProtectingChildren.ChurchofJesusChrist.org]). They repeat the training every three years thereafter.
 
-For information about how these guidelines apply to ministering companions, see [21.3].
+For information about how these guidelines apply to ministering companions, see [21.2.2].
 
 ### 10.8.2 Young Men with Disabilities
 
