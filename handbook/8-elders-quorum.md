@@ -32,6 +32,10 @@ Some wards have a very large number of active Melchizedek Priesthood holders. Fo
 
 ## 8.2 Participating in God’s Work of Salvation and Exaltation
 
+3:42
+
+Efforts Magnified as Presidencies Work Together
+
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
@@ -85,6 +89,10 @@ Activities should strengthen quorum members’ desires to make and keep covenant
 ### 8.2.2 Caring for Those in Need
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org] suggests community service opportunities.
+
+2:43
+
+How to Care for Those in Need
 
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2].
 
@@ -150,6 +158,10 @@ The elders quorum president assigns a member of the presidency to help lead temp
 This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his work. See [25.2.2].
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7]). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
+
+2:49
+
+Helping Members Gain the Vision
 
 ## 8.3 Elders Quorum Leaders
 
@@ -228,10 +240,10 @@ The secretary’s responsibilities could include the following:
 * Prepare agendas for presidency meetings and quorum meetings.
 * Take notes in meetings and keep track of assignments.
 * Schedule ministering interviews (see [21.3]).
-* Prepare and submit quarterly reports of attendance and the number of ministering interviews held.
+* Prepare and submit quarterly reports of attendance and the number of ministering interviews held. Attendance reports should include brethren serving in Primary and Young Men.
 * Help prepare an annual budget and keep track of expenses.
 
-### 8.3.5 Additional Callings
+### 8.3.5 Additional Callings and Assignments
 
 The following additional callings may be helpful. The bishop and elders quorum president discuss whether they are needed.
 

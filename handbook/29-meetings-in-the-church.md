@@ -42,7 +42,7 @@ Sacrament meeting lasts one hour. It can include the following:
 
 1. _Prelude music_ (see [19.3.2] for guidelines). Reverent music before the meeting starts can invite a spirit of worship.
 2. _Greeting and welcome._
-3. _Acknowledgment of presiding authorities or other leaders who are visiting._ Presiding authorities and visiting high councilors should be invited to sit on the stand. General Officers are also invited to sit on the stand unless they are attending their home ward.
+3. _Acknowledgment of the presiding authority and other leaders who may be visiting._ Presiding authorities and visiting high councilors should be invited to sit on the stand. General Officers are also invited to sit on the stand unless they are attending their home ward.
 4. _Announcements._ These should be kept to a minimum. Most can be printed, shared electronically, or shared in other meetings.
 5. _Opening hymn and prayer._ See [19.3.2] and [29.6].
 6. _Ward and stake business,_ such as the following:
@@ -208,6 +208,10 @@ Sometimes the ward council may determine that a ward activity could help meet th
 After full-time missionaries return home, they may be invited to report on their missions to the ward council (see [24.8.3]).
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
+
+4:37
+
+Ward Council Meeting
 
 ### 29.2.6 Ward Youth Council Meeting
 

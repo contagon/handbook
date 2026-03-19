@@ -6,6 +6,8 @@ Members of the Church strive to “bear one another’s burdens … and comfort 
 
 Church members are also counseled to strengthen their own self-reliance through diligent work and with the help of the Lord. Self-reliance is the ability, commitment, and effort to provide the spiritual and temporal necessities of life for self and family. As members become more self-reliant, they are also better able to serve others.
 
+See [In the Lord’s Way: Caring for Members Who Have Temporal or Emotional Needs] for examples of how to apply the principles in this chapter.
+
 ---
 
 __INDIVIDUAL AND FAMILY EFFORTS__
@@ -124,6 +126,8 @@ Leaders seek the guidance of the Holy Ghost so they can assist with sensitivity 
 * Help them build long-term self-reliance.
 * Minister to those with emotional needs.
 
+See [In the Lord’s Way: Caring for Members Who Have Temporal or Emotional Needs] for examples of how to apply this pattern.
+
 ### 22.3.1 Seek Out Those in Need
 
 The bishop has a sacred responsibility to seek out and care for those in need (see [Doctrine and Covenants 84:112]). Others who have an important role in this responsibility include:
@@ -171,7 +175,9 @@ The Church provides “[Counseling Resources]” to help leaders support members
 
 Bishops may consult with Family Services staff to better understand a member’s emotional challenges and to identify available resources. Stake and mission presidents may also consult with Family Services. Family Services staff can help these leaders evaluate if a member with serious emotional or social challenges may need professional counseling. Leaders can request a consultation by contacting their Family Services office or their welfare and self-reliance manager. (See [31.3.6] for contact information.)
 
-[[AO]] Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals]” in LCR). Alternatively, members may seek help from reputable professional counselors in the community.
+[[AO]] Bishops can refer members who need counseling to a Family Services professional, where available. They do this by using a bishop’s order for services (see “[Bishops’ Orders and Referrals]” in LCR). Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop.
+
+Alternatively, members may seek help from reputable professional counselors in the community.
 
 Sometimes bishops counsel members who need help to repent of sinful behavior. This behavior may include sins related to or caused by addictions. In these situations, bishops should refer to the guidelines in [32.8.1] and [32.8.2].
 
@@ -184,7 +190,13 @@ With the help of the Lord, members seek to provide for themselves and their fami
 
 Church assistance is intended to help members develop independence, not dependence. Any assistance given should strengthen members in their efforts to become self-reliant.
 
-When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5]. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
+When providing Church assistance, leaders follow the principles in sections [22.4.1 through 22.4.5]. See [In the Lord’s Way: Caring for Members Who Have Temporal or Emotional Needs] for examples of how to apply these principles.
+
+Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
+
+22:58
+
+Sacred Funds, Sacred Responsibilities
 
 Principles for Providing Church Assistance
 
@@ -495,7 +507,7 @@ Based on local availability, the stake council may access or implement any of th
 * Self-reliance groups on [employment], [self-employment], [education], [personal finances], or [emotional resilience]
 * [Healing through the Savior: The Addiction Recovery Program]
 * [BYU–Pathway Worldwide]
-* [JustServe] (see the JustServe Community Service Guidebook)
+* [JustServe] (see the [JustServe Community Service Guidebook])
 * [Temporal preparedness resources]
 * [Stake welfare and self-reliance resource centers]
 * A directory of local government and community resources that serve those in need (see [22.12] for examples)
@@ -505,7 +517,7 @@ Based on local availability, the stake council may access or implement any of th
 To help organize and manage the optional resources outlined in [22.10.1], the stake presidency may appoint specialized working groups, such as JustServe working groups. These groups could consist of selected members of the stake council or the stake adult leadership committee (see [29.3.8]). They could also include specialists such as:
 
 * Welfare and self-reliance specialists (see [22.9.4]).
-* Stake communication directors or JustServe specialists (see the JustServe Community Service Guidebook).
+* Stake communication directors or JustServe specialists (see the [JustServe Community Service Guidebook]).
 * Others as needed.
 
 ## 22.11 Role of the Stake Bishops’ Council
@@ -543,6 +555,6 @@ The following table lists Church resources that can support members’ efforts t
 | --- | --- |
 | Immediate needs | • The Lord’s storehouse (members’ offerings of time, talents, compassion, materials, and financial resources)<br/>• Fast offerings<br/>• Bishops’ orders for food and other basic goods through a bishops’ storehouse or grocery store.\*<br/>• Bishops’ orders for clothing or household items through a Deseret Industries store.\*<br/><br/>\* Bishops’ orders are placed through “[Bishops’ Orders and Referrals]” in LCR. |
 | Education and employment | • Self-reliance groups ([Find a Better Job], [Starting and Growing My Business], [Education for Better Work])<br/>• [Stake Welfare and Self-Reliance Resource Centers]<br/>• [Employment Services]<br/>• [BYU–Pathway Worldwide]<br/>• [EnglishConnect]<br/>• [Perpetual Education Fund loans]<br/>• Training programs through [Deseret Industries] or [Development Counseling Services] |
-| Emotional health | • Self-reliance group ([Emotional Resilience])<br/>• [Counseling Resources]<br/>• [Family Services counseling]. In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals]” in [LCR].<br/>• [Addiction recovery groups] and [spouse and family support groups]<br/>• [Strengthening Marriages and Families courses]<br/>• [Family Services consultations for leaders]<br/>• [Life Help resources] |
+| Emotional health | • Self-reliance group ([Emotional Resilience])<br/>• [Counseling Resources]<br/>• [Family Services counseling]. In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals]” in [LCR]. Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop.<br/>• [Addiction recovery groups] and [spouse and family support groups]<br/>• [Strengthening Marriages and Families courses]<br/>• [Family Services consultations for leaders]<br/>• [Life Help resources] |
 | Temporal preparedness | • Self-reliance group ([Personal Finances])<br/>• [Home storage products]<br/>• [Temporal Preparedness Resources]<br/>• [Stake and Ward Preparedness] |
 | Community service | • [JustServe.org]<br/>• Other Church-supported projects |

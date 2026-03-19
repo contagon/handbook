@@ -67,6 +67,10 @@ Each stake president is a member of a coordinating council (see [29.4]).
 
 The stake presidency plans the stake meetings listed in [29.3]. The stake president presides at stake meetings unless a General Authority or Area Seventy attends. His counselors may conduct these meetings. They may also preside if the stake president is absent.
 
+4:26
+
+Church Handbook Training
+
 #### 6.2.1.5 Callings and Releases
 
 The stake president’s responsibilities for callings and releases are outlined in [chapter 30]. He may assign his counselors and high councilors to extend callings and releases as outlined in [30.8]. The stake president personally extends the following callings. For some, he must first receive approval as noted.
@@ -108,7 +112,9 @@ The stake presidency directs communication efforts in the stake. Members of the 
 
 The stake president is the primary Church spokesman to the news media on matters that pertain to the stake. He may delegate this role as needed.
 
-[[AO]] The stake president or an assigned counselor may organize and oversee a stake communication council. This council helps Church leaders build relationships with civic and community leaders. It also helps these leaders communicate effectively with Church members and the public.
+[[AO]] The stake president or an assigned counselor may organize a stake communication council. This council helps Church leaders build relationships with civic and community leaders. It also helps these leaders communicate effectively with Church members and the public.
+
+The stake president or an assigned counselor oversees this council as its priesthood adviser. Information about this role is provided in [Communication Councils: A Guide for Priesthood Leaders].
 
 [[AO]] The communication council may include a stake communication director, assistant directors, and specialists as needed. They are called and set apart by the stake president or an assigned counselor or high councilor.
 
@@ -116,7 +122,7 @@ There is also a communication council at the coordinating council level (see [29
 
 The communication council structure differs in the Utah Area. Area Seventies in the Utah Area can provide stake presidents with details about this structure.
 
-For information about communication callings, see [GCN.ChurchofJesusChrist.org] .
+For information about communication callings, see [GCN.ChurchofJesusChrist.org].
 
 ### 6.2.2 Leading God’s Work of Salvation and Exaltation in the Stake
 

@@ -33,6 +33,8 @@ Musical selections should be consistent with the worshipful spirit of the hymns.
 
 Sacred music that is written or sung in culturally diverse musical styles may help unify congregations. Music coordinators and priesthood leaders may include a variety of appropriate musical styles that appeal to members of various backgrounds.
 
+For information about music for baptismal services, see [18.7.2]. For information about music for weddings held in Church buildings, see [38.3.4]. For information about music for funerals, see [29.5.4].
+
 ### 19.3.2 Music in Sacrament Meeting
 
 Members gather in sacrament meeting to remember Jesus Christ by partaking of the sacrament. They gather to build faith and testimony and to worship Heavenly Father and Jesus Christ. Music should be selected to help achieve these purposes.

@@ -231,7 +231,7 @@ Youth may not stay in the same tent or room as an adult if there is only one adu
 
 All Church overnight activities must include at least two adult leaders.
 
-A sufficient number of adult priesthood holders must be present at all times during overnight activities to provide support and protection. For Young Women activities, priesthood holders must stay in facilities separate from the young women.
+When adult priesthood holders attend Young Women activities, they must stay in facilities separate from the young women.
 
 Leaders fill out an [Event and Activity Plan form] for all overnight activities.
 
@@ -370,7 +370,7 @@ See [20.7.7].
 
 #### 20.7.3.2 Personal Health and Accident Insurance
 
-In many parts of the world, health and accident insurance coverage is available through employers or government programs. Members who have this coverage should access all available benefits if they incur an injury during a Church activity before seeking help from Church activity insurance (see [20.7.3.4]).
+In many parts of the world, health and accident insurance coverage is available through employers or government programs. Members who have this coverage should access all available benefits if they incur an injury during a Church activity before seeking help through Church Activity Medical Assistance (CAMA) (see [20.7.3.4]).
 
 #### 20.7.3.3 Personal Liability Insurance
 
