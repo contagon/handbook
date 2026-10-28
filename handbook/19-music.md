@@ -95,7 +95,7 @@ Choirs are encouraged to use the hymns of the Church. The singing of hymns invit
 
 Choir rehearsals do not usually exceed one hour.
 
-If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1]). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.10]).
+If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1]). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.11]).
 
 In addition to the ward choir, families and groups of women, men, youth, or children may be invited to sing in Church meetings.
 
@@ -120,7 +120,7 @@ The bishop is responsible for ward music. He may assign this responsibility to o
 The ward music coordinator serves under the direction of the bishopric. He or she has the following responsibilities:
 
 * Be a resource to the bishopric and other ward leaders on music matters. Attend ward council meeting as invited by the bishop to help coordinate music in the ward.
-* Work with the bishopric to plan music for sacrament meetings (see [19.3.1] and [19.3.2].).
+* Work with the bishopric to plan music for sacrament meetings (see [19.3.1] and [19.3.2]).
 * Recommend and supervise music training in the ward, if needed (see [19.6]). Help members find opportunities to develop and use their musical talents in the ward.
 * As requested by the bishopric, recommend members to serve in ward music callings. Orient those who serve in these callings, offering support, instruction, and training as needed.
 * Serve in other ward music callings if others have not been called.

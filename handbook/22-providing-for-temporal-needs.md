@@ -115,13 +115,13 @@ Members may give their fast offering and a completed Tithing and Other Offerings
 
 Members seek to serve others as the Savior did (see [John 13:35]). They strive to become aware of each other’s strengths and needs. They minister to one another with love and understanding.
 
-Service can be coordinated in the ward, stake, or community. Where [JustServe.org] is available, members and others can use it to identify service opportunities in the community. Members and others can also provide disaster relief or community service through Church-sponsored projects such as [Helping Hands].
+Service can be coordinated in the ward, stake, or community. Where [JustServe.org] is available, members and others can use it to identify service opportunities in the community. Members and others can also provide disaster relief or community service through Church-sponsored projects.
 
 ### 22.2.4 Humanitarian Aid
 
-The Church provides humanitarian aid throughout the world. It does this both directly and through collaboration with other relief organizations. This aid is typically delivered through the Church organization called Latter-day Saint Charities. It is given without regard to race, religion, or nationality.
+The Church provides humanitarian aid throughout the world. It does this both directly and through collaboration with other relief organizations. Aid is given without regard to race, religion, or nationality.
 
-[[AO]] Members and others who wish to support these efforts may donate to the Church Humanitarian Aid Fund. Members may give their donation and a completed Tithing and Other Offerings form to the bishop or one of his counselors. In some areas, they can also make their [donation online].
+[[AO]] Members and others who wish to support these efforts may donate to Church humanitarian aid. Members may give their donation and a completed Tithing and Other Offerings form to the bishop or one of his counselors. In some areas, they can also make their [donation online].
 
 ---
 
@@ -266,7 +266,7 @@ At times a bishop or members of his immediate or extended family who live in the
 
 If fast-offering funds are used, the stake president reviews the bills and other expenses before authorizing payment. The bishop may not approve a payment for himself or his family.
 
-When a stake president or members of his immediate or extended family who live in his ward need assistance, he contacts the bishop. The bishop follows the same principles and guidelines of Church assistance that he would for any other member. However, once the bishop has approved the request, the stake president must submit it to the Area Presidency. The stake president and bishop await written approval from a member of the Area Presidency before proceeding with the payment or order.
+When a stake president or members of his immediate or extended family who live in his ward need assistance, he contacts the bishop. The bishop follows the same principles and guidelines of Church assistance that he would for any other member. However, once the bishop has approved the request, the stake president must submit it to the Area Presidency. The stake president and bishop await written approval from a member of the Area Presidency before proceeding with the payment or order. (If a district president needs assistance, approval is sought from the mission president rather than the Area Presidency.)
 
 #### 22.5.1.3 Assistance to Persons Who Are Transient or Homeless
 
@@ -569,4 +569,4 @@ The following table lists Church resources that can support members’ efforts t
 | Education and employment | • Self-reliance groups ([Find a Better Job], [Starting and Growing My Business], [Education for Better Work])<br/>• [Stake Welfare and Self-Reliance Resource Centers]<br/>• [Employment centers]<br/>• [BYU–Pathway Worldwide]<br/>• [EnglishConnect]<br/>• [Perpetual Education Fund loans]<br/>• Training programs through [Deseret Industries] or [Development Counseling Services] |
 | Emotional health | • Self-reliance group ([Emotional Resilience])<br/>• [Counseling Resources]<br/>• [Family Services counseling]. In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals]” in [LCR].<br/>• [Addiction recovery groups] and [spouse and family support groups]<br/>• [Strengthening Marriages and Families courses]<br/>• [Family Services consultations for leaders]<br/>• [Life Help resources] |
 | Temporal preparedness | • Self-reliance group ([Personal Finances])<br/>• [Home storage products]<br/>• [Temporal Preparedness Resources]<br/>• [Stake and Ward Preparedness] |
-| Community service | • [JustServe.org]<br/>• [Helping Hands projects] |
+| Community service | • [JustServe.org]<br/>• Other Church-supported projects |
