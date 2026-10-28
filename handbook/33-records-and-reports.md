@@ -438,9 +438,9 @@ Leaders and clerks are to safeguard Church records by handling, storing, and dis
 * Used only for approved Church purposes.
 * Given only to those who are authorized to use it.
 
-Information that is stored electronically must be kept secure and protected appropriately (see [33.9.1]). Leaders ensure that such data is not used for personal, political, or commercial purposes. Information from Church records, including historical information, may not be given to individuals or agencies conducting research or surveys (see [38.8.37]).
+Information that is stored electronically must be kept secure and protected appropriately (see [33.9.1]). Leaders ensure that such data is not used for personal, political, or commercial purposes. Information from Church records, including historical information, may not be given to individuals or agencies conducting research or surveys (see [38.8.38]).
 
-Leaders and members must follow the guidelines in [38.8.13] to protect stake and ward directories.
+Leaders and members must follow the guidelines in [38.8.14] to protect stake and ward directories.
 
 ## 33.9 Records Management
 
@@ -482,7 +482,7 @@ Records that have potential historical value should not be discarded, destroyed,
 
 The stake presidency calls one or more stake members to serve as stake technology specialists. The bishopric may call one or more ward members to serve as ward technology specialists. Men, women, and youth may fill these callings.
 
-Stake technology specialists serve under the guidance of the stake clerk. Ward technology specialists serve under the guidance of the ward clerk or executive secretary, as determined by the bishop. Their responsibilities can include the following:
+Stake technology specialists serve under the guidance of the stake clerk. Ward technology specialists serve under the guidance of the ward clerk. Their responsibilities can include the following:
 
 * Assist stake or ward leaders with technical needs.
 * Teach members how to access and use Church media, apps, and other technology tools, including [FamilySearch.org].
@@ -494,6 +494,6 @@ In addition, the stake technology specialist has the following responsibilities 
 * Implement direction from the stake presidency about placing, sharing, reassigning, and scheduling all stake computers.
 * Maintain a current inventory of all computer hardware in the stake, with serial numbers, models, capacities, and physical locations.
 * Ensure that (1) computers, software, and confidential information are secure and (2) data files are backed up regularly.
-* Be familiar with the general policies for Church computers (see [38.8.10]).
+* Be familiar with the general policies for Church computers (see [38.8.11]).
 
 As needed, stake technology specialists coordinate the work of ward technology specialists.

@@ -37,7 +37,7 @@ _Stake High Priests Quorum._ The stake president is the president of the stake h
 
 * Bishops and their counselors
 * High councilors
-* Functioning patriarchs
+* Actively Serving patriarchs
 
 Members of the high priests quorum attend elders quorum meetings in their ward if they are not assigned elsewhere.
 
@@ -92,7 +92,7 @@ Members of the stake presidency meet regularly with the presidencies of the orga
 
 When a new stake organization presidency is called, the stake presidency shares counsel and vision to orient them in their service.
 
-In the United States and Canada, the new organization presidency may also receive orientation from the general organization council (see [5.1.2]). In other areas, the new presidency may also receive orientation from an area organization adviser (see [5.2.5.1]). This orientation is under the direction of the stake presidency. A member of the stake presidency or an assigned high councilor participates.
+In the United States, the new organization presidency may also receive orientation from the general organization council (see [5.1.2]). In other areas, the new presidency may also receive orientation from an area organization adviser (see [5.2.4.1]). This orientation is under the direction of the stake presidency. A member of the stake presidency or an assigned high councilor participates.
 
 The stake president also assigns his counselors to oversee stake programs as needed. These may include:
 
@@ -101,6 +101,7 @@ The stake president also assigns his counselors to oversee stake programs as nee
 * Stake activities (see [20.3.2]).
 * Music (see [19.5]).
 * Meetinghouse facilities (see [35.2.4]).
+* Support for members with disabilities (see [38.8.28.9]).
 
 Members of the stake presidency meet regularly with committees, high councilors, and specialists in the programs to which they are assigned.
 
@@ -198,9 +199,9 @@ The executive secretary has the following responsibilities:
 * Serve as a member of the stake council and attend high council meetings. As directed by the stake presidency, follow up on assignments made in these meetings.
 * Coordinate stake business between the stake presidency, high council, and other stake leaders.
 * Schedule appointments for the stake presidency.
-* Advise the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, help coordinate Church orientation for stake members who are entering the military (see [38.9.3]).
+* Advise the stake presidency of members who are entering the military or are already in military service. Under the direction of the stake presidency, help coordinate Church orientation for stake members who are entering the military (see [38.10.4.1]).
 * Orient new ward executive secretaries soon after they are called. Provide ongoing instruction as needed.
-* Forward messages received from Church employees and volunteers to the appropriate stake and ward leaders, as instructed by the stake president (see [38.8.9]).
+* Forward messages received from Church employees and volunteers to the appropriate stake and ward leaders, as instructed by the stake president (see [38.8.10]).
 
 One or two assistant stake executive secretaries may be called as needed. They are called and set apart by a member of the stake presidency. These brethren should have a current temple recommend.
 
@@ -248,7 +249,7 @@ High councilors also counsel with the stake presidency and sustain their decisio
 
 The stake presidency assigns high councilors to work with the stake Young Women and Primary organizations. When a member of the stake presidency meets with one of these presidencies, the high councilor also attends. Assigned high councilors also attend stake leadership meetings for these organizations.
 
-[[AO]] The stake presidency may assign high councilors to assist with the programs listed in [6.2.1.6]. They may also assign a high councilor to assist with needs for members with disabilities (see [38.8.27]).
+[[AO]] The stake presidency may assign high councilors to assist with the programs listed in [6.2.1.6]. They may also assign a high councilor to assist with needs for members with disabilities (see [38.8.28]).
 
 [[AO]] The stake presidency may assign high councilors to represent them by speaking in sacrament meetings and other settings. The stake presidency determines the frequency of these speaking assignments. It is not necessary for high councilors to speak in sacrament meeting every month. The stake presidency may also assign stake organization presidency members to speak in these settings (see [6.7.1] and [6.7.2]).
 
@@ -286,7 +287,7 @@ If the Quorum of the Twelve Apostles approves the recommendation, the stake pres
 
 In some cases, a man may need to be ordained a patriarch before he can be presented for sustaining in stake conference. When this happens, he is presented for sustaining in a sacrament meeting in each ward in the stake. He may then be ordained. He is then presented in the next stake conference to ratify the ordination. This includes giving stake members an opportunity to sustain or oppose the action.
 
-When authorized, the stake president ordains the patriarch. He does not delegate this responsibility to a counselor. No others should stand with him during the ordination. A new patriarch is first ordained to that office and then set apart to serve in a specific stake. A previously ordained patriarch who is being returned to actively serving status is not ordained again. However, he is presented to be sustained and set apart.
+When authorized, the stake president ordains the patriarch. He does not delegate this responsibility to a counselor. Under the direction of the stake president, a few high priests may be invited to join the stake president in the circle. A new patriarch is first ordained to that office and then set apart to serve in a specific stake. A previously ordained patriarch who is being returned to actively serving status is not ordained again. However, he is presented to be sustained and set apart.
 
 The ordination must be recorded in [LCR] before the patriarch can access the online tools for patriarchs.
 
@@ -434,3 +435,4 @@ The stake presidency may call and set apart specialists as needed for purposes s
 * Music (see [19.5.3])
 * Welfare and self-reliance (see [22.9.4])
 * Interpretation coordinator (see [29.9])
+* Support for members with disabilities (see [38.8.28.9])

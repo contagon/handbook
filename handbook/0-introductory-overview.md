@@ -62,4 +62,4 @@ The callings of bishop and branch president are not equivalent in authority and 
 
 ## 0.6 Contacting Church Headquarters or the Area Office
 
-Some chapters in this handbook include instructions to contact Church headquarters or the area office. The instruction to contact Church headquarters applies to those in the United States and Canada. The instruction to contact the area office applies to those outside the United States and Canada.
+Some chapters in this handbook include instructions to contact Church headquarters or the area office. The instruction to contact Church headquarters applies to those in the United States. The instruction to contact the area office applies to those outside the United States.

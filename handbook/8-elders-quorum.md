@@ -46,7 +46,7 @@ For more information about God’s work of salvation and exaltation, study [chap
 
 ### 8.2.1 Living the Gospel of Jesus Christ
 
-Elders quorum leaders support members in living the gospel of Jesus Christ. They emphasize exercising faith, repenting, increasing in self-reliance, and making covenants with God by receiving ordinances. Such ordinances include the temple endowment. See [1.2.1].
+Elders quorum leaders support members in living the gospel of Jesus Christ. They emphasize exercising faith, repenting, increasing in self-reliance, and making covenants with God by receiving ordinances. Such ordinances include the temple endowment. See [1.4.1].
 
 #### 8.2.1.1 Gospel Learning at Home
 
@@ -63,19 +63,15 @@ Elders quorums meet on Sundays for the following purposes:
 * Strengthen families and homes.
 * Coordinate efforts to assist God in His work of salvation and exaltation in the ward.
 
-Meetings are held on the second and fourth Sundays of the month. They last 50 minutes. The elders quorum presidency plans these meetings. A member of the presidency conducts.
+Meetings last 25 minutes. The elders quorum presidency plans these meetings. A member of the presidency conducts.
 
-The meeting begins with prayer. Then a member of the presidency leads the quorum members in counseling together for five to ten minutes about relevant challenges, needs, and opportunities. Focusing on the Savior in this counseling will help quorum members build testimonies, receive temple ordinances, keep covenants, and increase discipleship. The elders quorum presidency selects topics to counsel about based on the needs of the quorum members.
-
-Sufficient time should then be given to meaningful gospel instruction and discussion. The focus should be on topics in one or more talks from the most recent general conference. The elders quorum presidency prayerfully selects conference messages for quorum members to discuss. They make these selections based on members’ needs.
+Meetings begin with a prayer. A member of the quorum then leads gospel instruction based on one or more messages from the most recent general conference. The elders quorum presidency prayerfully selects the messages according to the needs of the quorum members. Quorum members counsel together about how the principles in the messages apply to their challenges and opportunities. Leaders and teachers ensure that the discussion focuses on the Savior and on helping quorum members deepen their covenant relationship with Him.
 
 Hymns may be sung to enhance a lesson.
 
 Meetings should end with a prayer.
 
 The elders quorum and Relief Society may occasionally combine for a Sunday lesson. These meetings are coordinated by the bishopric and the elders quorum and Relief Society presidencies.
-
-For more information, see “[To Sit in Council].”
 
 #### 8.2.1.3 Activities
 
@@ -132,14 +128,14 @@ The elders quorum president assigns a member of the presidency to help lead effo
 
 This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1] and [23.6.3].
 
-The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4].
+The ward mission leader leads weekly missionary coordination meetings (see [23.4]).
 
 ### 8.2.4 Uniting Families for Eternity
 
 Melchizedek Priesthood holders support members in uniting families for eternity. This includes:
 
 * Making covenants with God by receiving ordinances, including the temple endowment.
-* Doing temple and family history work (see [1.2.4]).
+* Doing temple and family history work (see [1.4.4]).
 
 In presidency and quorum meetings, the elders quorum presidency discusses ways the brethren can participate in these efforts.
 
@@ -149,9 +145,9 @@ The presidency encourages quorum members to learn about their family history. Th
 
 The elders quorum president assigns a member of the presidency to help lead temple and family history efforts in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
 
-This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his efforts. See [25.2.2].
+This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his efforts. See [25.2.2].
 
-The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7]). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
+The ward temple and family history leader leads temple and family history coordination meetings (see [25.2.7]).
 
 2:45
 
@@ -202,6 +198,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * Oversee elders quorum activities (see [8.2.1.3]).
 * Help young men and prospective elders prepare to receive the Melchizedek Priesthood (see [8.4]).
 * Oversee quorum records, reports, and finances (see [LCR.ChurchofJesusChrist.org]). A secretary may help (see [8.3.4]).
+* Support the needs of members with disabilities (see [38.8.28]).
 
 The stake presidency and assigned members of the high council teach the elders quorum presidency about these responsibilities. They may do this during stake priesthood leadership meetings, quorum presidency meetings, and personal visits with elders quorum presidents (see [29.3.3]).
 
@@ -270,4 +267,4 @@ As soon as the bishop and stake president determine that a prospective elder is 
 
 ## 8.5 Members with Disabilities
 
-The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org]; see also [38.8.27] in this handbook.
+The elders quorum presidency gives particular care to members with disabilities. For information about helping these members, see [disability.ChurchofJesusChrist.org]; see also [38.8.28] in this handbook.

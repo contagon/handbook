@@ -96,7 +96,7 @@ Choirs are encouraged to use the hymns and worshipful children’s songs of the 
 
 Choir rehearsals do not usually exceed one hour.
 
-If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1]). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.11]).
+If the ward choir needs sheet music, it may be purchased with ward budget funds (see [19.7.1]). Ward choirs are encouraged to share purchased music with other choirs in the stake. Duplicating sheet music without permission from the copyright owner is contrary to Church policy (see [38.8.12]).
 
 In addition to the ward choir, families and groups of women, men, youth, or children may be invited to sing in Church meetings.
 
@@ -202,7 +202,6 @@ The following resources may also be helpful:
 * A library of sheet music and music recordings for use at home and at church is available on the Gospel Library app and online at [music.ChurchofJesusChrist.org]. Listening to recordings can help members become more familiar with the hymns.
 * The interactive music player on [ChurchofJesusChrist.org] can help those seeking to learn new music or develop music skills.
 * The Basic Music Course can help members learn how to read and play music. It includes the Conducting Course Kit and Keyboard Course Kit. These resources can be purchased at [store.ChurchofJesusChrist.org].
-* A Music Education Fund has been established at Church headquarters to provide keyboards, training materials, and instruction for members seeking to develop music skills. For information about this fund, see “Harman Music Education Fund” at ChurchofJesusChrist.org.
 
 Stake and ward music coordinators may organize basic music training courses for music leaders, choir directors, or accompanists. Participants could include those who currently serve in music callings and other interested adults, youth, and children. Music coordinators or specialists may teach the courses. Music coordinators may also recommend qualified instructors to provide training.
 

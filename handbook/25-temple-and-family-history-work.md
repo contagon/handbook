@@ -12,7 +12,7 @@ Uniting families for eternity is part of God’s work of salvation and exaltatio
 
 Participating in this work brings great blessings. As members make and keep sacred covenants, they access the power of God. They find joy in serving in the house of the Lord on behalf of their ancestors.
 
-This chapter guides Church leaders and members on how to participate in uniting families for eternity through temple and family history work. More information is available at “[Temples],” “[Proxy Baptism],” and “[Family History]” (Topics and Questions, Gospel Library).
+This chapter guides Church leaders and members on how to participate in uniting families for eternity through temple and family history work. More information is available at “[Temples],” “Proxy Baptism,” and “[Family History]” (Topics and Questions, Gospel Library).
 
 ## 25.1 Member and Leader Participation in Uniting Families for Eternity
 
@@ -30,7 +30,9 @@ Many tools are available to help members in their temple and family history work
 
 Members determine for themselves when and how often to worship in the temple. Leaders do not establish quotas or reporting systems for temple worship.
 
-Individual members and families who have current temple recommends may attend any temple they desire. They may schedule an appointment with the temple. See [temples.ChurchofJesusChrist.org] for each temple’s contact information.
+Individual members and families who have current temple recommends may attend any temple they desire. Members planning to perform ordinances for the deceased may make a reservation with the temple, or they may attend without a reservation. Members planning to receive their own ordinances must make a reservation.
+
+See [temples.ChurchofJesusChrist.org] for each temple’s contact information.
 
 ### 25.1.2 Ward and Stake Temple Trips
 
@@ -73,7 +75,7 @@ The bishopric consults with the stake president to determine whether to call a w
 
 The ward temple and family history leader supports the elders quorum and Relief Society presidencies in their temple and family history responsibilities. He also has the following responsibilities:
 
-* Coordinate temple and family history efforts with ward organization leaders, including youth quorum and class presidencies.
+* Coordinate temple and family history efforts with ward organization leaders, including youth quorum and age-group presidencies.
 * Conduct ward temple and family history coordination meetings (see [25.2.7]).
 * Attend ward council meetings when invited.
 * Help the ward council develop and implement the ward temple and family history plan (see [25.2.6]).
@@ -143,7 +145,7 @@ Others who are invited include:
 
 * Assigned members of the Relief Society, elders quorum, and Primary presidencies.
 * An assistant in the priests quorum (or the teachers or deacons quorum president if there are no priests in the ward).
-* A presidency member of the oldest Young Women class.
+* A member of the Gatherers of Light presidency (or the president of another age-group if needed).
 * Temple and family history consultants.
 
 All who attend, including the youth, counsel together as equal participants. These meetings focus on the needs of individuals and how they can be blessed as they participate in temple and family history work. They focus especially on youth, new and returning members, and sisters and brothers who have not been endowed. The meetings usually cover the following topics:
@@ -179,7 +181,7 @@ The stake president holds the keys for God’s work of salvation and exaltation 
 
 * Help members prepare to make sacred covenants as they receive temple ordinances (see [27.1]).
 * Encourage all members, especially single sisters and brothers and those who are not endowed, to have a current recommend and worship in the house of the Lord as often as their circumstances allow.
-* Ensure that the doctrine and blessings of uniting families for eternity (as described in [1.2.4]) are taught regularly in stake meetings.
+* Ensure that the doctrine and blessings of uniting families for eternity (as described in [1.4.4]) are taught regularly in stake meetings.
 * Encourage members to learn about their ancestors and perform temple ordinances on their behalf.
 * Conduct temple recommend interviews (see [chapter 26]).
 
@@ -314,7 +316,7 @@ The stake presidency may assign a stake temple and family history consultant or 
 
 ## 25.5 Recommending and Calling Temple Workers
 
-Temple workers help perform ordinances or assist with temple operations, such as office, laundry, patron housing, or groundskeeping tasks. Members who are called as temple workers serve as unpaid volunteers.
+Temple workers help perform ordinances or assist with temple operations, such as office, laundry, patron housing, or groundskeeping tasks. Members who are called as temple workers serve as unpaid volunteers. Members who desire to serve as temple workers should contact their bishop.
 
 ### 25.5.1 Recommending Temple Workers
 
@@ -359,3 +361,5 @@ In addition, the bishop ensures the following:
 ### 25.5.3 Calling and Setting Apart Temple Workers
 
 After the temple president receives the recommendation for someone to serve as a temple worker, a member of the temple presidency or someone he designates interviews the person. As inspired, the person conducting the interview calls those who are able to serve as temple workers and sets them apart.
+
+Members who are called as temple workers must complete the children and youth protection training. This training is available at [ProtectingChildren.ChurchofJesusChrist.org]. They must repeat the training every three years thereafter.

@@ -172,7 +172,7 @@ Individuals make covenants with God as they receive ordinances that are necessar
 * Temple endowment.
 * Temple sealing.
 
-Living individuals receive these ordinances for themselves. However, many of God’s children die without an opportunity to receive the ordinances necessary for salvation and exaltation. In His merciful plan, God has provided a way for living individuals to receive these ordinances on behalf of those who have died. These sacred ordinances are performed in temples.
+Living individuals receive these ordinances for themselves. However, many of God’s children die without an opportunity to receive the ordinances necessary for salvation and exaltation. In His merciful plan, God has provided a way for living individuals to receive these ordinances in temples on behalf of those who have died.
 
 For more information about performing ordinances for the deceased, see [chapter 28].
 
@@ -216,7 +216,7 @@ The blessings associated with receiving and keeping the covenants of the endowme
 
 In the sealing ordinance, a man and a woman make a covenant with God and with each other. They covenant and promise to receive one another as husband and wife, counsel and labor together in love and righteousness, and fulfill their divinely appointed roles as husband and wife and as father and mother.
 
-A man and woman who are faithful to this covenant are joined together as husband and wife for all eternity. The couple has sealed upon them, through their faithfulness, all the blessings of God’s everlasting covenant, the highest of which is exaltation with eternal posterity (see [Doctrine and Covenants 132:19–20]; see also 66:2; 131:1–4; and [27.3] and [38.4] in this handbook).
+A man and woman who are faithful to this covenant are joined together as husband and wife for all eternity. The couple has sealed upon them, through their faithfulness, all the blessings of God’s everlasting covenant, the highest of which is exaltation with eternal posterity (see [Doctrine and Covenants 132:19–20]; see also [66:2]; [131:1–4]; and [27.3] and [38.4] in this handbook).
 
 ### 3.5.4 The Sacrament
 

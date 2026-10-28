@@ -14,7 +14,7 @@ Seminary is a four-year program in which youth study the gospel of Jesus Christ 
 
 Classes are held on weekdays when school is in session. The number of days the seminary class meets each week may be adapted to local conditions. (See [Seminary Class Options] for more information.) Classes or online assignments should take approximately four hours per week to complete.
 
-The bishopric, youth leaders, and quorum and class presidencies encourage every youth to participate fully in seminary. The bishopric encourages parents to register their children each year before seminary classes start. For more information, see [Seminary Registration] on ChurchofJesusChrist.org.
+The bishopric, youth leaders, and quorum and age-group presidencies encourage every youth to participate fully in seminary. The bishopric encourages parents to register their children each year before seminary classes start. For more information, see [Seminary Registration] on ChurchofJesusChrist.org.
 
 A local board of education may be established where several stakes with seminary classes (including home-study classes) are in close proximity and have common concerns and challenges. See [seminary.ChurchofJesusChrist.org].
 

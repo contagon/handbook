@@ -71,7 +71,7 @@ General Officers may have the following responsibilities:
 * Fulfill assignments throughout the world to minister to members.
 * Provide guidance for curriculum, programs, and resources for their organizations.
 * Provide guidance to their general organization councils (see the next paragraph).
-* Instruct and support area organization advisers, who serve under the direction of the Area Presidencies (see [5.2.5.1]).
+* Instruct and support area organization advisers, who serve under the direction of the Area Presidencies (see [5.2.4.1]).
 
 Each general Church organization may have a council to assist the Presidency.
 
@@ -81,7 +81,7 @@ The Church is organized into geographic areas covering the entire world. This se
 
 ### 5.2.1 Area Presidency
 
-In each area, a General Authority Seventy is assigned by the First Presidency and Quorum of the Twelve Apostles to serve as the Area President. Two counselors, who are General Authority Seventies or Area Seventies, are assigned to assist the president.
+In each area, a General Authority Seventy is assigned by the First Presidency and Quorum of the Twelve Apostles to serve as the Area President. Additional General Authority Seventies or Area Seventies are assigned to serve as members of the Area Presidency.
 
 The Area Presidency presides over and counsels with stake and mission presidents in the area. They also support temple presidents and matrons. In counsel with members of the Quorum of the Twelve Apostles and the Presidency of the Seventy to whom they report, they determine how to apply general Church policy and direction to meet the needs in their area.
 
@@ -98,12 +98,12 @@ Each Area Seventy belongs to a quorum of the Seventy. These quorums are organize
 Area Seventies work and counsel together with local Church leaders to help them fulfill their responsibilities. Area Seventies may be assigned to:
 
 * Serve on the area council (see [5.2.3]).
-* Preside at coordinating council meetings (see [5.2.4]).
+* Preside at coordinating council meetings (see [29.4]).
 * Preside at stake conferences and instruct stake leaders.
 * Create or reorganize stakes, set apart new stake presidencies, and confer keys on the stake president.
 * Coordinate area-wide responsibilities, including activities (see [20.3.3]), [JustServe.org] (where it is available), disaster recovery, or other assignments.
 * Tour missions and instruct mission leaders and missionaries.
-* Serve as a counselor in the Area Presidency.
+* Serve as a member of the Area Presidency.
 
 Area Seventies preside at all Church meetings they attend within their area unless a General Authority is present. However, they do not preside over the day-to-day work of temple, mission, or stake presidents. These presidents serve under the direction of the Area Presidency.
 
@@ -111,26 +111,14 @@ Area Seventies preside at all Church meetings they attend within their area unle
 
 In each area, an area council meets as needed (usually quarterly) to coordinate God’s work of salvation and exaltation in their area. The Area Presidency presides over the area council. This council consists of the Area Presidency and Area Seventies serving in the area. Others may attend part or all of the council’s meetings when needed and when invited by the Area Presidency.
 
-### 5.2.4 Coordinating Council
-
-The Area Presidency establishes coordinating councils. Each council includes specified stakes and missions in an area. The Area Presidency assigns an Area Seventy to lead each council.
-
-Stake and mission presidents attend coordinating council meetings. Temple presidents whose temple districts are within the boundaries of the coordinating council are invited to attend when practical.
-
-Others may attend part or all of the meetings when needed and when invited by the Area Seventy. Area Seventies consider distance, family circumstances, and travel when making these invitations.
-
-The purpose of coordinating council meetings is to help stake, mission, and temple presidents exercise priesthood keys in unity. Together they counsel about and coordinate efforts to help members in their responsibilities to participate in God’s work of salvation and exaltation.
-
-The Area Seventy convenes a coordinating council meeting soon after each quarterly area council meeting (see [29.4]). Additional meetings may be held when needed.
-
-### 5.2.5 Area Callings
+### 5.2.4 Area Callings
 
 The Area Presidency may call members to serve in area callings to assist the Area Presidency in their responsibilities. Those serving in these positions are called and set apart by a member of the Area Presidency or an assigned Area Seventy. They are not sustained.
 
-Examples of area callings may include area executive secretary, area auditor, area communications director, area temple and family history adviser, and area organization adviser.
+Examples of area callings may include area executive secretary, area auditor, area communications director, area temple and family history adviser (see [25.3.8]), and area organization adviser.
 
-#### 5.2.5.1 Area Organization Advisers
+#### 5.2.4.1 Area Organization Advisers
 
-Outside of the United States and Canada, Area Presidencies may call women to serve as area organization advisers. These advisers may help orient and instruct new stake Relief Society, Young Women, and Primary presidencies, under the direction of these leaders’ stake presidencies (see [6.2.1.6]). A member of the stake presidency or an assigned high councilor participates in this orientation.
+Outside of the United States, Area Presidencies may call women to serve as area organization advisers. These advisers may help orient and instruct new stake Relief Society, Young Women, and Primary presidencies, under the direction of these leaders’ stake presidencies (see [6.2.1.6]). A member of the stake presidency or an assigned high councilor participates in this orientation.
 
 Area advisers serve under the direction of their Area Presidency. They also receive regular instruction from general organization presidencies. They typically serve for three years.

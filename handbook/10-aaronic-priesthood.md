@@ -12,7 +12,7 @@ A quorum is an organized group of priesthood holders. The purpose of a quorum is
 
 ### 10.1.2 Aaronic Priesthood Quorum Theme
 
-The Aaronic Priesthood quorum theme can help each young man understand his divine identity and his purpose as a priesthood holder. Young men and their leaders repeat the theme at the beginning of quorum meetings and at other quorum gatherings. The theme reads as follows:
+The Aaronic Priesthood quorum theme can help each young man understand his divine identity and his purpose as a priesthood holder. The theme reads as follows:
 
 “I am a beloved son of God, and He has a work for me to do.
 
@@ -86,7 +86,7 @@ Parents are responsible to teach their children the gospel and help them live it
 
 Leaders should be sensitive to youth who lack family support for gospel living.
 
-Parents and leaders strive to be good examples to the youth. They mentor youth in their efforts to become more like Jesus Christ. The Children and Youth program can help in these efforts (see ChildrenandYouth.ChurchofJesusChrist.org).
+Parents and leaders strive to be good examples to the youth. They mentor youth in their efforts to become more like Jesus Christ. The Children and Youth program can help in these efforts (see [ChildrenandYouth.ChurchofJesusChrist.org]).
 
 #### 10.2.1.2 Gospel Learning
 
@@ -94,9 +94,9 @@ The bishopric, youth quorum leaders, and advisers encourage young men and their 
 
 Aaronic Priesthood quorums meet on Sundays to strengthen faith, build unity, strengthen families and homes, and make plans to participate in God’s work of salvation and exaltation. The bishopric and youth quorum leaders, supported by advisers, plan Sunday meetings.
 
-Quorum meetings are held on the second and fourth Sundays of the month. They last 50 minutes. Meetings begin with a prayer. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts. He leads the quorum in reciting the theme and counseling together about assignments, duties, and other matters.
+Quorum meetings last 25 minutes. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts.
 
-A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in [Come, Follow Me]. Meetings should end with a prayer.
+Meetings begin with a prayer. An adult leader or quorum member (who may be assisted by an adult leader) then leads gospel instruction. Quorum presidencies and the bishop’s assistants in the priests quorum counsel with advisers about who should teach. Instruction is based on topics in [For the Strength of Youth: A Guide for Making Choices]. Additional ideas can be found in the [For the Strength of Youth] magazine. Meetings should end with a prayer.
 
 Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5]). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
@@ -116,9 +116,9 @@ Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChr
 
 For more information, see [AaronicPriesthoodQuorums.ChurchofJesusChrist.org]. See also [JustServe.org] where it is available. These resources provide service and activity ideas.
 
-_Annual Activities._ In addition to regular youth activities, young men may also participate in the following each year:
+_Annual Activities._ In addition to regular youth activities, young men also participate in the following each year:
 
-* A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the assistants to the bishop in the priests quorum and the presidency of the oldest Young Women class. Young men turning 12 during the year may receive their emblems of belonging during this meeting (see [10.8.3]). For more information, see ChildrenandYouth.ChurchofJesusChrist.org.
+* A meeting for youth and their parents near the beginning of the year. It can be held for young men and young women separately or together. It can also be held at the ward or stake level. It is planned and led by the Gatherers of Light presidency and the assistants to the bishop in the priests quorum. Young men turning 12 during the year may receive their emblems of belonging during this meeting (see [10.8.3]). For more information, see [ChildrenandYouth.ChurchofJesusChrist.org].
 * An Aaronic Priesthood quorum camp (see [Aaronic Priesthood Quorum Camp Guide]). The duration of the camp depends on local needs and resources. Where possible, leaders are encouraged to plan an annual camp that lasts long enough for young men to have spiritual experiences and build meaningful relationships. Young men may participate in additional overnight camps, events, and activities throughout the year, where feasible.
 * [[AO]] A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org]. For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org] (for the U.S. and Canada) or the [FSY Planning Guide] (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices]. This event could include both young men and young women. Parents may also be invited.
@@ -202,6 +202,7 @@ The bishopric has the following additional responsibilities for Aaronic Priestho
 * Oversee teaching in the Aaronic Priesthood quorums.
 * Help young men prepare to receive the Melchizedek Priesthood (see [10.6]).
 * Oversee the records, reports, and finances of Aaronic Priesthood quorums.
+* Support the needs of young men with disabilities (see [38.8.28]).
 
 Quorum advisers and specialists help with these responsibilities as requested (see [10.5]).
 
@@ -256,10 +257,10 @@ The bishop presides over the ward youth council. This council’s members includ
 
 * The bishopric.
 * One of the bishop’s assistants in the priests quorum, the teachers quorum president, and the deacons quorum president.
-* The Young Women class presidents (or the entire class presidency if the ward has just one Young Women class).
+* The Young Women age-group presidents (or the entire age-group presidency if the ward has just one Young Women age-group).
 * The Young Women president.
 
-The ward youth council discusses ways to help others build testimonies, receive saving ordinances, make and keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5]). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
+The ward youth council discusses ways to help others build testimonies, receive saving ordinances, make and keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5]). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or age-group presidency meetings.
 
 See [29.2.6] for more information about the ward youth council.
 
@@ -312,7 +313,7 @@ For information about how these guidelines apply to ministering companions, see 
 
 ### 10.8.2 Young Men with Disabilities
 
-Quorum leaders give special care to young men with disabilities. [[AO]] For information about helping these young men, see [disability.ChurchofJesusChrist.org]; see also [38.8.27] in this handbook.
+Quorum leaders give special care to young men with disabilities. [[AO]] For information about helping these young men, see [disability.ChurchofJesusChrist.org]; see also [38.8.28] in this handbook.
 
 ### 10.8.3 Children and Youth Emblems
 

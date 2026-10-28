@@ -32,6 +32,7 @@ Members meet with their bishop when they are preparing to:
 * Be sealed to a spouse (see [27.3]).
 * Be sealed to their parents (see [27.4]).
 * Have their children sealed to them (see [27.4]).
+* Observe the sealing of their living siblings, stepsiblings, or half siblings to their parents (_for unendowed members ages 8–20 only_; see [27.4.5]).
 
 The bishop helps the member verify important information like names, birth dates, the dates of previous ordinances, and marriage dates. This is done using Ordinance Preparation in [LCR].
 
@@ -162,7 +163,7 @@ To enter the temple and receive the endowment, a member must have the following:
 
 #### 27.2.3.2 Contacting the Temple
 
-Members who are planning to receive the endowment should contact the temple in advance to schedule the ordinance. They may do so after they have met with their bishop (see [27.1.2]). The temple will provide instructions, including information about temple clothing, when the appointment is scheduled.
+Members who are planning to receive the endowment should contact the temple in advance to schedule the ordinance. They may do so after they have met with their bishop (see [27.1.2]). The temple will provide instructions, including information about temple clothing, when the reservation is made.
 
 #### 27.2.3.3 Escorts for Members Receiving the Endowment
 
@@ -267,16 +268,14 @@ For the policy on sealing a couple who were married in the temple for time only,
 
 ### 27.3.4 Who May Attend a Temple Sealing
 
-Couples should invite only close family members and friends to a temple sealing. Accountable members must be endowed and have a current temple recommend to attend.
+Couples should invite only close family members and friends to a temple sealing. Members must be endowed and have a current temple recommend to attend the sealing of a husband and wife.
 
-Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the temple sealing of their living siblings or parents if they:
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. As an exception, the stake president may authorize them to observe the temple sealing of their living parents or the sealing of a living sibling to a spouse if they:
 
 * Are at least 18 years old.
 * Are able to remain reverent during the ceremony.
 
 The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
-
-Members must be endowed and have a current temple recommend to observe the sealing of their parents.
 
 For information about who may attend a sealing of living children to parents, see [27.4.5].
 
@@ -341,4 +340,14 @@ The following table describes the recommends that members need when they observe
 | Unendowed member younger than age 21 and at least 11 and turning 12 the year of the ordinance | • Temple recommend for living ordinances (see [26.3.3])<br/>• Temple recommend for proxy baptisms and confirmations (see [26.3.1]) |
 | Endowed member (members who are 21 or older must be endowed to observe such sealings) | • Temple recommend for endowed members (see [26.3.2]) |
 
-Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the sealing of their living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to be observe the sealing. This letter is presented at the temple.
+Some members of record are not baptized due to an intellectual disability, and some are baptized but not endowed for the same reason. The stake president may authorize them to observe the sealing of their living siblings, stepsiblings, or half-siblings to their parents. The stake president writes a letter stating that the person is authorized to observe the sealing. This letter is presented at the temple.
+
+### 27.4.6 Appropriate Clothing for a Sealing of Living Children to Parents
+
+_Parents and Endowed Children:_ A husband and wife and any endowed children being sealed to them wear ceremonial temple clothing during the sealing ceremony (see [38.5.1]).
+
+_Children Who Are Not Endowed:_ Unendowed children being sealed to their parents wear white clothing during the sealing ceremony. The temple can provide this clothing if desired.
+
+Those who are observing the sealing of their siblings, stepsiblings, or half siblings to their parents may dress in white, but it is not required.
+
+For information about appropriate clothing for guests to wear to a temple sealing, see [27.3.2.6].

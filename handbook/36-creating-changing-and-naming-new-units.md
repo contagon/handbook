@@ -8,7 +8,7 @@ Church congregations (also called units) include stakes, districts, wards, and b
 
 Leaders work to increase the spiritual strength of members before proposing to create a new unit or change a unit’s boundary. New units should be created only when the existing units are sufficiently strong.
 
-For support in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
+For support in the United States, call 1-801-240-1007 or email [BLCCSupport@ChurchofJesusChrist.org]. Outside the United States, call the area office.
 
 ## 36.1 Creating or Changing Stakes and Districts
 
@@ -151,7 +151,7 @@ Stake or mission presidents notify Church headquarters or their area office afte
 
 After a stake or mission president receives approval for ward or branch changes, he generally has 90 days to present the changes to be sustained by the members. If he needs to delay longer than 90 days, he requests permission from the Office of the First Presidency.
 
-Stake or mission presidents implement the proposal in LCR once the changes have been made. For help in the United States and Canada, call 801-240-6243 or email [oiservices@ChurchofJesusChrist.org]. For help outside the United States and Canada, contact the area office. Maps and units are not updated until they are recorded by Church headquarters.
+Stake or mission presidents implement the proposal in LCR once the changes have been made. For help in the United States, call 1-801-240-6243 or email [OIServices@ChurchofJesusChrist.org]. For help outside the United States, contact the area office. Maps and units are not updated until they are recorded by Church headquarters.
 
 ## 36.6 Basic Unit Program
 
@@ -161,7 +161,7 @@ The Church has developed the Basic Unit Program for use by some small branches o
 * Members are scattered geographically.
 * The number of members is small, and leadership is just beginning to develop.
 * Members have special language needs.
-* Members are in the military (see [38.9.4] for reasons a service member group might be created).
+* Members are in the military (see [38.10.3.1] for reasons a group might be created for service members).
 * Members are in care centers, treatment programs, or prisons.
 
 Area Presidencies and other leaders emphasize that units using the Basic Unit Program should not expand organizations, meetings, and programs too quickly. Leadership is best cultivated when Church resources are in proper balance with members’ circumstances and needs.

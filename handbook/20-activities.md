@@ -146,7 +146,7 @@ Multistake activities should be simple and varied.
 
 If stake presidents feel that a multistake activity would benefit the members of their stakes, they may request permission from the Area Presidency. Before proposing a multistake activity, stake presidents determine whether it is the best way to meet the needs they have identified. The stake presidents consider the cost, time, and travel the activity would require. They also consider safety (see [20.7.6]).
 
-Meetings to coordinate the planning of multistake activities may be held before or after area council and coordinating council meetings (see [5.2.3] and [5.2.4]). As needed, additional leaders—including stake Relief Society, Young Men, and Young Women presidents—could be invited to attend.
+Meetings to coordinate the planning of multistake activities may be held before or after area council and coordinating council meetings (see [5.2.3] and [29.4]). As needed, additional leaders—including stake Relief Society, Young Men, and Young Women presidents—could be invited to attend.
 
 The Area Presidency may assign stake presidents or Area Seventies to lead committees that plan and carry out multistake or area activities. Stake presidencies may call members of their stakes to serve on these committees.
 
@@ -180,7 +180,7 @@ As leaders and youth plan a youth conference, they should observe the policies i
 
 * Select a gospel theme, such as a scripture, that will inspire the youth and help them understand the expectations of the conference. The Church’s annual youth theme could be used as the conference theme. The bishopric or stake presidency should approve the theme.
 * Plan activities that are consistent with the theme.
-* Obtain the approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. See [38.8.18] for other guidelines concerning speakers.
+* Obtain the approval of the bishopric or stake presidency for all speakers and activities. Speakers should be Church members who teach by the Spirit. See [38.8.19] for other guidelines concerning speakers.
 * If an event is planned for Sunday, it should be appropriate for the Sabbath day. Testimony meetings, discussions with the bishopric, or similar meetings are permitted. However, sacrament meetings are not to be held—and the sacrament is not to be administered—outside of meetinghouses in the ward or stake. Any exceptions must be for a Church-sponsored activity and must be approved by the Area Presidency. Groups should not travel to or from youth conference on a Sunday.
 * Ensure adequate adult supervision at all times (see [20.7.1]).
 * Follow all safety guidelines in [20.7.6].
@@ -197,7 +197,7 @@ Activities held for any commercial or political purpose are not permitted (see [
 
 ### 20.5.2 Dances and Music
 
-In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see [For the Strength of Youth: A Guide for Making Choices]).
+In all dances, the dress, grooming, lighting, dancing styles, lyrics, and music should contribute to an atmosphere where the Spirit of the Lord can be present (see For the Strength of Youth: A Guide for Making Choices).
 
 Leaders use the [Performance Contract] form when hiring a band, orchestra, or disc jockey. This contract helps ensure that conduct and music are appropriate for Church dances. Leaders make clear agreements in writing that commit those who provide music to follow Church standards at Church activities.
 
@@ -243,7 +243,7 @@ Leaders fill out an [Event and Activity Plan form] for all overnight activities.
 
 Overnight activities at Church meetinghouses or meetinghouse grounds are not approved.
 
-For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+For more information, see “[Safety and Health for Church Activities: Common Questions]” on ChurchofJesusChrist.org.
 
 ### 20.5.6 Portrayal of Deity
 
@@ -261,7 +261,7 @@ All activities should be opened and, when appropriate, closed with prayer. A hym
 
 No Church camps, sports events, or recreational events are to be scheduled on Sunday. Nor should youth groups and others travel to or from camps or youth conferences on Sunday.
 
-As an exception, when safety or travel costs are serious concerns, some youth activities may be scheduled immediately after Sunday worship meetings. These activities should be separate from the Sunday meeting schedule. They should be in keeping with the spirit of the Sabbath. Approval from the bishop and stake president is required.
+As an exception, when safety or travel costs are concerns, some youth or Primary activities may be scheduled immediately after Sunday worship meetings. These activities should be separate from the Sunday meeting schedule. They should be in keeping with the spirit of the Sabbath. Approval from the bishop and stake president is required.
 
 ### 20.5.9 Sports
 
@@ -380,11 +380,11 @@ In many parts of the world, health and accident insurance coverage is available 
 
 #### 20.7.3.3 Personal Liability Insurance
 
-The Church counsels members and leaders who oversee Church activities to protect themselves, where possible, by carrying reasonable amounts of liability insurance. Such insurance may be available through homeowners insurance or other policies. For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+The Church counsels members and leaders who oversee Church activities to protect themselves, where possible, by carrying reasonable amounts of liability insurance. Such insurance may be available through homeowners insurance or other policies. For more information, see “[Safety and Health for Church Activities: Common Questions]” on ChurchofJesusChrist.org.
 
 #### 20.7.3.4 Church Activity Medical Assistance Program
 
-In the United States, the Church Activity Medical Assistance (CAMA) program provides secondary medical and dental assistance for injuries sustained while participating in a Church activity. It also provides funeral assistance if necessary. This program is designed to supplement, not replace, a person’s own health and accident insurance. For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+In the United States, the Church Activity Medical Assistance (CAMA) program provides secondary medical and dental assistance for injuries sustained while participating in a Church activity. It also provides funeral assistance if necessary. This program is designed to supplement, not replace, a person’s own health and accident insurance. For more information, see “[Safety and Health for Church Activities: Common Questions]” on ChurchofJesusChrist.org.
 
 If an incident occurs during a Church-sponsored event, leaders determine if CAMA might be needed. Any leader may report an incident in the Global Incident Reporting system at [incidents.ChurchofJesusChrist.org]. If the leader indicates that treatment beyond first aid is expected, the bishop will be notified and will receive enrollment information. The bishop considers a person’s ability to pay medical expenses by other means, such as personal insurance coverage or other resources. He may authorize the use of CAMA funds if he feels it is appropriate.
 
@@ -406,7 +406,7 @@ Website: [dmba.com/churchactivity]
 
 The Church is often asked to provide evidence of insurance for activities. These requests come because of rental agreements, contracts, or permits associated with activities.
 
-In the United States and Canada, leaders may obtain a certificate showing evidence of insurance at [InsuranceCertificates.ChurchofJesusChrist.org]. Outside the United States and Canada leaders should contact the area office. Requests should include:
+In the United States, leaders may obtain a certificate showing evidence of insurance at [InsuranceCertificates.ChurchofJesusChrist.org]. Outside the United States, leaders should contact the area office. Requests should include:
 
 * The name and address of the organization requiring evidence of insurance.
 * A description and location of the facility, if renting a facility.
@@ -437,7 +437,7 @@ Activities should include appropriate training and supervision. They should also
 
 Leaders instruct all participants in safety practices for the activity. When activities require specific physical skills or experience, it may be necessary to obtain specialized training or to use professional guides.
 
-Leaders should be prepared for emergencies. They should also know in advance how to contact local law enforcement and emergency services. For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+Leaders should be prepared for emergencies. They should also know in advance how to contact local law enforcement and emergency services. For more information, see “[Safety and Health for Church Activities: Common Questions]” on ChurchofJesusChrist.org.
 
 #### 20.7.6.2 Accident Response
 
@@ -466,7 +466,7 @@ If an event results in a serious injury, fatality, or missing person, the stake 
 
 The stake president or bishop also reports injuries and damage involving Church facilities or property to the Church facilities manager.
 
-For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+For more information, see “[Safety and Health for Church Activities: Common Questions]” on ChurchofJesusChrist.org.
 
 #### 20.7.6.4 Insurance and Questions
 
@@ -494,7 +494,7 @@ Church organizations may not own or acquire automobiles or buses for group trave
 
 A man and a woman should not travel alone together for Church activities, meetings, or assignments unless they are married to each other or are both single.
 
-For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+For more information, see “[Safety and Health for Church Activities: Common Questions]” on ChurchofJesusChrist.org.
 
 ## 20.8 Activity Administration Policies
 
@@ -502,7 +502,7 @@ Leaders ensure that the following policies and guidelines are observed when admi
 
 ### 20.8.1 Copyrighted Materials
 
-See [38.8.11].
+See [38.8.12].
 
 ### 20.8.2 Renting Non-Church Facilities for Activities
 

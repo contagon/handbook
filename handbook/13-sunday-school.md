@@ -38,7 +38,8 @@ The Sunday School president has the following responsibilities. If the president
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way]. Encourage them to study [Teaching in the Savior’s Way].
 * Lead teacher council meetings as guided by the bishop (see Teaching in the Savior’s Way, [38–39]).
 * Encourage teachers to reach out to members who do not attend classes.
-* Work with teachers to keep attendance records. Report attendance quarterly to the ward clerk or in [LCR] or Member Tools. A secretary, if called, can help with this responsibility.
+* Work closely with teachers to keep accurate attendance records. Using [LCR], work with the Primary secretary to keep attendance records for adults serving in Primary. A secretary, if called, can help with this responsibility.
+* Support the needs of members with disabilities (see [38.8.28]).
 
 ### 13.2.3 Sunday School Teachers
 
@@ -48,11 +49,11 @@ Sunday School teachers get to know class members, including those who do not att
 
 To prepare to teach, Sunday School teachers use the scriptures and [Come, Follow Me]. They follow the principles in [Teaching in the Savior’s Way] and [chapter 17] of this handbook.
 
-Sunday School teachers attend quarterly teacher council meetings (see [17.4]).
+Sunday School teachers attend monthly teacher council meetings (see [17.4]).
 
 ## 13.3 Sunday School Classes
 
-Sunday School classes are held on the first and third Sundays of the month. They last 50 minutes. Classes begin and end with a prayer.
+Sunday School classes last 25 minutes. Classes begin and end with a prayer.
 
 With the bishopric’s approval, the Sunday School president organizes classes for adults and youth. If the president has counselors, they assist him or her.
 
@@ -85,7 +86,7 @@ Groups that could benefit from their own Sunday School class include:
 
 Ward leaders are responsible for improving learning and teaching in their organizations. This includes orienting newly called teachers (see Teaching in the Savior’s Way, [40]). They can ask the ward Sunday School president for help if needed.
 
-Teacher council meetings are held quarterly during the 50-minute class time on Sunday (see [17.4]). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way] is the main resource for these meetings.
+Teacher council meetings are held monthly during one of the 25-minute class times on Sunday (see [17.4]). Their purpose is to help improve learning and teaching. [Teaching in the Savior’s Way] is the main resource for these meetings.
 
 The ward council oversees and schedules teacher council meetings. A member of the Sunday School presidency usually leads the meetings. However, the bishopric may ask another member to lead them.
 
@@ -95,7 +96,7 @@ For more information, see “[For Leaders—Helping Teachers Succeed]” in Teac
 
 Parents are responsible for teaching the gospel to their children.
 
-The ward council may organize teacher council meetings for parents during the 50-minute class time on Sunday. These meetings are led by a member of the Sunday School presidency or someone else the bishopric assigns. [Teaching in the Savior’s Way] is the main resource for these meetings.
+The ward council may organize teacher council meetings for parents during one of the 25-minute class times on Sunday. These meetings are led by a member of the Sunday School presidency or someone else the bishopric assigns. [Teaching in the Savior’s Way] is the main resource for these meetings.
 
 For more information about teacher council meetings for parents, see [17.5].
 
@@ -109,7 +110,7 @@ The responsibilities of the stake Sunday School president are outlined in [6.7.1
 
 ### 13.7.1 Members with Disabilities
 
-Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org]; see also [38.8.27] in this handbook.
+Sunday School teachers give special care to class members who have disabilities. For information about teaching members who have disabilities, see [disability.ChurchofJesusChrist.org]; see also [38.8.28] in this handbook.
 
 ### 13.7.2 Resource Center
 

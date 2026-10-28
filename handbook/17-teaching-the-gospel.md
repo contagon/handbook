@@ -55,10 +55,10 @@ Leaders are responsible for teaching and learning in their organizations. Some o
 
 In teacher council meetings, teachers counsel together about principles of Christlike teaching. They also counsel about how to improve gospel learning and teaching. They use [Teaching in the Savior’s Way] as a resource.
 
-Teacher council meetings are held quarterly during the 50-minute class time on Sunday.
+Teacher council meetings are held monthly during one of the 25-minute class times on Sunday.
 
-* Meetings for priesthood, Relief Society, and Young Women teachers can be held on a first or third Sunday.
-* Meetings for Sunday School teachers can be held on a second or fourth Sunday.
+* Relief Society, Young Women, and priesthood quorum teachers can meet while Sunday School is being held.
+* Sunday School teachers can meet while Relief Society, Young Women, and quorum meetings are being held.
 
 The Primary presidency counsels with a member of the bishopric to determine how to strengthen teaching in the Primary. The Sunday School president can help as needed. Some options are listed below:
 
@@ -74,7 +74,7 @@ For more information, see “[Teacher Council Meetings]” in Teaching in the Sa
 
 ## 17.5 Teacher Council Meetings for Parents
 
-The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during the 50-minute class time on Sunday.
+The ward council may organize teacher council meetings for parents to help them improve gospel teaching in the home. Like other teacher council meetings, these are held during one of the 25-minute class times on Sunday.
 
 In these meetings, parents counsel together about how to apply principles of Christlike teaching as they teach their children. They use [Teaching in the Savior’s Way] as a resource, including the section titled “[Home and Family]” (pages 30–31). They can also discuss the teaching and scripture study suggestions in Come, Follow Me, such as the section titled “[Preparing Your Children for a Lifetime on God’s Covenant Path].”
 

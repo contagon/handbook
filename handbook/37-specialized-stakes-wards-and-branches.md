@@ -6,7 +6,7 @@ A stake president may propose creating specialized stakes, wards, and branches t
 
 A stake president starts a new proposal at [Boundary and Leadership Proposals]. If he cannot use the online system, he can download paper forms by clicking on the link. Only the First Presidency can approve the proposal.
 
-For support in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
+For support in the United States, call 1-801-240-1007 or email [BLCCSupport@ChurchofJesusChrist.org]. Outside the United States, call the area office.
 
 ## 37.1 Language Wards and Branches
 
@@ -34,7 +34,7 @@ The children and youth of a language unit may combine classes with a geographic 
 
 See [36.3] for language branches in a mission. See [36.4.2] for ward and branch naming guidelines.
 
-For support regarding the creation of a language _stake_ in the United States and Canada, call 1-801-240-1007. Outside the United States and Canada, call the area office.
+For support regarding the creation of a language _stake_ in the United States, call 1-801-240-1007. Outside the United States, call the area office.
 
 ### 37.1.1 Membership in a Language Ward or Branch
 
@@ -202,21 +202,25 @@ See [36.4.2] for ward and branch naming guidelines.
 
 ## 37.7 Groups in Stakes, Missions, and Areas
 
-Groups are small authorized gatherings of members overseen by a bishop, branch president, or mission president. The stake or mission president may recommend creating a group in the following circumstances:
+Groups are small authorized units overseen by a bishop, branch president, or mission president. Like other units, each group has a unit number. The stake or mission president may recommend creating a group in the following circumstances:
 
 * Travel for its potential members to meet with a ward or branch is difficult.
 * A small number of members speak a language other than the language of their unit, including sign language.
-* Members in the military are best served by being in a group (see [38.9.4]).
+* Members in the military are best served by being in a group (see [38.10.3.1]).
 
-To propose creating a group, the stake or mission president submits a request to the Area Presidency. Only the Area Presidency can approve the request.
+To propose creating, changing, or discontinuing a group, the stake or mission president starts a new proposal at [Boundary and Leadership Proposals]. If he cannot use the online system, he can download paper forms by clicking on the link.
+
+The Area Presidency approves or denies the proposal.
+
+The Area Presidency must submit the approved proposal to Church headquarters for processing before the group can be created or changed in the Church’s systems.
 
 A group must have at least two members. One must be a worthy priest in the Aaronic Priesthood or a worthy Melchizedek Priesthood holder.
 
-In stakes, the stake president assigns a bishop or branch president to organize and supervise the group. In missions, the mission president assigns a branch president to organize and supervise it.
+In stakes, the stake president assigns a bishop or branch president to organize and supervise the group. In missions, the mission president assigns a branch president to organize and supervise it. If the group is within the mission’s dispersed members unit, the mission president oversees its organization and supervision.
 
 Generally, a group can be created to serve members who live in one or more units within a stake or district. Group membership is limited to those who live within the boundaries of the participating unit or units. Groups do not cross stake or district boundaries.
 
-The stake president, mission president, bishop, or branch president calls a group leader and sets him apart. The group leader organizes and conducts group meetings, which include the administration of the sacrament.
+The stake president, the mission president, or an assigned bishop or branch president (or an assigned counselor) calls a group leader and sets him apart. The group leader organizes and conducts group meetings, which include the administration of the sacrament.
 
 A group leader does not hold priesthood keys, and he is not authorized to:
 
@@ -229,10 +233,8 @@ Typically, groups use the Basic Unit Program (see [36.6]).
 
 Membership records of group members are kept in the ward or branch that supervises the group.
 
-Church headquarters does not assign a unit number to groups.
-
 When a group qualifies, the stake or mission president may propose for it to become a branch.
 
-## 37.8 Church Units at Military Installations
+## 37.8 Church Units for Service Members
 
-For instructions on creating wards, branches, and service member groups that meet on military installations, see [38.9.4].
+For information about creating wards, branches, and groups that meet on military installations, see [38.10.3.1].

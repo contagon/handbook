@@ -88,7 +88,7 @@ Guidelines for obtaining approval from parents or guardians for a minor child to
 * For baptism and confirmation: [38.2.8.2]
 * For ordination to a priesthood office: [38.2.9.2]
 
-For questions about the legal rights of parents or guardians, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.23]).
+For questions about the legal rights of parents or guardians, the bishop or stake president seeks legal advice from the Church’s Office of General Counsel or from the area office (see [38.8.24]).
 
 ## 18.5 Ordinances Performed for and by Persons Who Have Disabilities
 
@@ -275,7 +275,7 @@ Under the direction of the bishopric, one or more Melchizedek Priesthood holders
 
 Before a child who is a member of record is interviewed for baptism, a clerk uses [LCR] to prepare a [Baptism and Confirmation Form]. The bishop or an assigned counselor conducts the interview and signs the form. After the baptism and confirmation, a clerk uses this form to update the child’s membership record in [LCR].
 
-When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Preach My Gospel app. After the baptism and confirmation, the missionaries record the information in the app and submit it to the ward clerk electronically. The ward clerk reviews the information in [LCR] and creates the membership record.
+When a full-time missionary interviews a convert for baptism, he fills out the Baptism and Confirmation Record using the Preach My Gospel app. After the baptism and confirmation, the missionaries record the information in the app, which creates the membership record and assigns it to the ward. The ward clerk reviews the information in [LCR] and completes the member profile.
 
 After the membership record is created, a clerk prepares a Baptism and Confirmation Certificate. This certificate is signed by the bishop and given to the person.
 
@@ -480,7 +480,7 @@ One or more authorized Melchizedek Priesthood holders place their hands lightly 
 
 1. Calls the person by his or her full name.
 2. States that he is acting by the authority of the Melchizedek Priesthood.
-3. Sets the person apart to the calling in the stake, ward, quorum, or class.
+3. Sets the person apart to the calling in the stake, ward, quorum, class, or age-group.
 4. Confers keys if the person should receive them.
 5. Gives words of blessing as guided by the Spirit.
 6. Closes in the name of Jesus Christ.
@@ -644,7 +644,7 @@ If a patriarchal blessing does not include a declaration of lineage, the patriar
 
 A person who has received a patriarchal blessing will receive a printed copy after it has been transcribed. The blessing should be carefully safeguarded. A person may request access to a digital version at [Patriarchal Blessings] on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
 
-A person may also access his or her patriarchal blessing from the Home section of the Gospel Library app. To view the blessing, a member must be signed in using his or her Church account. If the blessing does not appear, the member will need to request the blessing at [Patriarchal Blessings] on ChurchofJesusChrist.org.
+A person may also access his or her patriarchal blessing from the Home section of the Gospel Library app. To view the blessing, a member must be signed in using his or her Church account.
 
 ### 18.17.3 More Information
 

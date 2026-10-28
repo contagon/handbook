@@ -42,7 +42,7 @@ When making these decisions, leaders consider the following:
 * Dedicated ministering brothers and sisters should be assigned to members who have the greatest need. These may include new members, single parents, widows, widowers, and less-active members.
 * Youth may serve as companions to adults according to the guidelines in [21.2.2].
 * A married couple may be assigned to minister together to a person or family.
-* Stake presidencies and bishoprics care for all members of the stake or ward. Because of this, they are generally not assigned as ministering brothers. The stake president determines whether high councilors and functioning patriarchs are assigned.
+* Stake presidencies and bishoprics care for all members of the stake or ward. Because of this, they are generally not assigned as ministering brothers. The stake president determines whether high councilors and actively serving patriarchs are assigned.
 
 After the bishop has given approval, a member of the elders quorum presidency extends assignments to ministering brothers, including young men. A member of the Relief Society presidency extends assignments to ministering sisters, including young women.
 
@@ -63,7 +63,7 @@ A young man serves as a ministering companion to a Melchizedek Priesthood holder
 
 In some cases, youth may be assigned as a third member of a ministering companionship. Leaders may assign the youth to help minister to some or all of the individuals and families assigned to the companionship.
 
-Youth do not have ministering brothers or sisters assigned to them. They receive ministering care from their family’s ministering brothers. Their class or quorum presidency and adult leaders also minister to them. If their parents are not members of the Church but are open to receiving ministering, the elders quorum presidency may assign ministering brothers to the family. Similarly, the Relief Society presidency may assign ministering sisters to the mother.
+Youth do not have ministering brothers or sisters assigned to them. They receive ministering care from their family’s ministering brothers. Their age-group or quorum presidency and adult leaders also minister to them. If their parents are not members of the Church but are open to receiving ministering, the elders quorum presidency may assign ministering brothers to the family. Similarly, the Relief Society presidency may assign ministering sisters to the mother.
 
 The Church’s guideline that two responsible adults be present with youth does not apply to ministering companions. However, leaders use wisdom and seek inspiration when assigning youth as companions to adults. They also seek guidance from the bishop. When a youth is assigned to a companion who is not his or her parent, leaders confirm that the parents do not object to the assignment.
 

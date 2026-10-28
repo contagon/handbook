@@ -183,7 +183,7 @@ The amount of tithing and other offerings paid by a donor is confidential. Only 
 
 The stake president and bishop ensure that all Church funds are properly handled. This is a sacred responsibility of their callings. General principles are outlined in the following sections. Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
 
-22:58
+22:60
 
 ### 34.5.1 Companionship Principle
 
@@ -383,7 +383,7 @@ The stake president or chairman of the stake audit committee should be notified 
 * Church funds have been lost or stolen.
 * A leader has embezzled or misappropriated Church funds.
 
-The stake president or the chairman of the audit committee notifies the Church Auditing Department. He notifies the area controller if the unit is outside the United States and Canada.
+The stake president or the chairman of the audit committee notifies the Church Auditing Department. He notifies the area controller if the unit is outside the United States.
 
 The Church Auditing Department (or area controller) sends a loss report form to the stake president or chairman of the audit committee. Under the direction of the Church Auditing Department (or the area controller), the stake president or chairman of the audit committee ensures that the matter is properly examined. He also ensures that the loss form is properly completed and submitted.
 
@@ -401,7 +401,7 @@ For more information about audit committees, auditors, and audit procedures, see
 
 ## 34.8 Taxes
 
-The tax information in this section applies only in the United States and Canada. If priesthood leaders in the United States and Canada need more information, they should contact the Tax Administration Division:
+The tax information in this section applies only in the United States. If priesthood leaders in the United States need more information, they should contact the Tax Administration Division:
 
 Tax Administration
 
@@ -411,7 +411,7 @@ Salt Lake City, UT 84150-0022
 
 Telephone: 1-801-240-4405 or 1-800-453-3860, extension 2-4405
 
-Priesthood leaders outside the United States and Canada contact the area office to resolve questions on taxes.
+Priesthood leaders outside the United States contact the area office to resolve questions on taxes.
 
 ### 34.8.1 Tax-Exempt Status
 

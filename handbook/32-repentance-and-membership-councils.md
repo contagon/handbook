@@ -140,13 +140,13 @@ When gathering information, the bishop or stake president should only use method
 
 False accusations are rare but can occur. Priesthood leaders should be cautious when there is limited information besides one person’s word. For example, a member who is accused of adultery may deny the charge. The scriptures explain that “every word shall be established against him or her by two witnesses of the church” ([Doctrine and Covenants 42:80]). “Two witnesses” means two separate sources of information. This could include the knowledge of a participant and some other reliable source. At times a priesthood leader may need to wait to act until more information becomes available.
 
-When a Church leader is gathering information for a membership council, he should immediately stop if he learns that law enforcement is actively investigating the member. This is done to avoid possible claims that the leader may have obstructed justice. For legal advice about these situations in the United States and Canada, the stake president contacts the Church’s Office of General Counsel:
+When a Church leader is gathering information for a membership council, he should immediately stop if he learns that law enforcement is actively investigating the member. This is done to avoid possible claims that the leader may have obstructed justice. For legal advice about these situations in the United States, the stake president contacts the Church’s Office of General Counsel:
 
 1-800-453-3860, extension 2-6301
 
 1-801-240-6301
 
-Outside the United States and Canada, the stake president contacts the area legal counsel at the area office.
+Outside the United States, the stake president contacts the area legal counsel at the area office.
 
 Normally a membership council is not held to consider conduct being examined by a civil or criminal trial court until the court has reached a final judgment. In some cases it may also be appropriate to delay a membership council until the period of legal appeal has expired or the appeal has been rejected.
 
@@ -171,13 +171,13 @@ In only one situation should a bishop or stake president disclose confidential i
 
 If leaders keep notes or communicate with each other electronically, they safeguard access to this information. They also delete or destroy the information when they no longer need it. They do not unnecessarily share personal information.
 
-Civil authorities might challenge the confidentiality required of a priesthood leader. If this occurs in the United States and Canada, the stake president seeks legal advice from the Church’s Office of General Counsel:
+Civil authorities might challenge the confidentiality required of a priesthood leader. If this occurs in the United States, the stake president seeks legal advice from the Church’s Office of General Counsel:
 
 1-800-453-3860, extension 2-6301
 
 1-801-240-6301
 
-Outside the United States and Canada, the stake president contacts the area legal counsel at the area office.
+Outside the United States, the stake president contacts the area legal counsel at the area office.
 
 ### 32.4.5 Reporting to Government Authorities
 
@@ -989,7 +989,7 @@ A person can also resign membership by sending a signed, notarized request to Ch
 
 A minor who wishes to resign his or her Church membership follows the same procedure as an adult, with one exception: the request should be signed by the minor (if over the age of 8) and by the parent(s) or guardian(s) who have legal custody of the minor.
 
-If a member resigning membership threatens legal action against the Church or its leaders, the stake president follows the instructions in [38.8.23].
+If a member resigning membership threatens legal action against the Church or its leaders, the stake president follows the instructions in [38.8.24].
 
 A request to resign membership should be acted on even if priesthood leaders have information about a serious sin. Any information about unresolved sins is noted when the request is submitted through [LCR]. This allows priesthood leaders to resolve such matters in the future if the person applies for readmission into the Church (see [32.16.2]).
 

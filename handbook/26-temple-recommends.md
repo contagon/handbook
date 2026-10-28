@@ -22,7 +22,7 @@ For more information, see [26.3.1].
 2. _Temple recommend for endowed members._ These recommends are for members who have previously been endowed. They authorize endowed members to participate in all temple ordinances for the deceased. They are issued to a member through [LCR]. The member may choose to receive either a printed or a mobile recommend.
 
 For more information, see [26.3.2].
-3. _Temple recommends for living ordinances._ These recommends are for members receiving their own endowment or being sealed to a spouse, parents, or children. They are issued digitally through Ordinance Preparation in [LCR]. Priesthood leaders use Ordinance Preparation to submit the completed recommend to the temple where the ordinance will take place.
+3. _Temple recommends for living ordinances._ These recommends are for members receiving their own endowment or being sealed to a spouse, parents, or children. They are also for unendowed members ages 8–20 observing the sealing of their living siblings, stepsiblings, or half siblings to their parents (see [27.4.5]). They are issued digitally through Ordinance Preparation in [LCR]. Priesthood leaders use Ordinance Preparation to submit the completed recommend to the temple where the ordinance will take place.
 
 To enter the temple, members who will be age 12 or older by the end of the year in which the ordinance occurs must also have one of the other two types of recommends in addition to a recommend for living ordinances. If needed, priesthood leaders may issue one of those recommends and the recommend for living ordinances during the same interview. For more information, see [26.3.3].
 
@@ -96,6 +96,7 @@ Temple recommends for living ordinances are issued when members are preparing to
 * Be sealed to a spouse (see [27.3]).
 * Be sealed to their parents (see [27.4]).
 * Have their children sealed to them (see [27.4]).
+* Observe the sealing of their living siblings, stepsiblings, or half siblings to their parents (_for unendowed members ages 8–20 only_; see [27.4.5]).
 
 To enter the temple, members who will be age 12 or older by the end of the year in which the ordinance occurs must also have either a recommend for proxy baptisms and confirmations or a recommend for endowed members. If needed, priesthood leaders may issue one of those recommends and the recommend for living ordinances during the same interview.
 

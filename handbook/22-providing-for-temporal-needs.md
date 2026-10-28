@@ -196,7 +196,7 @@ When providing Church assistance, leaders follow the principles in sections [22.
 
 Bishoprics and clerks review the video “[Sacred Funds, Sacred Responsibilities]” at least once a year.
 
-22:58
+22:60
 
 Principles for Providing Church Assistance
 
@@ -312,7 +312,7 @@ If a fast-offering payment for a member would benefit the stake president or a b
 
 ### 22.5.5 Protecting against Improper Use of Funds
 
-Bishoprics and clerks should protect fast-offering funds from improper use. For questions or to report abuse of Church assistance or fraud, members of bishoprics or clerks in the United States and Canada can call the help line at 1-800-453-3860, extension 2-7887. Members of bishoprics or clerks outside the United States and Canada should call their area office.
+Bishoprics and clerks should protect fast-offering funds from improper use. For questions or to report abuse of Church assistance or fraud, members of bishoprics or clerks in the United States can call the help line at 1-800-453-3860, extension 2-7887. Outside the United States, they should call their area office.
 
 ## 22.6 Roles of Ward Leaders
 
@@ -331,7 +331,7 @@ The bishop and his counselors have the following responsibilities:
 * Teach the law of the fast and encourage members to give a generous fast offering (see [22.2.2]).
 * Oversee the gathering and accounting of fast offerings (see [34.3.2]).
 
-As the presidency of the Aaronic Priesthood, the bishopric also oversees the efforts of Aaronic Priesthood quorums and Young Women classes to serve those with temporal needs in the ward and community (see [10.2.2] and [11.2.2]). These efforts are coordinated in ward youth council meetings (see [22.8]) and in quorum and class presidency meetings (see [10.4.3] and [11.3.4.3]).
+As the presidency of the Aaronic Priesthood, the bishopric also oversees the efforts of Aaronic Priesthood quorums and Young Women age-groups to serve those with temporal needs in the ward and community (see [10.2.2] and [11.2.2]). These efforts are coordinated in ward youth council meetings (see [22.8]) and in quorum and age-group presidency meetings (see [10.4.3] and [11.3.4.3]).
 
 ### 22.6.2 Relief Society and Elders Quorum Presidencies
 
@@ -396,7 +396,7 @@ Ward welfare and self-reliance specialists may be invited to ward council meetin
 
 One purpose of the ward youth council is to help youth become consecrated followers of Jesus Christ (see [29.2.6]). Under the bishopric’s guidance, the ward youth council plans ways to serve those in need in their ward and community.
 
-Specific service activities can be planned during quorum and class presidency meetings. Where [JustServe.org] is available, it may be used to identify service opportunities in the community.
+Specific service activities can be planned during quorum and age-group presidency meetings. Where [JustServe.org] is available, it may be used to identify service opportunities in the community.
 
 ## 22.9 Roles of Stake Leaders
 
@@ -556,7 +556,7 @@ The following table lists Church resources that can support members’ efforts t
 | Category | Resources |
 | --- | --- |
 | Immediate needs | • The Lord’s storehouse (members’ offerings of time, talents, compassion, materials, and financial resources)<br/>• Fast offerings<br/>• Bishops’ orders for food and other basic goods through a bishops’ storehouse or grocery store.\*<br/>• Bishops’ orders for clothing or household items through a Deseret Industries store.\*<br/><br/>\* Bishops’ orders are placed through “[Bishops’ Orders and Referrals]” in LCR. |
-| Education and employment | • Self-reliance groups ([Find a Better Job], [Starting and Growing My Business], [Education for Better Work])<br/>• [Stake Welfare and Self-Reliance Resource Centers]<br/>• [Employment Services]<br/>• [BYU–Pathway Worldwide]<br/>• [EnglishConnect]<br/>• [Perpetual Education Fund loans]<br/>• Training programs through [Deseret Industries] or [Development Counseling Services] |
+| Education and employment | • Self-reliance groups ([Find a Better Job], [Starting and Growing My Business], [Education for Better Work])<br/>• [Stake Welfare and Self-Reliance Resource Centers]<br/>• [Employment Services]<br/>• [BYU–Pathway Worldwide]<br/>• [EnglishConnect]<br/>• [Perpetual Education Fund loans]<br/>• Training programs through [Deseret Industries] or [Development Counseling Services]. In some locations, bishops can refer members to these programs through “[Bishops’ Orders and Referrals]” in [LCR]. Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop. |
 | Emotional health | • Self-reliance group ([Emotional Resilience])<br/>• [Counseling Resources]<br/>• [Family Services counseling]. In some locations, bishops can refer members to Family Services through “[Bishops’ Orders and Referrals]” in [LCR]. Relief Society and elders quorum presidents can also initiate these referrals. These referrals require approval by the bishop.<br/>• [Addiction recovery groups] and [spouse and family support groups]<br/>• [Strengthening Marriages and Families courses]<br/>• [Family Services consultations for leaders]<br/>• [Life Help resources] |
 | Temporal preparedness | • Self-reliance group ([Personal Finances])<br/>• [Home storage products]<br/>• [Temporal Preparedness Resources]<br/>• [Stake and Ward Preparedness] |
 | Community service | • [JustServe.org]<br/>• Other Church-supported projects |

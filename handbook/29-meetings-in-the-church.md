@@ -75,11 +75,11 @@ The bishop presides at sacrament meeting unless a member of the stake presidency
 
 Before the meeting starts, members of the congregation prepare spiritually for the sacrament. They can do this through quiet prayer and pondering. Leaders set an example of reverence.
 
-A member of the bishopric invites Young Women class presidencies to organize youth to minister by welcoming visitors and members as they enter the chapel. Youth make an effort to greet members by name. They also promote reverence by answering questions and helping people find seats as needed.
+A member of the bishopric invites Young Women age-group presidencies to organize youth to minister by welcoming visitors and members as they enter the chapel. Youth make an effort to greet members by name. They also promote reverence by answering questions and helping people find seats as needed.
 
 #### 29.2.1.4 Selecting Speakers
 
-The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth and children (see [38.8.18]). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
+The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth and children (see [38.8.19]). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
 
 The bishopric extends invitations to speak well in advance of the meeting. Speakers bear testimony of Jesus Christ and teach His gospel using the scriptures (see [Doctrine and Covenants 42:12]; [52:9]). Messages should build faith and be consistent with the sacred nature of the sacrament.
 
@@ -221,7 +221,7 @@ Participants
 
 * The bishopric.
 * One of the bishop’s assistants in the priests quorum and the teachers and deacons quorum presidents.
-* The Young Women class presidents (or the entire presidency if the ward has just one Young Women class).
+* The Young Women age-group presidents.
 * The Young Women president.
 
 The bishop may invite other youth leaders or advisers to attend as needed.
@@ -230,16 +230,16 @@ Frequency
 
 Usually monthly.
 
-The bishop may conduct ward youth council meetings. Or he may assign someone else to do so, such as one of his priests quorum assistants or the president of the oldest Young Women class. Ward youth council meetings provide opportunities for youth to lead. The bishopric or other leaders can help them prepare for these meetings during quorum or class presidency meetings.
+The bishop may conduct ward youth council meetings. Or he may assign someone else to do so, such as one of his priests quorum assistants or the president of the Gatherers of Light. Ward youth council meetings provide opportunities for youth to lead. The bishopric or other leaders can help them prepare for these meetings during quorum or age-group presidency meetings.
 
 Before each meeting, the bishop and the person conducting review the items to be discussed. These items could include the following:
 
 * God’s work of salvation and exaltation.
 * Needs of youth in the ward and ways to address them.
 * Efforts to reach out to youth who are less active or new members.
-* Activities, including opportunities to serve those in need. Most of the planning is done in quorum or class presidency meetings (see [chapter 20]).
+* Activities, including opportunities to serve those in need. Most of the planning is done in quorum or age-group presidency meetings (see [chapter 20]).
 * Ministering (see [chapter 21]).
-* Orienting newly called quorum and class presidencies.
+* Orienting newly called quorum and age-group presidencies.
 
 To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
 
@@ -269,14 +269,18 @@ Plan 1
 
 | 60 minutes | Sacrament meeting |
 | --- | --- |
-| 10 minutes | Transition to classes and meetings |
-| 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2])<br/>First and third Sundays of the month: Sunday School (see [13.3])<br/>Second and fourth Sundays: priesthood quorum meetings (see [8.2.1.2] and [10.2.1.2]), Relief Society meetings (see [9.2.1.2]), and Young Women meetings (see [11.2.1.2])<br/>Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers (usually members of the ward or stake). They also determine whether youth and adults, male and female, meet separately or together. |
+| 5 minutes | Transition to Sunday School classes |
+| 25 minutes | Primary, including nursery (see [12.2.1.2])<br/>Sunday School (see [13.3]) |
+| 5 minutes | Transition to quorum, Relief Society, and Young Women meetings |
+| 25 minutes | Primary, including nursery (see [12.2.1.2])<br/>Quorum (see [8.2.1.2] and [10.2.1.2]), Relief Society (see [9.2.1.2]), and Young Women meetings (see [11.2.1.2])<br/>Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers. They also determine whether youth and adults, male and female, meet separately or together. |
 
 Plan 2
 
-| 50 minutes | All Sundays: Primary, including nursery (see [12.2.1.2])<br/>First and third Sundays of the month: Sunday School (see [13.3])<br/>Second and fourth Sundays: priesthood quorum meetings (see [8.2.1.2] and [10.2.1.2]), Relief Society meetings (see [9.2.1.2]), and Young Women meetings (see [11.2.1.2])<br/>Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers (usually members of the ward or stake). They also determine whether youth and adults, male and female, meet separately or together. |
+| 25 minutes | Primary, including nursery (see [12.2.1.2])<br/>Quorum (see [8.2.1.2] and [10.2.1.2]), Relief Society (see [9.2.1.2]), and Young Women meetings (see [11.2.1.2])<br/>Fifth Sundays: meetings for youth and adults. The bishopric determines the topic and assigns teachers. They also determine whether youth and adults, male and female, meet separately or together. |
 | --- | --- |
-| 10 minutes | Transition to sacrament meeting |
+| 5 minutes | Transition to Sunday School classes |
+| 25 minutes | Primary, including nursery (see [12.2.1.2])<br/>Sunday School (see [13.3]) |
+| 5 minutes | Transition to sacrament meeting |
 | 60 minutes | Sacrament meeting |
 
 When two wards meet in the same building and one or both have very few children or youth, it may be desirable for the children or youth to attend Sunday classes together. The wards’ Sunday meeting schedules could overlap as shown below.
@@ -537,7 +541,7 @@ Participants
 * A member of the stake presidency.
 * The stake Young Men presidency (and secretary if called).
 * The stake Young Women presidency (and secretary if called).
-* Youth from each ward in the stake when meetings or parts of meetings include matters that benefit from their involvement. Youth attend when discussions focus on strengthening youth and planning service and activities. The stake president determines the number of youth who attend. These could be youth serving in quorum and class presidencies or other youth invited by the stake presidency to be members of this committee.
+* Youth from each ward in the stake when meetings or parts of meetings include matters that benefit from their involvement. Youth attend when discussions focus on strengthening youth and planning service and activities. The stake president determines the number of youth who attend. These could be youth serving in quorum and age-group presidencies or other youth invited by the stake presidency to be members of this committee.
 
 Additional youth could be invited to help with specific needs or events.
 
@@ -592,26 +596,26 @@ Meetings of the stake single adult committee and stake young single adult commit
 
 Purpose
 
-Help stake, mission, and temple presidents exercise priesthood keys in unity. Counsel about and coordinate efforts to help members in their responsibilities to participate in God’s work of salvation and exaltation (see [1.2]).
+Help stake, mission, and temple presidents exercise priesthood keys in unity. Counsel about and coordinate efforts to help members to participate in God’s work of salvation and exaltation (see [1.2]).
 
 Participants
 
-The Area Presidency assigns an Area Seventy to preside at the coordinating council meeting. Stake and mission presidents attend the meetings. Temple presidents are invited and attend when practical.
+The Area Presidency assigns an Area Seventy to preside at the coordinating council meeting. Stake, mission, and temple presidents in the coordinating council attend the meetings. When it is not possible for a president to attend the meeting, a counselor may attend on his behalf.
 
-Others may attend part or all of the meetings when needed and when invited by the Area Seventy. Area Seventies consider distance, family circumstances, and travel when making these invitations.
+Others may attend part or all of the meetings when needed and when invited by the Area Seventy. These other attendees could include district presidents (as determined in counsel with the mission president) and selected members of stake councils. Area Seventies consider distance, family circumstances, and travel when making these invitations. As needed, some attendees may participate virtually (see [29.7]).
 
 Frequency
 
 Quarterly, soon after each area council meeting. Additional meetings may be held when needed.
 
-The Area Seventy leads the meetings and facilitates the discussion. All who attend counsel together as equal participants (see [Doctrine and Covenants 88:122]).
+The Area Seventy leads the meetings, facilitates the discussion, and follows up with participants. All who attend counsel together as equal participants (see [Doctrine and Covenants 88:122]).
 
 In these meetings, participants:
 
 * Seek revelation about how best to implement the teachings and direction of the First Presidency, Quorum of the Twelve Apostles, and Area Presidency.
 * Coordinate God’s work of salvation and exaltation within their council.
-* Counsel together about the temporal and spiritual welfare of members and how to help them become true followers of Jesus Christ.
-* Instruct and edify one another.
+* Discuss items submitted by stake presidents, the mission president, and the temple president.
+* Counsel together about the temporal and spiritual welfare of members and how to help them become lifelong disciples of Jesus Christ.
 * Coordinate multistake matters.
 
 ## 29.5 Funerals and Other Services for the Deceased
@@ -668,6 +672,8 @@ If a member of the stake presidency, an Area Seventy in his area, or a General A
 Funeral services are not normally held on Sunday.
 
 In some cases, the bishop can arrange with morticians to provide modest, respectable funeral and burial services at cost if expenses are paid from fast-offering funds.
+
+An endorsed Latter-day Saint chaplain may conduct a funeral. When the funeral is for a Church member, the chaplain should coordinate with the member’s bishop.
 
 For information about missionaries returning home to attend a funeral, see [24.6.2.7]. For guidelines about streaming and recording funerals, see [29.7].
 

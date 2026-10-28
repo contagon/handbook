@@ -345,19 +345,13 @@ Sometimes a brother who has lived in a ward for less than one year needs or desi
 
 Worthy men ages 18 and older in young single adult wards and single adult wards should be ordained elders. Those who are not ordained elders are part of the elders quorum as prospective elders.
 
-#### 38.2.9.6 Military Servicemen in War Zones or Isolated Areas
-
-A military serviceman is normally interviewed and ordained in the ward that has his membership record. However, this may not be feasible if the serviceman is at sea for an extended time or is serving in a war zone or isolated area. In such cases, the serviceman meets with his service member group leader. If the group leader feels that the serviceman is ready to be ordained, he gives a written recommendation to the presiding leader of the Church unit that oversees the service member group. (If there is not such a Church unit, he gives the recommendation to the Area Presidency.) That leader contacts the bishop of the serviceman’s home ward to certify the man’s worthiness.
-
-For ordination to Aaronic Priesthood offices, the presiding leader may authorize the group leader or a Latter-day Saint chaplain to interview the person and oversee the ordination. For ordination to the office of elder, the stake president, mission president, or Area Presidency may authorize a Latter-day Saint chaplain to interview the person and oversee the ordination. All ordinations should be sustained or ratified as explained in [18.10.3].
-
-#### 38.2.9.7 Brethren Who Have Intellectual Disabilities
+#### 38.2.9.6 Brethren Who Have Intellectual Disabilities
 
 A male Church member who has an intellectual disability, his parents (where applicable), and the bishop counsel together about whether he should receive the priesthood. They counsel about his desires and whether he has a basic understanding of the priesthood and his responsibilities.
 
 Priesthood holders who have such disabilities should be assisted so they can fulfill priesthood duties as fully as possible.
 
-#### 38.2.9.8 Brethren Who Have Been Readmitted by Baptism and Confirmation
+#### 38.2.9.7 Brethren Who Have Been Readmitted by Baptism and Confirmation
 
 When a man who was not previously endowed is readmitted to the Church by baptism and confirmation, he may be ordained immediately afterward. He is ordained to the priesthood office he held when his membership was withdrawn or resigned.
 
@@ -365,7 +359,7 @@ If the man was previously endowed, he is not ordained to a priesthood office. In
 
 For more information and instructions, see [32.17].
 
-#### 38.2.9.9 Individuals Who Identify as Transgender
+#### 38.2.9.8 Individuals Who Identify as Transgender
 
 Priesthood ordination is received according to a person’s biological sex at birth. A worthy male Church member who does not pursue surgical, medical, or social transition away from his biological sex at birth may receive and exercise the priesthood. (For a definition of social transition, see [38.6.23].)
 
@@ -462,15 +456,13 @@ When permitted by local law, the following currently serving Church officers may
 * Bishop
 * Branch president
 
-These officers may only perform a civil marriage between a man and a woman. All of the following conditions must also apply:
+These officers may perform a civil marriage only between a man and a woman. All of the following conditions must also apply:
 
 * The bride or the groom is a member of the Church or has a baptismal date.
 * Either the bride’s or the groom’s membership record is, or will be after baptism, in the Church unit over which the officer presides.
 * The Church officer is legally authorized to officiate at a civil marriage in the jurisdiction where the marriage will take place.
 
-Latter-day Saint chaplains on active military duty may perform civil marriages without prior approval.
-
-Chaplains who are assigned to Reserve or National Guard units must receive prior approval from the Church’s Military Relations and Chaplain Services Division to perform a civil marriage. See contact information in [38.9.10].
+Endorsed Latter-day Saint chaplains may perform civil marriages when permitted under local law.
 
 Nonmilitary chaplains who serve in the following organizations must receive prior approval from the Church’s Military Relations and Chaplain Services Division to perform a civil marriage:
 
@@ -481,17 +473,17 @@ Nonmilitary chaplains who serve in the following organizations must receive prio
 * Border patrol
 * Police or fire departments
 
-Retired chaplains are not authorized to perform civil marriages in their capacity as chaplains.
+Resigned or retired chaplains are not authorized by the Church to perform civil marriages.
 
 Those who perform marriages acting in their callings as Church leaders or chaplains should use the guidelines in this section. They also follow all legal requirements.
 
 Latter-day Saint chaplains are not considered presiding Church officers unless they are serving as a stake president, bishop, or branch president. When a chaplain who is not a presiding Church officer performs a civil marriage, he or she functions as an agent of the government or civilian organization he or she serves. Thus, the wording of the civil marriage ceremony is changed slightly for these chaplains as shown in [38.3.6].
 
-Latter-day Saint chaplains may only perform a civil marriage between a man and a woman.
+Latter-day Saint chaplains may perform a civil marriage only between a man and a woman.
 
 Church officers and chaplains who perform civil marriages for members of the Church should provide the necessary marriage information to the ward or branch clerk. The clerk updates the membership records.
 
-A Church officer or chaplain who performs civil marriages in a Church capacity may not accept fees.
+A Church officer or chaplain who performs civil marriages may not accept fees.
 
 ### 38.3.2 Civil Marriage for Members from Other Units
 
@@ -658,7 +650,8 @@ The process for seeking a sealing cancellation or sealing clearance is outlined 
 	2. The member is current in all legal requirements for child and spousal support related to the divorce.
 5. If the stake president recommends that the sealing cancellation or sealing clearance be granted, he submits the application to Church headquarters using [LCR]. See [6.2.3] about the stake president’s responsibility when submitting applications to the First Presidency.
 6. If the request is approved, the First Presidency provides a letter stating that the sealing cancellation or sealing clearance has been granted.
-7. After approval is granted, the member may schedule an appointment for a temple sealing.
+
+After approval is granted, the member may make a reservation for a temple sealing.
 
 See [38.4.1.10].
 
@@ -674,7 +667,7 @@ A couple may seek approval after they have been married for at least five years.
 4. The stake president submits all of these letters to the First Presidency. He may submit the request with an application for a sealing cancellation or sealing clearance (see [38.4.1.5]).
 5. If the request is approved, the First Presidency provides a letter stating that the restriction against temple sealing has been removed.
 
-After approval is granted, the couple may schedule an appointment to be sealed.
+After approval is granted, the couple may make a reservation to be sealed.
 
 #### 38.4.1.7 Sealing after Temple Marriage for Time Only
 
@@ -1069,7 +1062,7 @@ Leaders seek the direction of the Spirit to determine whether personal counselin
 
 Members who have abused others should not be given Church callings and may not have a temple recommend until they have repented and Church membership restrictions have been removed.
 
-If a person abused a child or youth sexually or seriously abused a child or youth physically or emotionally, his or her membership record will be annotated. He or she must not be given any calling or assignment involving children or youth. This includes not being given a ministering assignment to a family with youth or children in the home. It also includes not having a youth as a ministering companion. These restrictions should remain in place unless the First Presidency authorizes removal of the annotation. See [32.14.5] for information about annotations.
+If a person abused a child or youth sexually or seriously abused a child or youth physically or emotionally, his or her membership record will be annotated. He or she must not be given any calling or assignment involving children or youth. This includes not being given a ministering assignment to a family with youth or children in the home. It also includes not having a youth as a ministering companion. These restrictions should remain in place unless the Office of the First Presidency authorizes removal of the annotation. See [32.14.5] for information about annotations.
 
 #### 38.6.2.6 Stake and Ward Councils
 
@@ -1348,13 +1341,13 @@ Members who have taken steps to transition and then transition back to their bio
 
 Circumstances vary greatly from person to person and can change over time. Members who feel their inner sense of gender does not align with their biological sex at birth or who identify as transgender, as well as the parents or guardians of minors facing such circumstances, are encouraged to seek counsel from their bishop. Bishops counsel with the stake president to address individual circumstances with sensitivity and Christlike love. Stake and mission presidents seek counsel from the Area Presidency.
 
-National and local laws vary regarding individuals who identify as transgender. In the United States and Canada, stake presidents and mission presidents who have questions about legal requirements should contact the Church’s Office of General Counsel:
+National and local laws vary regarding individuals who identify as transgender. In the United States, stake presidents and mission presidents who have questions about legal requirements should contact the Church’s Office of General Counsel:
 
 1-800-453-3860, extension 2-6301
 
 1-801-240-6301
 
-Outside the United States and Canada, these leaders should contact the area legal counsel at the area office.
+Outside the United States, these leaders should contact the area legal counsel at the area office.
 
 For more information about understanding and supporting individuals who feel their inner sense of gender does not align with their biological sex at birth or who identify as transgender, see “[Transgender]” on ChurchofJesusChrist.org.
 
@@ -1505,7 +1498,7 @@ Audiovisual materials can help invite the Spirit and enhance gospel teaching in 
 
 Members should not use audiovisual materials in sacrament meetings or in the general session of stake conference. However, recorded music may be used in these meetings if needed to accompany hymns.
 
-Members should obey all copyright laws when using audiovisual materials (see [38.8.11]). They should only use materials that are in harmony with the gospel and help invite the Spirit.
+Members should obey all copyright laws when using audiovisual materials (see [38.8.12]). They should only use materials that are in harmony with the gospel and help invite the Spirit.
 
 ### 38.8.4 Autographs and Photographs of General Authorities, General Officers, and Area Seventies
 
@@ -1517,7 +1510,7 @@ Members should not take photographs of General Authorities, General Officers, or
 
 Church meetinghouses and other facilities, Church meetings and classes, and Church websites and social media channels may not be used to promote any business or non-Church entity.
 
-Lists of Church groups or other information about members may not be given to any business or non-Church entity. These include (but are not limited to) those that promote dating, education, and job opportunities. See [38.8.31].
+Lists of Church groups or other information about members may not be given to any business or non-Church entity. These include (but are not limited to) those that promote dating, education, and job opportunities. See [38.8.32].
 
 ### 38.8.6 Caring for the Earth
 
@@ -1730,26 +1723,26 @@ Missionaries should not offer to sponsor others’ immigration. Nor should they 
 
 The Church does not sponsor immigration through Church employment.
 
-Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35]; see also [38.8.35] in this handbook).
+Church members offer their time, talents, and friendship to welcome immigrants and refugees as members of their communities (see [Matthew 25:35]; see also [38.8.36] in this handbook).
 
 ### 38.8.21 Internet
 
 #### 38.8.21.1 Official Church Internet Resources
 
-The Church maintains official websites, blogs, and social media accounts. These resources are clearly identified as official by the use of the Church wordmark or symbol (see [38.8.8]). They also comply with legal requirements and the Church’s intellectual property and privacy policies.
+The Church maintains official websites, blogs, and social media accounts. These resources are clearly identified as official by the use of the Church wordmark or symbol (see [38.8.9]). They also comply with legal requirements and the Church’s intellectual property and privacy policies.
 
 #### 38.8.21.2 Members’ Use of the Internet in Church Callings
 
 Members may not create websites, blogs, or social media accounts on behalf of the Church or to officially represent the Church and its views, doctrine, policies, and procedures. However, they may create websites, blogs, or social media accounts to assist with their callings. When doing so, members should comply with the following guidelines:
 
 * The creation of a website, blog, or social media account must first be approved by the stake president (for stake resources) or bishop (for ward resources).
-* The Church wordmark or symbol may not be used or imitated (see [38.8.8]).
+* The Church wordmark or symbol may not be used or imitated (see [38.8.9]).
 * The online resource should have a purpose and goal and be named accordingly. The name may include a ward or stake name. However, it may not include the official name of the Church.
 * Members may not state or imply that the online resource’s content, images, or other materials are sponsored or endorsed by the Church or officially represent the Church in any way. Rather, a disclaimer should be included stating that it is not an official, Church-sponsored product.
 * All content should be relevant for the intended audience and should be actively moderated.
 * The online resource should include contact information.
 * More than one administrator should be responsible for the online resource. This can provide continuity when a person’s calling or assignment changes. It also keeps one person from being burdened with updating and monitoring the resource.
-* Church-owned artwork, videos, music, or other materials may not be posted unless the use is clearly authorized by the [Terms of Use] of an official Church website or by the Church’s Intellectual Property Office. Copyrighted content from other sources should not be used unless the content owner has first given written permission. For more information about using copyrighted material, see [38.8.11].
+* Church-owned artwork, videos, music, or other materials may not be posted unless the use is clearly authorized by the [Terms of Use] of an official Church website or by the Church’s Intellectual Property Office. Copyrighted content from other sources should not be used unless the content owner has first given written permission. For more information about using copyrighted material, see [38.8.12].
 * When using images, videos, or personal information, consent from the content owner or the individuals involved is required. Consent may be obtained through a release form, a public announcement, a posted sign for a specific event, or written permission when needed. The country’s privacy laws should be followed.
 * Online resources should not duplicate tools and features that are already on ChurchofJesusChrist.org, Member Tools, or other Church resources.
 * Leaders and missionaries should coordinate to prevent duplicate communication.
@@ -1783,13 +1776,13 @@ Members should obey, honor, and sustain the laws in any country where they live 
 
 ### 38.8.24 Legal Counsel for Church Matters
 
-When legal help is needed for Church matters, leaders should contact Church legal counsel. In the United States and Canada, the stake president contacts the Church’s Office of General Counsel:
+When legal help is needed for Church matters, leaders should contact Church legal counsel. In the United States, the stake president contacts the Church’s Office of General Counsel:
 
 1-800-453-3860, extension 2-6301
 
 1-801-240-6301
 
-Outside the United States and Canada, the stake president contacts the area legal counsel at the area office.
+Outside the United States, the stake president contacts the area legal counsel at the area office.
 
 #### 38.8.24.1 Involvement or Documents in Legal Proceedings
 
@@ -1813,7 +1806,7 @@ Leaders should not suggest or imply that their testimony in a legal proceeding r
 
 Leaders should not influence the testimony of a witness in any legal proceeding.
 
-Contact information for Church legal counsel is provided in [38.8.23].
+Contact information for Church legal counsel is provided in [38.8.24].
 
 ### 38.8.25 Mailbox Use
 
@@ -1847,7 +1840,7 @@ Leaders, teachers, and other members seek to understand each individual who has 
 
 Leaders assess the needs of those who have disabilities and their caregivers. These leaders determine how ward or stake resources could be used to help meet the needs as appropriate. Leaders encourage members to help and reach out in love and friendship.
 
-The bishopric or stake presidency may call a ward or stake disability specialist to help individuals, families, teachers, and other leaders (see [38.8.27.9]).
+The bishopric or stake presidency may call a ward or stake disability specialist to help individuals, families, teachers, and other leaders (see [38.8.28.9]).
 
 Leaders may also identify appropriate community resources that could help individuals who have disabilities and their families.
 
@@ -1869,7 +1862,7 @@ Leaders and teachers should include members with disabilities in meetings, class
 
 The bishopric may invite a ward member to help a person with a disability in a meeting or activity. For a class that includes a member with disabilities, the bishopric may call multiple teachers. The teachers work together to meet the needs of all class members.
 
-If a person cannot participate in a meeting, class, or activity, leaders and teachers may consult with the member and his or her family about how to meet the member’s needs. The stake president or bishop may approve organizing special classes or programs for members with disabilities (see [38.8.27.5]). If a person is not able to attend Church meetings, leaders and teachers may provide lesson materials, recordings, or streaming.
+If a person cannot participate in a meeting, class, or activity, leaders and teachers may consult with the member and his or her family about how to meet the member’s needs. The stake president or bishop may approve organizing special classes or programs for members with disabilities (see [38.8.28.5]). If a person is not able to attend Church meetings, leaders and teachers may provide lesson materials, recordings, or streaming.
 
 Streaming of events, including sacrament meetings and funerals, is intended only for those who cannot attend in person (see [29.7]). For more information about partaking of the sacrament, see [18.9.3].
 
@@ -1895,7 +1888,7 @@ When multiple wards participate in a disability activity program, the stake pres
 
 The agent bishop or agent stake president consults with other participating bishops or stake presidents to determine how these programs will be funded.
 
-_Disability activity leaders._ Adult members may be called as disability activity leaders. These leaders plan and carry out the disability activity program. They consult with ward and stake disability specialists (see [38.8.27.9]) to invite members with disabilities to participate. They counsel together about how to meet those members’ needs.
+_Disability activity leaders._ Adult members may be called as disability activity leaders. These leaders plan and carry out the disability activity program. They consult with ward and stake disability specialists (see [38.8.28.9]) to invite members with disabilities to participate. They counsel together about how to meet those members’ needs.
 
 Disability activity leaders are called and set apart under the direction of the agent bishop or agent stake president. A stake president may also assign a high councilor to serve as a disability activity leader.
 
@@ -1941,21 +1934,25 @@ For additional guidelines on the use of service animals in Church facilities, se
 
 #### 38.8.28.9 Disability Specialist
 
-The bishopric or stake presidency may call a ward or stake disability specialist. The specialist helps members with disabilities and their caregivers participate in Church meetings and activities and feel included.
+The bishopric or stake presidency may call a ward or stake disability specialist. The specialist helps members with disabilities and their caregivers participate in Church meetings and activities in meaningful ways.
 
 The specialist serves members and leaders in the following ways:
 
-* Get to know individuals with disabilities and their families.
+* Get to know individuals with disabilities and their families and help them access Church materials, meetings, and activities.
 * Respond to disability-related questions and concerns from caregivers, leaders, and others.
-* Help individuals access Church materials, meetings, and activities. This may occur through using technology and in other ways (see [38.8.27.10]).
 * Identify meaningful opportunities for members with disabilities to serve.
 * Identify specific needs of families and, where appropriate, identify community, ward, and stake resources.
+* Counsel with ward and stake leaders about how to best meet the needs of members with disabilities and their families.
 
 The specialist can help members with disabilities and their caregivers share information about the disability with others.
 
+Where called, the stake disability specialist also instructs newly called ward disability specialists and offers ongoing support.
+
+See [disability.ChurchofJesusChrist.org] for more information.
+
 #### 38.8.28.10 Resources
 
-Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at disability.ChurchofJesusChrist.org. This website provides:
+Resources for members with disabilities, for their families and caregivers, and for leaders and teachers are available at [disability.ChurchofJesusChrist.org]. This website provides:
 
 * Information to help increase understanding of the challenges faced by those who have disabilities.
 * Resources to help members who have disabilities and their families find comfort in the gospel of Jesus Christ.
@@ -2030,7 +2027,7 @@ Church facilities may not be used for political purposes. However, facilities ma
 
 ### 38.8.32 Privacy of Members
 
-Church leaders are obligated to protect the privacy of members. Church records, directories, and similar materials may not be used for personal, commercial, or political purposes (see also [38.8.13]).
+Church leaders are obligated to protect the privacy of members. Church records, directories, and similar materials may not be used for personal, commercial, or political purposes (see also [38.8.14]).
 
 Ward and stake leaders should not store or share confidential Church information outside of Church-provided applications, systems, or internet services. Examples of confidential Church information include a person’s:
 
@@ -2245,156 +2242,102 @@ The following principles should guide leaders and members in the appropriate use
 
 For more information, see [ChurchofJesusChrist.org/AI].
 
-## 38.9 Military Relations and Chaplain Services
+## 38.9 Chaplains
 
-Stake presidents and bishops help make the blessings of Church participation available to members who serve in the military. The Church’s military relations and chaplain services program consists of:
+The Church’s Chaplain Services Office endorses male and female chaplains who serve in government and nongovernment settings.
 
-* Support from stakes and wards.
-* Church orientation for members who enter military service.
-* Organization of wards, branches, or Latter-day Saint service member groups.
-* Endorsement of and support from Latter-day Saint chaplains.
-* Information on how to wear the garment in the military.
-* Support from senior missionary couples assigned to selected military installations.
+For resources and guidelines, contact the Church’s Chaplain Services Office:
 
-### 38.9.1 Stake Military Relations Leadership
+50 East North Temple Street
 
-If military installations or members who serve in the military are in a stake, the stake presidency has the responsibilities outlined in this section. If such installations are located in a mission rather than a stake, the mission president fulfills these responsibilities.
+Salt Lake City, UT 84150-0024
 
-A member of the stake presidency oversees military relations in the stake. He may call a man or a woman to serve as the military relations specialist. This member does not need to have military experience. He or she ensures that resources are provided to support members of the military in the stake. This includes the military service orientation (see [38.9.3]).
+Telephone: 1-801-240-2644 or 1-800-453-3860, extension 2-2644
 
-#### 38.9.1.1 Church Services on Military Installations
+Email: [ChaplainServices@ChurchofJesusChrist.org]
 
-If Church services are held on a military installation, the president of a stake where the installation is located organizes one of the following for military personnel and their families (see [38.9.4]):
+Web page: [chaplain.ChurchofJesusChrist.org]
 
-* A ward with a bishopric (when authorized by the First Presidency)
-* A branch with a branch presidency
-* A service member group with a service member group leader and assistants
+### 38.9.1 Endorsed Latter-day Saint Chaplains
 
-The stake president calls, sets apart, and oversees the leaders of these units. He gives these leaders’ contact information to the Church’s Military Relations and Chaplain Services Division. He may designate a ward to support each service member group.
+A chaplain is an authorized clergy member who provides spiritual and emotional care, primarily in secular institutions. Chaplains serve individuals of all faiths or no faith at all.
 
-The stake president works with the Military Relations and Chaplain Services Division to provide a letter of appointment to each bishop, branch president, or group leader. This letter outlines his responsibilities and authorizes him to preside over the unit and conduct meetings. A copy of the letter should be given to the installation chaplain.
+Latter-day Saint chaplains may serve in both paid and volunteer roles. They are endorsed by the Church and certified according to the requirements of the organization they serve. The Church does not provide compensation.
 
-The United States military requires that a chaplain provide administrative oversight to any religious service held on a military installation. If there is a Latter-day Saint chaplain on the installation, he normally provides such oversight to a Church unit that meets there. The chaplain does not preside at the worship services unless he is the bishop, branch president, or group leader. However, he is expected to attend and participate.
+For more information about chaplains’ responsibilities, including coordinating the administration of the sacrament, see [38.9.5].
 
-A member of the stake presidency coordinates with the senior chaplain at each military installation in the stake. He ensures that bishops of wards whose boundaries encompass a military installation do the same. These leaders inform the chaplain of the ward’s meeting schedule, meeting location, and contact person. The chaplain can give this information to members at the installation.
+### 38.9.2 Chaplain Endorsement
 
-#### 38.9.1.2 Latter-day Saint Chaplains in Stakes
+Before beginning chaplain service, members must receive official endorsement from the Church. This endorsement is issued by Chaplain Services. Letters from bishops or stake presidents do not fulfill this requirement and should not be provided. Church leaders do not call or endorse chaplains.
 
-The stake president annually interviews each Latter-day Saint chaplain who lives in the stake. He determines the chaplain’s well-being and worthiness to serve. The stake president also separately interviews each chaplain’s spouse annually.
+The Church endorses chaplains only to organizations that have formally hired or appointed them to serve in a chaplain role. It does not endorse unaffiliated chaplains.
 
-Chaplains and their spouses should have ward or stake callings. A chaplain who holds the Melchizedek Priesthood may serve in leadership callings, such as on the high council or presiding over a military ward, branch, or service member group. However, this calling cannot conflict with his military duties.
+Those interested in becoming chaplains should visit [chaplain.ChurchofJesusChrist.org] to review the requirements for the type of chaplaincy they wish to pursue. They should also review any local requirements before enrolling in academic programs or seeking chaplain positions.
 
-Chaplains may assist the stake president in the following ways:
+#### 38.9.2.1 Annual Chaplain Endorsement Requirements
 
-* Report in stake council meetings on Church units meeting on military installations. These reports should include information about new and returning members.
-* Serve as the liaison between military leaders and the stake president.
-* Help the stake president identify members in the military to call as service member group leaders.
-* Assist with efforts to strengthen new and returning Church members in the military.
-* Help prepare members in the military to receive sacred ordinances and keep their covenants.
+To maintain their endorsement, chaplains must meet the following requirements each year:
 
-### 38.9.2 Ward Military Relations Leadership
+* Have a current temple recommend and live worthy to enter the temple.
+* Serve faithfully in Church callings.
+* Live and uphold Church standards at all times.
+* Submit reports to Chaplain Services ([ChaplainPortal.ChurchofJesusChrist.org]).
+* Complete the Church’s annual chaplain training.
+* Complete an annual interview with his or her stake president. (If the chaplain is married, his or her spouse also completes an annual interview with the stake president.)
 
-A member of the bishopric meets with ward members before they leave for military service. He ensures they have an opportunity to attend the military service orientation (see [38.9.3]).
+#### 38.9.2.2 Withdrawal of Endorsement
 
-For information about the membership records for a member entering the military, see [33.6.9]. Some members are assigned to a remote or isolated location or are deployed to a war zone. In these cases, the bishop contacts the Church’s Military Relations and Chaplain Services Division for guidance about membership records (see [38.9.10]).
+Endorsement may be withdrawn if a chaplain does not meet the endorsement requirements listed in [38.9.2.1] or the qualifications required by his or her organization.
 
-Leaders in the home ward should correspond regularly with each ward member who is away in military service.
+### 38.9.3 Setting Apart
 
-The bishop coordinates with the senior chaplain at each military installation in the ward.
+Once Chaplain Services has endorsed a chaplain, it will notify the Area Presidency and provide instructions for the setting apart. The chaplain (and his or her spouse if the chaplain is married) may then be set apart “as a missionary in conjunction with your (or your spouse’s) appointment as a chaplain.” The setting apart is done by a General Authority or by an Area Seventy or a stake president assigned by the Area Presidency.
 
-### 38.9.3 Military Service Orientation
+### 38.9.4 Changing Jobs or Positions
 
-The military service orientation helps members entering and serving in the military know what to expect regarding Church services and activities in the military. It also teaches them how to strengthen their faith and keep their covenants during military service.
+Chaplains who change organizations or type of chaplaincy do not need to be set apart again.
 
-A member of the stake presidency or bishopric calls a military service instructor to provide the orientation. Preferably this instructor has had recent military experience. If a qualified instructor is not available, the stake president or bishop contacts the Military Relations and Chaplain Services Division for guidance.
+Chaplains who transfer to a non-chaplain position retain their endorsement for up to 12 months. After that, they are considered resigned or retired and are released as a missionary.
 
-For more information, see the “Military Service Orientation” section in the [Church’s Military Members page].
+### 38.9.5 Chaplain Responsibilities
 
-### 38.9.4 Church Units for Service Members
+Chaplains may conduct weddings, funerals, memorials, patriotic gatherings, and other events. Latter-day Saint chaplains do not perform the religious rites of other faiths. When necessary, they may coordinate with the appropriate religious leaders to provide such rites.
 
-Members in the military normally participate in wards located near their military installations. However, in the following circumstances, the stake or mission president may organize a ward, branch, or service member group for military personnel and their families at the installation:
+Latter-day Saint chaplains who hold the priesthood may perform ordinances, including blessings, in accordance with the direction provided in chapter 18. However, chaplains do not hold priesthood keys.
 
-* There is no ward within a reasonable distance of the military installation.
-* Military personnel do not understand the language spoken in the local ward.
-* Military personnel are unable to leave the military installation because of training requirements or other restrictions.
-* The members’ military unit is or will be deployed to a location where one of the following applies:
+Endorsed male and female Latter-day Saint chaplains are authorized to coordinate the administration of the sacrament. This includes obtaining approval from the local bishop to have the sacrament administered at a time and place outside of normal Church services. Chaplains may also designate priesthood holders to prepare, bless, and pass the sacrament.
 
-	+ The Church is not organized.
-	+ The local Church unit cannot accommodate the members because of a different language.
-	+ Attendance at local meetings is not feasible.
-* Members belong to Reserve or National Guard units and participate in weekend drills or annual training exercises.
+Female Latter-day Saint chaplains provide spiritual care and support in settings where priesthood ordination is not required. They may lead interfaith worship services, conduct funerals, teach classes, perform civil marriages, provide counseling, and fulfill other ministerial responsibilities consistent with Church policy and doctrine. When ordinances such as the sacrament or priesthood blessings are needed, female chaplains coordinate with authorized priesthood holders.
 
-Wards and branches at military installations are created using the procedures outlined in [chapter 37].
+For information about chaplains conducting funerals, see 29.5.4.
 
-Wards and branches are usually established to support both military members and their families. A ward or branch may also be established for military members without their families. Such units may be established for members attending basic or advanced training or on a remote assignment. The military does not normally allow Church members who are not associated with the military to belong to a ward or branch that uses installation facilities.
+For information about chaplains performing civil marriages, see 38.3.1 and 38.3.6.
 
-If the number of members or if other circumstances do not justify creating a ward or branch at a military installation, the stake or mission president may establish a service member group. A service member group is a small Church unit that holds Church meetings and looks after members. The group leader does not have priesthood keys. Because of this, he is not authorized to receive tithes and offerings, counsel members about serious sins, restrict membership privileges, or perform other duties that require keys (see [37.7]).
+When questions arise, chaplains may refer to the [Chaplain Guidebook] or contact Chaplain Services.
 
-For information about service member groups, see the “Find a Church Location or Leader” and “Information for Group Leaders” sections in the [Church’s Military Members page].
+### 38.9.6 Proselytizing
 
-When a Church unit is established at a military installation, the unit leader coordinates with the senior installation chaplain to arrange for meeting times and use of base facilities. If there is not an installation chaplain assigned to the base, the stake president consults with the commanding officer.
+Chaplains may answer questions about the Church but should not proselytize. Those interested in learning more about the Church should be referred to full-time missionaries.
 
-### 38.9.5 Group Leaders in Remote Areas or War Zones
+### 38.9.7 Repentance of Serious Sins
 
-Stake or mission presidents normally call and set apart service member group leaders. However, this may not be possible in some remote locations or war zones. Since a group leader is not given priesthood keys with his calling, it is permissible for him to be appointed without being set apart. The priesthood leader who is responsible for the location can appoint a worthy Melchizedek Priesthood holder to serve as the group leader. He first verifies the man’s worthiness with his bishop and stake president. If a Latter-day Saint chaplain is in the area, the priesthood leader can authorize him to call and set apart a group leader.
+Bishops have the responsibility and priesthood keys to help Church members repent. Chaplains may offer support but should always refer members to their bishop to resolve serious sins.
 
-Service member group leaders in isolated locations may obtain Church supplies and materials by contacting the Church’s Military Relations and Chaplain Services Division (see [38.9.10]).
+### 38.9.8 Privileged and Confidential Communications and Privacy
 
-Sometimes a deployed service member is isolated from other Church members. If the service member holds the Melchizedek Priesthood or is a priest in the Aaronic Priesthood, his bishop may authorize him to administer and partake of the sacrament. If there is more than one member at a deployed location, a group leader should be called.
+Chaplains must comply with all applicable laws concerning confidential and privileged communication. These laws vary by location. Questions should be addressed with the area legal counsel or Chaplain Services.
 
-The Church’s Military Relations and Chaplain Services Division should be notified when a group leader is called. A letter of appointment will be sent to him (see [38.9.1.1]).
+## 38.10 Military Relations
 
-### 38.9.6 Missionary Service and Military Obligation
+Military members and their families often experience transitions, separations, and physical and emotional burdens. Stake presidents and bishops help ensure that military members, veterans, and their families receive needed support and can participate in the Church and access priesthood ordinances. The Church’s Military Relations Office provides resources, including:
 
-For countries with mandatory military service, Church members must generally complete their military service before they can serve a mission. Some countries may allow the mandatory military service to be deferred until after missionary service. Stake presidents and bishops should become familiar with their country’s requirements so they can advise members appropriately. Members serving in the Reserves or National Guard may be able to serve missions after they complete basic and advanced training.
+* Resilience, self-reliance, and other resources.
+* Orientation for Church members entering military service.
+* Support for organizing Church units for military members.
+* Information about wearing the temple garment in the military.
+* Senior military relations missionaries serving military communities.
 
-For more information, see the “Missionary Service and Military Obligations” section in the [Church’s Military Members page].
-
-### 38.9.7 Latter-day Saint Chaplains
-
-The Church’s Military Relations and Chaplain Services Division provides centralized endorsement for male and female chaplains who serve in a variety of government and nongovernment settings. These settings include:
-
-* The military.
-* Hospitals.
-* Hospice organizations.
-* Prisons.
-* Detention centers.
-* Police and fire departments.
-* Border patrol.
-* Civic and veteran organizations.
-* Colleges and universities.
-
-Each organization establishes its own educational and ministry requirements for chaplains. Most organizations require Church endorsement before a person may serve as a Latter-day Saint chaplain. The Church’s Military Relations and Chaplain Services Division provides endorsement for all Latter-day Saint chaplains. Letters of endorsement from bishops and stake presidents are not sufficient and should not be provided.
-
-Latter-day Saint chaplains:
-
-* Serve people of all faiths, including Latter-day Saints.
-* Ensure that individuals are afforded religious freedom.
-* Help facilitate or accommodate the religious needs of those they serve.
-
-For more information, see “[Latter-day Saint Chaplains]” on ChurchofJesusChrist.org.
-
-### 38.9.8 Wearing the Garment in the Military
-
-See [38.5.7].
-
-### 38.9.9 Senior Missionary Couples
-
-Retired military couples may be called to serve as military relations missionaries at selected military bases. They assist local priesthood leaders in strengthening new and returning members. They also provide support to families of deployed service members during periods of family separation.
-
-### 38.9.10 Other Information
-
-For information about membership records of service members, see [33.6.9].
-
-For information about patriarchal blessings for service members, see [38.2.10.3].
-
-For information about ordaining service members in isolated locations, see [38.2.9.6].
-
-For information about issuing temple recommends in isolated locations, see [26.3.4].
-
-If Church leaders have questions about military relations, they may contact:
-
-Military Relations and Chaplain Services Division
+For more information, see the Church’s Military Relations page or contact the Military Relations Office:
 
 50 East North Temple Street, Room 2411
 
@@ -2402,4 +2345,125 @@ Salt Lake City, UT 84150-0024
 
 Telephone: 1-801-240-2286
 
-Email: [pst-military@ChurchofJesusChrist.org]
+Email: [MilitaryRelations@ChurchofJesusChrist.org]
+
+### 38.10.1 Stake and Ward Military Relations Leadership
+
+A member of the stake presidency oversees military relations. In areas with multiple stakes near a military installation, one is designated the agent stake and coordinates with the installation and chaplain through a stake military relations committee.
+
+#### 38.10.1.1 Stake Military Relations Committee
+
+Stakes near military installations or with a large number of members in the military should establish a military relations committee to advise the stake presidency on veteran- and military-related matters. The committee includes:
+
+* A chairperson designated by the stake president.
+* Stake military relations specialists.
+* Full-time military relations missionary couples.
+* Senior service military relations missionaries.
+* Church-endorsed chaplains in the stake.
+* Other council members, as directed by the stake president.
+
+#### 38.10.1.2 Stake Military Relations Specialist
+
+The stake presidency may call a man or a woman to serve as a stake military relations specialist to support military members, veterans, and their families. When possible, the military relations specialist should be a member of the military or a veteran.
+
+#### 38.10.1.3 Ward Military Relations Leadership
+
+A member of the bishopric oversees ward military relations and coordinates with the stake military relations specialist. He has the following responsibilities:
+
+* Meet with ward members and their families before members leave for military service.
+* Invite members entering the military to complete the Church’s military service orientation.
+* Encourage service members to receive a patriarchal blessing and temple recommend.
+* Help transfer service members’ Church records if they relocate.
+* Correspond regularly with deployed service members.
+* Support veteran reintegration.
+
+For information about the membership records of members entering the military, see [33.6.9]. The records of members assigned to an isolated location or deployed to a war zone typically remain in their home ward. If a deployed service member’s family moves, the member’s record should be sent to the family’s new ward. Church leaders may contact the Church’s Military Relations Office if they have questions.
+
+Bishops of units that meet on a military installation should coordinate with the installation’s chaplain or commander to facilitate worship services. Services may include sacrament meeting; elders quorum, Relief Society, Aaronic Priesthood quorum, and Young Women meetings; Sunday School and Primary classes; seminary and institute classes; and other unit activities.
+
+### 38.10.2 Military Chaplains
+
+The Church endorses men and women as military chaplains, in accordance with the policies and regulations of the military in which they serve. For more information, see [38.9].
+
+### 38.10.3 Church Participation for Service Members
+
+#### 38.10.3.1 Church Units for Service Members
+
+Members in the military attend their assigned Church unit. The stake president may organize a ward, branch, or group for military personnel and their families when one of the following applies:
+
+* There is no unit within a reasonable distance of the military installation.
+* Military personnel do not understand the language spoken in the local unit.
+* Military personnel are unable to leave the military installation because of training requirements or other restrictions.
+
+Wards, branches, and groups at military installations are created using the procedures outlined in [chapter 37].
+
+#### 38.10.3.2 Church Services on Military Installations
+
+In militaries where religious accommodations are made, a military chaplain often oversees religious programs on military installations. When a Church unit is established at a military installation, the bishop, branch president, or group leader coordinates with the installation chaplain to arrange the meeting times and location for Church services. The chaplain may advertise this information. If no chaplain is assigned, the stake president should consult with the commanding officer to determine how to provide Church services to the military members.
+
+The Church Military Relations Office can provide to military leaders a letter certifying that a bishop, branch president, group leader, or service member ministry coordinator (see [38.10.3.3]) is authorized to conduct meetings on behalf of the Church. A copy of the letter should be given to the installation chaplain.
+
+#### 38.10.3.3 Service Member Ministry Coordinators
+
+A service member ministry coordinator facilitates gatherings for Church members who are unable to attend an organized Church unit because they are deployed to an isolated location or war zone. Coordinators help members gather for prayer, gospel study, fellowship, and worship. Coordinators may be male or female. They do not hold priesthood keys or authorize members to perform ordinances. The gatherings they facilitate do not constitute a formal Church unit.
+
+A coordinator can be called where two or more military members are deployed to a location without access to a Church unit.
+
+When possible, a local stake or mission president calls and sets apart a service member ministry coordinator. When members cannot communicate or meet with the stake or mission president, a coordinator may be appointed by one of the following:
+
+* A service member’s home stake or mission president.
+* An endorsed Latter-day Saint chaplain, when authorized by the Area Presidency or the stake or mission president responsible for the location.
+
+In these cases, the coordinator serves without being set apart but is entitled to divine guidance and support.
+
+The Church leader who calls or appoints the coordinator notifies the Church’s Military Relations Office so an appointment letter can be issued. Coordinators may request support and Church materials through the Military Relations Office. (See [38.10] for contact information.)
+
+At gatherings facilitated by a coordinator, the sacrament may be administered by an authorized priest or Melchizedek Priesthood holder (see [38.10.3.4]). If an authorized priesthood holder is unavailable, members may still gather for gospel study and fellowship.
+
+#### 38.10.3.4 Administering the Sacrament in Isolated Locations or War Zones
+
+When a worthy priest or Melchizedek Priesthood holder is deployed to a location without access to an organized Church unit, his bishop may authorize him to bless and partake of the sacrament individually.
+
+In addition, his stake president may authorize him to bless and pass the sacrament in gatherings facilitated by a service member ministry coordinator (see [38.10.3.3]).
+
+Both authorizations may be given before deployment and remain valid for the duration of the isolated service period.
+
+### 38.10.4 Serving in the Military
+
+#### 38.10.4.1 Military Service Orientation
+
+Members entering the military should complete the Church’s [military service orientation] before beginning their service. This orientation introduces Church resources and support available in the military. It helps members strengthen their faith in Jesus Christ, stay true to their covenants, and prepare for lifelong discipleship. It is normally conducted by the stake military relations specialist. During the orientation, members should receive a pocket-size scripture set and a military identification tag. These and other items can be ordered at [store.ChurchofJesusChrist.org].
+
+#### 38.10.4.2 Missionary Service and Military Obligation
+
+In many countries with mandatory military service, members must complete their military obligation before they can serve a full-time mission. Some countries allow this military service to be deferred until after missionary service. Members serving in the Reserves or National Guard may be able to serve a mission after they complete basic and advanced training (with approval from their commander). Bishops should understand their country’s military service requirements and counsel with youth and young single adults who plan to serve a mission. Members and leaders should carefully coordinate the timing of missionary service to ensure that it does not interfere with military obligations.
+
+For more information, see “[Missionary Service and Military Obligations]” on the Church’s Military Relations page, or contact the Military Relations Office.
+
+#### 38.10.4.3 Wearing the Garment in the Military
+
+For information about wearing the garment in the military, see the following resources:
+
+* [Section 38.5.7] in this handbook
+* “[Uniform Temple Garments]” on the Church’s Military Relations page
+* [Garment Guidelines for Military, Law Enforcement, and Firefighters order form]
+
+### 38.10.5 Veteran Support
+
+The Church defines a veteran as anyone who has served in their country’s military for any period of time. Veterans may face physical, mental, emotional, and spiritual challenges. Their families may also be affected.
+
+Church leaders, ministering brothers and sisters, and stake military relations specialists can help veterans and their families draw closer to Jesus Christ. They should meet with veterans and widows of veterans to provide Christlike fellowship, support them in their challenges, and share resources.
+
+For more information, see “[Veterans]” on the Church’s Military Relations page.
+
+### 38.10.6 Senior Missionary Opportunities
+
+Where permitted, senior missionaries may be called to support military communities full-time or part-time. Missionaries assist local priesthood leaders in ministering to the military community, such as supporting Sunday worship services for trainees and the families of deployed personnel. For more information, see “[Serve as a Military Relations Senior Missionary]” on the Church’s Military Relations page.
+
+### 38.10.7 Other Information
+
+For information about membership records of service members, see [33.6.9].
+
+For information about patriarchal blessings for service members, see [38.2.10.3].
+
+For information about issuing temple recommends in isolated locations, see [26.3.4].

@@ -152,7 +152,7 @@ Before the stake president can call a new bishop, he must receive written approv
 
 If a man called as bishop is not a high priest, the stake president ensures that he is ordained a high priest before ordaining him a bishop. If the man was ordained a bishop previously, he needs only to be set apart as bishop of the ward. If men called as the bishop’s counselors are not high priests, they are ordained high priests before being set apart.
 
-After the First Presidency has approved the recommendation of a man to serve as bishop, they authorize the stake president to ordain him and set him apart. The stake president:
+After the First Presidency has approved the recommendation of a man to serve as bishop, they authorize the stake president to ordain him and set him apart. Under the direction of the stake president, a few high priests may be invited to join the stake president in the circle. The stake president:
 
 1. Calls the man by his full name.
 2. States that he is acting by the authority of the Melchizedek Priesthood.
@@ -191,8 +191,8 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 | [Assistants to the priests quorum president] | Bishop (as the priests quorum president) | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Bishop |
 | [Teachers and deacons quorum presidents] | Bishopric | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Called by the bishop or an assigned counselor; set apart by the bishop |
 | [Counselors in the teachers and deacons quorum presidencies and quorum secretaries] | Quorum president | Bishopric | Quorum members (presented in a quorum meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
-| [Young Women class presidents] | Bishopric (in consultation with the Young Women presidency) | Bishopric | Class members (presented in a Young Women meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
-| [Counselors in Young Women class presidencies and class secretaries] | Class president | Bishopric | Class members (presented in a Young Women meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
+| [Young Women age-group presidents] | Bishopric (in consultation with the Young Women presidency) | Bishopric | Age-group members (presented in a Young Women meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
+| [Counselors in Young Women age-group presidencies and class secretaries] | Age-group president | Bishopric | Age-group members (presented in a Young Women meeting by the bishop or an assigned counselor) | Bishop or an assigned counselor |
 | [Ward welfare and self-reliance specialists if needed] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward resource center specialist if needed] | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward music coordinator] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
@@ -255,9 +255,8 @@ In rare circumstances, a stake member may need to begin service before he or she
 1. Active sealers in a temple should not be called to serve in district presidencies. Sealers are called under the direction of the President of the Church.
 2. In areas with no missions, the Area Presidency performs this function.
 
-### 30.8.5 Military Service Member Group Callings
+### 30.8.5 Group Calling
 
 | Calling | Recommended by | Approved by | Sustained by | Called and set apart by |
 | --- | --- | --- | --- | --- |
-| [Service member group leader] | A Latter-day Saint chaplain, the director of Military Relations, or the outgoing group leader | Bishop or branch president and the stake or mission president (in the member’s home ward or branch and stake or mission) | Group members | Stake president or mission president or a designated representative (may function without being set apart if necessary) |
-| Assistants to the service member group leader | Group leader | Bishop or branch president and the stake or mission president (in the member’s home ward or branch and stake or mission) | Group members | Stake president or mission president or a designated representative (may function without being set apart if necessary) |
+| [Group leader] | The stake or mission president, the bishop or branch president (or for a group for service members, a Latter-day Saint chaplain, the Church Military Relations manager, or the outgoing group leader) | Bishop or branch president and stake or mission president (where the member’s membership records reside) | Group members | Stake president or mission president, bishop or branch president, or an assigned counselor |
