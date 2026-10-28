@@ -39,7 +39,7 @@ Before a stake leader extends a calling, the person’s bishop is consulted to d
 
 Opportunities to serve help members grow spiritually. Serving together can also help members build close relationships. This is especially important for new members.
 
-Ward leaders give new members opportunities to serve soon after they are baptized and confirmed. New members have a variety of abilities. Leaders prayerfully invite them to serve in ways that will help them grow personally and bless others. Some members are ready for callings right away. Others might prefer temporary assignments that help them prepare to receive callings. See also [23.2] and [23.5.1].
+Ward leaders give new members opportunities to serve soon after they are baptized and confirmed. New members have a variety of abilities. Leaders prayerfully invite them to serve in ways that will help them grow personally and bless others. Some members are ready for callings right away. Others might prefer temporary assignments that help them prepare to receive callings. See also [23.2] and [23.6.1].
 
 ### 30.1.3 Callings for Those Who Are Not Members
 
@@ -186,6 +186,7 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 | [Ward welfare and self-reliance specialists if needed] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward resource center specialist if needed] | Sunday School president | Bishopric | Ward members | Bishop or an assigned counselor |
 | [Ward music coordinator] | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
+| Interpreters if needed | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 | Other ward callings | Bishopric | Bishopric | Ward members | Bishop or an assigned counselor |
 
 1. In rare circumstances, a ward member may need to begin service in a calling before he or she can be sustained. When this happens, a member of the bishopric presents the person for ratifying as soon as reasonable. He adapts the process described in [30.3]. This includes providing an opportunity for ward members to oppose the action.
@@ -222,6 +223,7 @@ A ward or stake does not need to fill every calling listed in this chart. Leader
 | [Stake auditors] | Chairman of the stake audit committee (counselor in the stake presidency) | Stake presidency and high council | Not sustained | Stake president or an assigned counselor (the stake president determines whether setting apart is needed) |
 | [Stake seminary and institute teachers and supervisors if needed] | Stake presidency (after counseling with the bishop and the seminary and institute representative) | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | [Stake welfare and self-reliance specialists if needed] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
+| Stake interpretation coordinator if needed | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | [Stake communication director, assistant directors, and specialists] | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 | Other stake callings | Stake presidency | Stake presidency and high council | Members in stake conference | Stake president or an assigned counselor or high councilor |
 

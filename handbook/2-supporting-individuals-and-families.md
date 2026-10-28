@@ -91,7 +91,7 @@ God has commanded His children to “remember the sabbath day, to keep it holy�
 
 Gospel teaching and learning are home-centered and Church-supported. Church leaders encourage all members to study the gospel at home on the Sabbath day and throughout the week. Gospel study at home strengthens individuals and families. It deepens conversion to Heavenly Father and the Lord Jesus Christ.
 
-A study of the scriptures as outlined in [Come, Follow Me—For Individuals and Families] is the suggested course of gospel study at home.
+A study of the scriptures as outlined in [Come, Follow Me] is the suggested course of gospel study at home.
 
 Individuals and families seek inspiration as they choose to study what will best meet their needs. In addition to the scripture passages suggested in [Come, Follow Me], they might prayerfully consider studying:
 

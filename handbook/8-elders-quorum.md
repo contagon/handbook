@@ -18,7 +18,7 @@ Each ward has an elders quorum. It includes the following brethren:
 
 * All elders in the ward.
 * All prospective elders in the ward (see [8.4]).
-* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [6.2.1.1] and [29.3.5].
+* All high priests in the ward, except those who are currently serving in a stake presidency, in a bishopric, on a high council, or as a patriarch. These leaders are members of the stake high priests quorum. For information about the stake high priests quorum, see [6.2.1.1].
 
 A young man may begin attending elders quorum meetings when he turns 18, even if he has not yet been ordained an elder. He counsels with his parents and bishop to make this decision. By age 19 or when moving from home, such as to attend a university or serve a mission, he should be ordained an elder if he is worthy. See [10.6].
 
@@ -49,7 +49,7 @@ Elders quorum leaders support members in living the gospel of Jesus Christ. They
 
 #### 8.2.1.1 Gospel Learning at Home
 
-When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me—For Individuals and Families] and other resources can supplement their study.
+When members learn and live the gospel at home, their conversion to Heavenly Father and Jesus Christ deepens. Elders quorum leaders encourage brethren to study the scriptures and the words of living prophets, individually and with their families. [Come, Follow Me] and other resources can supplement their study.
 
 Home evenings are an important way to learn the gospel at home. They are usually held weekly on Sunday, on Monday evening, or at another time. They could include prayers, gospel study, testimonies, singing, and fun activities.
 
@@ -67,8 +67,6 @@ Meetings are held on the second and fourth Sundays of the month. They last 50 m
 The meeting begins with prayer. A presidency member then conducts any quorum business. For example, the quorum may counsel together about aspects of participating in God’s work of salvation and exaltation. Sufficient time should then be given to meaningful gospel instruction and discussion.
 
 Quorum meetings focus on topics in one or more talks from the most recent general conference. The elders quorum presidency prayerfully selects messages to discuss based on members’ needs. Hymns may be sung to enhance a lesson. Meetings should end with a prayer.
-
-For more information, see [ComeFollowMe.ChurchofJesusChrist.org].
 
 #### 8.2.1.3 Activities
 
@@ -116,15 +114,15 @@ Elders quorum and Relief Society presidencies, ministering brothers and sisters,
 
 ### 8.2.3 Inviting All to Receive the Gospel
 
-Melchizedek Priesthood holders have a duty to invite all to receive the blessings of the gospel of Jesus Christ (see [Doctrine and Covenants 53:3]). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active.
+Melchizedek Priesthood holders have a duty to invite all to receive the blessings of the gospel of Jesus Christ (see [Doctrine and Covenants 53:3]). They do this by sharing the gospel, strengthening new members, and reaching out to those who are less active. See [23.2] and [23.3].
 
-In presidency and quorum meetings, the elders quorum presidency discusses ways the brethren can invite all to receive the blessings of the gospel.
+In presidency and quorum meetings, the elders quorum presidency discusses ways the brethren can invite all to receive the blessings of the gospel. See [23.1.1], [23.1.2], and [23.1.3].
 
-The elders quorum president assigns a member of the presidency to help lead member missionary work in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
+The elders quorum president assigns a member of the presidency to help lead efforts to share the gospel in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts (see [23.6.2]).
 
-This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.5.1] and [23.5.3].
+This member of the elders quorum presidency may fulfill the role of the ward mission leader. If the bishopric has called a ward mission leader, this presidency member oversees his work. See [23.6.1] and [23.6.3].
 
-The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries.
+The ward mission leader, who may be a member of the elders quorum presidency, leads weekly coordination meetings. The purpose of these meetings is to coordinate inviting all to receive the blessings of the gospel. These meetings include assigned members of the Relief Society and elders quorum presidencies, ward missionaries, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and full-time missionaries. [See 23.4].
 
 ### 8.2.4 Uniting Families for Eternity
 
@@ -251,7 +249,7 @@ The quorum presidency and ministering brothers teach prospective elders about:
 * The purposes of priesthood ordinances and blessings and how to perform them (see [chapter 18]).
 * How men and women work together to accomplish God’s work.
 
-For information about these topics, see “[Melchizedek Priesthood],” “[Priesthood],” and “[Women in the Church]” (Gospel Topics, topics.ChurchofJesusChrist.org).
+For information about these topics, see “[Melchizedek Priesthood],” “[Priesthood],” and “[Women in the Church]” (Topics and Questions, topics.ChurchofJesusChrist.org).
 
 This instruction may occur individually or in a class held outside of regular Sunday meetings.
 

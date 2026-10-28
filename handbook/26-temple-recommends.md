@@ -40,7 +40,7 @@ If the bishop determines that a member who has a current recommend is not living
 
 Authorized priesthood leaders conduct interviews before a member can receive a temple recommend. Instructions are in [LCR]. Priesthood leaders should issue a recommend only if the member answers the temple recommend questions appropriately.
 
-Temple recommend interviews allow members to demonstrate that they have a testimony and are striving to obey God’s commandments and follow His prophets. Priesthood leaders also affirm, through the interview, that the member is worthy. See 26.3.3 for additional information about conducting temple recommend interviews.
+Temple recommend interviews allow members to demonstrate that they have a testimony and are striving to obey God’s commandments and follow His prophets. Priesthood leaders also affirm, through the interview, that the member is worthy. See [26.3.3] for additional information about conducting temple recommend interviews.
 
 In stakes, a member of the stake presidency or a stake clerk activates the temple recommend in [LCR] after it is issued. In districts, a member of the mission presidency or a mission clerk activates the recommend. Recommends for proxy baptisms and confirmations are activated when they are printed by a member of the bishopric or by the branch president. He uses [LCR] to print the recommends.
 
@@ -116,20 +116,21 @@ Do you obey the law of chastity?
 
 For new members seeking a recommend to perform proxy baptisms and confirmations: Are you willing to obey the commandment to pay tithing?
 11. Do you understand and obey the Word of Wisdom?
-12. Do you have any financial or other obligations to a former spouse or to children?
+12. _(This question is omitted when interviewing a child or youth.)_ Do you have any financial or other obligations to a former spouse or to children?
 
 If yes, are you current in meeting those obligations?
-13. Do you keep the covenants that you made in the temple, including wearing the temple garment as instructed in the endowment? (Read the “Wearing the Temple Garment” statement below to each member.)
-14. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
-15. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
+13. _(This question is omitted when interviewing a member who is not endowed.)_ Do you keep the covenants that you made in the temple?
+14. _(This question is omitted when interviewing a member who is not endowed.)_ Do you honor your sacred privilege to wear the garment as instructed in the initiatory ordinances? (Read the “[Wearing the Temple Garment]” statement, included below, to each member.)
+15. Are there serious sins in your life that need to be resolved with priesthood authorities as part of your repentance?
+16. Do you consider yourself worthy to enter the Lord’s house and participate in temple ordinances?
 
 #### 26.3.3.2 Wearing the Temple Garment
 
-The temple garment is a reminder of covenants made in the temple and, when worn properly throughout life, will serve as a protection against temptation and evil. The garment should be worn beneath the outer clothing. It should not be removed for activities that can reasonably be done while wearing the garment, and it should not be modified to accommodate different styles of clothing. Endowed members should seek the guidance of the Holy Spirit to answer personal questions about wearing the garment.
+The First Presidency has provided the following guidance on wearing the garment:
 
-It is a sacred privilege to wear the garment and doing so is an outward expression of an inner commitment to follow the Savior Jesus Christ.
+“The garment of the holy priesthood reminds us of the veil in the temple, and that veil is symbolic of Jesus Christ. When you put on your garment, you put on a sacred symbol of Jesus Christ. Wearing it is an outward expression of your inner commitment to follow Him. The garment is also a reminder of your temple covenants. You should wear the garment day and night throughout your life. When it must be removed for activities that cannot reasonably be done while wearing the garment, seek to restore it as soon as possible. As you keep your covenants, including the sacred privilege to wear the garment as instructed in the initiatory ordinances, you will have greater access to the Savior’s mercy, protection, strength, and power.”
 
-If members have questions about wearing the garment, refer them to [38.5.5].
+If members have questions about wearing the garment, refer them to [38.5].
 
 #### 26.3.3.3 Additional Direction
 
