@@ -233,7 +233,7 @@ All designated gathering places must be approved by the Area Presidency. Gatheri
 
 ### 14.4.2 Monday Nights
 
-As an exception, young single adult wards and single adult wards may hold activities on Monday nights, including in Church buildings (see [20.5.3]).
+As an exception, young single adults and single adults may hold Church activities on Monday nights, including in Church buildings (see [20.5.3]).
 
 ### 14.4.3 Additional Elders Quorums and Relief Societies
 

@@ -553,7 +553,7 @@ The stake youth leadership committee has the following additional responsibiliti
 
 * Plan service and activities. These could include youth conferences, dances, devotionals, service projects, and multistake events. (For service ideas, see [JustServe.org] where it is available.) Youth should lead out in planning and carrying out these activities. Stake activities should not be so frequent that they place a burden on wards. These activities should supplement ward activities, not compete with them. Ward leaders should be notified of stake activities well in advance.
 * Plan ways to support [For the Strength of Youth conferences].
-* Coordinate stake efforts related to the [Children and Youth program].
+* Coordinate stake efforts related to the Children and Youth program.
 
 A member of the stake presidency oversees meetings of the stake youth leadership committee. He may conduct, or he may assign someone else to do so, including youth. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the youth leadership committee could meet to continue a discussion about specific matters.
 

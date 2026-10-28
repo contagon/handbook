@@ -105,7 +105,7 @@ Members of the ward council have the following responsibilities:
 * Encourage all youth and adult members, including new members, to have a current temple recommend (see [26.0]).
 * Encourage members to worship in the house of the Lord as often as their circumstances allow.
 * Invite individuals and families to learn the doctrine and blessings of participating in the work of uniting families for eternity. This work includes learning about ancestors and performing temple ordinances on their behalf.
-* Support parents in teaching their children the doctrine of the work of uniting families for eternity. This includes the blessings of temple covenants and ordinances and of performing temple ordinances for their deceased ancestors.
+* Support parents in teaching their children the doctrine of the work of uniting families for eternity. This includes the blessings of temple ordinances and covenants and of performing temple ordinances for their deceased ancestors.
 * Teach the principles of this work regularly during Church meetings.
 
 See [chapter 26] for information about temple recommends.
@@ -148,9 +148,9 @@ Others who are invited include:
 
 All who attend, including the youth, counsel together as equal participants. These meetings focus on the needs of individuals and how they can be blessed as they participate in temple and family history work. They focus especially on youth, new and returning members, and sisters and brothers who have not been endowed. The meetings usually cover the following topics:
 
-* How to implement the ward temple and family history plan (see [25.2.6]).
-* How to help specific ward members prepare to receive their temple ordinances.
-* How to help specific ward members with their temple and family history efforts.
+* How to implement the ward temple and family history plan (see [25.2.6])
+* How to help specific ward members prepare to receive their temple ordinances
+* How to help specific ward members with their temple and family history efforts
 
 These meetings may be held in person or remotely. Coordination can also happen in other ways, including phone calls or group texts.
 
@@ -314,6 +314,8 @@ The stake presidency may assign a stake temple and family history consultant or 
 
 ## 25.5 Recommending and Calling Temple Workers
 
+Temple workers help perform ordinances or assist with temple operations, such as office, laundry, patron housing, or groundskeeping tasks. Members who are called as temple workers serve as unpaid volunteers.
+
 ### 25.5.1 Recommending Temple Workers
 
 Potential temple workers are identified in the following ways:
@@ -331,13 +333,13 @@ When a bishop identifies a potential temple worker or receives a recommendation 
 
 The recommendation is next reviewed by the stake president. If the stake president approves the recommendation, he submits it to the temple president for review using the [Recommend Temple Worker tool].
 
-Members who are called or assigned as temple workers normally commit to a regular time to serve in the temple each week. Leaders should avoid issuing additional callings that would interfere with members’ ability to serve in the temple.
+Members who are called as temple workers normally commit to a regular time to serve in the temple each week. Leaders should avoid issuing additional callings that would interfere with members’ ability to serve in the temple.
 
 The [Recommend Temple Worker tool] also shows bishops and stake presidents a list of all members from their wards or stakes who currently serve as temple workers.
 
 ### 25.5.2 Requirements for Temple Workers
 
-Temple workers help perform ordinances or assist with temple operations, such as office, laundry, or groundskeeping tasks. To be recommended as a temple worker, a member must meet the following qualifications:
+To be recommended as a temple worker, a member must meet the following qualifications:
 
 * Reside in the temple district of the temple where he or she will serve.
 * Be endowed, honor temple covenants, and have a current temple recommend.

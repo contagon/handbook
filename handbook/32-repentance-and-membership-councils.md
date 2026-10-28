@@ -411,7 +411,7 @@ The stake president reports one of the following in [Leader and Clerk Resources]
 * The results of a membership council
 * That he counseled with the Area Presidency and determined a membership council was not necessary
 
-If the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, the First Presidency generally directs that his or her membership record will be annotated. “Leader” is defined as a person holding a prominent Church position, as well as counselors, clerks, and branch presidencies. When repentance is complete, a stake president may request removal of the annotation (see [32.14.5] and [34.7.5]). An annotation does not mean a membership council or other action has occurred.
+If the Church Auditing Department determines that a leader or Church employee has embezzled Church funds or property, the Office of the First Presidency generally directs that his or her membership record will be annotated. “Leader” is defined as a person holding a prominent Church position, as well as counselors, clerks, and branch presidencies. When repentance is complete, a stake president may request removal of the annotation (see [32.14.5] and [34.7.5]). An annotation does not mean a membership council or other action has occurred.
 
 #### 32.6.3.4 Misuse of Personal Data
 
@@ -425,7 +425,7 @@ In serious cases, the stake president may counsel with the Area Presidency about
 * The person’s level of remorse.
 * The position held by the member (see [32.6.1.4] for members holding a prominent Church position).
 
-In some cases, the First Presidency may direct that the membership record of a person who has misused personal data be annotated. This would prevent him or her from holding callings with privileged access to personal data.
+In some cases, the Office of the First Presidency may direct that the membership record of a person who has misused personal data be annotated. This would prevent him or her from holding callings with privileged access to personal data.
 
 #### 32.6.3.5 Individuals Who Identify as Transgender
 
@@ -939,7 +939,7 @@ If the member was endowed, Church headquarters updates the membership record to 
 
 ### 32.14.5 Membership Records with Annotations
 
-As authorized by the First Presidency, Church headquarters annotates a person’s membership record in any of the situations listed below.
+As authorized by the Office of the First Presidency, Church headquarters annotates a person’s membership record in any of the situations listed below.
 
 1. The bishop or stake president submits a Report of Church Membership Council form indicating that the person’s membership was formally restricted or withdrawn for any of the following conduct:
 
@@ -960,7 +960,7 @@ As authorized by the First Presidency, Church headquarters annotates a person’
 
 When a bishop receives an annotated membership record, he follows the instructions in the annotation.
 
-Only the First Presidency may authorize removing an annotation from a membership record. If the stake president recommends removing an annotation, he uses [LCR] (see [6.2.3]). The Office of the First Presidency notifies him if the recommendation is approved or not.
+Only the Office of the First Presidency may authorize removing an annotation from a membership record. If the stake president recommends removing an annotation, he uses [LCR] (see [6.2.3]). The Office of the First Presidency notifies him if the recommendation is approved or not.
 
 ### 32.14.6 Reporting Theft of Church Funds
 

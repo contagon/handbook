@@ -1,12 +1,12 @@
-# 18. Performing Priesthood Ordinances and Blessings
+# 18. Performing Priesthood Ordinances, Including Blessings
 
 ## 18.0 Introduction
 
-Ordinances and blessings are sacred acts performed by the authority of the priesthood and in the name of Jesus Christ. As priesthood holders perform ordinances and blessings, they follow the Savior’s example of blessing others. Priesthood ordinances and blessings provide access to God’s power (see [Doctrine and Covenants 84:20]).
+Ordinances are sacred acts performed by the authority of the priesthood and in the name of Jesus Christ. As priesthood holders perform ordinances, they follow the Savior’s example of blessing others. Priesthood ordinances provide access to God’s power (see [Doctrine and Covenants 84:20]).
 
-Ordinances and blessings are to be performed with faith in Heavenly Father and Jesus Christ and according to the guidance of the Holy Ghost. Leaders ensure that they are performed with proper approval (where necessary), with the required priesthood authority, in the proper way, and by worthy participants (see [18.3]).
+Ordinances are to be performed with faith in Heavenly Father and Jesus Christ and according to the guidance of the Holy Ghost. Leaders ensure that they are performed with proper approval (where necessary), with the required priesthood authority, in the proper way, and by worthy participants (see [18.3]).
 
-For policies on priesthood ordinances and blessings, see [38.2].
+For policies on priesthood ordinances, see [38.2].
 
 ## 18.1 Ordinances of Salvation and Exaltation
 
@@ -18,6 +18,8 @@ The priesthood includes the authority to administer gospel ordinances that are n
 * Temple endowment
 * Temple sealing
 
+For a description of the covenants and blessings associated with the ordinances of salvation and exaltation, see [3.5.3].
+
 For information about performing these ordinances for those with intellectual disabilities, see the following:
 
 * For baptism and confirmation ([38.2.8.1])
@@ -26,9 +28,9 @@ For information about performing these ordinances for those with intellectual di
 
 If a child who was born in the covenant dies before age 8, no ordinances are needed or performed. If the child was not born in the covenant, the only ordinance he or she needs is to be sealed to parents. Because of the Savior’s Atonement, all children who die before age 8 are “saved in the celestial kingdom of heaven” ([Doctrine and Covenants 137:10]; see also [Moroni 8:8–12]).
 
-## 18.2 Other Ordinances and Blessings
+## 18.2 Other Ordinances
 
-Other ordinances and blessings make it possible for God’s children to receive His power, healing, comfort, and guidance. These ordinances and blessings are listed below:
+Other ordinances make it possible for God’s children to receive His power, healing, comfort, and guidance. These ordinances are listed below:
 
 * Naming and blessing children
 * The sacrament
@@ -41,17 +43,17 @@ Other ordinances and blessings make it possible for God’s children to receive 
 * Dedicating graves
 * Patriarchal blessings by ordained patriarchs
 
-## 18.3 Participation in an Ordinance or Blessing
+## 18.3 Participation in an Ordinance
 
-Those who perform or participate in an ordinance or blessing must have the necessary priesthood authority and be worthy. Generally, the standard of worthiness is that associated with holding a temple recommend. However, as guided by the Spirit and the instructions in this chapter, bishops and stake presidents may allow fathers and husbands who hold the necessary priesthood office to perform or participate in some ordinances and blessings even if they are not fully temple worthy. A priesthood holder who has unresolved serious sins should not participate.
+Those who perform or participate in an ordinance must have the necessary priesthood authority and be worthy. Generally, the standard of worthiness is that associated with holding a temple recommend. However, as guided by the Spirit and the instructions in this chapter, bishops and stake presidents may allow fathers and husbands who hold the necessary priesthood office to perform or participate in some ordinances even if they are not fully temple worthy. A priesthood holder who has unresolved serious sins should not participate.
 
-Generally, only priesthood leaders and other priesthood holders who are close family members and friends participate in an ordinance or blessing.
+Generally, only priesthood leaders and other priesthood holders who are close family members and friends participate in an ordinance.
 
 The person receiving the ordinance, family members, and priesthood leaders counsel together to determine who and how many will participate. This decision should be made well before the ordinance is performed.
 
-When only one or two priesthood holders participate, each of them places both hands lightly on the person’s head. When several participate, they stand in a circle around the person receiving the ordinance or blessing. Each one places his right hand lightly on the person’s head (or under the baby) and his left hand on the shoulder of the brother to his left. One acts as voice to perform the ordinance or give the blessing.
+When only one or two priesthood holders participate, each of them places both hands lightly on the person’s head. When several participate, they stand in a circle around the person receiving the ordinance. Each one places his right hand lightly on the person’s head (or under the baby) and his left hand on the shoulder of the brother to his left. One acts as voice to perform the ordinance.
 
-Performing or receiving some ordinances and blessings requires approval from a presiding leader who holds the necessary priesthood keys (see [3.4.1]). As needed, approval may be given by a counselor he authorizes. See the following charts. References to stake presidents apply also to mission presidents. References to bishops apply also to branch presidents.
+Performing or receiving some ordinances requires approval from a presiding leader who holds the necessary priesthood keys (see [3.4.1]). As needed, approval may be given by a counselor he authorizes. See the following charts. References to stake presidents apply also to mission presidents. References to bishops apply also to branch presidents.
 
 Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of Salvation and Exaltation?
 
@@ -63,9 +65,9 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive the Ordinances of
 | Temple endowment | Bishop and stake president |
 | Temple sealing | Bishop and stake president |
 
-Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances and Blessings?
+Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances?
 
-| Ordinance or Blessing | Who Holds Keys |
+| Ordinance | Who Holds Keys |
 | --- | --- |
 | Naming and blessing children | Bishop |
 | The sacrament | Bishop |
@@ -80,7 +82,7 @@ Which Leaders Hold Keys to Give Approval to Perform or Receive Other Ordinances 
 
 ## 18.4 Ordinances for Minor Children
 
-Guidelines for obtaining approval from parents or guardians for a minor child to receive the following ordinances and blessings are provided in the sections listed below:
+Guidelines for obtaining approval from parents or guardians for a minor child to receive the following ordinances are provided in the sections listed below:
 
 * For naming and blessing: [38.2.7.2] and [38.2.7.3]
 * For baptism and confirmation: [38.2.8.2]
@@ -638,9 +640,11 @@ Church members should not compare blessings with others and should not share the
 
 If a patriarchal blessing does not include a declaration of lineage, the patriarch may later give an addendum to declare lineage.
 
-### 18.17.2 Obtaining Copies of Patriarchal Blessings
+### 18.17.2 Accessing Patriarchal Blessings
 
-A person who has received a patriarchal blessing should carefully safeguard the printed copy. However, if this copy is lost or destroyed, the person may request a new one. He or she can make this request at [Patriarchal Blessings] on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
+A person who has received a patriarchal blessing will receive a printed copy after it has been transcribed. The blessing should be carefully safeguarded. A person may request access to a digital version at [Patriarchal Blessings] on ChurchofJesusChrist.org. If this is not possible, the person contacts his or her bishop for assistance.
+
+A person may also access his or her patriarchal blessing from the Home section of the Gospel Library app. To view the blessing, a member must be signed in using his or her Church account. If the blessing does not appear, the member will need to request the blessing at [Patriarchal Blessings] on ChurchofJesusChrist.org.
 
 ### 18.17.3 More Information
 

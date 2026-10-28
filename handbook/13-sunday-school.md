@@ -20,17 +20,19 @@ This assigned counselor meets with the Sunday School president regularly. They c
 
 #### 13.2.2.1 Calling a Sunday School President
 
-The bishop calls and sets apart a Melchizedek Priesthood holder to be the ward Sunday School president. They discuss whether counselors should be called. If counselors are needed, and if there are enough men to serve in these positions, the Sunday School president may recommend one or two counselors. If the bishopric approves, a member of the bishopric calls them.
+The bishop calls and sets apart the ward Sunday School president. A woman or a man may be called. A man serving as Sunday School president must hold the Melchizedek Priesthood.
 
-A member of the bishopric presents Sunday School presidency members in sacrament meeting for sustaining by ward members. A member of the bishopric also sets them apart.
+The bishop and Sunday School president discuss whether counselors should be called. If counselors are needed, the Sunday School president may recommend one or two counselors. The counselors must be the same gender as the president. Male counselors do not need to be Melchizedek Priesthood holders. Once the bishopric approves, a member of the bishopric calls them.
 
-[[AO]] In a large ward, the bishopric may call and set apart a man to be the Sunday School secretary. The Sunday School president may recommend whom to call. The secretary can help the presidency keep track of assignments or attendance if desired.
+A member of the bishopric presents the Sunday School presidency members in sacrament meeting for sustaining by ward members. A member of the bishopric also sets them apart.
+
+[[AO]] In a large ward, the bishopric may call and set apart a Sunday School secretary. The Sunday School president may recommend whom to call. The secretary must be the same gender as the president and counselors. A male secretary does not need to be a Melchizedek Priesthood holder. The secretary can help the presidency keep track of assignments or attendance if desired.
 
 #### 13.2.2.2 Responsibilities
 
-The Sunday School president has the following responsibilities. If he has counselors, they assist him.
+The Sunday School president has the following responsibilities. If the president has counselors, they assist him or her.
 
-* Serve on the ward council. He serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [29.2.5]).
+* Serve on the ward council. The president serves as (1) a member of the council who helps address needs in the ward and find solutions and (2) a representative of the Sunday School (see [29.2.5]).
 * Oversee efforts to improve gospel learning and teaching at home and at church.
 * Organize Sunday School classes, with the bishopric’s approval (see [13.3]). Recommend to the bishopric adult members to serve as Sunday School teachers.
 * Support, encourage, and instruct Sunday School teachers. Help them become more effective gospel teachers by following the principles in the scriptures and [Teaching in the Savior’s Way]. Encourage them to study [Teaching in the Savior’s Way].
@@ -40,7 +42,7 @@ The Sunday School president has the following responsibilities. If he has counse
 
 ### 13.2.3 Sunday School Teachers
 
-The Sunday School president may recommend members to serve as Sunday School teachers. If the bishopric approves, a member of the bishopric calls them, presents them in sacrament meeting for sustaining by ward members, and sets them apart.
+The Sunday School president may recommend members to serve as Sunday School teachers. Once the bishopric approves, a member of the bishopric calls them, presents them in sacrament meeting for sustaining by ward members, and sets them apart.
 
 Sunday School teachers get to know class members, including those who do not attend classes. Teachers support members in their efforts to learn and live the gospel of Jesus Christ.
 
@@ -52,7 +54,7 @@ Sunday School teachers attend quarterly teacher council meetings (see [17.4]).
 
 Sunday School classes are held on the first and third Sundays of the month. They last 50 minutes. Classes begin and end with a prayer.
 
-With the bishopric’s approval, the Sunday School president organizes classes for adults and youth. If he has counselors, they assist him.
+With the bishopric’s approval, the Sunday School president organizes classes for adults and youth. If the president has counselors, they assist him or her.
 
 The number of classes depends on (1) how many members are in the ward and (2) the number and size of rooms that are available. Usually, smaller classes make it easier for more people to participate actively and learn. The ward council can help the Sunday School president decide how many Sunday School classes to organize.
 
@@ -66,7 +68,7 @@ All adults who work with youth must complete the children and youth protection t
 
 ### 13.3.1 Small Branches
 
-In a small branch, the Sunday School president may be the only Sunday School leader and teacher. He teaches a Sunday School class for all youth and adults in the branch.
+In a small branch, the Sunday School president may be the only Sunday School leader and teacher. He or she may teach a Sunday School class for all youth and adults in the branch.
 
 ### 13.3.2 Sunday School Classes for Specific Groups
 
@@ -101,7 +103,7 @@ For more information about teacher council meetings for parents, see [17.5].
 
 The stake president assigns one of his counselors to oversee the Sunday School in the stake. He also calls and sets apart a high councilor to be the stake Sunday School president.
 
-The responsibilities of the stake Sunday School president are outlined in [6.7.1] and [6.7.3]. If counselors are called, they assist him.
+The responsibilities of the stake Sunday School president are outlined in [6.7.1] and [6.7.3]. If counselors are called, these brothers assist him.
 
 ## 13.7 Additional Guidelines
 
@@ -118,7 +120,7 @@ In meetinghouses that have a resource center, the bishopric calls a resource cen
 * Organizes and cares for the resources.
 * Helps leaders, teachers, and other members obtain and use these resources.
 
-The Sunday School president consults with the resource center specialist to determine if an annual budget is needed for the resource center. He then makes a recommendation to the bishopric.
+The Sunday School president consults with the resource center specialist to determine if an annual budget is needed for the resource center. The Sunday School president then makes a recommendation to the bishopric.
 
 The resource center specialist should attend sacrament meeting each week and other Sunday meetings regularly. If necessary, the bishopric may call an assistant to the specialist.
 

@@ -9,6 +9,7 @@ Church activities bring Church members and others together as “fellowcitizens 
 * Provide opportunities for personal growth.
 * Strengthen individuals and families.
 * Help members participate in God’s work of salvation and exaltation (see [1.2]).
+* Improve and care for the local environment.
 
 Some examples of Church activities include:
 
@@ -19,6 +20,7 @@ Some examples of Church activities include:
 * Outdoor activities.
 * Opportunities to develop talents and appreciation for cultural arts.
 * Sports and fitness.
+* Cleanup of nearby natural areas.
 * Celebrations of special occasions, such as holidays or Church or local historical events.
 
 As used in this handbook, the term _Church activity_ refers to an activity sponsored by a Church unit, quorum, or organization.
@@ -49,7 +51,7 @@ While gathering in activities can be a blessing, members should not be made to f
 
 ### 20.2.3 Standards
 
-Church activities should be uplifting and emphasize what is “virtuous, lovely, or of good report or praiseworthy” ([Articles of Faith 1:13]). Activities may not include anything that is contrary to Church teachings. Activities may not include media or other entertainment that makes anything inappropriate seem acceptable.
+Church activities should be uplifting and emphasize what is “virtuous, lovely, or of good report or praiseworthy” ([Articles of Faith 1:13]). Activities may not include anything that is contrary to Church teachings. Activities may not include media or other entertainment that makes anything inappropriate seem acceptable. Church activities should limit waste and use natural resources responsibly.
 
 Substances that are contrary to the Word of Wisdom are not permitted at Church activities or on Church premises. Persons who are under the influence of alcohol or other drugs may not participate in Church activities. If such a situation occurs, leaders respond compassionately.
 
@@ -205,7 +207,11 @@ Members are encouraged to hold family activities on Monday or at other times. No
 
 Leaders ensure that Church buildings and other facilities are closed on Monday nights. Receptions and similar activities may not be held in Church facilities on Monday nights.
 
-As an exception, young single adult wards and single adult wards may hold activities on Monday nights, including in Church buildings. An exception may also be made when New Year’s Eve is on a Monday (see [20.5.4]).
+The following exceptions may be allowed:
+
+* Young single adults and single adults may hold Church activities on Monday nights, including in Church buildings.
+* Following the guidelines in [35.5.3], a family may hold an activity in a Church building on a Monday night.
+* A ward or stake may hold an activity when New Year’s Eve is on a Monday (see [20.5.4]).
 
 ### 20.5.4 New Year’s Eve Activities
 
