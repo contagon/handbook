@@ -8,7 +8,7 @@ The Aaronic Priesthood helps God’s children prepare to return to His presence.
 
 Aaronic Priesthood quorums help young men make and keep sacred covenants and deepen their conversion to Jesus Christ and His gospel.
 
-A quorum is an organized group of priesthood holders. The purpose of a quorum is to help priesthood holders work together to accomplish the work of salvation and exaltation. In their quorums, Aaronic Priesthood holders serve others, fulfill priesthood duties, build unity, and learn and live doctrine.
+A quorum is an organized group of priesthood holders. The purpose of a quorum is to help priesthood holders work together to participate in God’s work of salvation and exaltation. In their quorums, Aaronic Priesthood holders serve others, fulfill priesthood duties, build unity, and learn and live doctrine.
 
 ### 10.1.2 Aaronic Priesthood Quorum Theme
 
@@ -62,7 +62,7 @@ In a ward or branch with few young men, Aaronic Priesthood quorums may meet toge
 
 If a ward has more than 12 deacons, the bishop may divide the deacons quorum. The same is true if there are more than 24 teachers (see [Doctrine and Covenants 107:85–86]). When making this decision, the bishop considers the effect on quorum members.
 
-## 10.2 Participating in the Work of Salvation and Exaltation
+## 10.2 Participating in God’s Work of Salvation and Exaltation
 
 God invites all to come unto Christ and assist in His work by:
 
@@ -71,7 +71,7 @@ God invites all to come unto Christ and assist in His work by:
 * Inviting all to receive the gospel.
 * Uniting families for eternity.
 
-The bishopric and youth quorum leaders, supported by advisers (see [10.5]), counsel together about how to accomplish this work. For more information about the work of salvation and exaltation, study [chapter 1].
+The bishopric and youth quorum leaders, supported by advisers (see [10.5]), counsel together about how to help accomplish this work. For more information about God’s work of salvation and exaltation, study [chapter 1].
 
 ### 10.2.1 Living the Gospel of Jesus Christ
 
@@ -92,11 +92,11 @@ Parents and leaders strive to be good examples to the youth. They mentor youth i
 
 The bishopric, youth quorum leaders, and advisers encourage young men and their families to learn the gospel at home. Leaders and advisers study the gospel and share with the young men what they learn. They invite quorum members to share at church what they are learning at home.
 
-Aaronic Priesthood quorums meet on Sundays to strengthen faith, build unity, strengthen families and homes, and make plans to help accomplish the work of salvation and exaltation. The bishopric and youth quorum leaders, supported by advisers, plan Sunday meetings.
+Aaronic Priesthood quorums meet on Sundays to strengthen faith, build unity, strengthen families and homes, and make plans to participate in God’s work of salvation and exaltation. The bishopric and youth quorum leaders, supported by advisers, plan Sunday meetings.
 
-Quorum meetings are held on the second and fourth Sundays of the month. They last 50 minutes. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts. He leads the quorum in reciting the theme and counseling together about assignments, duties, and other matters.
+Quorum meetings are held on the second and fourth Sundays of the month. They last 50 minutes. Meetings begin with a prayer. A member of the quorum presidency (or one of the bishop’s assistants in the priests quorum) conducts. He leads the quorum in reciting the theme and counseling together about assignments, duties, and other matters.
 
-A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]).
+A quorum member or adult leader then leads gospel instruction. Quorum leaders counsel with advisers about who should teach. Meeting outlines are found in Come, Follow Me—For Aaronic Priesthood Quorums and Young Women Classes (see [ComeFollowMe.ChurchofJesusChrist.org]). Meetings should end with a prayer.
 
 Normally, each Aaronic Priesthood quorum meets separately (see [10.1.5]). Young men and young women may occasionally combine for a Sunday lesson, as coordinated by the bishopric and the Young Women presidency.
 
@@ -104,7 +104,7 @@ Young men are encouraged to participate in seminary (see [15.1]).
 
 #### 10.2.1.3 Service and Activities
 
-The bishopric and youth quorum leaders, supported by advisers, plan service and activities. These should help accomplish the work of salvation and exaltation. Service and activities should build testimonies, strengthen families, foster quorum unity, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
+The bishopric and youth quorum leaders, supported by advisers, plan service and activities. These should help accomplish God’s work of salvation and exaltation. Service and activities should build testimonies, strengthen families, foster quorum unity, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
 Most youth activities are held at times other than on Sundays or Monday evenings. They are usually held weekly. In some areas, distance, safety, or other factors make weekly activities impractical. In these areas, activities may be held less often, but they should generally be held at least monthly. [[AO]] Activities can be planned on the [Sample Service and Activity Planner], available on ChurchofJesusChrist.org.
 
@@ -123,7 +123,7 @@ _Annual Activities._ In addition to regular youth activities, young men may also
 * [[AO]] A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org]. For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org] (for the U.S. and Canada) or the [FSY Planning Guide] (for all other areas).
 * At least one activity emphasizing the standards in [For the Strength of Youth]. This event could include both young men and young women. Parents may also be invited.
 
-_Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. However, they should be at least 16 before dating (see For the Strength of Youth [2011], [4]).
+_Age Requirements._ With their parents’ approval, young men may attend overnight Aaronic Priesthood camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -169,7 +169,7 @@ Parents and leaders encourage young men to prepare to serve full-time missions a
 
 As part of this preparation, the bishopric or stake presidency may organize a missionary preparation class. The main resources for this class are the scriptures, [Missionary Standards for Disciples of Jesus Christ], and [Preach My Gospel]. This class is not held during regular Sunday meetings.
 
-[[AO]] [Missionary.ChurchofJesusChrist.org] provides additional resources that can help young men as they prepare to serve as missionaries. See chapters 23 and 24 for more information.
+[[AO]] [Missionary.ChurchofJesusChrist.org] provides additional resources that can help young men as they prepare to serve as missionaries. See [chapters 23] and [24] for more information.
 
 ### 10.2.4 Uniting Families for Eternity
 
@@ -223,7 +223,7 @@ A member of the bishopric announces these callings in sacrament meeting. He does
 
 Aaronic Priesthood quorum presidents, including the bishop, have the following responsibilities. Their counselors and the bishop’s assistants in the priests quorum share in these responsibilities.
 
-* Lead the quorum’s efforts to participate in the work of salvation and exaltation (see [chapter 1]).
+* Lead the quorum’s efforts to participate in God’s work of salvation and exaltation (see [chapter 1]).
 * Get to know and serve each quorum member, including those who do not attend quorum meetings. Be aware of their needs and circumstances.
 * Serve on the ward youth council (see [10.4.4]).
 * Participate in ward efforts to share the gospel and strengthen new and returning members. An assistant in the priests quorum attends coordination meetings (see [23.5.7]).
@@ -240,7 +240,7 @@ Members of the bishopric teach the young men about their responsibilities (see [
 
 Aaronic Priesthood quorum presidencies meet regularly. The quorum president conducts these meetings. At least two adults attend—a member of the bishopric, an adviser, or a specialist. During these meetings, leaders counsel together and seek revelation about the Lord’s will for their quorum. The agenda could include discussion of the following items:
 
-* Accomplishing the work of salvation and exaltation
+* Helping accomplish God’s work of salvation and exaltation
 * Serving quorum members, with special attention to supporting new members and reaching out to less-active members
 * Reaching out to those of other faiths and beliefs
 * Planning quorum meetings, service, and activities
@@ -250,7 +250,7 @@ A [Sample Presidency Meeting Agenda] is available on ChurchofJesusChrist.org.
 
 ### 10.4.4 Ward Youth Council
 
-The purpose of the ward youth council is to help the youth bring others to Jesus Christ and to help accomplish the work of salvation and exaltation.
+The purpose of the ward youth council is to help the youth bring others to Jesus Christ and to help accomplish God’s work of salvation and exaltation.
 
 The bishop presides over the ward youth council. This council’s members include:
 
@@ -284,7 +284,7 @@ Those who receive the Melchizedek Priesthood should strive to understand:
 * The oath and covenant of the priesthood (see [Doctrine and Covenants 84:33–44]).
 * The duties of an elder ([Doctrine and Covenants 20:38–45]; [42:44]; [107:11–12]).
 * The purposes of priesthood ordinances and blessings and how to perform them (see [chapter 18]).
-* How men and women work together to accomplish God’s work.
+* How men and women work together to help accomplish God’s work.
 
 [[AO]] For information about these topics, see “[Melchizedek Priesthood],” “[Priesthood],” and “[Women in the Church]” (Gospel Topics, topics.ChurchofJesusChrist.org).
 
