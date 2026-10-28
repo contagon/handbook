@@ -114,13 +114,15 @@ Persons who are deaf or hard of hearing may communicate through sign language wh
 
 The information below gives reasons an ordinance would not be valid. It also describes how to validate or ratify the ordinance.
 
-In some cases, an ordinance must be performed again. When this happens, a clerk records the new date on the membership record, even if it is out of sequence with the dates of other ordinances.
+In some cases, an ordinance must be performed again. When this happens with a baptism and confirmation or a priesthood ordination, a clerk records the new date on the membership record, even if it is out of sequence with the dates of other ordinances.
+
+Members may not repeat living temple ordinances without First Presidency approval (see [38.2.6.2]).
 
 #### 38.2.6.1 A Membership Record Was Not Created or the Year Is Missing or Incorrect
 
-For record-keeping purposes, an ordinance is considered not valid if the year it was performed is missing or incorrect on the membership record. In addition, a baptism is not valid if a membership record was not created. The ordinance can be validated with the original certificate that was issued when the ordinance was performed. With this certificate, the bishop can authorize a clerk to update the membership record.
+For record-keeping purposes, a baptism and confirmation or a priesthood ordination is considered not valid if the year it was performed is missing or incorrect on the membership record. In addition, a baptism is not valid if a membership record was not created. The ordinance can be validated with the original certificate that was issued when the ordinance was performed. With this certificate, the bishop can authorize a clerk to update the membership record.
 
-If the certificate cannot be found, the ordinance can be validated with the testimony of two people who witnessed it. The two witnesses should:
+If the certificate cannot be found, the baptism and confirmation or the priesthood ordination can be validated with the testimony of two people who witnessed it. The two witnesses should:
 
 * Have been 8 years old or older when the ordinance was performed.
 * Have seen or heard the ordinance.
@@ -130,23 +132,35 @@ If the certificate cannot be found, the ordinance can be validated with the test
 
 With this testimony, the bishop can authorize a clerk to create or update the membership record. The written testimony may then be discarded.
 
-If the certificate or witnesses cannot be found, the ordinance must be performed again.
+If the certificate or witnesses cannot be found, the baptism and confirmation or the priesthood ordination must be performed again or ratified by the First Presidency.
 
-If the member has received other ordinances after the invalid ordinance, they must be ratified by the First Presidency. To request this, the stake president sends a letter to the Office of the First Presidency.
+If the member has received other ordinances after the invalid ordinance, they must be ratified by the First Presidency. The stake president uses LCR to submit the request.
 
-#### 38.2.6.2 Ordinances Were Received out of Sequence
+For information about validating an ordinance that a member received in the temple, see [38.2.6.2].
 
-An ordinance is not valid if a person received it out of sequence. For example, a man’s endowment is not valid if he received it before receiving the Melchizedek Priesthood. However, the First Presidency may ratify such an ordinance. To request this, the stake president sends a letter to the Office of the First Presidency.
+#### 38.2.6.2 A Living Person’s Temple Ordinance Information Is Incorrect or Missing from His or Her Membership Record
 
-#### 38.2.6.3 The Ordinance Was Performed before the Appropriate Age
+If a living person’s temple ordinance information is incorrect or missing from his or her membership record, local leaders should record the date and, if available, the location of the original ordinance using LCR. The Temple Department then verifies the temple ordinance and connects it to the membership record.
+
+If the temple ordinance cannot be verified, the Temple Department will contact the Office of the First Presidency and give instruction to the local leader.
+
+Members may not repeat a living temple ordinance without First Presidency approval.
+
+#### 38.2.6.3 Ordinances Were Received out of Sequence
+
+An ordinance is not valid if a person received it out of sequence. For example, a man’s endowment is not valid if he received it before receiving the Melchizedek Priesthood. However, the First Presidency may ratify such an ordinance. The stake president uses LCR to submit the request.
+
+#### 38.2.6.4 The Ordinance Was Performed before the Appropriate Age
 
 An ordinance is not valid if it was performed before the appropriate age. For example, a baptism is not valid if it was performed before the person was 8 years old.
 
-If no other ordinances were received after the invalid ordinance, it should be performed again. If other ordinances were received, those and the invalid ordinance must be ratified by the First Presidency. To request this, the stake president sends a letter to the Office of the First Presidency.
+If no other ordinances were received after the invalid ordinance, a baptism and confirmation or a priesthood ordination should be performed again or ratified by the First Presidency. Members may not repeat a living temple ordinance without First Presidency approval (see 38.2.6.2).
 
-#### 38.2.6.4 The Ordinance Was Performed without the Proper Authority
+If other ordinances were received, those and the invalid ordinance must be ratified by the First Presidency. The stake president uses LCR to submit the request.
 
-An ordinance is not valid if it was performed by someone who did not have the proper priesthood authority. For example, a confirmation is not valid if it was performed by someone who did not hold the Melchizedek Priesthood. Similarly, it is not valid if the person performing it received the Melchizedek Priesthood out of sequence or without proper approval (see [38.2.6.2]; see also [32.17]).
+#### 38.2.6.5 The Ordinance Was Performed without the Proper Authority
+
+An ordinance is not valid if it was performed by someone who did not have the proper priesthood authority. For example, a confirmation is not valid if it was performed by someone who did not hold the Melchizedek Priesthood. Similarly, it is not valid if the person performing it received the Melchizedek Priesthood out of sequence or without proper approval (see [38.2.6.3]; see also [32.17]).
 
 If no other ordinances were received after the invalid ordinance, it should be performed again by someone with the proper authority. If other ordinances were received, those and the invalid ordinance must be ratified by the First Presidency. To request this, the stake president sends a letter to the Office of the First Presidency. In some cases, the First Presidency may instruct that ordinances be performed again.
 
@@ -1881,7 +1895,7 @@ In preparation for sensitive situations such as personal interviews or Church me
 
 These same principles apply for members who are deaf or hard of hearing and do not use sign language but need an oral interpreter to help them read lips.
 
-Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is [Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints].
+Leaders may organize ward or stake classes to teach the sign language that is used in their area. A helpful resource is Dictionary of Sign Language Terms for The Church of Jesus Christ of Latter-day Saints.
 
 #### 38.8.27.7 Privacy
 
@@ -2209,7 +2223,7 @@ Chaplains may assist the stake president in the following ways:
 
 ### 38.9.2 Ward Military Relations Leadership
 
-A member of the bishopric meets with ward members before they leave for military service. He ensures they have an opportunity to attend the pre–military service Church orientation (see [38.9.3]).
+A member of the bishopric meets with ward members before they leave for military service. He ensures they have an opportunity to attend the military service orientation (see [38.9.3]).
 
 For information about the membership records for a member entering the military, see [33.6.9]. Some members are assigned to a remote or isolated location or are deployed to a war zone. In these cases, the bishop contacts the Church’s Military Relations and Chaplain Services Division for guidance about membership records (see [38.9.10]).
 
