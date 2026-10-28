@@ -114,7 +114,7 @@ The Primary presidency and music leader prayerfully plan the presentation. The b
 
 Because of the sacredness of sacrament meeting, the presentation should not include visuals, costumes, or media presentations.
 
-See “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation]” in Come, Follow Me﻿—For Primary for more information.
+See “[Instructions for Singing Time and the Children’s Sacrament Meeting Presentation]” in Come, Follow Me—For Primary for more information.
 
 _Temple and Priesthood Preparation Meeting._ Parents have the primary responsibility to teach their children about the temple and the priesthood. To support them, the Primary presidency plans a Temple and Priesthood Preparation meeting each year. The bishopric gives direction. The meeting is for children in the Valiant 10 class. Parents are invited. This meeting has the following purposes:
 
@@ -135,7 +135,7 @@ Beginning in January of the year they turn 8, children may begin attending Prim
 
 Primary activity leaders plan service and activities that help accomplish the work of salvation and exaltation. Service and activities should build testimonies, strengthen families, and provide opportunities to bless others. They should be balanced among four areas of personal growth: spiritual, social, physical, and intellectual.
 
-Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org]; see also [20.6.20]). At least two responsible adult leaders should be present at all activities (see [12.5.1]).
+Primary activities are held at times other than Sundays or Monday evenings. Adult leaders help ensure that activities are safe (see [safety.ChurchofJesusChrist.org]; see also [20.6.20] in this handbook). At least two responsible adult leaders should be present at all activities (see [12.5.1]).
 
 [[AO]]The following guidelines may be adapted to local circumstances:
 
@@ -151,7 +151,7 @@ For more information, see [ChildrenandYouth.ChurchofJesusChrist.org]. See also [
 
 #### 12.2.1.4 Personal Development
 
-In their efforts to become more like the Savior, children﻿—beginning in the year they turn 8﻿—are invited to set goals to grow spiritually, socially, physically, and intellectually (see [Luke 2:52]). With help from parents, children seek inspiration to discover what to work on. They make plans, act on their plans, and reflect on what they learn. Leaders offer support as needed. However, they should not track the children’s goals or progress.
+In their efforts to become more like the Savior, children—beginning in the year they turn 8—are invited to set goals to grow spiritually, socially, physically, and intellectually (see [Luke 2:52]). With help from parents, children seek inspiration to discover what to work on. They make plans, act on their plans, and reflect on what they learn. Leaders offer support as needed. However, they should not track the children’s goals or progress.
 
 Beginning in the year they turn 8, children are encouraged to complete at least one goal in each of the four areas each year. They can use [Personal Development: Children’s Guidebook] to set and record goals.
 
@@ -233,12 +233,12 @@ If the unit is large enough, the Primary president recommends to the bishopric a
 
 The music leader and pianist teach children the gospel of Jesus Christ through music during singing time. Music reinforces weekly Come, Follow Me study. 
 
-The following resources may be used:* [Come, Follow Me﻿—For Primary]
+The following resources may be used:* [Come, Follow Me—For Primary]
 * [Instructions for Singing Time and the Children’s Sacrament Meeting Program]
 * [Children’s Songbook]
 * [Hymns]
 * [Primary Music Collections] on ChurchofJesusChrist.org
-* “[Primary Singing Time﻿—Music Can Teach Doctrine]” (MediaLibrary.ChurchofJesusChrist.org)
+* “[Primary Singing Time—Music Can Teach Doctrine]” (MediaLibrary.ChurchofJesusChrist.org)
 
 The bishopric must approve the use of any other music in Primary.
 
@@ -254,9 +254,9 @@ See [Singing Time] on ChurchofJesusChrist.org for more ideas and resources.
 
 The Primary presidency recommends to the bishopric men and women to serve as Primary teachers and nursery leaders. The bishopric considers these recommendations and extends the callings. These members are called to teach specific age-groups of children.
 
-Primary teachers and nursery leaders teach from Come, Follow Me﻿—For Primary (ages 3–11) and [Behold Your Little Ones] (nursery). They follow the principles in [Teaching in the Savior’s Way] and [chapter 17] of this handbook.
+Primary teachers and nursery leaders teach from Come, Follow Me—For Primary (ages 3–11) and [Behold Your Little Ones] (nursery). They follow the principles in [Teaching in the Savior’s Way] and [chapter 17] of this handbook.
 
-When adults teach children in Church settings, at least two responsible adults should be present. The two adults could be two women, two men, or a married couple. If this is not possible, leaders should combine classes. Leaders and teachers must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [12.5.1]).
+When adults teach children in Church settings, at least two responsible adults should be present. The two adults could be two women, two men, or a married couple. If this is not possible, leaders should combine classes. Leaders and teachers must complete the training at ProtectingChildren.ChurchofJesusChrist.org. (See [12.5.1].)
 
 Youth should not teach in Primary, including as substitutes.
 
@@ -268,15 +268,15 @@ Teachers and nursery leaders attend quarterly teacher council meetings (see [13.
 
 Primary activity leaders plan service and activities for children beginning in January of the year children turn 8 (see [12.2.1.3]). Service and activities focus on the work of salvation and exaltation. They are fun and engaging. They build testimonies, strengthen families, and foster personal growth.
 
-Primary activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at ProtectingChildren.ChurchofJesusChrist.org (see [12.5.1]).
+Primary activity leaders can be the children’s Primary teachers. They can also be other members the Primary presidency recommends and the bishopric calls. At least two leaders attend each activity. Leaders can be two women, two men, or a married couple. Leaders must complete the training at ProtectingChildren.ChurchofJesusChrist.org. (See [12.5.1].)
 
 ## 12.4 [[AO]]Stake Primary Leaders
 
-The stake presidency calls an adult woman to serve as stake Primary president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Primary presidency and secretary, see [5.4.1] and [5.4.4].
+The stake presidency calls an adult woman to serve as stake Primary president. If a stake is large enough, she recommends one or two adult women to serve as counselors and another to serve as secretary. These women are called and set apart by a member of the stake presidency or an assigned high councilor. For information about the responsibilities of the stake Primary presidency and secretary, see [5.7.1] and [5.7.3].
 
 A counselor in the stake presidency has responsibility for Primary in the stake. He also has responsibility for the work of the stake Primary presidency. He also instructs bishops in their responsibilities for Primary.
 
-The stake presidency assigns a high councilor to work with the stake Primary presidency (see [5.3.1]). He serves on the stake Aaronic Priesthood–Young Women committee (see [29.3.9]).
+The stake presidency assigns a high councilor to work with the stake Primary presidency (see [5.5]). He serves on the stake youth leadership committee (see [29.3.10]).
 
 ## 12.5 Additional Guidelines and Policies
 
@@ -294,7 +294,7 @@ Children with disabilities typically attend their regular Primary class. As nece
 
 Children with disabilities or other special needs typically complete Primary at the beginning of January in the year they turn 12. Some children may not complete Primary on this schedule. The bishop and parents work together to decide what is best for each child.
 
-For more information, see [[AO]][disability.ChurchofJesusChrist.org] and [38.8.31].
+For more information, see [[AO]][disability.ChurchofJesusChrist.org] and [38.8.32].
 
 ### 12.5.3 Men Serving in Primary
 
