@@ -32,10 +32,7 @@ Some wards have a very large number of active Melchizedek Priesthood holders. Fo
 
 ## 8.2 Participating in God’s Work of Salvation and Exaltation
 
-3:42
-
-Efforts Magnified as Presidencies Work Together
-
+3:31
 God invites all to come unto Christ and participate in His work of salvation and exaltation by:
 
 * Living the gospel of Jesus Christ.
@@ -90,10 +87,7 @@ Activities should strengthen quorum members’ desires to make and keep covenant
 
 As followers of Jesus Christ, elders quorum members have a responsibility to reach out in love to those in need. Individually and as a quorum, they seek ways to serve others in the ward and community. Where it is available, [JustServe.org] suggests community service opportunities.
 
-2:43
-
-How to Care for Those in Need
-
+2:46
 For more information about how members of the elders quorum and Relief Society care for those in need, see [22.6.2].
 
 #### 8.2.2.1 Ministering
@@ -153,15 +147,13 @@ Presidency members also plan ways to help members increase their understanding o
 
 The presidency encourages quorum members to learn about their family history. They help new and returning members, recently ordained elders, and newly called missionaries find and prepare ancestors’ names for temple ordinances.
 
-The elders quorum president assigns a member of the presidency to help lead temple and family history work in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
+The elders quorum president assigns a member of the presidency to help lead temple and family history efforts in the ward. He works with the assigned member of the Relief Society presidency to coordinate these efforts.
 
-This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his work. See [25.2.2].
+This member of the elders quorum presidency may fulfill the role of the ward temple and family history leader. If the bishopric has called a temple and family history leader, this presidency member oversees his efforts. See [25.2.2].
 
 The ward temple and family history leader, who may be a member of the elders quorum presidency, leads temple and family history coordination meetings (see [25.2.7]). These meetings are held regularly. They also include the assigned member of the Relief Society presidency, an assistant in the priests quorum, a presidency member of the oldest Young Women class, and temple and family history consultants.
 
-2:49
-
-Helping Members Gain the Vision
+2:45
 
 ## 8.3 Elders Quorum Leaders
 
@@ -200,7 +192,7 @@ The elders quorum president has the following responsibilities. His counselors a
 * Organize and oversee the service of ministering brothers. Coordinate ministering assignments with the Relief Society presidency, meeting at least quarterly. Seek the bishop’s approval for ministering assignments. Hold ministering interviews at least quarterly. See [chapter 21].
 * Under the bishop’s guidance, counsel with adult members of the ward (see [31.1] and [31.3]). Only the bishop counsels ward members about matters of worthiness, abuse, and approval to use fast-offering funds. See [Counseling Resources]. For information about abuse, see [38.6.2].
 * With the Relief Society presidency, help lead efforts in the ward to invite all to receive the blessings of the gospel (see [8.2.3] and [9.2.3]). Oversee the ward mission leader if one is called.
-* With the Relief Society presidency, help lead temple and family history work in the ward (see [8.2.4] and [9.2.4]). Oversee the ward temple and family history leader if one is called.
+* With the Relief Society presidency, help lead the ward’s efforts in temple and family history work (see [8.2.4] and [9.2.4]). Oversee the ward temple and family history leader if one is called.
 * Coordinate the elders quorum’s efforts to strengthen young adult brethren, both single and married. One counselor may be assigned to serve with young single adults (see [14.1.2.2]).
 * Meet with each quorum member individually at least once a year. Discuss priesthood duties and the well-being of the member and his family.
 * Teach quorum members their priesthood duties (see [Doctrine and Covenants 107:89]). This includes teaching them how to exercise the priesthood in performing ordinances and blessings.

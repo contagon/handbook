@@ -156,7 +156,7 @@ Stake, multistake, and area activities should comply with Church travel policies
 
 ## 20.4 Youth Conference
 
-Beginning in January of the year they turn 14, young men and young women are invited to participate together in a youth conference. Youth conferences are usually held once each year on a ward or stake level. They may also be held on a multistake or area level. In a year that youth are assigned to attend an FSY conference, stakes and wards should not hold youth conferences.
+Beginning in January of the year they turn 14, young men and young women are invited to participate together in a youth conference. Eighteen-year-olds may also attend, including those who have been ordained elders and those who have been endowed. Youth conferences are usually held once each year on a ward or stake level. They may also be held on a multistake or area level. In a year that youth are assigned to attend an FSY conference, stakes and wards should not hold youth conferences.
 
 The purposes of youth conferences are to help youth:
 
@@ -360,7 +360,7 @@ All who work with children and youth must complete the children and youth protec
 
 ### 20.7.2 Age Requirements for Participation in Youth Activities
 
-With their parents’ approval, youth may attend overnight camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+With their parents’ approval, youth may attend overnight camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. Eighteen-year-olds may also attend, including those who have been ordained elders and those who have been endowed.
 
 ### 20.7.3 Insurance
 
@@ -378,7 +378,7 @@ The Church counsels members and leaders who oversee Church activities to protect
 
 #### 20.7.3.4 Church Activity Medical Assistance Program
 
-In the United States and Canada, the Church Activity Medical Assistance (CAMA) program provides secondary medical and dental assistance for injuries sustained while participating in a Church activity. It also provides funeral assistance if necessary. This program is designed to supplement, not replace, a person’s own health and accident insurance. For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
+In the United States, the Church Activity Medical Assistance (CAMA) program provides secondary medical and dental assistance for injuries sustained while participating in a Church activity. It also provides funeral assistance if necessary. This program is designed to supplement, not replace, a person’s own health and accident insurance. For more information, see “[FAQs—What Should I Do?]” on ChurchofJesusChrist.org.
 
 If an incident occurs during a Church-sponsored event, leaders determine if CAMA might be needed. Any leader may report an incident in the Global Incident Reporting system at [incidents.ChurchofJesusChrist.org]. If the leader indicates that treatment beyond first aid is expected, the bishop will be notified and will receive enrollment information. The bishop considers a person’s ability to pay medical expenses by other means, such as personal insurance coverage or other resources. He may authorize the use of CAMA funds if he feels it is appropriate.
 
@@ -455,8 +455,8 @@ The following situations should be reported online at [incidents.ChurchofJesusCh
 
 If an event results in a serious injury, fatality, or missing person, the stake president, bishop, or member he designates immediately takes one of the following actions:
 
-* In the United States or Canada, first call the Risk Management Division at Church headquarters (1-801-240-4049 or 1-800-453-3860, extension 2-4049; after business hours or on weekends, call 1-801-240-1000 or 1-800-453-3860, and the operator will contact someone immediately). Then contact the Area Presidency.
-* Outside the United States and Canada, notify the area office.
+* In the United States, first call the Risk Management Division at Church headquarters (1-801-240-4049 or 1-800-453-3860, extension 2-4049; after business hours or on weekends, call 1-801-240-1000 or 1-800-453-3860, and the operator will contact someone immediately). Then contact the Area Presidency.
+* Outside the United States, notify the area office.
 
 The stake president or bishop also reports injuries and damage involving Church facilities or property to the Church facilities manager.
 

@@ -186,10 +186,10 @@ As individuals and as groups, single members can help unite families for eternit
 * Prepare to make covenants with God by receiving ordinances, including the temple endowment (see [27.2.2]).
 * Serve as temple workers (see [25.5]).
 * Participate in ordinances for the deceased.
-* Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together]).
+* Learn about their extended families and ancestors.
 * Identify ancestors who need temple ordinances (see [FamilySearch.org]).
 * Serve as temple and family history consultants (see [25.2.4]).
-* Participate in indexing (see [FamilySearch.org/indexing]).
+* Participate in family history volunteer activities (see [25.4.3]).
 
 ## 14.3 [[AO]] Young Single Adult Wards and Stakes and Single Adult Wards
 
@@ -226,7 +226,7 @@ A gathering place is a designated location where young single adults and their f
 * Self-reliance courses, educational opportunities, and support groups
 * Service and activities
 * Sharing the gospel and community outreach
-* Temple and family history work
+* Temple and family history efforts
 * Other Church programs
 
 All designated gathering places must be approved by the Area Presidency. Gathering places are overseen by stake presidents and bishops. They are established in existing Church facilities, such as a meetinghouse or institute building. Stake presidents who desire to establish a gathering place for young single adults should contact the Area Presidency.
@@ -269,7 +269,7 @@ As an exception, the stake president of a young single adult stake may authorize
 In large young single adult wards, bishops may authorize counselors to conduct interviews for members who are:
 
 * Receiving their own endowment.
-* Being sealed to a spouse. (See [26.3.1].)
+* Being sealed to a spouse. (See [26.3.3].)
 
 ### 14.4.7 Participation in Activities for Single Members
 

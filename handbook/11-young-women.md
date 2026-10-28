@@ -92,7 +92,7 @@ _Annual Activities._ In addition to regular youth activities, young women may al
 * [[AO]] A ward or stake youth conference or a For the Strength of Youth (FSY) conference. For information about FSY conferences, see [FSY.ChurchofJesusChrist.org]. For information about ward and stake FSY callings and responsibilities, see [FSYLeader.ChurchofJesusChrist.org] (for the U.S. and Canada) or the [FSY Planning Guide] (for all other areas).
 * At least one activity emphasizing the principles in [For the Strength of Youth: A Guide for Making Choices]. This event could include both young men and young women. Parents may also be invited.
 
-_Age Requirements._ With their parents’ approval, young women may attend overnight Young Women camps beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14.
+_Age Requirements._ With their parents’ approval, young women may attend Young Women activities, including overnight camps, beginning in January of the year they turn 12. They may attend dances, youth conferences, and FSY conferences beginning in January of the year they turn 14. Eighteen-year-olds, including those who have been endowed, may attend Young Women activities (see [9.1.2] and [11.4]).
 
 _Paying for Activities._ Activities, including supplies, are paid for by the ward budget. Travel and expenses should not be excessive.
 
@@ -149,10 +149,10 @@ Young women can help unite families for eternity in many ways. Some of these way
 * Prepare to have their own eternal family.
 * Have a current temple recommend.
 * Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
-* Learn about their extended families and ancestors (see  [My Family: Stories That Bring Us Together]).
+* Learn about their extended families and ancestors.
 * Identify ancestors who need temple ordinances (see [FamilySearch.org]).
-* Participate in baptisms and confirmations for the dead as often as circumstances allow.
-* Participate in indexing (see [FamilySearch.org/indexing]).
+* Participate in proxy baptisms and confirmations in the temple as often as circumstances allow.
+* Participate in family history volunteer activities (see [25.4.3]).
 * Serve as temple and family history consultants, as called by the bishopric (see [25.2.4]).
 
 ## 11.3 Ward Young Women Leadership
