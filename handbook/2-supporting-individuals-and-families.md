@@ -17,7 +17,9 @@ As part of His plan, Heavenly Father has established families on earth. He inten
 
 In this life, many people have limited opportunities for loving family relationships. No family is free from challenges, pain, and sorrow. Individuals and families exercise faith in the Lord and strive to live according to the truths He has revealed concerning the family. The Savior has promised that He will help bear the burdens of all who come unto Him (see [Matthew 11:28–30]).
 
-Heavenly Father’s plan of happiness ensures that all His children will have the opportunity to accept His gospel and receive His greatest blessings (see [Doctrine and Covenants 137:7–10]). All who make and keep covenants with God can experience joy and “peace in this world, and eternal life in the world to come” ([Doctrine and Covenants 59:23]; see also [Mosiah 2:41]). God’s promise of eternal life includes eternal marriage, children, and all other blessings of an eternal family.
+Heavenly Father’s plan of happiness ensures that all His children will have the opportunity to accept His gospel and receive His greatest blessings (see [Doctrine and Covenants 137:7–10]). All who make and keep covenants with God can experience joy and “peace in this world, and eternal life in the world to come” ([Doctrine and Covenants 59:23]; see also [Mosiah 2:41]).
+
+God’s promise of eternal life includes eternal marriage, children, and all other blessings of an eternal family. This promise applies to those who are not currently married or are without family in the Church (see [38.1.4]). Although the precise time and manner in which the blessings of exaltation are received is not known, these blessings are assured to those who strive to live as disciples of Jesus Christ.
 
 ### 2.1.1 Eternal Families
 

@@ -45,7 +45,7 @@ Sacrament meeting lasts one hour. It can include the following:
 5. _Opening hymn and prayer._ See [19.4] and [29.6].
 6. _Ward and stake business,_ such as the following:
 
-	* Sustaining and releasing officers and teachers (see [30.3] and [30.5]).
+	* Sustaining and releasing officers and teachers (see [30.3] and [30.6]).
 	* Presenting names of brethren to be ordained to an office in the Aaronic Priesthood (see [38.2.5.2]).
 	* Recognizing new ward members, including recent converts. After a few words of introduction, the person conducting asks the congregation to show by an uplifted hand that they welcome the member into the ward.
 
@@ -75,7 +75,7 @@ Before the meeting starts, members of the congregation prepare spiritually for t
 
 #### 29.2.1.4 Selecting Speakers
 
-The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.20]). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
+The bishopric selects speakers for sacrament meeting. Most often they invite ward members, including youth (see [38.8.19]). The stake president may assign high councilors or members of stake organization presidencies to speak. The stake president determines the frequency of such assignments.
 
 The bishopric extends invitations to speak well in advance of the meeting. Speakers bear testimony of Jesus Christ and teach His gospel using the scriptures (see [Doctrine and Covenants 42:12]; [52:9]). Messages should build faith and be consistent with the sacred nature of the sacrament.
 
@@ -83,13 +83,13 @@ For information about newly called or recently returned missionaries speaking in
 
 The bishopric schedules one sacrament meeting each year for a presentation by the Primary children. For information about this presentation, see [12.2.1.2].
 
-#### 29.2.1.5 [[AO]]Sacrament Services in Unusual Situations
+#### 29.2.1.5 [[AO]] Sacrament Services in Unusual Situations
 
 Every member needs the spiritual blessings that come from partaking of the sacrament. However, some members are unable to attend sacrament meeting because they are confined to their home, a hospital, or a care facility. The bishop may assign priesthood holders to administer the sacrament to these members (see [18.9.1]).
 
 In some cases, the bishop may authorize streaming sacrament meeting for those who cannot attend. For information, see [29.7].
 
-When members are traveling or temporarily living away from home, they should attend sacrament meeting in a nearby ward if possible. Sacrament services should not be held in conjunction with family reunions or vacations.
+When members are traveling or temporarily living away from home, they should attend sacrament meeting in a nearby ward if possible. Sacrament services should not be held in conjunction with family reunions, vacations, or other activities that are not sponsored by the Church.
 
 ### 29.2.2 Fast and Testimony Meeting
 
@@ -103,7 +103,7 @@ All are invited to attend.
 
 Frequency
 
-Once a month, sacrament meeting is a fast and testimony meeting. Usually this is on the first Sunday of the month. It may be on a different Sunday to accommodate general conference or stake conference. (See also [20.6.11].)
+Once a month, sacrament meeting is a fast and testimony meeting. Usually this is on the first Sunday of the month. It may be on a different Sunday to accommodate general conference or stake conference. (See also [20.5.4].)
 
 In a fast and testimony meeting, there are no assigned speakers or special musical selections. Instead, the person conducting bears a brief testimony. He then invites members of the congregation to bear their testimonies. To bear testimony means to declare gospel truths as inspired by the Holy Ghost. Testimonies should be brief so that many people can participate.
 
@@ -175,7 +175,35 @@ Frequency
 
 Usually weekly (but may meet less often).
 
-For more about the ward council and its meetings, study [chapter 7].
+The bishop plans, presides over, and conducts ward council meetings. If he is absent, he may assign a counselor to preside and conduct. However, the council does not make major decisions without the bishop.
+
+The ward council seeks to help all ward members build spiritual strength, receive saving ordinances, keep covenants, and become consecrated followers of Jesus Christ (see [Moroni 6:4–5]). During ward council meetings, council members plan and coordinate this work. They determine together how the strengths and abilities of ward members can bless those in need. They seek the guidance of the Spirit as they unite in love and concern for members of the ward.
+
+Ward organization leaders attend ward council meetings in two capacities:
+
+1. As members of the ward council who help bless all ward members.
+2. As representatives of their organizations.
+
+When they meet together, ward council members discuss matters that would benefit from unified efforts of the entire council. Each council member is encouraged to share his or her thoughts and inspiration on these matters.
+
+Ward council meetings usually do not last longer than one hour. They begin with a prayer and brief reports on assignments from previous meetings. Listed below are items that could be discussed. There is not enough time to discuss all of them in every meeting. The bishop gives priority to matters that are most needed to bless individuals and families.
+
+* _Living the gospel of Jesus Christ._ Helping all members build faith, receive saving ordinances, and keep their covenants.
+* _Caring for those in need._ Sharing resources and skills to bless individuals, families, and the community. Helping ward members become self-reliant. (See [chapter 22].)
+* _Inviting all to receive the gospel._ Reviewing the progress of those who are learning about the gospel, as well as new and returning members. Discussing ways members can share the gospel with others. (See [chapter 23].)
+* _Uniting families for eternity._ Reviewing the progress of members who are preparing to receive temple ordinances. Planning ways to help more members qualify for a temple recommend. Discussing ways members can participate in temple and family history work. (See [chapter 25].)
+
+As ward council members discuss these matters, they consider the needs and strengths of the members they serve. They can learn about these needs and strengths in presidency meetings, in discussions with members of their organization (including ministering interviews), and through their own ministering efforts. In addition, [Leader and Clerk Resources] has tools and reports that can help leaders be aware of the progress of members. Council members must keep confidential any private or sensitive information (see [4.4.6]).
+
+The ward council should know the children and youth in the ward and their home circumstances. They pay particular attention to those who do not have gospel support at home.
+
+After a discussion, the bishop may either decide on a course of action or postpone a decision while seeking additional information and guidance. Or he could refer the matter to a different council, such as the bishopric. See [4.4.3].
+
+Sometimes the ward council may determine that a ward activity could help meet the needs of members. The ward council may oversee the planning of ward activities. However, most of the planning is done before and after council meetings. For more information about activities, see [chapter 20].
+
+After full-time missionaries return home, they may be invited to report on their missions to the ward council (see [24.8.3]).
+
+To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
 
 ### 29.2.6 Ward Youth Council Meeting
 
@@ -207,7 +235,7 @@ Before each meeting, the bishop and the person conducting review the items to be
 * Ministering (see [chapter 21]).
 * Orienting newly called quorum and class presidencies.
 
-To understand principles that guide council meetings in the Church, all council members should study [chapter 7].
+To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
 
 ### 29.2.7 Other Ward Meetings and Classes
 
@@ -227,7 +255,7 @@ Coordination meetings for the work of sharing the gospel and strengthening new a
 
 Coordination meetings for temple and family history work are described in [25.2.7].
 
-### 29.2.8 [[AO]]Schedules for Sunday Meetings
+### 29.2.8 [[AO]] Schedules for Sunday Meetings
 
 Wards use one of the following two-hour schedules for Sunday meetings.
 
@@ -292,7 +320,7 @@ If General Officers, the temple president and matron, the mission president and 
 
 In one stake conference each year, a member of the stake presidency presents general, area, and stake officers for a sustaining vote. He uses the [Officers Sustained form], prepared by the stake clerk. This is usually done in the first stake conference of the year.
 
-If stake officers are called or released between stake conferences, they are presented for a sustaining vote or an expression of thanks in the next stake conference. Or this can be done in each ward’s sacrament meeting. See [30.3] and [30.5].
+If stake officers are called or released between stake conferences, they are presented for a sustaining vote or an expression of thanks in the next stake conference. Or this can be done in each ward’s sacrament meeting. See [30.3] and [30.6].
 
 Brethren who have been recommended to be ordained elders or high priests are presented for a sustaining vote in a stake conference. If a brother needs to be ordained before the next stake conference, he may be sustained in his ward’s sacrament meeting. His name would then be presented for a ratifying vote in a stake conference (see [38.2.5.1]).
 
@@ -369,7 +397,7 @@ Teach quorum members their duties and doctrine related to the priesthood.
 
 Participants
 
-All members of the stake high priests quorum (see [5.2.1.1]).
+All members of the stake high priests quorum (see [6.2.1.1]).
 
 Frequency
 
@@ -381,7 +409,7 @@ The stake presidency plans and conducts stake high priests quorum meetings. Meet
 
 Purpose
 
-Counsel together and decide about matters concerning the stake.
+Counsel together and make decisions about matters concerning the stake.
 
 Participants
 
@@ -397,7 +425,7 @@ The stake president plans and conducts stake presidency meetings. Matters for co
 * Strengthening individuals and families in the stake.
 * The needs and strengths of wards, elders quorums, and other organizations in the stake.
 * Bishops’ recommendations of men to be ordained elders.
-* Members to call to stake positions and some ward positions as outlined in the [Chart of Callings] ([30.7]).
+* Members to call to stake positions and some ward positions as outlined in [30.8].
 * Bishops’ recommendations of members to serve missions.
 * Instructions from the scriptures, Church leaders, and this handbook.
 
@@ -407,7 +435,7 @@ Other items may include stake activities and programs, the stake budget, reports
 
 Purpose
 
-Counsel together about the work of salvation and exaltation in the stake.
+Counsel together about the work of salvation and exaltation in the stake (see [1.2]).
 
 Participants
 
@@ -434,7 +462,7 @@ The stake presidency plans and conducts high council meetings. These meetings ma
 
 Sometimes a brief high council meeting could be immediately followed by a stake council meeting (see [29.3.8]). This can help reduce the number of meetings for leaders to attend.
 
-To understand principles that guide council meetings in the Church, all council members should study [chapter 7].
+To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
 
 For information about participants joining the meeting remotely, see [29.7].
 
@@ -442,14 +470,14 @@ For information about participants joining the meeting remotely, see [29.7].
 
 Purpose
 
-Counsel together about the work of salvation and exaltation in the stake.
+Counsel together about the work of salvation and exaltation in the stake (see [1.2]).
 
 Participants
 
 * Stake presidency.
 * High council.
 * Stake clerk and executive secretary.
-* Stake Relief Society, Young Women, and Primary presidents (the stake Young Men and Sunday School presidents are present as members of the high council)
+* Stake Relief Society, Young Women, and Primary presidents (the stake Young Men and Sunday School presidents are present as members of the high council).
 
 The stake president may invite others to attend as needed.
 
@@ -469,11 +497,11 @@ The stake president plans and conducts stake council meetings. In these meetings
 
 Sometimes a stake council meeting could immediately follow a brief high council meeting (see [29.3.7]). This can help reduce the number of meetings for leaders to attend.
 
-To understand principles that guide council meetings in the Church, all council members should study [chapter 7].
+To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
 
 For information about participants joining the meeting remotely, see [29.7].
 
-### 29.3.9 [[AO]]Stake Adult Leadership Committee Meeting
+### 29.3.9 [[AO]] Stake Adult Leadership Committee Meeting
 
 Purpose
 
@@ -497,7 +525,7 @@ In addition, this committee coordinates stake efforts related to welfare and sel
 
 The stake presidency plans and conducts meetings of the stake adult leadership committee. These meetings could be extensions of stake council meetings. For example, at the end of some stake council meetings, the adult leadership committee could meet to continue a discussion about specific matters.
 
-### 29.3.10 [[AO]]Stake Youth Leadership Committee Meeting
+### 29.3.10 [[AO]] Stake Youth Leadership Committee Meeting
 
 Purpose
 
@@ -547,9 +575,9 @@ The stake president invites a bishop to lead the stake bishops’ council. This 
 
 On occasion, the stake president could share instruction from Church leaders, including from Area Seventies in coordinating councils (see [29.4]).
 
-This meeting does not take the place of the stake president’s regular interviews with each bishop (see [5.2.1.2]).
+This meeting does not take the place of the stake president’s regular interviews with each bishop (see [6.2.1.2]).
 
-To understand principles that guide council meetings in the Church, all council members should study [chapter 7].
+To understand principles that guide council meetings in the Church, all council members should study [4.3] and [4.4].
 
 ### 29.3.12 Other Stake Meetings
 
@@ -561,28 +589,19 @@ The stake young single adult committee meeting is described in [14.3.2].
 
 Purpose
 
-Help leaders encourage members to become true followers of Jesus Christ.
+Help stake, mission, and temple presidents exercise priesthood keys in unity. Counsel about and coordinate efforts to help members in their responsibilities for the work of salvation and exaltation (see [1.2]).
 
 Participants
 
-An Area Seventy designated by the Area Presidency chairs the coordinating council. Stake and mission presidents attend the meetings. Temple presidents are invited and attend when practical. District presidents are not usually asked to attend.
+The Area Presidency assigns an Area Seventy to lead the council. Stake and mission presidents attend the meetings. Temple presidents are invited and attend when practical.
 
-Several stake Relief Society presidents and other stake officers may be invited to attend these meetings as necessary. Their perspective as stake officers may be needed. Their participation may also be helpful when discussions relate to their organizations. They may participate in part or all of the meeting. Area Seventies consider distance, family, and travel when making these invitations.
+Others may attend part or all of the meetings when needed and when invited by the Area Seventy. Area Seventies consider distance, family circumstances, and travel when making these invitations.
 
 Frequency
 
 Quarterly, soon after each area council meeting. Additional meetings may be held when needed.
 
-The Area Presidency establishes coordinating councils. A designated Area Seventy plans the meetings and facilitates discussion. All who attend counsel together as equal participants.
-
-In these meetings, participants:
-
-* Invite revelation about implementing the teachings of the First Presidency and Quorum of the Twelve.
-* Instruct and edify one another.
-* Coordinate the work of salvation and exaltation.
-* Coordinate multistake matters. These matters may include activities (see [20.3.1] and [20.6.24]), self-reliance and emergency response (see [22.3.2], [22.5.1], and [22.9.1.3]), and finances and audits (see [34.9]).
-
-To understand principles that guide council meetings in the Church, all council members should study [chapter 7].
+For more about coordinating councils, see [5.2.4].
 
 ## 29.5 Funerals and Other Services for the Deceased
 
