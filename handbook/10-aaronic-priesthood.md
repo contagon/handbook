@@ -178,7 +178,7 @@ Aaronic Priesthood holders can help unite families for eternity in many ways. So
 * Honor their parents and set an example of Christlike living in their home.
 * Prepare to have their own eternal family.
 * Have a current temple recommend.
-* Prepare to receive temple ordinances, including eternal marriage.
+* Prepare to make and keep covenants and receive temple ordinances, including eternal marriage.
 * Learn about their extended families and ancestors (see [My Family: Stories That Bring Us Together]).
 * Identify ancestors who need temple ordinances (see [FamilySearch.org]).
 * Participate in baptisms and confirmations for the dead as often as circumstances allow.
@@ -244,7 +244,7 @@ Aaronic Priesthood quorum presidencies meet regularly. The quorum president cond
 * Serving quorum members, with special attention to supporting new members and reaching out to less-active members
 * Reaching out to those of other faiths and beliefs
 * Planning quorum meetings, service, and activities
-* Leadership instruction from quorum leaders or advisers
+* [Leadership instruction] from quorum leaders or advisers
 
 A [Sample Presidency Meeting Agenda] is available on ChurchofJesusChrist.org.
 
@@ -259,7 +259,7 @@ The bishop presides over the ward youth council. This council’s members includ
 * The Young Women class presidents (or the entire class presidency if the ward has just one Young Women class).
 * The Young Women president.
 
-The ward youth council discusses ways to help others build testimonies, receive saving ordinances, keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5]). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
+The ward youth council discusses ways to help others build testimonies, receive saving ordinances, make and keep covenants, and become followers of Jesus Christ (see [Moroni 6:4–5]). They counsel together about the needs of the young men and young women in the ward. They may discuss activities to meet these needs. However, detailed planning of activities should happen in quorum or class presidency meetings.
 
 See [29.2.6] for more information about the ward youth council.
 
